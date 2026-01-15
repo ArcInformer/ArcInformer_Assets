@@ -1,15 +1,17 @@
 {
-    "id": "rusted_gear",
-    "name": "Rusted Gear",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "rusted_gear",
+    "name":  "Rusted Gear",
+    "description":  "Can be recycled into crafting materials.",
+    "type":  "Recyclable",
+    "rarity":  "Rare",
+    "value":  2000,
+    "weight":  3,
+    "stack_size":  3,
+    "recycles_into":  {
+        "mechanical_components":  2,
+        "metal_parts":  4
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rusted_gear.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rusted_gear.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rusted_gear.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rusted_gear.png",
+    "last_updated": "15/01/2026"
 }
