@@ -1,15 +1,17 @@
 {
-    "id": "extended_light_mag_ii",
-    "name": "Extended Light Mag Ii",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "extended_light_mag_ii",
+    "name":  "Extended Light Mag Ii",
+    "description":  "Moderately extends the ammo capacity of compatible weapons that use light ammo. Compatible with: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
+    "type":  "Modification",
+    "rarity":  "Uncommon",
+    "value":  2000,
+    "weight":  0.5,
+    "stack_size":  0,
+    "recycles_into":  {
+        "mechanical_components":  1,
+        "steel_spring":  1
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_light_mag_ii.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/extended_light_mag_ii.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_light_mag_ii.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/extended_light_mag_ii.png",
+    "last_updated": "15/01/2026"
 }
