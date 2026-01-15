@@ -1,15 +1,13 @@
 {
-    "id": "chemicals",
-    "name": "Chemicals",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
-    },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/chemicals.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/chemicals.png",
-    "last_updated": ""
+    "id":  "chemicals",
+    "name":  "Chemicals",
+    "description":  "Used to craft medical supplies, explosives, and utility items. Used to craft: Heavy Ammo, Medium Ammo, Shotgun Ammo, Light Ammo, Light Impact Grenade",
+    "type":  "Basic Material",
+    "rarity":  "Common",
+    "value":  50,
+    "weight":  0.15,
+    "stack_size":  50,
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/chemicals.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/chemicals.png",
+    "last_updated": "15/01/2026"
 }
