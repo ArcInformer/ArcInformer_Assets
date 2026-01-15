@@ -1,15 +1,17 @@
 {
-    "id": "snap_hook",
-    "name": "Snap Hook",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "snap_hook",
+    "name":  "Snap Hook",
+    "description":  "A gadget that allows the user to scale structures and cover large distances.",
+    "type":  "Quick Use",
+    "rarity":  "Legendary",
+    "value":  14000,
+    "weight":  5,
+    "stack_size":  0,
+    "recycles_into":  {
+        "power_rod":  1,
+        "rope":  3
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/snap_hook.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/snap_hook.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/snap_hook.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/snap_hook.png",
+    "last_updated": "15/01/2026"
 }
