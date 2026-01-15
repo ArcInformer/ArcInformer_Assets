@@ -1,15 +1,17 @@
 {
-    "id": "polluted_air_filter",
-    "name": "Polluted Air Filter",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "polluted_air_filter",
+    "name":  "Polluted Air Filter",
+    "description":  "Can be recycled into crafting components.",
+    "type":  "Recyclable",
+    "rarity":  "Rare",
+    "value":  1000,
+    "weight":  0.8,
+    "stack_size":  3,
+    "recycles_into":  {
+        "fabric":  6,
+        "oil":  2
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/polluted_air_filter.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/polluted_air_filter.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/polluted_air_filter.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/polluted_air_filter.png",
+    "last_updated": "15/01/2026"
 }
