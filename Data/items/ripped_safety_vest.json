@@ -1,15 +1,17 @@
 {
-    "id": "ripped_safety_vest",
-    "name": "Ripped Safety Vest",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "ripped_safety_vest",
+    "name":  "Ripped Safety Vest",
+    "description":  "Can be recycled into crafting materials.",
+    "type":  "Recyclable",
+    "rarity":  "Uncommon",
+    "value":  1000,
+    "weight":  0.8,
+    "stack_size":  3,
+    "recycles_into":  {
+        "durable_cloth":  1,
+        "magnet":  1
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ripped_safety_vest.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/ripped_safety_vest.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ripped_safety_vest.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/ripped_safety_vest.png",
+    "last_updated": "15/01/2026"
 }
