@@ -1,15 +1,13 @@
 {
-    "id": "gas_grenade_trap",
-    "name": "Gas Grenade Trap",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
-    },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/gas_grenade_trap.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/gas_grenade_trap.png",
-    "last_updated": ""
+    "id":  "gas_grenade_trap",
+    "name":  "Gas Grenade Trap",
+    "description":  "A laser trip wire that detonates a Gas Grenade.",
+    "type":  "Quick Use",
+    "rarity":  "Common",
+    "value":  300,
+    "weight":  0.25,
+    "stack_size":  3,
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/gas_grenade_trap.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/gas_grenade_trap.png",
+    "last_updated": "15/01/2026"
 }
