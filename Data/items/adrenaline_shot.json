@@ -8,6 +8,8 @@
     "weight": 0.2,
     "stack_size": 5,
     "recycles_into": {
+        "chemicals": 1,
+        "plastic_parts": 1
     },
     "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/adrenaline_shot.png",
     "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/adrenaline_shot.png",
