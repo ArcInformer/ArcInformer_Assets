@@ -1,15 +1,17 @@
 {
-    "id": "jolt_mine",
-    "name": "Jolt Mine",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "jolt_mine",
+    "name":  "Jolt Mine",
+    "description":  "A proximity-triggered mine that pops up and stuns anything within its radius.",
+    "type":  "Quick Use",
+    "rarity":  "Rare",
+    "value":  850,
+    "weight":  0.2,
+    "stack_size":  3,
+    "recycles_into":  {
+        "battery":  1,
+        "plastic_parts":  2
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/jolt_mine.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/jolt_mine.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/jolt_mine.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/jolt_mine.png",
+    "last_updated": "15/01/2026"
 }
