@@ -1,15 +1,17 @@
 {
-    "id": "dog_collar",
-    "name": "Dog Collar",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "dog_collar",
+    "name":  "Dog Collar",
+    "description":  "After all this time, you can still smell the goodness.",
+    "type":  "Recyclable",
+    "rarity":  "Rare",
+    "value":  640,
+    "weight":  0.8,
+    "stack_size":  3,
+    "recycles_into":  {
+        "fabric":  8,
+        "metal_parts":  1
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/dog_collar.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/dog_collar.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/dog_collar.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/dog_collar.png",
+    "last_updated": "15/01/2026"
 }
