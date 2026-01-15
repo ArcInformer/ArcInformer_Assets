@@ -1,15 +1,17 @@
 {
-    "id": "bombardier_cell",
-    "name": "Bombardier Cell",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "bombardier_cell",
+    "name":  "Bombardier Cell",
+    "description":  "Can be recycled into crafting materials.",
+    "type":  "Recyclable",
+    "rarity":  "Epic",
+    "value":  5000,
+    "weight":  1,
+    "stack_size":  3,
+    "recycles_into":  {
+        "advanced_mechanical_components":  2,
+        "arc_alloy":  2
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bombardier_cell.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bombardier_cell.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bombardier_cell.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bombardier_cell.png",
+    "last_updated": "15/01/2026"
 }
