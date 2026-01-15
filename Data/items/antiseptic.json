@@ -1,15 +1,16 @@
 {
-    "id": "antiseptic",
-    "name": "Antiseptic",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "antiseptic",
+    "name":  "Antiseptic",
+    "description":  "Used to craft medical supplies. Can be recycled into chemicals. Used to craft: Sterilized Bandage, Vita Spray, Vita Shot",
+    "type":  "Refined Material",
+    "rarity":  "Rare",
+    "value":  1000,
+    "weight":  1,
+    "stack_size":  5,
+    "recycles_into":  {
+        "chemicals":  10
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/antiseptic.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/antiseptic.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/antiseptic.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/antiseptic.png",
+    "last_updated": "15/01/2026"
 }
