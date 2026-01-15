@@ -1,15 +1,17 @@
 {
-    "id": "vertical_grip_iii",
-    "name": "Vertical Grip Iii",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "vertical_grip_iii",
+    "name":  "Vertical Grip Iii",
+    "description":  "Significantly reduces vertical recoil. Compatible with: Tempest, Kettle, Hullcracker, Venator, Il Toro",
+    "type":  "Modification",
+    "rarity":  "Rare",
+    "value":  5000,
+    "weight":  0.75,
+    "stack_size":  0,
+    "recycles_into":  {
+        "duct_tape":  2,
+        "mechanical_components":  2
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vertical_grip_iii.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/vertical_grip_iii.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vertical_grip_iii.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/vertical_grip_iii.png",
+    "last_updated": "15/01/2026"
 }
