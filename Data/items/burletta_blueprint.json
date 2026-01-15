@@ -1,15 +1,13 @@
 {
-    "id": "burletta_blueprint",
-    "name": "Burletta Blueprint",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
-    },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burletta_blueprint.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/burletta_blueprint.png",
-    "last_updated": ""
+    "id":  "burletta_blueprint",
+    "name":  "Burletta Blueprint",
+    "description":  "A blueprint to craft the Burletta weapon.",
+    "type":  "Blueprint",
+    "rarity":  "Legendary",
+    "value":  0,
+    "weight":  0,
+    "stack_size":  0,
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burletta_blueprint.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/burletta_blueprint.png",
+    "last_updated": "15/01/2026"
 }
