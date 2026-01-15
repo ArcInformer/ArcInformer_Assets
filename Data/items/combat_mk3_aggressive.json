@@ -1,15 +1,17 @@
 {
-    "id": "combat_mk3_aggressive",
-    "name": "Combat Mk3 Aggressive",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "combat_mk3_aggressive",
+    "name":  "Combat Mk3 Aggressive",
+    "description":  "An improved version of the Combat II augment. Supports more shield types, and comes with extra space for grenades.",
+    "type":  "Augment",
+    "rarity":  "Epic",
+    "value":  5000,
+    "weight":  5,
+    "stack_size":  0,
+    "recycles_into":  {
+        "advanced_electrical_components":  1,
+        "processor":  1
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk3_aggressive.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/combat_mk3_aggressive.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk3_aggressive.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/combat_mk3_aggressive.png",
+    "last_updated": "15/01/2026"
 }
