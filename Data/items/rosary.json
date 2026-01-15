@@ -1,15 +1,13 @@
 {
-    "id": "rosary",
-    "name": "Rosary",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
-    },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rosary.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rosary.png",
-    "last_updated": ""
+    "id":  "rosary",
+    "name":  "Rosary",
+    "description":  "May be worth a few coins.",
+    "type":  "Trinket",
+    "rarity":  "Rare",
+    "value":  2000,
+    "weight":  0.3,
+    "stack_size":  3,
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rosary.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rosary.png",
+    "last_updated": "15/01/2026"
 }
