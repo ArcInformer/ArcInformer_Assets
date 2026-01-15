@@ -1,15 +1,17 @@
 {
-    "id": "advanced_mechanical_components",
-    "name": "Advanced Mechanical Components",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "advanced_mechanical_components",
+    "name":  "Advanced Mechanical Components",
+    "description":  "Used to craft advanced weapons. Can be recycled into crafting materials. Used to craft: Torrente, Venator, Osprey, Renegade, Bettina",
+    "type":  "Refined Material",
+    "rarity":  "Rare",
+    "value":  1750,
+    "weight":  1,
+    "stack_size":  5,
+    "recycles_into":  {
+        "mechanical_components":  1,
+        "steel_spring":  1
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/advanced_mechanical_components.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/advanced_mechanical_components.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/advanced_mechanical_components.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/advanced_mechanical_components.png",
+    "last_updated": "15/01/2026"
 }
