@@ -1,15 +1,13 @@
 {
-    "id": "spaceport_warehouse_key",
-    "name": "Spaceport Warehouse Key",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
-    },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/spaceport_warehouse_key.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/spaceport_warehouse_key.png",
-    "last_updated": ""
+    "id":  "spaceport_warehouse_key",
+    "name":  "Spaceport Warehouse Key",
+    "description":  "A key to a warehouse in the Spaceport.",
+    "type":  "Key",
+    "rarity":  "Uncommon",
+    "value":  100,
+    "weight":  0.25,
+    "stack_size":  0,
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/spaceport_warehouse_key.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/spaceport_warehouse_key.png",
+    "last_updated": "15/01/2026"
 }
