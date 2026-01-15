@@ -1,15 +1,13 @@
 {
-    "id": "red_coral_jewelry",
-    "name": "Red Coral Jewelry",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
-    },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/red_coral_jewelry.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/red_coral_jewelry.png",
-    "last_updated": ""
+    "id":  "red_coral_jewelry",
+    "name":  "Red Coral Jewelry",
+    "description":  "Valued for its fine craftsmanship, and effortless ability to make your eyes pop.",
+    "type":  "Trinket",
+    "rarity":  "Rare",
+    "value":  5000,
+    "weight":  0.3,
+    "stack_size":  3,
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/red_coral_jewelry.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/red_coral_jewelry.png",
+    "last_updated": "15/01/2026"
 }
