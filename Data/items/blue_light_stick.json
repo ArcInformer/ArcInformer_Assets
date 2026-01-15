@@ -1,0 +1,15 @@
+{
+    "id": "blue_light_stick",
+    "name": "Blue Light Stick",
+    "description": "",
+    "type": "",
+    "rarity": "",
+    "value": 0,
+    "weight": 0,
+    "stack_size": 0,
+    "recycles_into": {
+    },
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/blue_light_stick.png",
+    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/blue_light_stick.png",
+    "last_updated": ""
+}

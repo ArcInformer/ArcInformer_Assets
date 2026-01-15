@@ -1,0 +1,15 @@
+{
+    "id": "barricade_kit_blueprint",
+    "name": "Barricade Kit Blueprint",
+    "description": "",
+    "type": "",
+    "rarity": "",
+    "value": 0,
+    "weight": 0,
+    "stack_size": 0,
+    "recycles_into": {
+    },
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/barricade_kit_blueprint.png",
+    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/barricade_kit_blueprint.png",
+    "last_updated": ""
+}

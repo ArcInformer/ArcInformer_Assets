@@ -1,0 +1,15 @@
+{
+    "id": "arc_thermo_lining",
+    "name": "Arc Thermo Lining",
+    "description": "",
+    "type": "",
+    "rarity": "",
+    "value": 0,
+    "weight": 0,
+    "stack_size": 0,
+    "recycles_into": {
+    },
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_thermo_lining.png",
+    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_thermo_lining.png",
+    "last_updated": ""
+}

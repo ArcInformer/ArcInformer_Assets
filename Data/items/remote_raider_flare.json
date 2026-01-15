@@ -1,0 +1,15 @@
+{
+    "id": "remote_raider_flare",
+    "name": "Remote Raider Flare",
+    "description": "",
+    "type": "",
+    "rarity": "",
+    "value": 0,
+    "weight": 0,
+    "stack_size": 0,
+    "recycles_into": {
+    },
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/remote_raider_flare.png",
+    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/remote_raider_flare.png",
+    "last_updated": ""
+}

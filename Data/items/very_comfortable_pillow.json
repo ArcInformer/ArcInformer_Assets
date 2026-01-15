@@ -1,0 +1,15 @@
+{
+    "id": "very_comfortable_pillow",
+    "name": "Very Comfortable Pillow",
+    "description": "",
+    "type": "",
+    "rarity": "",
+    "value": 0,
+    "weight": 0,
+    "stack_size": 0,
+    "recycles_into": {
+    },
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/very_comfortable_pillow.png",
+    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/very_comfortable_pillow.png",
+    "last_updated": ""
+}

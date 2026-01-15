@@ -1,0 +1,15 @@
+{
+    "id": "spaceport_control_tower_key",
+    "name": "Spaceport Control Tower Key",
+    "description": "",
+    "type": "",
+    "rarity": "",
+    "value": 0,
+    "weight": 0,
+    "stack_size": 0,
+    "recycles_into": {
+    },
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/spaceport_control_tower_key.png",
+    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/spaceport_control_tower_key.png",
+    "last_updated": ""
+}
