@@ -1,15 +1,17 @@
 {
-    "id": "signal_amplifier",
-    "name": "Signal Amplifier",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "signal_amplifier",
+    "name":  "Signal Amplifier",
+    "description":  "Can be recycled into crafting materials.",
+    "type":  "Recyclable",
+    "rarity":  "Rare",
+    "value":  3000,
+    "weight":  1.5,
+    "stack_size":  3,
+    "recycles_into":  {
+        "electrical_components":  2,
+        "voltage_converter":  2
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/signal_amplifier.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/signal_amplifier.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/signal_amplifier.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/signal_amplifier.png",
+    "last_updated": "15/01/2026"
 }
