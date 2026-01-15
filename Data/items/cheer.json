@@ -1,15 +1,13 @@
 {
-    "id": "cheer",
-    "name": "Cheer",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
-    },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/cheer.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/cheer.png",
-    "last_updated": ""
+    "id":  "cheer",
+    "name":  "Cheer",
+    "description":  "A new cosmetic will be added to your collection.",
+    "type":  "Cosmetic",
+    "rarity":  "Common",
+    "value":  0,
+    "weight":  0,
+    "stack_size":  0,
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/cheer.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/cheer.png",
+    "last_updated": "15/01/2026"
 }
