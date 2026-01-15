@@ -1,15 +1,17 @@
 {
-    "id": "ruined_riot_shield",
-    "name": "Ruined Riot Shield",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "ruined_riot_shield",
+    "name":  "Ruined Riot Shield",
+    "description":  "Can be recycled into crafting materials.",
+    "type":  "Recyclable",
+    "rarity":  "Rare",
+    "value":  1000,
+    "weight":  2,
+    "stack_size":  3,
+    "recycles_into":  {
+        "plastic_parts":  10,
+        "rubber_parts":  6
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ruined_riot_shield.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/ruined_riot_shield.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ruined_riot_shield.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/ruined_riot_shield.png",
+    "last_updated": "15/01/2026"
 }
