@@ -1,15 +1,17 @@
 {
-    "id": "lil_smoke_grenade",
-    "name": "Lil Smoke Grenade",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "lil_smoke_grenade",
+    "name":  "Lil Smoke Grenade",
+    "description":  "A grenade that pops a thick but small smoke cloud on impact, blocking visibility from ARC and other Raiders.",
+    "type":  "Quick Use",
+    "rarity":  "Common",
+    "value":  300,
+    "weight":  0.15,
+    "stack_size":  5,
+    "recycles_into":  {
+        "chemicals":  1,
+        "plastic_parts":  1
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lil_smoke_grenade.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/lil_smoke_grenade.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lil_smoke_grenade.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/lil_smoke_grenade.png",
+    "last_updated": "15/01/2026"
 }
