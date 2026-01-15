@@ -1,15 +1,16 @@
 {
-    "id": "explosive_compound",
-    "name": "Explosive Compound",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "explosive_compound",
+    "name":  "Explosive Compound",
+    "description":  "Used to craft explosives. Used to craft: Wolfpack, Explosive Mine, Blaze Grenade, Heavy Fuze Grenade",
+    "type":  "Refined Material",
+    "rarity":  "Rare",
+    "value":  1000,
+    "weight":  0.3,
+    "stack_size":  5,
+    "recycles_into":  {
+        "crude_explosives":  2
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/explosive_compound.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/explosive_compound.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/explosive_compound.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/explosive_compound.png",
+    "last_updated": "15/01/2026"
 }
