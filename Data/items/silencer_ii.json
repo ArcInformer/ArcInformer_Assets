@@ -1,17 +1,17 @@
 {
-    "id":  "silencer_ii",
-    "name":  "Silencer Ii",
-    "description":  "Moderately reduces the amount of noise produced when firing. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-    "type":  "Modification",
-    "rarity":  "Rare",
-    "value":  5000,
-    "weight":  0.5,
-    "stack_size":  0,
-    "recycles_into":  {
-        "mod_components":  1,
-        "wires":  2
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/silencer_ii.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/silencer_ii.png",
-    "last_updated": "15/01/2026"
+  "id": "silencer_ii",
+  "name": "Silencer Ii",
+  "description": "Moderately reduces the amount of noise produced when firing. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+  "type": "Modification",
+  "rarity": "Rare",
+  "value": 5000,
+  "weight": 0.5,
+  "stack_size": 0,
+  "recycles_into": {
+    "mod_components": 1,
+    "wires": 2
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/silencer_ii.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/silencer_ii.png",
+  "last_updated": "15/01/2026"
 }

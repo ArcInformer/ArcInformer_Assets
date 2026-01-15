@@ -1,16 +1,16 @@
 {
-    "id":  "arc_circuitry",
-    "name":  "Arc Circuitry",
-    "description":  "Obtained from ARC enemies or activities. Used to craft components. Can be recycled into ARC Alloy. Used to craft: Medium Shield, Power Rod",
-    "type":  "Topside Material",
-    "rarity":  "Rare",
-    "value":  1000,
-    "weight":  0.3,
-    "stack_size":  5,
-    "recycles_into":  {
-        "arc_alloy":  2
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_circuitry.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_circuitry.png",
-    "last_updated": "15/01/2026"
+  "id": "arc_circuitry",
+  "name": "Arc Circuitry",
+  "description": "Obtained from ARC enemies or activities. Used to craft components. Can be recycled into ARC Alloy. Used to craft: Medium Shield, Power Rod",
+  "type": "Topside Material",
+  "rarity": "Rare",
+  "value": 1000,
+  "weight": 0.3,
+  "stack_size": 5,
+  "recycles_into": {
+    "arc_alloy": 2
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_circuitry.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_circuitry.png",
+  "last_updated": "15/01/2026"
 }

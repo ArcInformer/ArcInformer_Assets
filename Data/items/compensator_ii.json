@@ -1,17 +1,17 @@
 {
-    "id":  "compensator_ii",
-    "name":  "Compensator Ii",
-    "description":  "Moderately reduces per-shot dispersion. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
-    "type":  "Modification",
-    "rarity":  "Uncommon",
-    "value":  2000,
-    "weight":  0.5,
-    "stack_size":  0,
-    "recycles_into":  {
-        "mechanical_components":  1,
-        "wires":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/compensator_ii.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/compensator_ii.png",
-    "last_updated": "15/01/2026"
+  "id": "compensator_ii",
+  "name": "Compensator Ii",
+  "description": "Moderately reduces per-shot dispersion. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+  "type": "Modification",
+  "rarity": "Uncommon",
+  "value": 2000,
+  "weight": 0.5,
+  "stack_size": 0,
+  "recycles_into": {
+    "mechanical_components": 1,
+    "wires": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/compensator_ii.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/compensator_ii.png",
+  "last_updated": "15/01/2026"
 }

@@ -1,17 +1,17 @@
 {
-    "id":  "combat_mk3_flanking",
-    "name":  "Combat Mk3 Flanking",
-    "description":  "An improved version of the Combat II augment. Designed for flanking maneuvers with enhanced mobility.",
-    "type":  "Augment",
-    "rarity":  "Epic",
-    "value":  5000,
-    "weight":  5,
-    "stack_size":  0,
-    "recycles_into":  {
-        "advanced_electrical_components":  1,
-        "processor":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk3_flanking.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/combat_mk3_flanking.png",
-    "last_updated": "15/01/2026"
+  "id": "combat_mk3_flanking",
+  "name": "Combat Mk3 Flanking",
+  "description": "An improved version of the Combat II augment. Designed for flanking maneuvers with enhanced mobility.",
+  "type": "Augment",
+  "rarity": "Epic",
+  "value": 5000,
+  "weight": 5,
+  "stack_size": 0,
+  "recycles_into": {
+    "advanced_electrical_components": 1,
+    "processor": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk3_flanking.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/combat_mk3_flanking.png",
+  "last_updated": "15/01/2026"
 }

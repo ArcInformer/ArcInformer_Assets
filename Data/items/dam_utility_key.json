@@ -1,13 +1,13 @@
 {
-    "id":  "dam_utility_key",
-    "name":  "Dam Utility Key",
-    "description":  "A key for utility access in The Dam.",
-    "type":  "Key",
-    "rarity":  "Uncommon",
-    "value":  100,
-    "weight":  0.25,
-    "stack_size":  1,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/dam_utility_key.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/dam_utility_key.png",
-    "last_updated": "15/01/2026"
+  "id": "dam_utility_key",
+  "name": "Dam Utility Key",
+  "description": "A key for utility access in The Dam.",
+  "type": "Key",
+  "rarity": "Uncommon",
+  "value": 100,
+  "weight": 0.25,
+  "stack_size": 1,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/dam_utility_key.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/dam_utility_key.png",
+  "last_updated": "15/01/2026"
 }

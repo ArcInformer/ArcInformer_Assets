@@ -1,13 +1,13 @@
 {
-    "id":  "blue_radio_renegade_color",
-    "name":  "Blue Radio Renegade Color",
-    "description":  "A new cosmetic variant will be added to your collection.",
-    "type":  "Cosmetic",
-    "rarity":  "Common",
-    "value":  0,
-    "weight":  0,
-    "stack_size":  0,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/blue_radio_renegade_color.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/blue_radio_renegade_color.png",
-    "last_updated": "15/01/2026"
+  "id": "blue_radio_renegade_color",
+  "name": "Blue Radio Renegade Color",
+  "description": "A new cosmetic variant will be added to your collection.",
+  "type": "Cosmetic",
+  "rarity": "Common",
+  "value": 0,
+  "weight": 0,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/blue_radio_renegade_color.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/blue_radio_renegade_color.png",
+  "last_updated": "15/01/2026"
 }

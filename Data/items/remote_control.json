@@ -1,17 +1,17 @@
 {
-    "id":  "remote_control",
-    "name":  "Remote Control",
-    "description":  "Can be recycled into crafting materials.",
-    "type":  "Recyclable",
-    "rarity":  "Rare",
-    "value":  1000,
-    "weight":  0.8,
-    "stack_size":  3,
-    "recycles_into":  {
-        "plastic_parts":  7,
-        "sensors":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/remote_control.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/remote_control.png",
-    "last_updated": "15/01/2026"
+  "id": "remote_control",
+  "name": "Remote Control",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 1000,
+  "weight": 0.8,
+  "stack_size": 3,
+  "recycles_into": {
+    "plastic_parts": 7,
+    "sensors": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/remote_control.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/remote_control.png",
+  "last_updated": "15/01/2026"
 }

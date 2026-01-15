@@ -1,17 +1,17 @@
 {
-    "id":  "processor",
-    "name":  "Processor",
-    "description":  "Used in crafting. Used to craft: Tactical Mk. 3 (Defensive), Combat Mk. 3 (Flanking), Combat Mk. 3 (Aggressive), Looting Mk. 3 (Cautious), Tactical Mk. 3 (Healing)",
-    "type":  "Topside Material",
-    "rarity":  "Rare",
-    "value":  500,
-    "weight":  0.2,
-    "stack_size":  5,
-    "recycles_into":  {
-        "plastic_parts":  1,
-        "wires":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/processor.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/processor.png",
-    "last_updated": "15/01/2026"
+  "id": "processor",
+  "name": "Processor",
+  "description": "Used in crafting. Used to craft: Tactical Mk. 3 (Defensive), Combat Mk. 3 (Flanking), Combat Mk. 3 (Aggressive), Looting Mk. 3 (Cautious), Tactical Mk. 3 (Healing)",
+  "type": "Topside Material",
+  "rarity": "Rare",
+  "value": 500,
+  "weight": 0.2,
+  "stack_size": 5,
+  "recycles_into": {
+    "plastic_parts": 1,
+    "wires": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/processor.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/processor.png",
+  "last_updated": "15/01/2026"
 }

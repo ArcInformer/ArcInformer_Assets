@@ -1,16 +1,16 @@
 {
-    "id":  "damaged_rocketeer_driver",
-    "name":  "Damaged Rocketeer Driver",
-    "description":  "Can be recycled into crafting materials.",
-    "type":  "Recyclable",
-    "rarity":  "Common",
-    "value":  2000,
-    "weight":  0.25,
-    "stack_size":  3,
-    "recycles_into":  {
-        "arc_alloy":  3
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/damaged_rocketeer_driver.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/damaged_rocketeer_driver.png",
-    "last_updated": "15/01/2026"
+  "id": "damaged_rocketeer_driver",
+  "name": "Damaged Rocketeer Driver",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Common",
+  "value": 2000,
+  "weight": 0.25,
+  "stack_size": 3,
+  "recycles_into": {
+    "arc_alloy": 3
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/damaged_rocketeer_driver.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/damaged_rocketeer_driver.png",
+  "last_updated": "15/01/2026"
 }

@@ -1,17 +1,17 @@
 {
-    "id":  "bicycle_pump",
-    "name":  "Bicycle Pump",
-    "description":  "Can be recycled into crafting materials.",
-    "type":  "Recyclable",
-    "rarity":  "Rare",
-    "value":  2000,
-    "weight":  3,
-    "stack_size":  3,
-    "recycles_into":  {
-        "canister":  4,
-        "metal_parts":  10
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bicycle_pump.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bicycle_pump.png",
-    "last_updated": "15/01/2026"
+  "id": "bicycle_pump",
+  "name": "Bicycle Pump",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 2000,
+  "weight": 3,
+  "stack_size": 3,
+  "recycles_into": {
+    "canister": 4,
+    "metal_parts": 10
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bicycle_pump.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bicycle_pump.png",
+  "last_updated": "15/01/2026"
 }

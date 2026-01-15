@@ -1,13 +1,13 @@
 {
-    "id":  "energy_clip",
-    "name":  "Energy Clip",
-    "description":  "Compatible with: Equalizer, Jupiter",
-    "type":  "Ammunition",
-    "rarity":  "Rare",
-    "value":  1000,
-    "weight":  0.3,
-    "stack_size":  5,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/energy_clip.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/energy_clip.png",
-    "last_updated": "15/01/2026"
+  "id": "energy_clip",
+  "name": "Energy Clip",
+  "description": "Compatible with: Equalizer, Jupiter",
+  "type": "Ammunition",
+  "rarity": "Rare",
+  "value": 1000,
+  "weight": 0.3,
+  "stack_size": 5,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/energy_clip.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/energy_clip.png",
+  "last_updated": "15/01/2026"
 }

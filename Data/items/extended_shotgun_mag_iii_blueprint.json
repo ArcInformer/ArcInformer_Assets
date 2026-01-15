@@ -1,13 +1,13 @@
 {
-    "id":  "extended_shotgun_mag_iii_blueprint",
-    "name":  "Extended Shotgun Mag Iii Blueprint",
-    "description":  "Significantly extends the ammo capacity of shotguns.",
-    "type":  "Blueprint",
-    "rarity":  "Legendary",
-    "value":  5000,
-    "weight":  0,
-    "stack_size":  1,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_shotgun_mag_iii_blueprint.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/extended_shotgun_mag_iii_blueprint.png",
-    "last_updated": "15/01/2026"
+  "id": "extended_shotgun_mag_iii_blueprint",
+  "name": "Extended Shotgun Mag Iii Blueprint",
+  "description": "Significantly extends the ammo capacity of shotguns.",
+  "type": "Blueprint",
+  "rarity": "Legendary",
+  "value": 5000,
+  "weight": 0,
+  "stack_size": 1,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_shotgun_mag_iii_blueprint.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/extended_shotgun_mag_iii_blueprint.png",
+  "last_updated": "15/01/2026"
 }

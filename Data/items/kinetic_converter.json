@@ -1,17 +1,17 @@
 {
-    "id":  "kinetic_converter",
-    "name":  "Kinetic Converter",
-    "description":  "Moderately increases fire rate. Compatible with: Arpeggio, Rattler, Kettle, Ferro, Renegade",
-    "type":  "Modification",
-    "rarity":  "Legendary",
-    "value":  7000,
-    "weight":  0.75,
-    "stack_size":  0,
-    "recycles_into":  {
-        "duct_tape":  2,
-        "mod_components":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kinetic_converter.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/kinetic_converter.png",
-    "last_updated": "15/01/2026"
+  "id": "kinetic_converter",
+  "name": "Kinetic Converter",
+  "description": "Moderately increases fire rate. Compatible with: Arpeggio, Rattler, Kettle, Ferro, Renegade",
+  "type": "Modification",
+  "rarity": "Legendary",
+  "value": 7000,
+  "weight": 0.75,
+  "stack_size": 0,
+  "recycles_into": {
+    "duct_tape": 2,
+    "mod_components": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kinetic_converter.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/kinetic_converter.png",
+  "last_updated": "15/01/2026"
 }

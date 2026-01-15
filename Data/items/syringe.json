@@ -1,17 +1,17 @@
 {
-    "id":  "syringe",
-    "name":  "Syringe",
-    "description":  "Used to craft medical supplies. Can be recycled into plastic. Used to craft: Vita Shot",
-    "type":  "Topside Material",
-    "rarity":  "Rare",
-    "value":  500,
-    "weight":  0.3,
-    "stack_size":  5,
-    "recycles_into":  {
-        "chemicals":  2,
-        "plastic_parts":  3
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/syringe.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/syringe.png",
-    "last_updated": "15/01/2026"
+  "id": "syringe",
+  "name": "Syringe",
+  "description": "Used to craft medical supplies. Can be recycled into plastic. Used to craft: Vita Shot",
+  "type": "Topside Material",
+  "rarity": "Rare",
+  "value": 500,
+  "weight": 0.3,
+  "stack_size": 5,
+  "recycles_into": {
+    "chemicals": 2,
+    "plastic_parts": 3
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/syringe.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/syringe.png",
+  "last_updated": "15/01/2026"
 }

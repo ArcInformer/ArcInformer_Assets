@@ -1,16 +1,16 @@
 {
-    "id":  "rusted_bolts",
-    "name":  "Rusted Bolts",
-    "description":  "Can be recycled into metal parts.",
-    "type":  "Recyclable",
-    "rarity":  "Uncommon",
-    "value":  640,
-    "weight":  0.8,
-    "stack_size":  3,
-    "recycles_into":  {
-        "metal_parts":  8
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rusted_bolts.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rusted_bolts.png",
-    "last_updated": "15/01/2026"
+  "id": "rusted_bolts",
+  "name": "Rusted Bolts",
+  "description": "Can be recycled into metal parts.",
+  "type": "Recyclable",
+  "rarity": "Uncommon",
+  "value": 640,
+  "weight": 0.8,
+  "stack_size": 3,
+  "recycles_into": {
+    "metal_parts": 8
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rusted_bolts.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rusted_bolts.png",
+  "last_updated": "15/01/2026"
 }

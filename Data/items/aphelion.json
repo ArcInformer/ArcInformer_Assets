@@ -1,17 +1,17 @@
 {
-    "id":  "aphelion",
-    "name":  "Aphelion",
-    "description":  "An experimental ARC beam weapon powered by a Matriarch Reactor.",
-    "type":  "Special",
-    "rarity":  "Legendary",
-    "value":  27500,
-    "weight":  14,
-    "stack_size":  0,
-    "recycles_into":  {
-        "complex_gun_parts":  1,
-        "magnetic_accelerator":  2
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/aphelion.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/aphelion.png",
-    "last_updated": "15/01/2026"
+  "id": "aphelion",
+  "name": "Aphelion",
+  "description": "An experimental ARC beam weapon powered by a Matriarch Reactor.",
+  "type": "Special",
+  "rarity": "Legendary",
+  "value": 27500,
+  "weight": 14,
+  "stack_size": 0,
+  "recycles_into": {
+    "complex_gun_parts": 1,
+    "magnetic_accelerator": 2
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/aphelion.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/aphelion.png",
+  "last_updated": "15/01/2026"
 }

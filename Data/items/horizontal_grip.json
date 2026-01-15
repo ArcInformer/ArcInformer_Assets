@@ -1,17 +1,17 @@
 {
-    "id":  "horizontal_grip",
-    "name":  "Horizontal Grip",
-    "description":  "Moderately reduces both vertical recoil and horizontal recoil.",
-    "type":  "Modification",
-    "rarity":  "Epic",
-    "value":  7000,
-    "weight":  0.5,
-    "stack_size":  0,
-    "recycles_into":  {
-        "duct_tape":  2,
-        "mod_components":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/horizontal_grip.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/horizontal_grip.png",
-    "last_updated": "15/01/2026"
+  "id": "horizontal_grip",
+  "name": "Horizontal Grip",
+  "description": "Moderately reduces both vertical recoil and horizontal recoil.",
+  "type": "Modification",
+  "rarity": "Epic",
+  "value": 7000,
+  "weight": 0.5,
+  "stack_size": 0,
+  "recycles_into": {
+    "duct_tape": 2,
+    "mod_components": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/horizontal_grip.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/horizontal_grip.png",
+  "last_updated": "15/01/2026"
 }

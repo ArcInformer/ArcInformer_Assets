@@ -1,17 +1,17 @@
 {
-    "id":  "venator_iv",
-    "name":  "Venator Iv",
-    "description":  "Semi-automatic pistol. Fires two shots at a time.",
-    "type":  "Pistol",
-    "rarity":  "Rare",
-    "value":  17000,
-    "weight":  5,
-    "stack_size":  0,
-    "recycles_into":  {
-        "advanced_mechanical_components":  3,
-        "medium_gun_parts":  3
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator_iv.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/venator_iv.png",
-    "last_updated": "15/01/2026"
+  "id": "venator_iv",
+  "name": "Venator Iv",
+  "description": "Semi-automatic pistol. Fires two shots at a time.",
+  "type": "Pistol",
+  "rarity": "Rare",
+  "value": 17000,
+  "weight": 5,
+  "stack_size": 0,
+  "recycles_into": {
+    "advanced_mechanical_components": 3,
+    "medium_gun_parts": 3
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator_iv.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/venator_iv.png",
+  "last_updated": "15/01/2026"
 }

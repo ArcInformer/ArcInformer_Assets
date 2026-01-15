@@ -1,17 +1,17 @@
 {
-    "id":  "projector",
-    "name":  "Projector",
-    "description":  "Can be recycled into crafting materials.",
-    "type":  "Recyclable",
-    "rarity":  "Rare",
-    "value":  1000,
-    "weight":  2,
-    "stack_size":  3,
-    "recycles_into":  {
-        "processor":  1,
-        "wires":  2
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/projector.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/projector.png",
-    "last_updated": "15/01/2026"
+  "id": "projector",
+  "name": "Projector",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 1000,
+  "weight": 2,
+  "stack_size": 3,
+  "recycles_into": {
+    "processor": 1,
+    "wires": 2
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/projector.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/projector.png",
+  "last_updated": "15/01/2026"
 }

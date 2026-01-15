@@ -1,17 +1,17 @@
 {
-    "id":  "shrapnel_grenade",
-    "name":  "Shrapnel Grenade",
-    "description":  "A makeshift fuze grenade that bursts into razor-sharp fragments upon detonation. Weak against ARC armor plating",
-    "type":  "Quick Use",
-    "rarity":  "Uncommon",
-    "value":  800,
-    "weight":  0.15,
-    "stack_size":  5,
-    "recycles_into":  {
-        "crude_explosives":  1,
-        "metal_parts":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shrapnel_grenade.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/shrapnel_grenade.png",
-    "last_updated": "15/01/2026"
+  "id": "shrapnel_grenade",
+  "name": "Shrapnel Grenade",
+  "description": "A makeshift fuze grenade that bursts into razor-sharp fragments upon detonation. Weak against ARC armor plating",
+  "type": "Quick Use",
+  "rarity": "Uncommon",
+  "value": 800,
+  "weight": 0.15,
+  "stack_size": 5,
+  "recycles_into": {
+    "crude_explosives": 1,
+    "metal_parts": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shrapnel_grenade.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/shrapnel_grenade.png",
+  "last_updated": "15/01/2026"
 }

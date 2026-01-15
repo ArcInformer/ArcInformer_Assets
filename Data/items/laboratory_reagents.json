@@ -1,17 +1,17 @@
 {
-    "id":  "laboratory_reagents",
-    "name":  "Laboratory Reagents",
-    "description":  "A set of chemical reagents used in laboratory experiments.",
-    "type":  "Recyclable",
-    "rarity":  "Rare",
-    "value":  2000,
-    "weight":  3,
-    "stack_size":  0,
-    "recycles_into":  {
-        "chemicals":  16,
-        "crude_explosives":  3
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/laboratory_reagents.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/laboratory_reagents.png",
-    "last_updated": "15/01/2026"
+  "id": "laboratory_reagents",
+  "name": "Laboratory Reagents",
+  "description": "A set of chemical reagents used in laboratory experiments.",
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 2000,
+  "weight": 3,
+  "stack_size": 0,
+  "recycles_into": {
+    "chemicals": 16,
+    "crude_explosives": 3
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/laboratory_reagents.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/laboratory_reagents.png",
+  "last_updated": "15/01/2026"
 }

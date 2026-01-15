@@ -1,13 +1,13 @@
 {
-    "id":  "tagging_grenade_blueprint",
-    "name":  "Tagging Grenade Blueprint",
-    "description":  "A grenade that detonates after a delay, tagging Raiders and ARC enemies in an area, allowing you to briefly track their location.",
-    "type":  "Blueprint",
-    "rarity":  "Legendary",
-    "value":  5000,
-    "weight":  0,
-    "stack_size":  0,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tagging_grenade_blueprint.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/tagging_grenade_blueprint.png",
-    "last_updated": "15/01/2026"
+  "id": "tagging_grenade_blueprint",
+  "name": "Tagging Grenade Blueprint",
+  "description": "A grenade that detonates after a delay, tagging Raiders and ARC enemies in an area, allowing you to briefly track their location.",
+  "type": "Blueprint",
+  "rarity": "Legendary",
+  "value": 5000,
+  "weight": 0,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tagging_grenade_blueprint.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/tagging_grenade_blueprint.png",
+  "last_updated": "15/01/2026"
 }

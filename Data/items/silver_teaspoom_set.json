@@ -1,15 +1,14 @@
 {
-    "id": "silver_teaspoom_set",
-    "name": "Silver Teaspoom Set",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
-    },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/silver_teaspoom_set.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/silver_teaspoom_set.png",
-    "last_updated": ""
+  "id": "silver_teaspoom_set",
+  "name": "Silver Teaspoom Set",
+  "description": "",
+  "type": "",
+  "rarity": "",
+  "value": 0,
+  "weight": 0,
+  "stack_size": 0,
+  "recycles_into": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/silver_teaspoom_set.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/silver_teaspoom_set.png",
+  "last_updated": ""
 }

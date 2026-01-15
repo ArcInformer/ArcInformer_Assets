@@ -1,17 +1,17 @@
 {
-    "id":  "exodus_modules",
-    "name":  "Exodus Modules",
-    "description":  "Used to craft a wide range of items. Used to craft: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
-    "type":  "Topside Material",
-    "rarity":  "Epic",
-    "value":  2750,
-    "weight":  1,
-    "stack_size":  3,
-    "recycles_into":  {
-        "magnet":  2,
-        "processor":  2
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/exodus_modules.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/exodus_modules.png",
-    "last_updated": "15/01/2026"
+  "id": "exodus_modules",
+  "name": "Exodus Modules",
+  "description": "Used to craft a wide range of items. Used to craft: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
+  "type": "Topside Material",
+  "rarity": "Epic",
+  "value": 2750,
+  "weight": 1,
+  "stack_size": 3,
+  "recycles_into": {
+    "magnet": 2,
+    "processor": 2
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/exodus_modules.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/exodus_modules.png",
+  "last_updated": "15/01/2026"
 }

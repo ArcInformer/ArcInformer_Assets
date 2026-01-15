@@ -1,17 +1,17 @@
 {
-    "id":  "herbal_bandage",
-    "name":  "Herbal Bandage",
-    "description":  "An improvised medical item that gradually restores health over time.",
-    "type":  "Quick Use",
-    "rarity":  "Uncommon",
-    "value":  900,
-    "weight":  0.15,
-    "stack_size":  5,
-    "recycles_into":  {
-        "assorted_seeds":  2,
-        "fabric":  5
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/herbal_bandage.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/herbal_bandage.png",
-    "last_updated": "15/01/2026"
+  "id": "herbal_bandage",
+  "name": "Herbal Bandage",
+  "description": "An improvised medical item that gradually restores health over time.",
+  "type": "Quick Use",
+  "rarity": "Uncommon",
+  "value": 900,
+  "weight": 0.15,
+  "stack_size": 5,
+  "recycles_into": {
+    "assorted_seeds": 2,
+    "fabric": 5
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/herbal_bandage.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/herbal_bandage.png",
+  "last_updated": "15/01/2026"
 }

@@ -1,13 +1,13 @@
 {
-    "id":  "heavy_ammo",
-    "name":  "Heavy Ammo",
-    "description":  "Compatible with: Ferro, Anvil, Bettina",
-    "type":  "Ammunition",
-    "rarity":  "Common",
-    "value":  12,
-    "weight":  0.05,
-    "stack_size":  40,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/heavy_ammo.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/heavy_ammo.png",
-    "last_updated": "15/01/2026"
+  "id": "heavy_ammo",
+  "name": "Heavy Ammo",
+  "description": "Compatible with: Ferro, Anvil, Bettina",
+  "type": "Ammunition",
+  "rarity": "Common",
+  "value": 12,
+  "weight": 0.05,
+  "stack_size": 40,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/heavy_ammo.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/heavy_ammo.png",
+  "last_updated": "15/01/2026"
 }

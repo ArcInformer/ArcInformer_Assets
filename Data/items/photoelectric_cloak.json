@@ -1,17 +1,17 @@
 {
-    "id":  "photoelectric_cloak",
-    "name":  "Photoelectric Cloak",
-    "description":  "A gadget that allows the user to conceal themselves from ARC.",
-    "type":  "Quick Use",
-    "rarity":  "Epic",
-    "value":  5000,
-    "weight":  1,
-    "stack_size":  0,
-    "recycles_into":  {
-        "advanced_electrical_components":  1,
-        "speaker_component":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/photoelectric_cloak.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/photoelectric_cloak.png",
-    "last_updated": "15/01/2026"
+  "id": "photoelectric_cloak",
+  "name": "Photoelectric Cloak",
+  "description": "A gadget that allows the user to conceal themselves from ARC.",
+  "type": "Quick Use",
+  "rarity": "Epic",
+  "value": 5000,
+  "weight": 1,
+  "stack_size": 0,
+  "recycles_into": {
+    "advanced_electrical_components": 1,
+    "speaker_component": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/photoelectric_cloak.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/photoelectric_cloak.png",
+  "last_updated": "15/01/2026"
 }

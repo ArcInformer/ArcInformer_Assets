@@ -1,16 +1,16 @@
 {
-    "id":  "medium_shield",
-    "name":  "Medium Shield",
-    "description":  "A standard shield that blocks a medium portion of incoming damage at a moderate cost to mobility.",
-    "type":  "Shield",
-    "rarity":  "Rare",
-    "value":  2000,
-    "weight":  7,
-    "stack_size":  0,
-    "recycles_into":  {
-        "arc_circuitry":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/medium_shield.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/medium_shield.png",
-    "last_updated": "15/01/2026"
+  "id": "medium_shield",
+  "name": "Medium Shield",
+  "description": "A standard shield that blocks a medium portion of incoming damage at a moderate cost to mobility.",
+  "type": "Shield",
+  "rarity": "Rare",
+  "value": 2000,
+  "weight": 7,
+  "stack_size": 0,
+  "recycles_into": {
+    "arc_circuitry": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/medium_shield.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/medium_shield.png",
+  "last_updated": "15/01/2026"
 }

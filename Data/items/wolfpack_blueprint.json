@@ -1,13 +1,13 @@
 {
-    "id":  "wolfpack_blueprint",
-    "name":  "Wolfpack Blueprint",
-    "description":  "A remote-detonated grenade that can stick to surfaces and ARC, dealing explosive damage when triggered.",
-    "type":  "Blueprint",
-    "rarity":  "Legendary",
-    "value":  5000,
-    "weight":  0,
-    "stack_size":  0,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/wolfpack_blueprint.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/wolfpack_blueprint.png",
-    "last_updated": "15/01/2026"
+  "id": "wolfpack_blueprint",
+  "name": "Wolfpack Blueprint",
+  "description": "A remote-detonated grenade that can stick to surfaces and ARC, dealing explosive damage when triggered.",
+  "type": "Blueprint",
+  "rarity": "Legendary",
+  "value": 5000,
+  "weight": 0,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/wolfpack_blueprint.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/wolfpack_blueprint.png",
+  "last_updated": "15/01/2026"
 }

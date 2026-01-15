@@ -1,15 +1,14 @@
 {
-    "id": "combat_mk_1",
-    "name": "Combat Mk 1",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
-    },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk_1.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/combat_mk_1.png",
-    "last_updated": ""
+  "id": "combat_mk_1",
+  "name": "Combat Mk 1",
+  "description": "",
+  "type": "",
+  "rarity": "",
+  "value": 0,
+  "weight": 0,
+  "stack_size": 0,
+  "recycles_into": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk_1.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/combat_mk_1.png",
+  "last_updated": ""
 }

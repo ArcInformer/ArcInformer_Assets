@@ -1,17 +1,17 @@
 {
-    "id":  "stable_stock_ii",
-    "name":  "Stable Stock Ii",
-    "description":  "Moderately improves dispersion \u0026 recoil recovery time.",
-    "type":  "Modification",
-    "rarity":  "Uncommon",
-    "value":  2000,
-    "weight":  0.5,
-    "stack_size":  0,
-    "recycles_into":  {
-        "duct_tape":  1,
-        "mechanical_components":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stable_stock_ii.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/stable_stock_ii.png",
-    "last_updated": "15/01/2026"
+  "id": "stable_stock_ii",
+  "name": "Stable Stock Ii",
+  "description": "Moderately improves dispersion \u0026 recoil recovery time.",
+  "type": "Modification",
+  "rarity": "Uncommon",
+  "value": 2000,
+  "weight": 0.5,
+  "stack_size": 0,
+  "recycles_into": {
+    "duct_tape": 1,
+    "mechanical_components": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stable_stock_ii.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/stable_stock_ii.png",
+  "last_updated": "15/01/2026"
 }

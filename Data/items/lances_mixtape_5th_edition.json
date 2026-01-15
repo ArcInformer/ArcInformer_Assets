@@ -1,13 +1,13 @@
 {
-    "id":  "lances_mixtape_5th_edition",
-    "name":  "Lances Mixtape 5Th Edition",
-    "description":  "Lance has personally planted a number of these around the Rust Belt, for some reason.",
-    "type":  "Trinket",
-    "rarity":  "Epic",
-    "value":  10000,
-    "weight":  0.2,
-    "stack_size":  3,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lances_mixtape_5th_edition.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/lances_mixtape_5th_edition.png",
-    "last_updated": "15/01/2026"
+  "id": "lances_mixtape_5th_edition",
+  "name": "Lances Mixtape 5Th Edition",
+  "description": "Lance has personally planted a number of these around the Rust Belt, for some reason.",
+  "type": "Trinket",
+  "rarity": "Epic",
+  "value": 10000,
+  "weight": 0.2,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lances_mixtape_5th_edition.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/lances_mixtape_5th_edition.png",
+  "last_updated": "15/01/2026"
 }

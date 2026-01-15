@@ -1,13 +1,13 @@
 {
-    "id":  "coffee_pot",
-    "name":  "Coffee Pot",
-    "description":  "The power to face a new day, one cup at a time.",
-    "type":  "Trinket",
-    "rarity":  "Common",
-    "value":  1000,
-    "weight":  0.3,
-    "stack_size":  3,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/coffee_pot.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/coffee_pot.png",
-    "last_updated": "15/01/2026"
+  "id": "coffee_pot",
+  "name": "Coffee Pot",
+  "description": "The power to face a new day, one cup at a time.",
+  "type": "Trinket",
+  "rarity": "Common",
+  "value": 1000,
+  "weight": 0.3,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/coffee_pot.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/coffee_pot.png",
+  "last_updated": "15/01/2026"
 }

@@ -1,17 +1,17 @@
 {
-    "id":  "ruined_accordion",
-    "name":  "Ruined Accordion",
-    "description":  "Can be recycled into crafting materials.",
-    "type":  "Recyclable",
-    "rarity":  "Rare",
-    "value":  2000,
-    "weight":  3,
-    "stack_size":  3,
-    "recycles_into":  {
-        "rubber_parts":  18,
-        "steel_spring":  3
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ruined_accordion.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/ruined_accordion.png",
-    "last_updated": "15/01/2026"
+  "id": "ruined_accordion",
+  "name": "Ruined Accordion",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 2000,
+  "weight": 3,
+  "stack_size": 3,
+  "recycles_into": {
+    "rubber_parts": 18,
+    "steel_spring": 3
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ruined_accordion.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/ruined_accordion.png",
+  "last_updated": "15/01/2026"
 }

@@ -1,13 +1,13 @@
 {
-    "id":  "dam_testing_annex_key",
-    "name":  "Dam Testing Annex Key",
-    "description":  "Unlocks a door in the Testing Annex on Dam Battlegrounds.",
-    "type":  "Key",
-    "rarity":  "Rare",
-    "value":  100,
-    "weight":  0.25,
-    "stack_size":  0,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/dam_testing_annex_key.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/dam_testing_annex_key.png",
-    "last_updated": "15/01/2026"
+  "id": "dam_testing_annex_key",
+  "name": "Dam Testing Annex Key",
+  "description": "Unlocks a door in the Testing Annex on Dam Battlegrounds.",
+  "type": "Key",
+  "rarity": "Rare",
+  "value": 100,
+  "weight": 0.25,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/dam_testing_annex_key.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/dam_testing_annex_key.png",
+  "last_updated": "15/01/2026"
 }

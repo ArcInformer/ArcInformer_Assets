@@ -1,17 +1,17 @@
 {
-    "id":  "cooling_fan",
-    "name":  "Cooling Fan",
-    "description":  "Can be recycled into crafting materials.",
-    "type":  "Recyclable",
-    "rarity":  "Rare",
-    "value":  2000,
-    "weight":  3,
-    "stack_size":  3,
-    "recycles_into":  {
-        "plastic_parts":  14,
-        "wires":  4
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/cooling_fan.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/cooling_fan.png",
-    "last_updated": "15/01/2026"
+  "id": "cooling_fan",
+  "name": "Cooling Fan",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 2000,
+  "weight": 3,
+  "stack_size": 3,
+  "recycles_into": {
+    "plastic_parts": 14,
+    "wires": 4
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/cooling_fan.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/cooling_fan.png",
+  "last_updated": "15/01/2026"
 }

@@ -1,17 +1,17 @@
 {
-    "id":  "leaper_pulse_unit",
-    "name":  "Leaper Pulse Unit",
-    "description":  "Can be recycled into crafting materials. Can be thrown to create a violent singularity.",
-    "type":  "Recyclable",
-    "rarity":  "Epic",
-    "value":  5000,
-    "weight":  1,
-    "stack_size":  3,
-    "recycles_into":  {
-        "advanced_mechanical_components":  2,
-        "arc_alloy":  3
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/leaper_pulse_unit.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/leaper_pulse_unit.png",
-    "last_updated": "15/01/2026"
+  "id": "leaper_pulse_unit",
+  "name": "Leaper Pulse Unit",
+  "description": "Can be recycled into crafting materials. Can be thrown to create a violent singularity.",
+  "type": "Recyclable",
+  "rarity": "Epic",
+  "value": 5000,
+  "weight": 1,
+  "stack_size": 3,
+  "recycles_into": {
+    "advanced_mechanical_components": 2,
+    "arc_alloy": 3
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/leaper_pulse_unit.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/leaper_pulse_unit.png",
+  "last_updated": "15/01/2026"
 }

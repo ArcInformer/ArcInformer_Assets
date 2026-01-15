@@ -1,16 +1,16 @@
 {
-    "id":  "duct_tape",
-    "name":  "Duct Tape",
-    "description":  "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Stable Stock I, Vertical Grip I, Angled Grip I, Vertical Grip II, Angled Grip II",
-    "type":  "Topside Material",
-    "rarity":  "Uncommon",
-    "value":  300,
-    "weight":  0.25,
-    "stack_size":  15,
-    "recycles_into":  {
-        "fabric":  3
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/duct_tape.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/duct_tape.png",
-    "last_updated": "15/01/2026"
+  "id": "duct_tape",
+  "name": "Duct Tape",
+  "description": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Stable Stock I, Vertical Grip I, Angled Grip I, Vertical Grip II, Angled Grip II",
+  "type": "Topside Material",
+  "rarity": "Uncommon",
+  "value": 300,
+  "weight": 0.25,
+  "stack_size": 15,
+  "recycles_into": {
+    "fabric": 3
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/duct_tape.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/duct_tape.png",
+  "last_updated": "15/01/2026"
 }

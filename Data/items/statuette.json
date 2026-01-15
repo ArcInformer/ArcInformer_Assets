@@ -1,13 +1,13 @@
 {
-    "id":  "statuette",
-    "name":  "Statuette",
-    "description":  "Worth a small fortune.",
-    "type":  "Trinket",
-    "rarity":  "Rare",
-    "value":  3000,
-    "weight":  0.3,
-    "stack_size":  3,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/statuette.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/statuette.png",
-    "last_updated": "15/01/2026"
+  "id": "statuette",
+  "name": "Statuette",
+  "description": "Worth a small fortune.",
+  "type": "Trinket",
+  "rarity": "Rare",
+  "value": 3000,
+  "weight": 0.3,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/statuette.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/statuette.png",
+  "last_updated": "15/01/2026"
 }

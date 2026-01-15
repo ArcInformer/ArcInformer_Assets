@@ -1,16 +1,16 @@
 {
-    "id":  "damaged_arc_powercell",
-    "name":  "Damaged Arc Powercell",
-    "description":  "Can be recycled into crafting materials.",
-    "type":  "Recyclable",
-    "rarity":  "Common",
-    "value":  293,
-    "weight":  0.25,
-    "stack_size":  5,
-    "recycles_into":  {
-        "arc_alloy":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/damaged_arc_powercell.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/damaged_arc_powercell.png",
-    "last_updated": "15/01/2026"
+  "id": "damaged_arc_powercell",
+  "name": "Damaged Arc Powercell",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Common",
+  "value": 293,
+  "weight": 0.25,
+  "stack_size": 5,
+  "recycles_into": {
+    "arc_alloy": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/damaged_arc_powercell.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/damaged_arc_powercell.png",
+  "last_updated": "15/01/2026"
 }

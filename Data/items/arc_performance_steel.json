@@ -1,16 +1,16 @@
 {
-    "id":  "arc_performance_steel",
-    "name":  "Arc Performance Steel",
-    "description":  "Can be recycled into crafting materials.",
-    "type":  "Recyclable",
-    "rarity":  "Rare",
-    "value":  1000,
-    "weight":  1,
-    "stack_size":  3,
-    "recycles_into":  {
-        "metal_parts":  12
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_performance_steel.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_performance_steel.png",
-    "last_updated": "15/01/2026"
+  "id": "arc_performance_steel",
+  "name": "Arc Performance Steel",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 1000,
+  "weight": 1,
+  "stack_size": 3,
+  "recycles_into": {
+    "metal_parts": 12
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_performance_steel.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_performance_steel.png",
+  "last_updated": "15/01/2026"
 }

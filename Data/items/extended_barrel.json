@@ -1,17 +1,17 @@
 {
-    "id":  "extended_barrel",
-    "name":  "Extended Barrel",
-    "description":  "Moderately increases bullet velocity. Compatible with: Tempest, Arpeggio, Ferro, Renegade, Anvil",
-    "type":  "Modification",
-    "rarity":  "Epic",
-    "value":  5000,
-    "weight":  0.5,
-    "stack_size":  0,
-    "recycles_into":  {
-        "mod_components":  1,
-        "wires":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_barrel.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/extended_barrel.png",
-    "last_updated": "15/01/2026"
+  "id": "extended_barrel",
+  "name": "Extended Barrel",
+  "description": "Moderately increases bullet velocity. Compatible with: Tempest, Arpeggio, Ferro, Renegade, Anvil",
+  "type": "Modification",
+  "rarity": "Epic",
+  "value": 5000,
+  "weight": 0.5,
+  "stack_size": 0,
+  "recycles_into": {
+    "mod_components": 1,
+    "wires": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_barrel.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/extended_barrel.png",
+  "last_updated": "15/01/2026"
 }

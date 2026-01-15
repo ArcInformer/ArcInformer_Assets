@@ -1,17 +1,17 @@
 {
-    "id":  "tactical_mk3_defensive",
-    "name":  "Tactical Mk3 Defensive",
-    "description":  "A defensive-focused augment for keeping Shields topped up.",
-    "type":  "Augment",
-    "rarity":  "Epic",
-    "value":  5000,
-    "weight":  5,
-    "stack_size":  0,
-    "recycles_into":  {
-        "advanced_electrical_components":  1,
-        "processor":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk3_defensive.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/tactical_mk3_defensive.png",
-    "last_updated": "15/01/2026"
+  "id": "tactical_mk3_defensive",
+  "name": "Tactical Mk3 Defensive",
+  "description": "A defensive-focused augment for keeping Shields topped up.",
+  "type": "Augment",
+  "rarity": "Epic",
+  "value": 5000,
+  "weight": 5,
+  "stack_size": 0,
+  "recycles_into": {
+    "advanced_electrical_components": 1,
+    "processor": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk3_defensive.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/tactical_mk3_defensive.png",
+  "last_updated": "15/01/2026"
 }

@@ -1,13 +1,13 @@
 {
-    "id":  "blue_gate_cellar_key",
-    "name":  "Blue Gate Cellar Key",
-    "description":  "A key to the cellar in Blue Gate.",
-    "type":  "Key",
-    "rarity":  "Uncommon",
-    "value":  100,
-    "weight":  0.25,
-    "stack_size":  1,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/blue_gate_cellar_key.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/blue_gate_cellar_key.png",
-    "last_updated": "15/01/2026"
+  "id": "blue_gate_cellar_key",
+  "name": "Blue Gate Cellar Key",
+  "description": "A key to the cellar in Blue Gate.",
+  "type": "Key",
+  "rarity": "Uncommon",
+  "value": 100,
+  "weight": 0.25,
+  "stack_size": 1,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/blue_gate_cellar_key.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/blue_gate_cellar_key.png",
+  "last_updated": "15/01/2026"
 }

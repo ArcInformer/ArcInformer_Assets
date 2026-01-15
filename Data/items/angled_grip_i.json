@@ -1,16 +1,16 @@
 {
-    "id":  "angled_grip_i",
-    "name":  "Angled Grip I",
-    "description":  "Slightly reduces horizontal recoil. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
-    "type":  "Modification",
-    "rarity":  "Common",
-    "value":  640,
-    "weight":  0.25,
-    "stack_size":  0,
-    "recycles_into":  {
-        "plastic_parts":  6
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_i.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/angled_grip_i.png",
-    "last_updated": "15/01/2026"
+  "id": "angled_grip_i",
+  "name": "Angled Grip I",
+  "description": "Slightly reduces horizontal recoil. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
+  "type": "Modification",
+  "rarity": "Common",
+  "value": 640,
+  "weight": 0.25,
+  "stack_size": 0,
+  "recycles_into": {
+    "plastic_parts": 6
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_i.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/angled_grip_i.png",
+  "last_updated": "15/01/2026"
 }

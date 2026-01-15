@@ -1,13 +1,13 @@
 {
-    "id":  "first_wave_rations",
-    "name":  "First Wave Rations",
-    "description":  "Often heated above discreet fires, these meager provisions are said to have fueled a resistance.",
-    "type":  "Trinket",
-    "rarity":  "Common",
-    "value":  0,
-    "weight":  0.25,
-    "stack_size":  0,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/first_wave_rations.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/first_wave_rations.png",
-    "last_updated": "15/01/2026"
+  "id": "first_wave_rations",
+  "name": "First Wave Rations",
+  "description": "Often heated above discreet fires, these meager provisions are said to have fueled a resistance.",
+  "type": "Trinket",
+  "rarity": "Common",
+  "value": 0,
+  "weight": 0.25,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/first_wave_rations.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/first_wave_rations.png",
+  "last_updated": "15/01/2026"
 }

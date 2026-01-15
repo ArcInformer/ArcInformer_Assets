@@ -1,13 +1,13 @@
 {
-    "id":  "snowball",
-    "name":  "Snowball",
-    "description":  "A compact snowball.",
-    "type":  "Quick Use",
-    "rarity":  "Common",
-    "value":  10,
-    "weight":  0.4,
-    "stack_size":  5,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/snowball.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/snowball.png",
-    "last_updated": "15/01/2026"
+  "id": "snowball",
+  "name": "Snowball",
+  "description": "A compact snowball.",
+  "type": "Quick Use",
+  "rarity": "Common",
+  "value": 10,
+  "weight": 0.4,
+  "stack_size": 5,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/snowball.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/snowball.png",
+  "last_updated": "15/01/2026"
 }

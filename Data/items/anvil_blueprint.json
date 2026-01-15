@@ -1,13 +1,13 @@
 {
-    "id":  "anvil_blueprint",
-    "name":  "Anvil Blueprint",
-    "description":  "Has high damage output and headshot damage, but slow handling.",
-    "type":  "Blueprint",
-    "rarity":  "Legendary",
-    "value":  5000,
-    "weight":  0,
-    "stack_size":  0,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil_blueprint.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/anvil_blueprint.png",
-    "last_updated": "15/01/2026"
+  "id": "anvil_blueprint",
+  "name": "Anvil Blueprint",
+  "description": "Has high damage output and headshot damage, but slow handling.",
+  "type": "Blueprint",
+  "rarity": "Legendary",
+  "value": 5000,
+  "weight": 0,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil_blueprint.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/anvil_blueprint.png",
+  "last_updated": "15/01/2026"
 }

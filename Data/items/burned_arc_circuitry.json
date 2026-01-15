@@ -1,16 +1,16 @@
 {
-    "id":  "burned_arc_circuitry",
-    "name":  "Burned Arc Circuitry",
-    "description":  "Can be recycled into crafting materials.",
-    "type":  "Recyclable",
-    "rarity":  "Uncommon",
-    "value":  640,
-    "weight":  1,
-    "stack_size":  5,
-    "recycles_into":  {
-        "arc_alloy":  2
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burned_arc_circuitry.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/burned_arc_circuitry.png",
-    "last_updated": "15/01/2026"
+  "id": "burned_arc_circuitry",
+  "name": "Burned Arc Circuitry",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Uncommon",
+  "value": 640,
+  "weight": 1,
+  "stack_size": 5,
+  "recycles_into": {
+    "arc_alloy": 2
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burned_arc_circuitry.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/burned_arc_circuitry.png",
+  "last_updated": "15/01/2026"
 }

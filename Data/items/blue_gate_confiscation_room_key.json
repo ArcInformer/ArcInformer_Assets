@@ -1,13 +1,13 @@
 {
-    "id":  "blue_gate_confiscation_room_key",
-    "name":  "Blue Gate Confiscation Room Key",
-    "description":  "Unlocks a door to the confiscated goods area within the Blue Gate tunnels",
-    "type":  "Key",
-    "rarity":  "Epic",
-    "value":  100,
-    "weight":  0.25,
-    "stack_size":  0,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/blue_gate_confiscation_room_key.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/blue_gate_confiscation_room_key.png",
-    "last_updated": "15/01/2026"
+  "id": "blue_gate_confiscation_room_key",
+  "name": "Blue Gate Confiscation Room Key",
+  "description": "Unlocks a door to the confiscated goods area within the Blue Gate tunnels",
+  "type": "Key",
+  "rarity": "Epic",
+  "value": 100,
+  "weight": 0.25,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/blue_gate_confiscation_room_key.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/blue_gate_confiscation_room_key.png",
+  "last_updated": "15/01/2026"
 }

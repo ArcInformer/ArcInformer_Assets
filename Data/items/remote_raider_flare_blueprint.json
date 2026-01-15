@@ -1,13 +1,13 @@
 {
-    "id":  "remote_raider_flare_blueprint",
-    "name":  "Remote Raider Flare Blueprint",
-    "description":  "A deployable device that, when manually triggered, launches a Raider Distress Flare.",
-    "type":  "Blueprint",
-    "rarity":  "Legendary",
-    "value":  5000,
-    "weight":  0,
-    "stack_size":  0,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/remote_raider_flare_blueprint.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/remote_raider_flare_blueprint.png",
-    "last_updated": "15/01/2026"
+  "id": "remote_raider_flare_blueprint",
+  "name": "Remote Raider Flare Blueprint",
+  "description": "A deployable device that, when manually triggered, launches a Raider Distress Flare.",
+  "type": "Blueprint",
+  "rarity": "Legendary",
+  "value": 5000,
+  "weight": 0,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/remote_raider_flare_blueprint.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/remote_raider_flare_blueprint.png",
+  "last_updated": "15/01/2026"
 }

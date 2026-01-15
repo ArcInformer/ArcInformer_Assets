@@ -1,13 +1,13 @@
 {
-    "id":  "lure_grenade_trap",
-    "name":  "Lure Grenade Trap",
-    "description":  "A laser trip wire that detonates a Lure Grenade.",
-    "type":  "Quick Use",
-    "rarity":  "Uncommon",
-    "value":  1000,
-    "weight":  0.25,
-    "stack_size":  3,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lure_grenade_trap.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/lure_grenade_trap.png",
-    "last_updated": "15/01/2026"
+  "id": "lure_grenade_trap",
+  "name": "Lure Grenade Trap",
+  "description": "A laser trip wire that detonates a Lure Grenade.",
+  "type": "Quick Use",
+  "rarity": "Uncommon",
+  "value": 1000,
+  "weight": 0.25,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lure_grenade_trap.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/lure_grenade_trap.png",
+  "last_updated": "15/01/2026"
 }

@@ -1,13 +1,13 @@
 {
-    "id":  "red_light_stick_blueprint",
-    "name":  "Red Light Stick Blueprint",
-    "description":  "A throwable chemical light that illuminates the area around it.",
-    "type":  "Blueprint",
-    "rarity":  "Legendary",
-    "value":  5000,
-    "weight":  0,
-    "stack_size":  1,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/red_light_stick_blueprint.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/red_light_stick_blueprint.png",
-    "last_updated": "15/01/2026"
+  "id": "red_light_stick_blueprint",
+  "name": "Red Light Stick Blueprint",
+  "description": "A throwable chemical light that illuminates the area around it.",
+  "type": "Blueprint",
+  "rarity": "Legendary",
+  "value": 5000,
+  "weight": 0,
+  "stack_size": 1,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/red_light_stick_blueprint.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/red_light_stick_blueprint.png",
+  "last_updated": "15/01/2026"
 }

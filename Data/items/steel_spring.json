@@ -1,16 +1,16 @@
 {
-    "id":  "steel_spring",
-    "name":  "Steel Spring",
-    "description":  "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Extended Shotgun Mag I, Extended Medium Mag I, Extended Light Mag I, Torrente, Extended Medium Mag II",
-    "type":  "Topside Material",
-    "rarity":  "Uncommon",
-    "value":  300,
-    "weight":  0.25,
-    "stack_size":  15,
-    "recycles_into":  {
-        "metal_parts":  2
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/steel_spring.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/steel_spring.png",
-    "last_updated": "15/01/2026"
+  "id": "steel_spring",
+  "name": "Steel Spring",
+  "description": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Extended Shotgun Mag I, Extended Medium Mag I, Extended Light Mag I, Torrente, Extended Medium Mag II",
+  "type": "Topside Material",
+  "rarity": "Uncommon",
+  "value": 300,
+  "weight": 0.25,
+  "stack_size": 15,
+  "recycles_into": {
+    "metal_parts": 2
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/steel_spring.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/steel_spring.png",
+  "last_updated": "15/01/2026"
 }

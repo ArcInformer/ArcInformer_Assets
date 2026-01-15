@@ -1,16 +1,16 @@
 {
-    "id":  "rope",
-    "name":  "Rope",
-    "description":  "Used in crafting. Used to craft: Zipline, Snap Hook",
-    "type":  "Topside Material",
-    "rarity":  "Rare",
-    "value":  500,
-    "weight":  0.3,
-    "stack_size":  5,
-    "recycles_into":  {
-        "fabric":  5
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rope.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rope.png",
-    "last_updated": "15/01/2026"
+  "id": "rope",
+  "name": "Rope",
+  "description": "Used in crafting. Used to craft: Zipline, Snap Hook",
+  "type": "Topside Material",
+  "rarity": "Rare",
+  "value": 500,
+  "weight": 0.3,
+  "stack_size": 5,
+  "recycles_into": {
+    "fabric": 5
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rope.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rope.png",
+  "last_updated": "15/01/2026"
 }

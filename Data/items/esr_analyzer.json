@@ -1,13 +1,13 @@
 {
-    "id":  "esr_analyzer",
-    "name":  "Esr Analyzer",
-    "description":  "A portable analyzer from the world before, complete with several spare tubes.",
-    "type":  "Trinket",
-    "rarity":  "Common",
-    "value":  0,
-    "weight":  0.25,
-    "stack_size":  0,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/esr_analyzer.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/esr_analyzer.png",
-    "last_updated": "15/01/2026"
+  "id": "esr_analyzer",
+  "name": "Esr Analyzer",
+  "description": "A portable analyzer from the world before, complete with several spare tubes.",
+  "type": "Trinket",
+  "rarity": "Common",
+  "value": 0,
+  "weight": 0.25,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/esr_analyzer.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/esr_analyzer.png",
+  "last_updated": "15/01/2026"
 }

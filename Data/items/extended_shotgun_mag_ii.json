@@ -1,17 +1,17 @@
 {
-    "id":  "extended_shotgun_mag_ii",
-    "name":  "Extended Shotgun Mag Ii",
-    "description":  "Moderately extends the ammo capacity of shotguns. Compatible with: Il Toro, Vulcano",
-    "type":  "Modification",
-    "rarity":  "Uncommon",
-    "value":  2000,
-    "weight":  0.5,
-    "stack_size":  0,
-    "recycles_into":  {
-        "mechanical_components":  1,
-        "steel_spring":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_shotgun_mag_ii.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/extended_shotgun_mag_ii.png",
-    "last_updated": "15/01/2026"
+  "id": "extended_shotgun_mag_ii",
+  "name": "Extended Shotgun Mag Ii",
+  "description": "Moderately extends the ammo capacity of shotguns. Compatible with: Il Toro, Vulcano",
+  "type": "Modification",
+  "rarity": "Uncommon",
+  "value": 2000,
+  "weight": 0.5,
+  "stack_size": 0,
+  "recycles_into": {
+    "mechanical_components": 1,
+    "steel_spring": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_shotgun_mag_ii.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/extended_shotgun_mag_ii.png",
+  "last_updated": "15/01/2026"
 }

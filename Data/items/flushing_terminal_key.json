@@ -1,13 +1,13 @@
 {
-    "id":  "flushing_terminal_key",
-    "name":  "Flushing Terminal Key",
-    "description":  "This key is used for the quest The Stench of Corruption to activate the Flushing Terminal",
-    "type":  "Trinket",
-    "rarity":  "Common",
-    "value":  0,
-    "weight":  0.25,
-    "stack_size":  1,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/flushing_terminal_key.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/flushing_terminal_key.png",
-    "last_updated": "15/01/2026"
+  "id": "flushing_terminal_key",
+  "name": "Flushing Terminal Key",
+  "description": "This key is used for the quest The Stench of Corruption to activate the Flushing Terminal",
+  "type": "Trinket",
+  "rarity": "Common",
+  "value": 0,
+  "weight": 0.25,
+  "stack_size": 1,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/flushing_terminal_key.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/flushing_terminal_key.png",
+  "last_updated": "15/01/2026"
 }

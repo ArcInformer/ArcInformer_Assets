@@ -1,17 +1,17 @@
 {
-    "id":  "wolfpack",
-    "name":  "Wolfpack",
-    "description":  "A grenade that scatters into multiple homing missiles, each one targeting ARC and dealing explosive damage on impact.",
-    "type":  "Quick Use",
-    "rarity":  "Epic",
-    "value":  5000,
-    "weight":  1,
-    "stack_size":  1,
-    "recycles_into":  {
-        "arc_motion_core":  1,
-        "explosive_compound":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/wolfpack.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/wolfpack.png",
-    "last_updated": "15/01/2026"
+  "id": "wolfpack",
+  "name": "Wolfpack",
+  "description": "A grenade that scatters into multiple homing missiles, each one targeting ARC and dealing explosive damage on impact.",
+  "type": "Quick Use",
+  "rarity": "Epic",
+  "value": 5000,
+  "weight": 1,
+  "stack_size": 1,
+  "recycles_into": {
+    "arc_motion_core": 1,
+    "explosive_compound": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/wolfpack.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/wolfpack.png",
+  "last_updated": "15/01/2026"
 }

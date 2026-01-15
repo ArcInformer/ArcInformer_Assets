@@ -1,17 +1,17 @@
 {
-    "id":  "showstopper",
-    "name":  "Showstopper",
-    "description":  "A grenade that detonates after a delay, stunning enemies within its radius.",
-    "type":  "Quick Use",
-    "rarity":  "Rare",
-    "value":  2200,
-    "weight":  0.4,
-    "stack_size":  5,
-    "recycles_into":  {
-        "battery":  2,
-        "electrical_components":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/showstopper.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/showstopper.png",
-    "last_updated": "15/01/2026"
+  "id": "showstopper",
+  "name": "Showstopper",
+  "description": "A grenade that detonates after a delay, stunning enemies within its radius.",
+  "type": "Quick Use",
+  "rarity": "Rare",
+  "value": 2200,
+  "weight": 0.4,
+  "stack_size": 5,
+  "recycles_into": {
+    "battery": 2,
+    "electrical_components": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/showstopper.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/showstopper.png",
+  "last_updated": "15/01/2026"
 }

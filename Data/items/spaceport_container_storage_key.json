@@ -1,13 +1,13 @@
 {
-    "id":  "spaceport_container_storage_key",
-    "name":  "Spaceport Container Storage Key",
-    "description":  "A key for container storage at the Spaceport.",
-    "type":  "Key",
-    "rarity":  "Rare",
-    "value":  100,
-    "weight":  0.25,
-    "stack_size":  1,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/spaceport_container_storage_key.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/spaceport_container_storage_key.png",
-    "last_updated": "15/01/2026"
+  "id": "spaceport_container_storage_key",
+  "name": "Spaceport Container Storage Key",
+  "description": "A key for container storage at the Spaceport.",
+  "type": "Key",
+  "rarity": "Rare",
+  "value": 100,
+  "weight": 0.25,
+  "stack_size": 1,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/spaceport_container_storage_key.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/spaceport_container_storage_key.png",
+  "last_updated": "15/01/2026"
 }

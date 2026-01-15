@@ -1,13 +1,13 @@
 {
-    "id":  "fabric",
-    "name":  "Fabric",
-    "description":  "Used to craft medical supplies and shields. Can be used to slowly restore small amounts of health.",
-    "type":  "Basic Material",
-    "rarity":  "Common",
-    "value":  50,
-    "weight":  0.1,
-    "stack_size":  50,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fabric.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/fabric.png",
-    "last_updated": "15/01/2026"
+  "id": "fabric",
+  "name": "Fabric",
+  "description": "Used to craft medical supplies and shields. Can be used to slowly restore small amounts of health.",
+  "type": "Basic Material",
+  "rarity": "Common",
+  "value": 50,
+  "weight": 0.1,
+  "stack_size": 50,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fabric.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/fabric.png",
+  "last_updated": "15/01/2026"
 }

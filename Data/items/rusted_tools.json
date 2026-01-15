@@ -1,17 +1,17 @@
 {
-    "id":  "rusted_tools",
-    "name":  "Rusted Tools",
-    "description":  "A set of tools, rusted but still usable for crafting.",
-    "type":  "Recyclable",
-    "rarity":  "Rare",
-    "value":  1000,
-    "weight":  2,
-    "stack_size":  0,
-    "recycles_into":  {
-        "metal_parts":  8,
-        "steel_spring":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rusted_tools.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rusted_tools.png",
-    "last_updated": "15/01/2026"
+  "id": "rusted_tools",
+  "name": "Rusted Tools",
+  "description": "A set of tools, rusted but still usable for crafting.",
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 1000,
+  "weight": 2,
+  "stack_size": 0,
+  "recycles_into": {
+    "metal_parts": 8,
+    "steel_spring": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rusted_tools.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rusted_tools.png",
+  "last_updated": "15/01/2026"
 }

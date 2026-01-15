@@ -1,17 +1,17 @@
 {
-    "id":  "expired_respirator",
-    "name":  "Expired Respirator",
-    "description":  "The filters are clogged with sand and noxious fumes. Long past its lifespan.",
-    "type":  "Recyclable",
-    "rarity":  "Rare",
-    "value":  640,
-    "weight":  2,
-    "stack_size":  3,
-    "recycles_into":  {
-        "fabric":  4,
-        "rubber_parts":  8
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/expired_respirator.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/expired_respirator.png",
-    "last_updated": "15/01/2026"
+  "id": "expired_respirator",
+  "name": "Expired Respirator",
+  "description": "The filters are clogged with sand and noxious fumes. Long past its lifespan.",
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 640,
+  "weight": 2,
+  "stack_size": 3,
+  "recycles_into": {
+    "fabric": 4,
+    "rubber_parts": 8
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/expired_respirator.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/expired_respirator.png",
+  "last_updated": "15/01/2026"
 }

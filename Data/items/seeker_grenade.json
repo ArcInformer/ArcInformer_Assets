@@ -1,16 +1,16 @@
 {
-    "id":  "seeker_grenade",
-    "name":  "Seeker Grenade",
-    "description":  "A homing grenade that targets a single nearby ARC dealing explosive damage on impact.",
-    "type":  "Quick Use",
-    "rarity":  "Uncommon",
-    "value":  640,
-    "weight":  0.2,
-    "stack_size":  5,
-    "recycles_into":  {
-        "crude_explosives":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/seeker_grenade.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/seeker_grenade.png",
-    "last_updated": "15/01/2026"
+  "id": "seeker_grenade",
+  "name": "Seeker Grenade",
+  "description": "A homing grenade that targets a single nearby ARC dealing explosive damage on impact.",
+  "type": "Quick Use",
+  "rarity": "Uncommon",
+  "value": 640,
+  "weight": 0.2,
+  "stack_size": 5,
+  "recycles_into": {
+    "crude_explosives": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/seeker_grenade.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/seeker_grenade.png",
+  "last_updated": "15/01/2026"
 }

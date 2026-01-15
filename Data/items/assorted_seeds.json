@@ -1,13 +1,13 @@
 {
-    "id":  "assorted_seeds",
-    "name":  "Assorted Seeds",
-    "description":  "A handful of seeds. Celeste might be looking for these.",
-    "type":  "Nature",
-    "rarity":  "Common",
-    "value":  100,
-    "weight":  0.05,
-    "stack_size":  100,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/assorted_seeds.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/assorted_seeds.png",
-    "last_updated": "15/01/2026"
+  "id": "assorted_seeds",
+  "name": "Assorted Seeds",
+  "description": "A handful of seeds. Celeste might be looking for these.",
+  "type": "Nature",
+  "rarity": "Common",
+  "value": 100,
+  "weight": 0.05,
+  "stack_size": 100,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/assorted_seeds.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/assorted_seeds.png",
+  "last_updated": "15/01/2026"
 }

@@ -1,16 +1,16 @@
 {
-    "id":  "garlic_press",
-    "name":  "Garlic Press",
-    "description":  "It\u0027ll press garlic, olives, and probably many other things.",
-    "type":  "Recyclable",
-    "rarity":  "Uncommon",
-    "value":  1000,
-    "weight":  0.8,
-    "stack_size":  3,
-    "recycles_into":  {
-        "metal_parts":  12
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/garlic_press.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/garlic_press.png",
-    "last_updated": "15/01/2026"
+  "id": "garlic_press",
+  "name": "Garlic Press",
+  "description": "It\u0027ll press garlic, olives, and probably many other things.",
+  "type": "Recyclable",
+  "rarity": "Uncommon",
+  "value": 1000,
+  "weight": 0.8,
+  "stack_size": 3,
+  "recycles_into": {
+    "metal_parts": 12
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/garlic_press.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/garlic_press.png",
+  "last_updated": "15/01/2026"
 }

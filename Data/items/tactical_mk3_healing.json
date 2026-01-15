@@ -1,17 +1,17 @@
 {
-    "id":  "tactical_mk3_healing",
-    "name":  "Tactical Mk3 Healing",
-    "description":  "A healing-focused augment which adds extra slots for healing items. When revived from being downed, releases a healing cloud that restores 20 health over 10 seconds. Has a 30-second cooldown.",
-    "type":  "Augment",
-    "rarity":  "Epic",
-    "value":  5000,
-    "weight":  4,
-    "stack_size":  0,
-    "recycles_into":  {
-        "advanced_electrical_components":  1,
-        "processor":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk3_healing.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/tactical_mk3_healing.png",
-    "last_updated": "15/01/2026"
+  "id": "tactical_mk3_healing",
+  "name": "Tactical Mk3 Healing",
+  "description": "A healing-focused augment which adds extra slots for healing items. When revived from being downed, releases a healing cloud that restores 20 health over 10 seconds. Has a 30-second cooldown.",
+  "type": "Augment",
+  "rarity": "Epic",
+  "value": 5000,
+  "weight": 4,
+  "stack_size": 0,
+  "recycles_into": {
+    "advanced_electrical_components": 1,
+    "processor": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk3_healing.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/tactical_mk3_healing.png",
+  "last_updated": "15/01/2026"
 }

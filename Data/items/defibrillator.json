@@ -1,17 +1,17 @@
 {
-    "id":  "defibrillator",
-    "name":  "Defibrillator",
-    "description":  "An injection that quickly revives downed raiders and restores some health.",
-    "type":  "Quick Use",
-    "rarity":  "Rare",
-    "value":  1000,
-    "weight":  0.75,
-    "stack_size":  3,
-    "recycles_into":  {
-        "moss":  1,
-        "plastic_parts":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/defibrillator.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/defibrillator.png",
-    "last_updated": "15/01/2026"
+  "id": "defibrillator",
+  "name": "Defibrillator",
+  "description": "An injection that quickly revives downed raiders and restores some health.",
+  "type": "Quick Use",
+  "rarity": "Rare",
+  "value": 1000,
+  "weight": 0.75,
+  "stack_size": 3,
+  "recycles_into": {
+    "moss": 1,
+    "plastic_parts": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/defibrillator.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/defibrillator.png",
+  "last_updated": "15/01/2026"
 }

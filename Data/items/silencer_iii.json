@@ -1,17 +1,17 @@
 {
-    "id":  "silencer_iii",
-    "name":  "Silencer Iii",
-    "description":  "Significantly reduces the amount of noise produced when firing. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Renegade",
-    "type":  "Modification",
-    "rarity":  "Epic",
-    "value":  7000,
-    "weight":  0.75,
-    "stack_size":  0,
-    "recycles_into":  {
-        "mod_components":  1,
-        "wires":  3
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/silencer_iii.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/silencer_iii.png",
-    "last_updated": "15/01/2026"
+  "id": "silencer_iii",
+  "name": "Silencer Iii",
+  "description": "Significantly reduces the amount of noise produced when firing. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Renegade",
+  "type": "Modification",
+  "rarity": "Epic",
+  "value": 7000,
+  "weight": 0.75,
+  "stack_size": 0,
+  "recycles_into": {
+    "mod_components": 1,
+    "wires": 3
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/silencer_iii.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/silencer_iii.png",
+  "last_updated": "15/01/2026"
 }

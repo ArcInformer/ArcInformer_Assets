@@ -1,17 +1,17 @@
 {
-    "id":  "mod_components",
-    "name":  "Mod Components",
-    "description":  "Used to craft weapon mods. Can be recycled into crafting materials. Used to craft: Lightweight Stock, Shotgun Choke III, Extended Shotgun Mag III, Padded Stock, Compensator III",
-    "type":  "Refined Material",
-    "rarity":  "Rare",
-    "value":  1750,
-    "weight":  1,
-    "stack_size":  5,
-    "recycles_into":  {
-        "mechanical_components":  1,
-        "steel_spring":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/mod_components.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/mod_components.png",
-    "last_updated": "15/01/2026"
+  "id": "mod_components",
+  "name": "Mod Components",
+  "description": "Used to craft weapon mods. Can be recycled into crafting materials. Used to craft: Lightweight Stock, Shotgun Choke III, Extended Shotgun Mag III, Padded Stock, Compensator III",
+  "type": "Refined Material",
+  "rarity": "Rare",
+  "value": 1750,
+  "weight": 1,
+  "stack_size": 5,
+  "recycles_into": {
+    "mechanical_components": 1,
+    "steel_spring": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/mod_components.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/mod_components.png",
+  "last_updated": "15/01/2026"
 }

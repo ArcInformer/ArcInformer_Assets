@@ -1,16 +1,16 @@
 {
-    "id":  "lemon",
-    "name":  "Lemon",
-    "description":  "Can be consumed for a small amount of stamina.",
-    "type":  "Nature",
-    "rarity":  "Uncommon",
-    "value":  640,
-    "weight":  0.2,
-    "stack_size":  10,
-    "recycles_into":  {
-        "assorted_seeds":  3
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lemon.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/lemon.png",
-    "last_updated": "15/01/2026"
+  "id": "lemon",
+  "name": "Lemon",
+  "description": "Can be consumed for a small amount of stamina.",
+  "type": "Nature",
+  "rarity": "Uncommon",
+  "value": 640,
+  "weight": 0.2,
+  "stack_size": 10,
+  "recycles_into": {
+    "assorted_seeds": 3
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lemon.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/lemon.png",
+  "last_updated": "15/01/2026"
 }

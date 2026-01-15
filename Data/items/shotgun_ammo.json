@@ -1,13 +1,13 @@
 {
-    "id":  "shotgun_ammo",
-    "name":  "Shotgun Ammo",
-    "description":  "Compatible with: Il Toro, Vulcano",
-    "type":  "Ammunition",
-    "rarity":  "Common",
-    "value":  20,
-    "weight":  0.085,
-    "stack_size":  20,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shotgun_ammo.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/shotgun_ammo.png",
-    "last_updated": "15/01/2026"
+  "id": "shotgun_ammo",
+  "name": "Shotgun Ammo",
+  "description": "Compatible with: Il Toro, Vulcano",
+  "type": "Ammunition",
+  "rarity": "Common",
+  "value": 20,
+  "weight": 0.085,
+  "stack_size": 20,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shotgun_ammo.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/shotgun_ammo.png",
+  "last_updated": "15/01/2026"
 }

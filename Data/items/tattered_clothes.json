@@ -1,16 +1,16 @@
 {
-    "id":  "tattered_clothes",
-    "name":  "Tattered Clothes",
-    "description":  "Can be recycled into fabric.",
-    "type":  "Recyclable",
-    "rarity":  "Uncommon",
-    "value":  640,
-    "weight":  0,
-    "stack_size":  0,
-    "recycles_into":  {
-        "fabric":  11
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tattered_clothes.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/tattered_clothes.png",
-    "last_updated": "15/01/2026"
+  "id": "tattered_clothes",
+  "name": "Tattered Clothes",
+  "description": "Can be recycled into fabric.",
+  "type": "Recyclable",
+  "rarity": "Uncommon",
+  "value": 640,
+  "weight": 0,
+  "stack_size": 0,
+  "recycles_into": {
+    "fabric": 11
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tattered_clothes.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/tattered_clothes.png",
+  "last_updated": "15/01/2026"
 }

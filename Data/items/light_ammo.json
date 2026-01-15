@@ -1,13 +1,13 @@
 {
-    "id":  "light_ammo",
-    "name":  "Light Ammo",
-    "description":  "Light bullets used mainly with SMGs and light handguns. Compatible with: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
-    "type":  "Ammunition",
-    "rarity":  "Common",
-    "value":  4,
-    "weight":  0.017,
-    "stack_size":  100,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/light_ammo.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/light_ammo.png",
-    "last_updated": "15/01/2026"
+  "id": "light_ammo",
+  "name": "Light Ammo",
+  "description": "Light bullets used mainly with SMGs and light handguns. Compatible with: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
+  "type": "Ammunition",
+  "rarity": "Common",
+  "value": 4,
+  "weight": 0.017,
+  "stack_size": 100,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/light_ammo.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/light_ammo.png",
+  "last_updated": "15/01/2026"
 }

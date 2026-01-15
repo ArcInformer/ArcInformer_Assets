@@ -1,16 +1,16 @@
 {
-    "id":  "damaged_hornet_driver",
-    "name":  "Damaged Hornet Driver",
-    "description":  "Can be recycled into crafting materials.",
-    "type":  "Recyclable",
-    "rarity":  "Common",
-    "value":  640,
-    "weight":  0.3,
-    "stack_size":  3,
-    "recycles_into":  {
-        "arc_alloy":  2
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/damaged_hornet_driver.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/damaged_hornet_driver.png",
-    "last_updated": "15/01/2026"
+  "id": "damaged_hornet_driver",
+  "name": "Damaged Hornet Driver",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Common",
+  "value": 640,
+  "weight": 0.3,
+  "stack_size": 3,
+  "recycles_into": {
+    "arc_alloy": 2
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/damaged_hornet_driver.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/damaged_hornet_driver.png",
+  "last_updated": "15/01/2026"
 }

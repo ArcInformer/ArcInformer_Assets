@@ -1,16 +1,16 @@
 {
-    "id":  "green_light_stick",
-    "name":  "Green Light Stick",
-    "description":  "A throwable chemical light that illuminates the area around it.",
-    "type":  "Quick Use",
-    "rarity":  "Common",
-    "value":  150,
-    "weight":  0.15,
-    "stack_size":  5,
-    "recycles_into":  {
-        "chemicals":  1
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/green_light_stick.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/green_light_stick.png",
-    "last_updated": "15/01/2026"
+  "id": "green_light_stick",
+  "name": "Green Light Stick",
+  "description": "A throwable chemical light that illuminates the area around it.",
+  "type": "Quick Use",
+  "rarity": "Common",
+  "value": 150,
+  "weight": 0.15,
+  "stack_size": 5,
+  "recycles_into": {
+    "chemicals": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/green_light_stick.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/green_light_stick.png",
+  "last_updated": "15/01/2026"
 }

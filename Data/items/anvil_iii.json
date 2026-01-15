@@ -1,17 +1,17 @@
 {
-    "id":  "anvil_iii",
-    "name":  "Anvil Iii",
-    "description":  "Single-action hand cannon with high damage and headshot damage, but slow handling.",
-    "type":  "Hand Cannon",
-    "rarity":  "Uncommon",
-    "value":  10000,
-    "weight":  5,
-    "stack_size":  0,
-    "recycles_into":  {
-        "mechanical_components":  4,
-        "simple_gun_parts":  4
-    },
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil_iii.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/anvil_iii.png",
-    "last_updated": "15/01/2026"
+  "id": "anvil_iii",
+  "name": "Anvil Iii",
+  "description": "Single-action hand cannon with high damage and headshot damage, but slow handling.",
+  "type": "Hand Cannon",
+  "rarity": "Uncommon",
+  "value": 10000,
+  "weight": 5,
+  "stack_size": 0,
+  "recycles_into": {
+    "mechanical_components": 4,
+    "simple_gun_parts": 4
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil_iii.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/anvil_iii.png",
+  "last_updated": "15/01/2026"
 }

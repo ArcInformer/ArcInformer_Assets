@@ -1,13 +1,13 @@
 {
-    "id":  "burgerboy",
-    "name":  "Burgerboy",
-    "description":  "A new cosmetic will be added to your collection.",
-    "type":  "Backpack Charm",
-    "rarity":  "Common",
-    "value":  0,
-    "weight":  0,
-    "stack_size":  0,
-    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burgerboy.png",
-    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/burgerboy.png",
-    "last_updated": "15/01/2026"
+  "id": "burgerboy",
+  "name": "Burgerboy",
+  "description": "A new cosmetic will be added to your collection.",
+  "type": "Backpack Charm",
+  "rarity": "Common",
+  "value": 0,
+  "weight": 0,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burgerboy.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/burgerboy.png",
+  "last_updated": "15/01/2026"
 }
