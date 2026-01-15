@@ -1,15 +1,16 @@
 {
-    "id": "shotgun_choke_i",
-    "name": "Shotgun Choke I",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "shotgun_choke_i",
+    "name":  "Shotgun Choke I",
+    "description":  "Slightly reduces base dispersion. Compatible with: Il Toro, Vulcano",
+    "type":  "Modification",
+    "rarity":  "Common",
+    "value":  640,
+    "weight":  0.25,
+    "stack_size":  0,
+    "recycles_into":  {
+        "metal_parts":  5
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shotgun_choke_i.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/shotgun_choke_i.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shotgun_choke_i.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/shotgun_choke_i.png",
+    "last_updated": "15/01/2026"
 }
