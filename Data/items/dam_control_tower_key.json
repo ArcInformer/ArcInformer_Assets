@@ -1,15 +1,13 @@
 {
-    "id": "dam_control_tower_key",
-    "name": "Dam Control Tower Key",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
-    },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/dam_control_tower_key.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/dam_control_tower_key.png",
-    "last_updated": ""
+    "id":  "dam_control_tower_key",
+    "name":  "Dam Control Tower Key",
+    "description":  "Unlocks a door to the Control Tower on Dam Battlegrounds.",
+    "type":  "Key",
+    "rarity":  "Epic",
+    "value":  100,
+    "weight":  0.25,
+    "stack_size":  0,
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/dam_control_tower_key.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/dam_control_tower_key.png",
+    "last_updated": "15/01/2026"
 }
