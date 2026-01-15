@@ -1,15 +1,17 @@
 {
-    "id": "looting_mk3_survivor",
-    "name": "Looting Mk3 Survivor",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "looting_mk3_survivor",
+    "name":  "Looting Mk3 Survivor",
+    "description":  "A heavy-duty pack mule augment. Large weight capacity and large backpack space. While downed and stationary, health regenerates up to 75% of max downed health.",
+    "type":  "Augment",
+    "rarity":  "Epic",
+    "value":  5000,
+    "weight":  4,
+    "stack_size":  1,
+    "recycles_into":  {
+        "advanced_electrical_components":  1,
+        "processor":  1
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/looting_mk3_survivor.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/looting_mk3_survivor.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/looting_mk3_survivor.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/looting_mk3_survivor.png",
+    "last_updated": "15/01/2026"
 }
