@@ -1,15 +1,17 @@
 {
-    "id": "industrial_battery",
-    "name": "Industrial Battery",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "industrial_battery",
+    "name":  "Industrial Battery",
+    "description":  "A large, high-capacity battery for industrial equipment.",
+    "type":  "Recyclable",
+    "rarity":  "Rare",
+    "value":  1000,
+    "weight":  2,
+    "stack_size":  3,
+    "recycles_into":  {
+        "battery":  2,
+        "chemicals":  7
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/industrial_battery.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/industrial_battery.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/industrial_battery.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/industrial_battery.png",
+    "last_updated": "15/01/2026"
 }
