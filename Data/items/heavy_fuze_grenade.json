@@ -1,15 +1,17 @@
 {
-    "id": "heavy_fuze_grenade",
-    "name": "Heavy Fuze Grenade",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "heavy_fuze_grenade",
+    "name":  "Heavy Fuze Grenade",
+    "description":  "A grenade that detonates after a delay, dealing explosive damage in its radius.",
+    "type":  "Quick Use",
+    "rarity":  "Rare",
+    "value":  1600,
+    "weight":  0.2,
+    "stack_size":  3,
+    "recycles_into":  {
+        "oil":  1,
+        "rubber_parts":  2
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/heavy_fuze_grenade.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/heavy_fuze_grenade.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/heavy_fuze_grenade.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/heavy_fuze_grenade.png",
+    "last_updated": "15/01/2026"
 }
