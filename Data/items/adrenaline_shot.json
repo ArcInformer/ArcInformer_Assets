@@ -1,15 +1,17 @@
 {
-    "id": "adrenaline_shot",
-    "name": "Adrenaline Shot",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "adrenaline_shot",
+    "name":  "Adrenaline Shot",
+    "description":  "A serum that fully restores stamina and temporarily increases stamina regeneration.",
+    "type":  "Quick Use",
+    "rarity":  "Common",
+    "value":  300,
+    "weight":  0.2,
+    "stack_size":  5,
+    "recycles_into":  {
+        "chemicals":  1,
+        "plastic_parts":  1
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/adrenaline_shot.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/adrenaline_shot.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/adrenaline_shot.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/adrenaline_shot.png",
+    "last_updated": "15/01/2026"
 }
