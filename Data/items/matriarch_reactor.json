@@ -1,15 +1,17 @@
 {
-    "id": "matriarch_reactor",
-    "name": "Matriarch Reactor",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "matriarch_reactor",
+    "name":  "Matriarch Reactor",
+    "description":  "Can be recycled into crafting materials.",
+    "type":  "Recyclable",
+    "rarity":  "Legendary",
+    "value":  13000,
+    "weight":  10,
+    "stack_size":  1,
+    "recycles_into":  {
+        "magnetic_accelerator":  1,
+        "power_rod":  1
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/matriarch_reactor.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/matriarch_reactor.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/matriarch_reactor.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/matriarch_reactor.png",
+    "last_updated": "15/01/2026"
 }
