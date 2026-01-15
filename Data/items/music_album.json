@@ -1,15 +1,13 @@
 {
-    "id": "music_album",
-    "name": "Music Album",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
-    },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/music_album.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/music_album.png",
-    "last_updated": ""
+    "id":  "music_album",
+    "name":  "Music Album",
+    "description":  "Perfect for relaxing nights at home, casual get-togethers, and private air guitar concerts.",
+    "type":  "Trinket",
+    "rarity":  "Rare",
+    "value":  3000,
+    "weight":  0.3,
+    "stack_size":  3,
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/music_album.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/music_album.png",
+    "last_updated": "15/01/2026"
 }
