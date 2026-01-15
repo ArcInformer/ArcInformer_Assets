@@ -1,15 +1,17 @@
 {
-    "id": "voltage_converter",
-    "name": "Voltage Converter",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "voltage_converter",
+    "name":  "Voltage Converter",
+    "description":  "Used in crafting. Used to craft: Heavy Shield, Showstopper",
+    "type":  "Topside Material",
+    "rarity":  "Rare",
+    "value":  500,
+    "weight":  0.3,
+    "stack_size":  5,
+    "recycles_into":  {
+        "rubber_parts":  1,
+        "wires":  1
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/voltage_converter.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/voltage_converter.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/voltage_converter.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/voltage_converter.png",
+    "last_updated": "15/01/2026"
 }
