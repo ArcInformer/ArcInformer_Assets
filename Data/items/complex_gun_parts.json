@@ -1,15 +1,16 @@
 {
-    "id": "complex_gun_parts",
-    "name": "Complex Gun Parts",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "complex_gun_parts",
+    "name":  "Complex Gun Parts",
+    "description":  "Used to craft advanced weapons. Used to craft: Equalizer, Jupiter",
+    "type":  "Topside Material",
+    "rarity":  "Epic",
+    "value":  3000,
+    "weight":  1,
+    "stack_size":  3,
+    "recycles_into":  {
+        "simple_gun_parts":  3
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/complex_gun_parts.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/complex_gun_parts.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/complex_gun_parts.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/complex_gun_parts.png",
+    "last_updated": "15/01/2026"
 }
