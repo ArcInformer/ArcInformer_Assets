@@ -1,15 +1,17 @@
 {
-    "id": "looting_mk1",
-    "name": "Looting Mk1",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "looting_mk1",
+    "name":  "Looting Mk1",
+    "description":  "Basic looting augment. More backpack slots and weight capacity, but low defensive and tactical capability.",
+    "type":  "Augment",
+    "rarity":  "Uncommon",
+    "value":  640,
+    "weight":  1,
+    "stack_size":  0,
+    "recycles_into":  {
+        "plastic_parts":  3,
+        "rubber_parts":  3
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/looting_mk1.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/looting_mk1.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/looting_mk1.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/looting_mk1.png",
+    "last_updated": "15/01/2026"
 }
