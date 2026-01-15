@@ -1,15 +1,17 @@
 {
-    "id": "hornet_driver",
-    "name": "Hornet Driver",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "hornet_driver",
+    "name":  "Hornet Driver",
+    "description":  "Can be thrown and will briefly stun nearby targets",
+    "type":  "Recyclable",
+    "rarity":  "Rare",
+    "value":  2000,
+    "weight":  0.75,
+    "stack_size":  3,
+    "recycles_into":  {
+        "arc_alloy":  2,
+        "electrical_components":  2
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hornet_driver.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/hornet_driver.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hornet_driver.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/hornet_driver.png",
+    "last_updated": "15/01/2026"
 }
