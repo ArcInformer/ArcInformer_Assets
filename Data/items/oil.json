@@ -1,15 +1,16 @@
 {
-    "id": "oil",
-    "name": "Oil",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "oil",
+    "name":  "Oil",
+    "description":  "Used to craft weapons and explosives. Can be recycled into chemicals. Used to craft: Renegade, Explosive Compound, Blaze Grenade",
+    "type":  "Topside Material",
+    "rarity":  "Uncommon",
+    "value":  300,
+    "weight":  0.25,
+    "stack_size":  15,
+    "recycles_into":  {
+        "chemicals":  3
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/oil.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/oil.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/oil.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/oil.png",
+    "last_updated": "15/01/2026"
 }
