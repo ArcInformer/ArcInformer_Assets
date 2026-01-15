@@ -1,15 +1,17 @@
 {
-    "id": "flame_spray",
-    "name": "Flame Spray",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "flame_spray",
+    "name":  "Flame Spray",
+    "description":  "A classic makeshift weapon, sure to leave scorch marks.",
+    "type":  "Quick Use",
+    "rarity":  "Uncommon",
+    "value":  640,
+    "weight":  1,
+    "stack_size":  0,
+    "recycles_into":  {
+        "canister":  1,
+        "fireball_burner":  1
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/flame_spray.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/flame_spray.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/flame_spray.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/flame_spray.png",
+    "last_updated": "15/01/2026"
 }
