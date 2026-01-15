@@ -1,15 +1,13 @@
 {
-    "id": "trigger_nade_blueprint",
-    "name": "Trigger Nade Blueprint",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
-    },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/trigger_nade_blueprint.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/trigger_nade_blueprint.png",
-    "last_updated": ""
+    "id":  "trigger_nade_blueprint",
+    "name":  "Trigger Nade Blueprint",
+    "description":  "A remote-detonated grenade that can stick to surfaces and ARC, dealing explosive damage when triggered.",
+    "type":  "Blueprint",
+    "rarity":  "Legendary",
+    "value":  5000,
+    "weight":  0,
+    "stack_size":  1,
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/trigger_nade_blueprint.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/trigger_nade_blueprint.png",
+    "last_updated": "15/01/2026"
 }
