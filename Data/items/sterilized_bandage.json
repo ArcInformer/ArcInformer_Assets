@@ -1,15 +1,17 @@
 {
-    "id": "sterilized_bandage",
-    "name": "Sterilized Bandage",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "sterilized_bandage",
+    "name":  "Sterilized Bandage",
+    "description":  "A medical item that gradually restores a large amount of health over time.",
+    "type":  "Quick Use",
+    "rarity":  "Rare",
+    "value":  2000,
+    "weight":  0.2,
+    "stack_size":  3,
+    "recycles_into":  {
+        "antiseptic":  1,
+        "fabric":  1
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/sterilized_bandage.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/sterilized_bandage.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/sterilized_bandage.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/sterilized_bandage.png",
+    "last_updated": "15/01/2026"
 }
