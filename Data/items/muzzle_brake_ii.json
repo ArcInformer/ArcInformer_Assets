@@ -1,15 +1,17 @@
 {
-    "id": "muzzle_brake_ii",
-    "name": "Muzzle Brake Ii",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "muzzle_brake_ii",
+    "name":  "Muzzle Brake Ii",
+    "description":  "Moderately reduces both vertical recoil \u0026 horizontal recoil. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Renegade",
+    "type":  "Modification",
+    "rarity":  "Uncommon",
+    "value":  2000,
+    "weight":  0.5,
+    "stack_size":  0,
+    "recycles_into":  {
+        "mechanical_components":  1,
+        "wires":  1
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/muzzle_brake_ii.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/muzzle_brake_ii.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/muzzle_brake_ii.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/muzzle_brake_ii.png",
+    "last_updated": "15/01/2026"
 }
