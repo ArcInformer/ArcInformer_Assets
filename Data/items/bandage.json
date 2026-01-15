@@ -1,15 +1,16 @@
 {
-    "id": "bandage",
-    "name": "Bandage",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "bandage",
+    "name":  "Bandage",
+    "description":  "A medical item that gradually restores health over time.",
+    "type":  "Quick Use",
+    "rarity":  "Common",
+    "value":  250,
+    "weight":  0.1,
+    "stack_size":  5,
+    "recycles_into":  {
+        "fabric":  2
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bandage.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bandage.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bandage.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bandage.png",
+    "last_updated": "15/01/2026"
 }
