@@ -1,15 +1,17 @@
 {
-    "id": "trigger_nade",
-    "name": "Trigger Nade",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "trigger_nade",
+    "name":  "Trigger Nade",
+    "description":  "A remote-detonated grenade that can stick to surfaces and ARC, dealing explosive damage when triggered.",
+    "type":  "Quick Use",
+    "rarity":  "Rare",
+    "value":  1000,
+    "weight":  0.4,
+    "stack_size":  3,
+    "recycles_into":  {
+        "chemicals":  1,
+        "processor":  1
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/trigger_nade.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/trigger_nade.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/trigger_nade.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/trigger_nade.png",
+    "last_updated": "15/01/2026"
 }
