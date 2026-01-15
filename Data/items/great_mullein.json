@@ -1,15 +1,16 @@
 {
-    "id": "great_mullein",
-    "name": "Great Mullein",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "great_mullein",
+    "name":  "Great Mullein",
+    "description":  "Used to craft medical supplies. Used to craft: Herbal Bandage, Antiseptic",
+    "type":  "Topside Material",
+    "rarity":  "Uncommon",
+    "value":  300,
+    "weight":  0.25,
+    "stack_size":  15,
+    "recycles_into":  {
+        "assorted_seeds":  2
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/great_mullein.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/great_mullein.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/great_mullein.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/great_mullein.png",
+    "last_updated": "15/01/2026"
 }
