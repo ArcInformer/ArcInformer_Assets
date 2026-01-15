@@ -1,15 +1,17 @@
 {
-    "id": "deflated_football",
-    "name": "Deflated Football",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "deflated_football",
+    "name":  "Deflated Football",
+    "description":  "Just by looking at this, you too start to feel slightly deflated.",
+    "type":  "Recyclable",
+    "rarity":  "Uncommon",
+    "value":  1000,
+    "weight":  0.8,
+    "stack_size":  3,
+    "recycles_into":  {
+        "fabric":  9,
+        "rubber_parts":  9
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/deflated_football.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/deflated_football.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/deflated_football.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/deflated_football.png",
+    "last_updated": "15/01/2026"
 }
