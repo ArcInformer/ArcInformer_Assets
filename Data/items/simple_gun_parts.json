@@ -1,15 +1,16 @@
 {
-    "id": "simple_gun_parts",
-    "name": "Simple Gun Parts",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "simple_gun_parts",
+    "name":  "Simple Gun Parts",
+    "description":  "Used to craft weapons. Used to craft: Il Toro, Burletta, Anvil, Arpeggio, Heavy Gun Parts",
+    "type":  "Topside Material",
+    "rarity":  "Uncommon",
+    "value":  330,
+    "weight":  0.3,
+    "stack_size":  10,
+    "recycles_into":  {
+        "metal_parts":  2
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/simple_gun_parts.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/simple_gun_parts.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/simple_gun_parts.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/simple_gun_parts.png",
+    "last_updated": "15/01/2026"
 }
