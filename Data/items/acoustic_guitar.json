@@ -1,17 +1,15 @@
 {
     "id": "acoustic_guitar",
     "name": "Acoustic Guitar",
-    "description": "A playable acoustic guitar used to attract ARC's attention, and impress other Raiders.",
-    "type": "Quick Use",
-    "rarity": "Legendary",
-    "value": 7000,
-    "weight": 1,
-    "stack_size": 1,
+    "description": "",
+    "type": "",
+    "rarity": "",
+    "value": 0,
+    "weight": 0,
+    "stack_size": 0,
     "recycles_into": {
-        "metal_parts": 4,
-        "wires": 6
     },
     "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/acoustic_guitar.png",
     "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/acoustic_guitar.png",
-    "last_updated": "15/01/2026"
+    "last_updated": ""
 }
