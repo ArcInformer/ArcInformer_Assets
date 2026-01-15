@@ -1,15 +1,13 @@
 {
-    "id": "fruit_mix",
-    "name": "Fruit Mix",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
-    },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fruit_mix.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/fruit_mix.png",
-    "last_updated": ""
+    "id":  "fruit_mix",
+    "name":  "Fruit Mix",
+    "description":  "A food item that moderately increases both health and stamina.",
+    "type":  "Quick Use",
+    "rarity":  "Uncommon",
+    "value":  1800,
+    "weight":  0.3,
+    "stack_size":  5,
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fruit_mix.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/fruit_mix.png",
+    "last_updated": "15/01/2026"
 }
