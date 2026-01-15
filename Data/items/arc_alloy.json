@@ -1,15 +1,16 @@
 {
-    "id": "arc_alloy",
-    "name": "Arc Alloy",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "arc_alloy",
+    "name":  "Arc Alloy",
+    "description":  "Obtained from ARC enemies or activities, or by recycling certain ARC parts. Used to craft components. Used to craft: Light Shield, ARC Motion Core, ARC Circuitry",
+    "type":  "Topside Material",
+    "rarity":  "Uncommon",
+    "value":  200,
+    "weight":  0.25,
+    "stack_size":  15,
+    "recycles_into":  {
+        "metal_parts":  2
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_alloy.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_alloy.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_alloy.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_alloy.png",
+    "last_updated": "15/01/2026"
 }
