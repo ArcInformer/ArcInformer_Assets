@@ -1,15 +1,16 @@
 {
-    "id": "surge_shield_recharger",
-    "name": "Surge Shield Recharger",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "surge_shield_recharger",
+    "name":  "Surge Shield Recharger",
+    "description":  "A handheld kit that recharges a shield on use.",
+    "type":  "Quick Use",
+    "rarity":  "Rare",
+    "value":  1200,
+    "weight":  0.2,
+    "stack_size":  5,
+    "recycles_into":  {
+        "electrical_components":  1
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/surge_shield_recharger.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/surge_shield_recharger.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/surge_shield_recharger.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/surge_shield_recharger.png",
+    "last_updated": "15/01/2026"
 }
