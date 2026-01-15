@@ -1,15 +1,13 @@
 {
-    "id": "burnt_out_candles",
-    "name": "Burnt Out Candles",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
-    },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burnt_out_candles.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/burnt_out_candles.png",
-    "last_updated": ""
+    "id":  "burnt_out_candles",
+    "name":  "Burnt Out Candles",
+    "description":  "After the grid fell candles became the preferred source of light for many. Unlike electricity, a good old candle will never fail you. Unless it\u0027s windy. Or raining. Or...",
+    "type":  "Trinket",
+    "rarity":  "Common",
+    "value":  640,
+    "weight":  0.2,
+    "stack_size":  15,
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burnt_out_candles.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/burnt_out_candles.png",
+    "last_updated": "15/01/2026"
 }
