@@ -1,15 +1,16 @@
 {
-    "id": "fertilizer",
-    "name": "Fertilizer",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "fertilizer",
+    "name":  "Fertilizer",
+    "description":  "May be worth a few coins.",
+    "type":  "Nature",
+    "rarity":  "Uncommon",
+    "value":  1000,
+    "weight":  0.4,
+    "stack_size":  5,
+    "recycles_into":  {
+        "assorted_seeds":  2
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fertilizer.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/fertilizer.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fertilizer.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/fertilizer.png",
+    "last_updated": "15/01/2026"
 }
