@@ -1,15 +1,17 @@
 {
-    "id": "explosive_mine",
-    "name": "Explosive Mine",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "explosive_mine",
+    "name":  "Explosive Mine",
+    "description":  "A proximity-triggered explosive device that detonates when enemies approach.",
+    "type":  "Quick Use",
+    "rarity":  "Rare",
+    "value":  1500,
+    "weight":  0.5,
+    "stack_size":  3,
+    "recycles_into":  {
+        "oil":  2,
+        "sensors":  1
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/explosive_mine.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/explosive_mine.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/explosive_mine.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/explosive_mine.png",
+    "last_updated": "15/01/2026"
 }
