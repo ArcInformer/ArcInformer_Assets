@@ -1,15 +1,17 @@
 {
-    "id": "fried_motherboard",
-    "name": "Fried Motherboard",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "fried_motherboard",
+    "name":  "Fried Motherboard",
+    "description":  "Can be recycled into crafting materials.",
+    "type":  "Recyclable",
+    "rarity":  "Rare",
+    "value":  2000,
+    "weight":  3,
+    "stack_size":  3,
+    "recycles_into":  {
+        "electrical_components":  2,
+        "plastic_parts":  5
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fried_motherboard.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/fried_motherboard.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fried_motherboard.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/fried_motherboard.png",
+    "last_updated": "15/01/2026"
 }
