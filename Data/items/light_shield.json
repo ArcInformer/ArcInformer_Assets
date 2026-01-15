@@ -1,15 +1,16 @@
 {
-    "id": "light_shield",
-    "name": "Light Shield",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
+    "id":  "light_shield",
+    "name":  "Light Shield",
+    "description":  "A lightweight shield that blocks a small portion of incoming damage without impacting mobility.",
+    "type":  "Shield",
+    "rarity":  "Uncommon",
+    "value":  640,
+    "weight":  5,
+    "stack_size":  0,
+    "recycles_into":  {
+        "plastic_parts":  4
     },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/light_shield.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/light_shield.png",
-    "last_updated": ""
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/light_shield.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/light_shield.png",
+    "last_updated": "15/01/2026"
 }
