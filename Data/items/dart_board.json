@@ -1,15 +1,13 @@
 {
-    "id": "dart_board",
-    "name": "Dart Board",
-    "description": "",
-    "type": "",
-    "rarity": "",
-    "value": 0,
-    "weight": 0,
-    "stack_size": 0,
-    "recycles_into": {
-    },
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/dart_board.png",
-    "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/dart_board.png",
-    "last_updated": ""
+    "id":  "dart_board",
+    "name":  "Dart Board",
+    "description":  "Some Raiders use it to practice dexterity. Others just like throwing things at other things.",
+    "type":  "Trinket",
+    "rarity":  "Uncommon",
+    "value":  2000,
+    "weight":  1,
+    "stack_size":  3,
+    "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/dart_board.png",
+    "in_game_image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/dart_board.png",
+    "last_updated": "15/01/2026"
 }
