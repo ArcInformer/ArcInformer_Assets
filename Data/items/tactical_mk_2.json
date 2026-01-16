@@ -1,15 +1,15 @@
 {
-  "id": "combat_mk1",
-  "name": "Combat Mk1",
-  "description": "Basic combat augment. Supports stronger shields, but with limited backpack capacity and Quick Use slots.",
+  "id": "tactical_mk_2",
+  "name": "Tactical Mk 2",
+  "description": "Adds more backpack space and an extra utility item slot.",
   "type": "Augment",
-  "rarity": "Uncommon",
-  "value": 640,
+  "rarity": "Rare",
+  "value": 2000,
   "weight": 2,
   "stack_size": 0,
   "recycles_into": {
-    "plastic_parts": 3,
-    "rubber_parts": 3
+    "electrical_components": 1,
+    "magnet": 1
   },
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",

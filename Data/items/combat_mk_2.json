@@ -1,6 +1,6 @@
 {
-  "id": "combat_mk2",
-  "name": "Combat Mk2",
+  "id": "combat_mk_2",
+  "name": "Combat Mk 2",
   "description": "A Combat augment more focused on maneuverability than absorbing damage.",
   "type": "Augment",
   "rarity": "Rare",
@@ -12,6 +12,6 @@
     "magnet": 1
   },
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/combat_mk2.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "last_updated": "16/01/2026"
 }
