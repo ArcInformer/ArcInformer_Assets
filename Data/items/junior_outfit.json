@@ -1,0 +1,14 @@
+{
+  "id": "junior_outfit",
+  "name": "Junior Outfit",
+  "description": "Cosmetic Outfit",
+  "type": "Cosmetic",
+  "rarity": "Common",
+  "value": 0,
+  "weight": 0,
+  "stack_size": 0,
+  "recycles_into": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "last_updated": "16/01/2026"
+}

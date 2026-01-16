@@ -1,0 +1,14 @@
+{
+  "id": "muzzle_brake_iii_blueprint",
+  "name": "Muzzle Brake Iii Blueprint",
+  "description": "Significantly reduces both vertical recoil \u0026 horizontal recoil. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+  "type": "Blueprint",
+  "rarity": "Legendary",
+  "value": 5000,
+  "weight": 0,
+  "stack_size": 0,
+  "recycles_into": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/muzzle_brake_iii.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "last_updated": "16/01/2026"
+}

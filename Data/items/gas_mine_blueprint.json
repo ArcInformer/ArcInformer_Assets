@@ -1,0 +1,14 @@
+{
+  "id": "gas_mine_blueprint",
+  "name": "Gas Mine Blueprint",
+  "description": "A proximity-triggered mine that pops up and deploys a gas cloud that rapidly drains stamina.",
+  "type": "Blueprint",
+  "rarity": "Legendary",
+  "value": 5000,
+  "weight": 0,
+  "stack_size": 0,
+  "recycles_into": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/gas_mine.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "last_updated": "16/01/2026"
+}

@@ -7,7 +7,8 @@
   "value": 2000,
   "weight": 0.01,
   "stack_size": 1,
+  "recycles_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/raider_hatch_key.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/raider_hatch_key.png",
-  "last_updated": "15/01/2026"
+  "last_updated": "16/01/2026"
 }

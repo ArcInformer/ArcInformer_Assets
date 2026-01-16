@@ -1,0 +1,17 @@
+{
+  "id": "hullcracker_i",
+  "name": "Hullcracker I",
+  "description": "Fires explosive projectiles that only detonate when hitting ARC.",
+  "type": "Special",
+  "rarity": "Epic",
+  "value": 10000,
+  "weight": 7,
+  "stack_size": 1,
+  "recycles_into": {
+    "advanced_mechanical_components": 2,
+    "heavy_gun_parts": 2
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/hullcracker.png",
+  "last_updated": "16/01/2026"
+}

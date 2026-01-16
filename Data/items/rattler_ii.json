@@ -1,0 +1,16 @@
+{
+  "id": "rattler_ii",
+  "name": "Rattler Ii",
+  "description": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
+  "type": "Assault Rifle",
+  "rarity": "Common",
+  "value": 3000,
+  "weight": 6,
+  "stack_size": 0,
+  "recycles_into": {
+    "metal_parts": 12
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rattler.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rattler.png",
+  "last_updated": "16/01/2026"
+}

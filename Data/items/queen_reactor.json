@@ -1,0 +1,17 @@
+{
+  "id": "queen_reactor",
+  "name": "Queen Reactor",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Legendary",
+  "value": 13000,
+  "weight": 10,
+  "stack_size": 0,
+  "recycles_into": {
+    "magnetic_accelerator": 1,
+    "power_rod": 1
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "last_updated": "16/01/2026"
+}

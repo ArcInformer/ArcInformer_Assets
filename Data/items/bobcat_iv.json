@@ -1,0 +1,17 @@
+{
+  "id": "bobcat_iv",
+  "name": "Bobcat Iv",
+  "description": "Fully automatic SMG with high fire rate but low accuracy.",
+  "type": "SMG",
+  "rarity": "Epic",
+  "value": 27000,
+  "weight": 7,
+  "stack_size": 0,
+  "recycles_into": {
+    "advanced_mechanical_components": 5,
+    "light_gun_parts": 4
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bobcat.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "last_updated": "16/01/2026"
+}

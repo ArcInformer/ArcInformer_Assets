@@ -7,7 +7,8 @@
   "value": 5000,
   "weight": 0,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stable_stock_iii_blueprint.png",
+  "recycles_into": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stable_stock_iii.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/stable_stock_iii_blueprint.png",
-  "last_updated": "15/01/2026"
+  "last_updated": "16/01/2026"
 }

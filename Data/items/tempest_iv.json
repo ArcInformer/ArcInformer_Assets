@@ -1,0 +1,17 @@
+{
+  "id": "tempest_iv",
+  "name": "Tempest Iv",
+  "description": "Fully automatic assault rifle with moderate fire rate and accuracy.",
+  "type": "Assault Rifle",
+  "rarity": "Epic",
+  "value": 22000,
+  "weight": 11,
+  "stack_size": 0,
+  "recycles_into": {
+    "advanced_mechanical_components": 5,
+    "medium_gun_parts": 4
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tempest.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "last_updated": "16/01/2026"
+}

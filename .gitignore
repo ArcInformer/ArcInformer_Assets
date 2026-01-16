@@ -140,5 +140,4 @@ vite.config.ts.timestamp-*
 
 .reference/
 
-populate_jsons.ps1
-generate_jsons.ps1
+create_and_update_jsons.ps1

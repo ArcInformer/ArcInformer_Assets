@@ -7,7 +7,8 @@
   "value": 100,
   "weight": 0.01,
   "stack_size": 1,
+  "recycles_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/patrol_car_key.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/patrol_car_key.png",
-  "last_updated": "15/01/2026"
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "last_updated": "16/01/2026"
 }

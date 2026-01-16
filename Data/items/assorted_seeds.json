@@ -7,7 +7,8 @@
   "value": 100,
   "weight": 0.05,
   "stack_size": 100,
+  "recycles_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/assorted_seeds.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/assorted_seeds.png",
-  "last_updated": "15/01/2026"
+  "last_updated": "16/01/2026"
 }

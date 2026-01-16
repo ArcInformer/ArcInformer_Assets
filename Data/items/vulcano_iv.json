@@ -1,0 +1,17 @@
+{
+  "id": "vulcano_iv",
+  "name": "Vulcano Iv",
+  "description": "Semi-automatic shotgun with good bullet spread but sharp falloff",
+  "type": "Shotgun",
+  "rarity": "Epic",
+  "value": 22000,
+  "weight": 8,
+  "stack_size": 0,
+  "recycles_into": {
+    "advanced_mechanical_components": 4,
+    "heavy_gun_parts": 5
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "last_updated": "16/01/2026"
+}

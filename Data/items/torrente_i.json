@@ -1,0 +1,17 @@
+{
+  "id": "torrente_i",
+  "name": "Torrente I",
+  "description": "Has a large ammo capacity, but is only accurate while crouched",
+  "type": "LMG",
+  "rarity": "Rare",
+  "value": 7000,
+  "weight": 12,
+  "stack_size": 0,
+  "recycles_into": {
+    "advanced_mechanical_components": 1,
+    "medium_gun_parts": 2
+  },
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/torrente.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/torrente.png",
+  "last_updated": "16/01/2026"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "horizontal_grip_blueprint",
+  "name": "Horizontal Grip Blueprint",
+  "description": "Moderately reduces both vertical recoil and horizontal recoil.",
+  "type": "Blueprint",
+  "rarity": "Legendary",
+  "value": 5000,
+  "weight": 0,
+  "stack_size": 0,
+  "recycles_into": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/horizontal_grip.png",
+  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "last_updated": "16/01/2026"
+}
