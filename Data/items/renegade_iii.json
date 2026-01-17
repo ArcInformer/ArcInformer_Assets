@@ -15,7 +15,7 @@
   "salvages_into": {
     "medium_gun_parts": 3
   },
-  "crafts_into": {},
+  "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/renegade.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/renegade_iii.png",
   "last_updated": "17/01/2026"

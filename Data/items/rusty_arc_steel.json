@@ -14,7 +14,7 @@
   "salvages_into": {
     "metal_parts": 3
   },
-  "crafts_into": {},
+  "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rusty_arc_steel.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "last_updated": "17/01/2026"

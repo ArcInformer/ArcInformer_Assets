@@ -14,7 +14,7 @@
   "salvages_into": {
     "plastic_parts": 1
   },
-  "crafts_into": {},
+  "crafts_into": ["bettina_i", "bettina_ii", "bettina_iii", "bettina_iv", "vita_spray", "heavy_fuze_grenade", "smoke_grenade"],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/canister.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/canister.png",
   "last_updated": "17/01/2026"

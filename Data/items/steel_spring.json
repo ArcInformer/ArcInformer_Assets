@@ -14,7 +14,7 @@
   "salvages_into": {
     "metal_parts": 1
   },
-  "crafts_into": {},
+  "crafts_into": ["extended_shotgun_mag_i", "extended_medium_mag_i", "extended_light_mag_i", "torrente_i", "torrente_ii", "torrente_iii", "torrente_iv", "extended_medium_mag_ii"],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/steel_spring.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/steel_spring.png",
   "last_updated": "17/01/2026"

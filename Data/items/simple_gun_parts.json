@@ -14,7 +14,7 @@
   "salvages_into": {
     "metal_parts": 1
   },
-  "crafts_into": {},
+  "crafts_into": ["il_toro_i", "il_toro_ii", "il_toro_iii", "il_toro_iv", "burletta_i", "burletta_ii", "burletta_iii", "burletta_iv", "anvil_i", "anvil_ii", "anvil_iii", "anvil_iv", "arpeggio_i", "arpeggio_ii", "arpeggio_iii", "arpeggio_iv", "heavy_gun_parts"],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/simple_gun_parts.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/simple_gun_parts.png",
   "last_updated": "17/01/2026"

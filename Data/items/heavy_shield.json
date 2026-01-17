@@ -18,7 +18,7 @@
   "salvages_into": {
     "arc_alloy": 4
   },
-  "crafts_into": {},
+  "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/heavy_shield.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/heavy_shield.png",
   "last_updated": "17/01/2026"

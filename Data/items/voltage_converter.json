@@ -15,7 +15,7 @@
   "salvages_into": {
     "rubber_parts": 2
   },
-  "crafts_into": {},
+  "crafts_into": ["heavy_shield", "showstopper"],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/voltage_converter.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/voltage_converter.png",
   "last_updated": "17/01/2026"

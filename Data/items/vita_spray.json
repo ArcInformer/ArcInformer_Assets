@@ -18,7 +18,7 @@
   "salvages_into": {
     "antiseptic": 1
   },
-  "crafts_into": {},
+  "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vita_spray.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/vita_spray.png",
   "last_updated": "17/01/2026"

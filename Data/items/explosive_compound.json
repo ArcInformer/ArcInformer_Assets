@@ -17,7 +17,7 @@
   "salvages_into": {
     "crude_explosives": 1
   },
-  "crafts_into": {},
+  "crafts_into": ["wolfpack", "explosive_mine", "blaze_grenade", "heavy_fuze_grenade"],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/explosive_compound.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/explosive_compound.png",
   "last_updated": "17/01/2026"

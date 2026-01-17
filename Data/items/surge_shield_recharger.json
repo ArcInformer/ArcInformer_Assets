@@ -17,7 +17,7 @@
   "salvages_into": {
     "plastic_parts": 5
   },
-  "crafts_into": {},
+  "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/surge_shield_recharger.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/surge_shield_recharger.png",
   "last_updated": "17/01/2026"

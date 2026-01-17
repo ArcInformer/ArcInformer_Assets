@@ -14,7 +14,7 @@
   "salvages_into": {
     "arc_alloy": 2
   },
-  "crafts_into": {},
+  "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/damaged_rocketeer_driver.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/damaged_rocketeer_driver.png",
   "last_updated": "17/01/2026"

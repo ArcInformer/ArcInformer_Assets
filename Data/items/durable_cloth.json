@@ -16,7 +16,7 @@
   "salvages_into": {
     "fabric": 2
   },
-  "crafts_into": {},
+  "crafts_into": ["herbal_bandage", "sterilized_bandage"],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/durable_cloth.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/durable_cloth.png",
   "last_updated": "17/01/2026"

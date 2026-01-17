@@ -16,7 +16,7 @@
   "salvages_into": {
     "chemicals": 2
   },
-  "crafts_into": {},
+  "crafts_into": ["launcher_ammo", "explosive_compound", "snap_blast_grenade", "shrapnel_grenade", "trigger_nade"],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/crude_explosives.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/crude_explosives.png",
   "last_updated": "17/01/2026"

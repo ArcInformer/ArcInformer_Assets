@@ -18,7 +18,7 @@
   "salvages_into": {
     "mechanical_components": 1
   },
-  "crafts_into": {},
+  "crafts_into": ["torrente_i", "torrente_ii", "torrente_iii", "torrente_iv", "venator_i", "venator_ii", "venator_iii", "venator_iv", "osprey_i", "osprey_ii", "osprey_iii", "osprey_iv", "renegade_i", "renegade_ii", "renegade_iii", "renegade_iv", "bettina_i", "bettina_ii", "bettina_iii", "bettina_iv"],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/advanced_mechanical_components.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/advanced_mechanical_components.png",
   "last_updated": "17/01/2026"

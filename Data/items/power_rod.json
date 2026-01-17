@@ -18,7 +18,7 @@
   "salvages_into": {
     "advanced_electrical_components": 1
   },
-  "crafts_into": {},
+  "crafts_into": ["heavy_shield", "snap_hook"],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/power_rod.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/power_rod.png",
   "last_updated": "17/01/2026"

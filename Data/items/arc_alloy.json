@@ -14,7 +14,7 @@
   "salvages_into": {
     "metal_parts": 1
   },
-  "crafts_into": {},
+  "crafts_into": ["light_shield", "arc_motion_core", "arc_circuitry"],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_alloy.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_alloy.png",
   "last_updated": "17/01/2026"

@@ -14,7 +14,7 @@
   "salvages_into": {
     "fabric": 2
   },
-  "crafts_into": {},
+  "crafts_into": ["zipline", "snap_hook"],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rope.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rope.png",
   "last_updated": "17/01/2026"

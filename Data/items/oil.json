@@ -14,7 +14,7 @@
   "salvages_into": {
     "chemicals": 1
   },
-  "crafts_into": {},
+  "crafts_into": ["renegade_i", "renegade_ii", "renegade_iii", "renegade_iv", "explosive_compound", "blaze_grenade"],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/oil.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/oil.png",
   "last_updated": "17/01/2026"
