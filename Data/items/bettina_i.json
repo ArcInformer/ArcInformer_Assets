@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "bettina_i",
   "name": "Bettina I",
   "description": "Has slow fire rate and high damage output.",
@@ -22,5 +22,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bettina.png",
-  "last_updated": "17/01/2026"
+  "found_in": [],
+  "last_updated": "Jan 17, 2026"
 }

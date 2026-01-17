@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "number_plate",
   "name": "Number Plate",
   "description": "Can be recycled into metal parts.",
@@ -17,5 +17,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/number_plate.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/number_plate.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["Mechanical"],
+  "last_updated": "Jan 17, 2026"
 }

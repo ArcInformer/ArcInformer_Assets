@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "silencer_iii",
   "name": "Silencer III",
   "description": "Significantly reduces the amount of noise produced when firing.",
@@ -18,7 +18,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/silencer_iii.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "last_updated": "17/01/2026",
   "compatible_with": [
     "tempest_i",
     "tempest_ii",
@@ -40,5 +39,7 @@
     "renegade_ii",
     "renegade_iii",
     "renegade_iv"
-  ]
+  ],
+  "found_in": [],
+  "last_updated": "Jan 17, 2026"
 }

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "heavy_ammo",
   "name": "Heavy Ammo",
   "description": "",
@@ -16,7 +16,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/heavy_ammo.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/heavy_ammo.png",
-  "last_updated": "17/01/2026",
   "compatible_with": [
     "ferro_i",
     "ferro_ii",
@@ -30,5 +29,7 @@
     "bettina_ii",
     "bettina_iii",
     "bettina_iv"
-  ]
+  ],
+  "found_in": [],
+  "last_updated": "Jan 17, 2026"
 }

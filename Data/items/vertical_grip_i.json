@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "vertical_grip_i",
   "name": "Vertical Grip I",
   "description": "Slightly reduces vertical recoil.",
@@ -20,7 +20,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vertical_grip_i.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/vertical_grip_i.png",
-  "last_updated": "17/01/2026",
   "compatible_with": [
     "tempest_i",
     "tempest_ii",
@@ -42,5 +41,7 @@
     "hullcracker_ii",
     "hullcracker_iii",
     "hullcracker_iv"
-  ]
+  ],
+  "found_in": [],
+  "last_updated": "Jan 17, 2026"
 }

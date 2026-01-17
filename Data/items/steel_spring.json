@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "steel_spring",
   "name": "Steel Spring",
   "description": "Used to craft a wide range of items. Can be recycled into crafting materials.",
@@ -14,8 +14,18 @@
   "salvages_into": {
     "metal_parts": 1
   },
-  "crafts_into": ["extended_shotgun_mag_i", "extended_medium_mag_i", "extended_light_mag_i", "torrente_i", "torrente_ii", "torrente_iii", "torrente_iv", "extended_medium_mag_ii"],
+  "crafts_into": [
+    "extended_shotgun_mag_i",
+    "extended_medium_mag_i",
+    "extended_light_mag_i",
+    "torrente_i",
+    "torrente_ii",
+    "torrente_iii",
+    "torrente_iv",
+    "extended_medium_mag_ii"
+  ],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/steel_spring.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/steel_spring.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["Industrial"],
+  "last_updated": "Jan 17, 2026"
 }

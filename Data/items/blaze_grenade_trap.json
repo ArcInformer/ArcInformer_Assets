@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "blaze_grenade_trap",
   "name": "Blaze Grenade Trap",
   "description": "A laser trip wire that detonates a Blaze Grenade.",
@@ -16,5 +16,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/blaze_grenade_trap.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "last_updated": "17/01/2026"
+  "found_in": [],
+  "last_updated": "Jan 17, 2026"
 }

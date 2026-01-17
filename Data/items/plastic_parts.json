@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "plastic_parts",
   "name": "Plastic Parts",
   "description": "Used to craft a wide range of items.",
@@ -10,8 +10,18 @@
   "recipe": {},
   "recycles_into": {},
   "salvages_into": {},
-  "crafts_into": ["hairpin_i", "hairpin_ii", "hairpin_iii", "hairpin_iv", "light_shield", "looting_mk1", "light_impact_grenade", "extended_shotgun_mag_i"],
+  "crafts_into": [
+    "hairpin_i",
+    "hairpin_ii",
+    "hairpin_iii",
+    "hairpin_iv",
+    "light_shield",
+    "looting_mk1",
+    "light_impact_grenade",
+    "extended_shotgun_mag_i"
+  ],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/plastic_parts.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/plastic_parts.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["Commercial", "Residential", "Technological"],
+  "last_updated": "Jan 17, 2026"
 }

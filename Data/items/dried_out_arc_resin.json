@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "dried_out_arc_resin",
   "name": "Dried Out Arc Resin",
   "description": "Obtained from ARC enemies or activities. Can be recycled into plastic.",
@@ -17,5 +17,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/dried_out_arc_resin.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["ARC"],
+  "last_updated": "Jan 17, 2026"
 }

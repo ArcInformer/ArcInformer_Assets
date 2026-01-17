@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "light_ammo",
   "name": "Light Ammo",
   "description": "Light bullets used mainly with SMGs and light handguns.",
@@ -16,7 +16,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/light_ammo.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/light_ammo.png",
-  "last_updated": "17/01/2026",
   "compatible_with": [
     "burletta_i",
     "burletta_ii",
@@ -38,5 +37,7 @@
     "bobcat_ii",
     "bobcat_iii",
     "bobcat_iv"
-  ]
+  ],
+  "found_in": [],
+  "last_updated": "Jan 17, 2026"
 }

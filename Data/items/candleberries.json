@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "candleberries",
   "name": "Candleberries",
   "description": "A waxy berry that grows only during a small window each year. People have depended on them to make candles, foods and medicine for ages.",
@@ -15,5 +15,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/candleberries.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["Nature"],
+  "last_updated": "Jan 17, 2026"
 }

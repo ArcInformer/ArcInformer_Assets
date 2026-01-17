@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "magnetic_accelerator",
   "name": "Magnetic Accelerator",
   "description": "Used to craft advanced weapons.",
@@ -18,8 +18,24 @@
   "salvages_into": {
     "advanced_mechanical_components": 1
   },
-  "crafts_into": ["tempest_i", "tempest_ii", "tempest_iii", "tempest_iv", "equalizer", "vulcano_i", "vulcano_ii", "vulcano_iii", "volcano_iv", "jupiter", "hullcracker_i", "hullcracker_ii", "hullcracker_iii", "hullcracker_iv"],
+  "crafts_into": [
+    "tempest_i",
+    "tempest_ii",
+    "tempest_iii",
+    "tempest_iv",
+    "equalizer",
+    "vulcano_i",
+    "vulcano_ii",
+    "vulcano_iii",
+    "volcano_iv",
+    "jupiter",
+    "hullcracker_i",
+    "hullcracker_ii",
+    "hullcracker_iii",
+    "hullcracker_iv"
+  ],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/magnetic_accelerator.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/magnetic_accelerator.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["Exodus"],
+  "last_updated": "Jan 17, 2026"
 }

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "shaker",
   "name": "Shaker",
   "description": "A rhythmic instrument used to attract ARC\u0027s attention, and impress other Raiders.",
@@ -17,5 +17,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shaker.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/shaker.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["Residential"],
+  "last_updated": "Jan 17, 2026"
 }

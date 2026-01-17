@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "bombardier_cell",
   "name": "Bombardier Cell",
   "description": "Can be recycled into crafting materials.",
@@ -16,5 +16,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bombardier_cell.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bombardier_cell.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["ARC"],
+  "last_updated": "Jan 17, 2026"
 }

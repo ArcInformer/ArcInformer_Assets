@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "vita_spray",
   "name": "Vita Spray",
   "description": "A medical item that continuously restores health during use. Can be used on yourself or your allies.",
@@ -21,5 +21,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vita_spray.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/vita_spray.png",
-  "last_updated": "17/01/2026"
+  "found_in": [],
+  "last_updated": "Jan 17, 2026"
 }

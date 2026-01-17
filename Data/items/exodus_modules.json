@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "exodus_modules",
   "name": "Exodus Modules",
   "description": "Used to craft a wide range of items.",
@@ -15,8 +15,27 @@
   "salvages_into": {
     "processor": 2
   },
-  "crafts_into": ["tempest_i", "tempest_ii", "tempest_iii", "tempest_iv", "vulcano_i", "vulcano_ii", "vulcano_iii", "volcano_iv", "hullcracker_i", "hullcracker_ii", "hullcracker_iii", "hullcracker_iv", "bobcat_i", "bobcat_ii", "bobcat_iii", "bobcat_iv", "snap_hook"],
+  "crafts_into": [
+    "tempest_i",
+    "tempest_ii",
+    "tempest_iii",
+    "tempest_iv",
+    "vulcano_i",
+    "vulcano_ii",
+    "vulcano_iii",
+    "volcano_iv",
+    "hullcracker_i",
+    "hullcracker_ii",
+    "hullcracker_iii",
+    "hullcracker_iv",
+    "bobcat_i",
+    "bobcat_ii",
+    "bobcat_iii",
+    "bobcat_iv",
+    "snap_hook"
+  ],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/exodus_modules.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/exodus_modules.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["Exodus"],
+  "last_updated": "Jan 17, 2026"
 }

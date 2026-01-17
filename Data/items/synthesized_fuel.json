@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "synthesized_fuel",
   "name": "Synthesized Fuel",
   "description": "A canister of synthetic fuel blend.",
@@ -18,5 +18,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/synthesized_fuel.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/synthesized_fuel.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["Exodus"],
+  "last_updated": "Jan 17, 2026"
 }

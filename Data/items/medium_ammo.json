@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "medium_ammo",
   "name": "Medium Ammo",
   "description": "",
@@ -16,7 +16,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/medium_ammo.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/medium_ammo.png",
-  "last_updated": "17/01/2026",
   "compatible_with": [
     "rattler_i",
     "rattler_ii",
@@ -38,5 +37,7 @@
     "torrente_ii",
     "torrente_iii",
     "torrente_iv"
-  ]
+  ],
+  "found_in": [],
+  "last_updated": "Jan 17, 2026"
 }

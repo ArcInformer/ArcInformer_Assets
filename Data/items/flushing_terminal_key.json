@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "flushing_terminal_key",
   "name": "Flushing Terminal Key",
   "description": "This key is used for the quest The Stench of Corruption to activate the Flushing Terminal",
@@ -13,5 +13,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/flushing_terminal_key.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "last_updated": "17/01/2026"
+  "found_in": [],
+  "last_updated": "Jan 17, 2026"
 }

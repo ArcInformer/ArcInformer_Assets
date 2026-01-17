@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "arc_motion_core",
   "name": "Arc Motion Core",
   "description": "Obtained from ARC enemies or activities. Used to craft components. Can be recycled into ARC Alloy.",
@@ -19,5 +19,6 @@
   "crafts_into": ["magnetic_accelerator"],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_motion_core.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_motion_core.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["ARC"],
+  "last_updated": "Jan 17, 2026"
 }

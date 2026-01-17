@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "snitch_scanner",
   "name": "Snitch Scanner",
   "description": "Can be recycled into ARC Alloy. Can be thrown to call in ARC.",
@@ -18,5 +18,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/snitch_scanner.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/snitch_scanner.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["ARC"],
+  "last_updated": "Jan 17, 2026"
 }

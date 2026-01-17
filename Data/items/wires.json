@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "wires",
   "name": "Wires",
   "description": "Used to craft a wide range of items. Can be recycled into crafting materials.",
@@ -14,8 +14,15 @@
   "salvages_into": {
     "rubber_parts": 1
   },
-  "crafts_into": ["blaze_grenade_trap", "smoke_grenade_trap", "lure_grenade_trap", "gas_grenade_trap", "muzzle_brake_i"],
+  "crafts_into": [
+    "blaze_grenade_trap",
+    "smoke_grenade_trap",
+    "lure_grenade_trap",
+    "gas_grenade_trap",
+    "muzzle_brake_i"
+  ],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/wires.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/wires.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["Electrical", "Technological"],
+  "last_updated": "Jan 17, 2026"
 }

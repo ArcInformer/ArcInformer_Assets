@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "stella_montis_assembly_admin_key",
   "name": "Stella Montis Assembly Admin Key",
   "description": "Unlocks a door in Assembly in Stella Montis",
@@ -13,5 +13,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stella_montis_assembly_admin_key.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/stella_montis_assembly_admin_key.png",
-  "last_updated": "17/01/2026"
+  "found_in": [],
+  "last_updated": "Jan 17, 2026"
 }

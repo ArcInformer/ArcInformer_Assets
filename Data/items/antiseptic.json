@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "antiseptic",
   "name": "Antiseptic",
   "description": "Used to craft medical supplies. Can be recycled into chemicals.",
@@ -20,5 +20,6 @@
   "crafts_into": ["sterilized_bandage", "vita_spray", "vita_shot"],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/antiseptic.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/antiseptic.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["Medical"],
+  "last_updated": "Jan 17, 2026"
 }

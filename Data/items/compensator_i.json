@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "compensator_i",
   "name": "Compensator I",
   "description": "Slightly reduces per-shot dispersion.",
@@ -20,7 +20,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/compensator_i.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "last_updated": "17/01/2026",
   "compatible_with": [
     "arpeggio_i",
     "arpeggio_ii",
@@ -42,5 +41,7 @@
     "stitcher_ii",
     "stitcher_iii",
     "stitcher_iv"
-  ]
+  ],
+  "found_in": [],
+  "last_updated": "Jan 17, 2026"
 }

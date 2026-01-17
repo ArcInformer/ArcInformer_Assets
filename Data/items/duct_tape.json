@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "duct_tape",
   "name": "Duct Tape",
   "description": "Used to craft a wide range of items. Can be recycled into crafting materials.",
@@ -14,8 +14,15 @@
   "salvages_into": {
     "fabric": 1
   },
-  "crafts_into": ["stable_stock_i", "vertical_grip_i", "angled_grip_i", "vertical_grip_ii", "angled_grip_ii"],
+  "crafts_into": [
+    "stable_stock_i",
+    "vertical_grip_i",
+    "angled_grip_i",
+    "vertical_grip_ii",
+    "angled_grip_ii"
+  ],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/duct_tape.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/duct_tape.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["Residential", "Commercial"],
+  "last_updated": "Jan 17, 2026"
 }

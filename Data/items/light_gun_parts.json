@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "light_gun_parts",
   "name": "Light Gun Parts",
   "description": "Assorted spare parts used for pistols and SMGs.",
@@ -16,8 +16,15 @@
   "salvages_into": {
     "simple_gun_parts": 1
   },
-  "crafts_into": ["bobcat_i", "bobcat_ii", "bobcat_iii", "bobcat_iv", "complex_gun_parts"],
+  "crafts_into": [
+    "bobcat_i",
+    "bobcat_ii",
+    "bobcat_iii",
+    "bobcat_iv",
+    "complex_gun_parts"
+  ],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/light_gun_parts.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/light_gun_parts.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["Raider", "Security"],
+  "last_updated": "Jan 17, 2026"
 }

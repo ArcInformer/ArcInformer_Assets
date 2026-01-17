@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "renegade_iv",
   "name": "Renegade Iv",
   "description": "Lever-action battle rifle with high damage output, accuracy, and headshot damage.",
@@ -18,5 +18,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/renegade.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/renegade.png",
-  "last_updated": "17/01/2026"
+  "found_in": [],
+  "last_updated": "Jan 17, 2026"
 }

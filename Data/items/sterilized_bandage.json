@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "sterilized_bandage",
   "name": "Sterilized Bandage",
   "description": "A medical item that gradually restores a large amount of health over time.",
@@ -21,5 +21,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/sterilized_bandage.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/sterilized_bandage.png",
-  "last_updated": "17/01/2026"
+  "found_in": [],
+  "last_updated": "Jan 17, 2026"
 }

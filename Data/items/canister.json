@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "canister",
   "name": "Canister",
   "description": "Used to craft a wide range of items. Can be recycled into plastic.",
@@ -14,8 +14,17 @@
   "salvages_into": {
     "plastic_parts": 1
   },
-  "crafts_into": ["bettina_i", "bettina_ii", "bettina_iii", "bettina_iv", "vita_spray", "heavy_fuze_grenade", "smoke_grenade"],
+  "crafts_into": [
+    "bettina_i",
+    "bettina_ii",
+    "bettina_iii",
+    "bettina_iv",
+    "vita_spray",
+    "heavy_fuze_grenade",
+    "smoke_grenade"
+  ],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/canister.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/canister.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["Commercial"],
+  "last_updated": "Jan 17, 2026"
 }

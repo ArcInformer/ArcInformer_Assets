@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "anvil_splitter",
   "name": "Anvil Splitter",
   "description": "Tech mod for the Anvil that replaces its bullets with ones that split into 4 weaker projectiles.",
@@ -18,5 +18,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil_splitter.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "last_updated": "17/01/2026"
+  "found_in": [],
+  "last_updated": "Jan 17, 2026"
 }

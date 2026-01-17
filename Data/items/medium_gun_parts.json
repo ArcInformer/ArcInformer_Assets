@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "medium_gun_parts",
   "name": "Medium Gun Parts",
   "description": "Assorted spare parts used for rifles.",
@@ -16,8 +16,30 @@
   "salvages_into": {
     "simple_gun_parts": 1
   },
-  "crafts_into": ["torrente_i", "torrente_ii", "torrente_iii", "torrente_iv", "venator_i", "venator_ii", "venator_iii", "venator_iv", "osprey_i", "osprey_ii", "osprey_iii", "osprey_iv", "renegade_i", "renegade_ii", "renegade_iii", "renegade_iv", "tempest_i", "tempest_ii", "tempest_iii", "tempest_iv"],
+  "crafts_into": [
+    "torrente_i",
+    "torrente_ii",
+    "torrente_iii",
+    "torrente_iv",
+    "venator_i",
+    "venator_ii",
+    "venator_iii",
+    "venator_iv",
+    "osprey_i",
+    "osprey_ii",
+    "osprey_iii",
+    "osprey_iv",
+    "renegade_i",
+    "renegade_ii",
+    "renegade_iii",
+    "renegade_iv",
+    "tempest_i",
+    "tempest_ii",
+    "tempest_iii",
+    "tempest_iv"
+  ],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/medium_gun_parts.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/medium_gun_parts.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["Raider", "Security"],
+  "last_updated": "Jan 17, 2026"
 }

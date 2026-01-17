@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "combat_mk3_flanking_blueprint",
   "name": "Combat Mk3 Flanking Blueprint",
   "description": "An improved version of the Combat II augment. Designed for flanking maneuvers with enhanced mobility.",
@@ -13,5 +13,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk3_flanking.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/combat_mk3_flanking_blueprint.png",
-  "last_updated": "17/01/2026"
+  "found_in": [],
+  "last_updated": "Jan 17, 2026"
 }

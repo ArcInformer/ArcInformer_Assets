@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "seeker_grenade",
   "name": "Seeker Grenade",
   "description": "A homing grenade that targets a single nearby ARC dealing explosive damage on impact.",
@@ -20,5 +20,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/seeker_grenade.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "last_updated": "17/01/2026"
+  "found_in": [],
+  "last_updated": "Jan 17, 2026"
 }

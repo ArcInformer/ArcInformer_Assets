@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "muzzle_brake_i",
   "name": "Muzzle Brake I",
   "description": "Slightly reduces both vertical recoil \u0026 horizontal recoil.",
@@ -20,7 +20,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/muzzle_brake_i.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/muzzle_brake_i.png",
-  "last_updated": "17/01/2026",
   "compatible_with": [
     "rattler_i",
     "rattler_ii",
@@ -42,5 +41,7 @@
     "tempest_ii",
     "tempest_iii",
     "tempest_iv"
-  ]
+  ],
+  "found_in": [],
+  "last_updated": "Jan 17, 2026"
 }

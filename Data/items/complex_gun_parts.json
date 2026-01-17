@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "complex_gun_parts",
   "name": "Complex Gun Parts",
   "description": "Used to craft advanced weapons.",
@@ -21,5 +21,6 @@
   "crafts_into": ["equalizer", "jupiter"],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/complex_gun_parts.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/complex_gun_parts.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["Security"],
+  "last_updated": "Jan 17, 2026"
 }

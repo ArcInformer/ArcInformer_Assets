@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "spaceport_trench_tower_key",
   "name": "Spaceport Trench Tower Key",
   "description": "Unlocks a door to the Trench Towers in Spaceport",
@@ -13,5 +13,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/spaceport_trench_tower_key.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "last_updated": "17/01/2026"
+  "found_in": [],
+  "last_updated": "Jan 17, 2026"
 }

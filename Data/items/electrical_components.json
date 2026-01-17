@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "electrical_components",
   "name": "Electrical Components",
   "description": "Used to craft a wide range of items. Can be recycled into crafting materials.",
@@ -18,8 +18,15 @@
   "salvages_into": {
     "plastic_parts": 3
   },
-  "crafts_into": ["tactical_mk2", "combat_mk2", "looting_mk2", "surge_shield_recharger", "lure_grenade"],
+  "crafts_into": [
+    "tactical_mk2",
+    "combat_mk2",
+    "looting_mk2",
+    "surge_shield_recharger",
+    "lure_grenade"
+  ],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/electrical_components.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["Electrical"],
+  "last_updated": "Jan 17, 2026"
 }

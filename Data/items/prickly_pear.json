@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "prickly_pear",
   "name": "Prickly Pear",
   "description": "Can be consumed for a small amount of stamina.",
@@ -17,5 +17,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/prickly_pear.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["Nature"],
+  "last_updated": "Jan 17, 2026"
 }

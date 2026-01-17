@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "industrial_battery",
   "name": "Industrial Battery",
   "description": "A large, high-capacity battery for industrial equipment.",
@@ -18,5 +18,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/industrial_battery.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/industrial_battery.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["Industrial"],
+  "last_updated": "Jan 17, 2026"
 }

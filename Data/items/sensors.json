@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "sensors",
   "name": "Sensors",
   "description": "Used in crafting.",
@@ -15,8 +15,14 @@
   "salvages_into": {
     "wires": 1
   },
-  "crafts_into": ["wolfpack", "explosive_mine", "raider_hatch_key", "tagging_grenade"],
+  "crafts_into": [
+    "wolfpack",
+    "explosive_mine",
+    "raider_hatch_key",
+    "tagging_grenade"
+  ],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/sensors.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/sensors.png",
-  "last_updated": "17/01/2026"
+  "found_in": ["Security", "Technological"],
+  "last_updated": "Jan 17, 2026"
 }

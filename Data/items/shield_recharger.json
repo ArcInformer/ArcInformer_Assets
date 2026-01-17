@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "shield_recharger",
   "name": "Shield Recharger",
   "description": "A handheld kit that gradually recharges shield over time.",
@@ -20,5 +20,6 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shield_recharger.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/shield_recharger.png",
-  "last_updated": "17/01/2026"
+  "found_in": [],
+  "last_updated": "Jan 17, 2026"
 }
