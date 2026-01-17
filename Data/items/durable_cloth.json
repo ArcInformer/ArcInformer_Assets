@@ -1,7 +1,7 @@
 {
   "id": "durable_cloth",
   "name": "Durable Cloth",
-  "description": "Used to craft medical supplies. Used to craft: Herbal Bandage, Sterilized Bandage",
+  "description": "Used to craft medical supplies.",
   "type": "Refined Material",
   "rarity": "Uncommon",
   "value": 640,

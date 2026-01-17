@@ -1,7 +1,7 @@
 {
   "id": "sensors",
   "name": "Sensors",
-  "description": "Used in crafting. Used to craft: Wolfpack, Explosive Mine, Raider Hatch Key, Tagging Grenade",
+  "description": "Used in crafting.",
   "type": "Topside Material",
   "rarity": "Rare",
   "value": 500,

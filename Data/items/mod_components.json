@@ -1,7 +1,7 @@
 {
   "id": "mod_components",
   "name": "Mod Components",
-  "description": "Used to craft weapon mods. Can be recycled into crafting materials. Used to craft: Lightweight Stock, Shotgun Choke III, Extended Shotgun Mag III, Padded Stock, Compensator III",
+  "description": "Used to craft weapon mods. Can be recycled into crafting materials.",
   "type": "Refined Material",
   "rarity": "Rare",
   "value": 1750,

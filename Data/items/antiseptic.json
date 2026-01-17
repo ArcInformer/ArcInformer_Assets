@@ -1,7 +1,7 @@
 {
   "id": "antiseptic",
   "name": "Antiseptic",
-  "description": "Used to craft medical supplies. Can be recycled into chemicals. Used to craft: Sterilized Bandage, Vita Spray, Vita Shot",
+  "description": "Used to craft medical supplies. Can be recycled into chemicals.",
   "type": "Refined Material",
   "rarity": "Rare",
   "value": 1000,

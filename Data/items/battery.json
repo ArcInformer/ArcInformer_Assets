@@ -1,7 +1,7 @@
 {
   "id": "battery",
   "name": "Battery",
-  "description": "Used to craft a wide range of items. Can be recycled into scrap metal. Used to craft: Energy Clip, Medium Shield, Jolt Mine",
+  "description": "Used to craft a wide range of items. Can be recycled into scrap metal.",
   "type": "Topside Material",
   "rarity": "Uncommon",
   "value": 250,

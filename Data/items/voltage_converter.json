@@ -1,7 +1,7 @@
 {
   "id": "voltage_converter",
   "name": "Voltage Converter",
-  "description": "Used in crafting. Used to craft: Heavy Shield, Showstopper",
+  "description": "Used in crafting.",
   "type": "Topside Material",
   "rarity": "Rare",
   "value": 500,

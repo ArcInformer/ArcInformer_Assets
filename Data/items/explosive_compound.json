@@ -1,7 +1,7 @@
 {
   "id": "explosive_compound",
   "name": "Explosive Compound",
-  "description": "Used to craft explosives. Used to craft: Wolfpack, Explosive Mine, Blaze Grenade, Heavy Fuze Grenade",
+  "description": "Used to craft explosives.",
   "type": "Refined Material",
   "rarity": "Rare",
   "value": 1000,

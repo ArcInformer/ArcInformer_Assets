@@ -1,7 +1,7 @@
 {
   "id": "oil",
   "name": "Oil",
-  "description": "Used to craft weapons and explosives. Can be recycled into chemicals. Used to craft: Renegade, Explosive Compound, Blaze Grenade",
+  "description": "Used to craft weapons and explosives. Can be recycled into chemicals.",
   "type": "Topside Material",
   "rarity": "Uncommon",
   "value": 300,

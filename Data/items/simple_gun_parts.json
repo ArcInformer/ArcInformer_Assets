@@ -1,7 +1,7 @@
 {
   "id": "simple_gun_parts",
   "name": "Simple Gun Parts",
-  "description": "Used to craft weapons. Used to craft: Il Toro, Burletta, Anvil, Arpeggio, Heavy Gun Parts",
+  "description": "Used to craft weapons.",
   "type": "Topside Material",
   "rarity": "Uncommon",
   "value": 330,

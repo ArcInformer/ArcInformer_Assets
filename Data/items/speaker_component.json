@@ -1,7 +1,7 @@
 {
   "id": "speaker_component",
   "name": "Speaker Component",
-  "description": "Used in crafting. Used to craft: Lure Grenade, Photoelectric Cloak",
+  "description": "Used in crafting.",
   "type": "Topside Material",
   "rarity": "Rare",
   "value": 500,

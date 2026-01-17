@@ -1,7 +1,7 @@
 {
   "id": "power_rod",
   "name": "Power Rod",
-  "description": "Used in crafting. Used to craft: Heavy Shield, Snap Hook",
+  "description": "Used in crafting.",
   "type": "Refined Material",
   "rarity": "Epic",
   "value": 5000,

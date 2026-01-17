@@ -1,7 +1,7 @@
 {
   "id": "exodus_modules",
   "name": "Exodus Modules",
-  "description": "Used to craft a wide range of items. Used to craft: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
+  "description": "Used to craft a wide range of items.",
   "type": "Topside Material",
   "rarity": "Epic",
   "value": 2750,

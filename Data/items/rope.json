@@ -1,7 +1,7 @@
 {
   "id": "rope",
   "name": "Rope",
-  "description": "Used in crafting. Used to craft: Zipline, Snap Hook",
+  "description": "Used in crafting.",
   "type": "Topside Material",
   "rarity": "Rare",
   "value": 500,

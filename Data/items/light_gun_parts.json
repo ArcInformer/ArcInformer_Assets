@@ -1,7 +1,7 @@
 {
   "id": "light_gun_parts",
   "name": "Light Gun Parts",
-  "description": "Assorted spare parts used for pistols and SMGs. Used to craft: Bobcat, Complex Gun Parts",
+  "description": "Assorted spare parts used for pistols and SMGs.",
   "type": "Topside Material",
   "rarity": "Rare",
   "value": 700,

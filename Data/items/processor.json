@@ -1,7 +1,7 @@
 {
   "id": "processor",
   "name": "Processor",
-  "description": "Used in crafting. Used to craft: Tactical Mk. 3 (Defensive), Combat Mk. 3 (Flanking), Combat Mk. 3 (Aggressive), Looting Mk. 3 (Cautious), Tactical Mk. 3 (Healing)",
+  "description": "Used in crafting.",
   "type": "Topside Material",
   "rarity": "Rare",
   "value": 500,

@@ -1,7 +1,7 @@
 {
   "id": "advanced_electrical_components",
   "name": "Advanced Electrical Components",
-  "description": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Tactical Mk. 3 (Defensive), Combat Mk. 3 (Flanking), Combat Mk. 3 (Aggressive), Looting Mk. 3 (Cautious), Tactical Mk. 3 (Healing)",
+  "description": "Used to craft a wide range of items. Can be recycled into crafting materials.",
   "type": "Refined Material",
   "rarity": "Rare",
   "value": 1750,

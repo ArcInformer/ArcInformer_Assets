@@ -1,7 +1,7 @@
 {
   "id": "chemicals",
   "name": "Chemicals",
-  "description": "Used to craft medical supplies, explosives, and utility items. Used to craft: Heavy Ammo, Medium Ammo, Shotgun Ammo, Light Ammo, Light Impact Grenade",
+  "description": "Used to craft medical supplies, explosives, and utility items.",
   "type": "Basic Material",
   "rarity": "Common",
   "value": 50,

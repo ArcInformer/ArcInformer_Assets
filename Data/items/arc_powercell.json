@@ -1,7 +1,7 @@
 {
   "id": "arc_powercell",
   "name": "Arc Powercell",
-  "description": "Valuable resource that drops from all ARC enemies. Used to craft: Shield Recharger Can be used to repair shields.",
+  "description": "Valuable resource that drops from all ARC enemies.",
   "type": "Topside Material",
   "rarity": "Common",
   "value": 270,

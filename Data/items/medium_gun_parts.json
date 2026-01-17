@@ -1,7 +1,7 @@
 {
   "id": "medium_gun_parts",
   "name": "Medium Gun Parts",
-  "description": "Assorted spare parts used for rifles. Used to craft: Torrente, Venator, Osprey, Renegade, Tempest",
+  "description": "Assorted spare parts used for rifles.",
   "type": "Topside Material",
   "rarity": "Rare",
   "value": 700,

@@ -1,7 +1,7 @@
 {
   "id": "heavy_gun_parts",
   "name": "Heavy Gun Parts",
-  "description": "Used to craft weapons. Used to craft: Vulcano, Hullcracker, Bettina, Complex Gun Parts",
+  "description": "Used to craft weapons.",
   "type": "Topside Material",
   "rarity": "Rare",
   "value": 700,

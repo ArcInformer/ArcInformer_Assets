@@ -1,7 +1,7 @@
 {
   "id": "rubber_parts",
   "name": "Rubber Parts",
-  "description": "Scrap rubber pieces for crafting. Used to craft: Ferro, Kettle, Looting Mk. 1, Shield Recharger, Stitcher",
+  "description": "Scrap rubber pieces for crafting.",
   "type": "Basic Material",
   "rarity": "Common",
   "value": 50,

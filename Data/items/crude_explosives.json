@@ -1,7 +1,7 @@
 {
   "id": "crude_explosives",
   "name": "Crude Explosives",
-  "description": "Used to craft explosives. Can be recycled into crafting materials. Used to craft: Launcher Ammo, Explosive Compound, Snap Blast Grenade, Shrapnel Grenade, Trigger \u0027Nade",
+  "description": "Used to craft explosives. Can be recycled into crafting materials.",
   "type": "Refined Material",
   "rarity": "Uncommon",
   "value": 270,

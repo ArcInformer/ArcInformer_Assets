@@ -1,7 +1,7 @@
 {
   "id": "arc_motion_core",
   "name": "Arc Motion Core",
-  "description": "Obtained from ARC enemies or activities. Used to craft components. Can be recycled into ARC Alloy. Used to craft: Magnetic Accelerator",
+  "description": "Obtained from ARC enemies or activities. Used to craft components. Can be recycled into ARC Alloy.",
   "type": "Topside Material",
   "rarity": "Rare",
   "value": 1000,

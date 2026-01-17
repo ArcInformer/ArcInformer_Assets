@@ -1,7 +1,7 @@
 {
   "id": "great_mullein",
   "name": "Great Mullein",
-  "description": "Used to craft medical supplies. Used to craft: Herbal Bandage, Antiseptic",
+  "description": "Used to craft medical supplies.",
   "type": "Topside Material",
   "rarity": "Uncommon",
   "value": 300,

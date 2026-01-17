@@ -1,7 +1,7 @@
 {
   "id": "syringe",
   "name": "Syringe",
-  "description": "Used to craft medical supplies. Can be recycled into plastic. Used to craft: Vita Shot",
+  "description": "Used to craft medical supplies. Can be recycled into plastic.",
   "type": "Topside Material",
   "rarity": "Rare",
   "value": 500,

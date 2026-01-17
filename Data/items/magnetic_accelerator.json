@@ -1,7 +1,7 @@
 {
   "id": "magnetic_accelerator",
   "name": "Magnetic Accelerator",
-  "description": "Used to craft advanced weapons. Used to craft: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
+  "description": "Used to craft advanced weapons.",
   "type": "Refined Material",
   "rarity": "Epic",
   "value": 5500,

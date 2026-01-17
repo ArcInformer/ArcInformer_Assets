@@ -1,7 +1,7 @@
 {
   "id": "complex_gun_parts",
   "name": "Complex Gun Parts",
-  "description": "Used to craft advanced weapons. Used to craft: Equalizer, Jupiter",
+  "description": "Used to craft advanced weapons.",
   "type": "Topside Material",
   "rarity": "Epic",
   "value": 3000,

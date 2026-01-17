@@ -1,7 +1,7 @@
 {
   "id": "advanced_mechanical_components",
   "name": "Advanced Mechanical Components",
-  "description": "Used to craft advanced weapons. Can be recycled into crafting materials. Used to craft: Torrente, Venator, Osprey, Renegade, Bettina",
+  "description": "Used to craft advanced weapons. Can be recycled into crafting materials.",
   "type": "Refined Material",
   "rarity": "Rare",
   "value": 1750,
