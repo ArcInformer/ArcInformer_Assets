@@ -1,7 +1,7 @@
 {
   "id": "kinetic_converter",
   "name": "Kinetic Converter",
-  "description": "Moderately increases fire rate. Compatible with: Arpeggio, Rattler, Kettle, Ferro, Renegade",
+  "description": "Moderately increases fire rate.",
   "type": "Modification",
   "rarity": "Legendary",
   "value": 7000,

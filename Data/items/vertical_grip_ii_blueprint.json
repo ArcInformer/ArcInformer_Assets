@@ -1,7 +1,7 @@
 {
   "id": "vertical_grip_ii_blueprint",
   "name": "Vertical Grip II Blueprint",
-  "description": "Moderately reduces vertical recoil. Compatible with: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+  "description": "Moderately reduces vertical recoil.",
   "type": "Blueprint",
   "rarity": "Legendary",
   "value": 5000,

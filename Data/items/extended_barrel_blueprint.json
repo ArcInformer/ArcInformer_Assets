@@ -1,7 +1,7 @@
 {
   "id": "extended_barrel_blueprint",
   "name": "Extended Barrel Blueprint",
-  "description": "Moderately increases bullet velocity. Compatible with: Tempest, Arpeggio, Ferro, Renegade, Anvil",
+  "description": "Moderately increases bullet velocity.",
   "type": "Blueprint",
   "rarity": "Legendary",
   "value": 5000,

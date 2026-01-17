@@ -1,7 +1,7 @@
 {
   "id": "compensator_ii",
   "name": "Compensator II",
-  "description": "Moderately reduces per-shot dispersion. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+  "description": "Moderately reduces per-shot dispersion.",
   "type": "Modification",
   "rarity": "Uncommon",
   "value": 2000,

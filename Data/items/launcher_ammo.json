@@ -1,7 +1,7 @@
 {
   "id": "launcher_ammo",
   "name": "Launcher Ammo",
-  "description": "Anti-ARC payloads used mainly by the Hullcracker. Compatible with: Hullcracker",
+  "description": "Anti-ARC payloads used mainly by the Hullcracker.",
   "type": "Ammunition",
   "rarity": "Rare",
   "value": 250,

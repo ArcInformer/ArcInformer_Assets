@@ -1,7 +1,7 @@
 {
   "id": "silencer_iii",
   "name": "Silencer III",
-  "description": "Significantly reduces the amount of noise produced when firing. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Renegade",
+  "description": "Significantly reduces the amount of noise produced when firing.",
   "type": "Modification",
   "rarity": "Epic",
   "value": 7000,

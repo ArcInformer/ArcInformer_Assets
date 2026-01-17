@@ -1,7 +1,7 @@
 {
   "id": "extended_shotgun_mag_iii",
   "name": "Extended Shotgun Mag III",
-  "description": "Significantly extends the ammo capacity of shotguns. Compatible with: Il Toro, Vulcano",
+  "description": "Significantly extends the ammo capacity of shotguns.",
   "type": "Modification",
   "rarity": "Rare",
   "value": 5000,

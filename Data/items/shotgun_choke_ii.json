@@ -1,7 +1,7 @@
 {
   "id": "shotgun_choke_ii",
   "name": "Shotgun Choke II",
-  "description": "Moderately reduces base dispersion. Compatible with: Il Toro, Vulcano",
+  "description": "Moderately reduces base dispersion.",
   "type": "Modification",
   "rarity": "Uncommon",
   "value": 2000,

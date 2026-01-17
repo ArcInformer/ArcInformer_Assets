@@ -1,7 +1,7 @@
 {
   "id": "shotgun_ammo",
   "name": "Shotgun Ammo",
-  "description": "Compatible with: Il Toro, Vulcano",
+  "description": "",
   "type": "Ammunition",
   "rarity": "Common",
   "value": 20,

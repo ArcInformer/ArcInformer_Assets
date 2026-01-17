@@ -1,7 +1,7 @@
 {
   "id": "silencer_ii",
   "name": "Silencer II",
-  "description": "Moderately reduces the amount of noise produced when firing. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+  "description": "Moderately reduces the amount of noise produced when firing.",
   "type": "Modification",
   "rarity": "Rare",
   "value": 5000,

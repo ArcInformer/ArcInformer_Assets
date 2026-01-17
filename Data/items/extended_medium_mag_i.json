@@ -1,7 +1,7 @@
 {
   "id": "extended_medium_mag_i",
   "name": "Extended Medium Mag I",
-  "description": "Moderately extends the ammo capacity of compatible weapons that use medium ammo. Compatible with: Arpeggio, Renegade, Venator, Tempest, Torrente",
+  "description": "Moderately extends the ammo capacity of compatible weapons that use medium ammo.",
   "type": "Modification",
   "rarity": "Common",
   "value": 640,

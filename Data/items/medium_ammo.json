@@ -1,7 +1,7 @@
 {
   "id": "medium_ammo",
   "name": "Medium Ammo",
-  "description": "Compatible with: Rattler, Tempest, Arpeggio, Renegade, Torrente",
+  "description": "",
   "type": "Ammunition",
   "rarity": "Common",
   "value": 6,

@@ -1,7 +1,7 @@
 {
   "id": "muzzle_brake_i",
   "name": "Muzzle Brake I",
-  "description": "Slightly reduces both vertical recoil \u0026 horizontal recoil. Compatible with: Rattler, Ferro, Burletta, Stitcher, Tempest",
+  "description": "Slightly reduces both vertical recoil \u0026 horizontal recoil.",
   "type": "Modification",
   "rarity": "Common",
   "value": 640,

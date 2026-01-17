@@ -1,7 +1,7 @@
 {
   "id": "padded_stock_blueprint",
   "name": "Padded Stock Blueprint",
-  "description": "Significantly improves stability. Compatible with: Arpeggio, Rattler, Ferro, Renegade, Torrente",
+  "description": "Significantly improves stability.",
   "type": "Blueprint",
   "rarity": "Legendary",
   "value": 5000,

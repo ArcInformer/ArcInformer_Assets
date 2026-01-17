@@ -1,7 +1,7 @@
 {
   "id": "padded_stock",
   "name": "Padded Stock",
-  "description": "Significantly improves stability. Compatible with: Arpeggio, Rattler, Ferro, Renegade, Torrente",
+  "description": "Significantly improves stability.",
   "type": "Modification",
   "rarity": "Epic",
   "value": 5000,

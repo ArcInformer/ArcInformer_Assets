@@ -1,7 +1,7 @@
 {
   "id": "heavy_ammo",
   "name": "Heavy Ammo",
-  "description": "Compatible with: Ferro, Anvil, Bettina",
+  "description": "",
   "type": "Ammunition",
   "rarity": "Common",
   "value": 12,

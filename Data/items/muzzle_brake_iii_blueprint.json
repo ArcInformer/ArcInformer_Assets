@@ -1,7 +1,7 @@
 {
   "id": "muzzle_brake_iii_blueprint",
   "name": "Muzzle Brake III Blueprint",
-  "description": "Significantly reduces both vertical recoil \u0026 horizontal recoil. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
+  "description": "Significantly reduces both vertical recoil \u0026 horizontal recoil.",
   "type": "Blueprint",
   "rarity": "Legendary",
   "value": 5000,

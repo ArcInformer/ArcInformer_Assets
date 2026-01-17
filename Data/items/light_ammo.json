@@ -1,7 +1,7 @@
 {
   "id": "light_ammo",
   "name": "Light Ammo",
-  "description": "Light bullets used mainly with SMGs and light handguns. Compatible with: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
+  "description": "Light bullets used mainly with SMGs and light handguns.",
   "type": "Ammunition",
   "rarity": "Common",
   "value": 4,

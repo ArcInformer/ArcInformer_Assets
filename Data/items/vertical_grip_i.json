@@ -1,7 +1,7 @@
 {
   "id": "vertical_grip_i",
   "name": "Vertical Grip I",
-  "description": "Slightly reduces vertical recoil. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
+  "description": "Slightly reduces vertical recoil.",
   "type": "Modification",
   "rarity": "Common",
   "value": 640,

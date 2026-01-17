@@ -1,7 +1,7 @@
 {
   "id": "extended_barrel",
   "name": "Extended Barrel",
-  "description": "Moderately increases bullet velocity. Compatible with: Tempest, Arpeggio, Ferro, Renegade, Anvil",
+  "description": "Moderately increases bullet velocity.",
   "type": "Modification",
   "rarity": "Epic",
   "value": 5000,

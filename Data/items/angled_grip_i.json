@@ -1,7 +1,7 @@
 {
   "id": "angled_grip_i",
   "name": "Angled Grip I",
-  "description": "Slightly reduces horizontal recoil. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
+  "description": "Slightly reduces horizontal recoil.",
   "type": "Modification",
   "rarity": "Common",
   "value": 640,

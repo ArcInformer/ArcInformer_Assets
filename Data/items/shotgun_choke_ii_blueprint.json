@@ -1,7 +1,7 @@
 {
   "id": "shotgun_choke_ii_blueprint",
   "name": "Shotgun Choke II Blueprint",
-  "description": "Moderately reduces base dispersion. Compatible with: Il Toro, Vulcano",
+  "description": "Moderately reduces base dispersion.",
   "type": "Blueprint",
   "rarity": "Legendary",
   "value": 5000,
