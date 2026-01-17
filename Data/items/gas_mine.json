@@ -7,11 +7,19 @@
   "value": 270,
   "weight": 0.25,
   "stack_size": 3,
+  "recipe": {
+    "chemicals": 4,
+    "rubber_parts": 2
+  },
   "recycles_into": {
     "chemicals": 1,
     "rubber_parts": 1
   },
+  "salvages_into": {
+    "chemicals": 2
+  },
+  "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/gas_mine.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "last_updated": "16/01/2026"
+  "last_updated": "17/01/2026"
 }

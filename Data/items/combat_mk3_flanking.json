@@ -7,11 +7,19 @@
   "value": 5000,
   "weight": 5,
   "stack_size": 0,
+  "recipe": {
+    "advanced_electrical_components": 2,
+    "processor": 3
+  },
   "recycles_into": {
     "advanced_electrical_components": 1,
     "processor": 1
   },
+  "salvages_into": {
+    "electrical_components": 2
+  },
+  "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk3_flanking.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "last_updated": "16/01/2026"
+  "last_updated": "17/01/2026"
 }

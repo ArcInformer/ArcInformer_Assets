@@ -7,11 +7,19 @@
   "value": 1500,
   "weight": 0.5,
   "stack_size": 3,
+  "recipe": {
+    "explosive_compound": 1,
+    "sensors": 1
+  },
   "recycles_into": {
     "oil": 2,
     "sensors": 1
   },
+  "salvages_into": {
+    "oil": 2
+  },
+  "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/explosive_mine.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/explosive_mine.png",
-  "last_updated": "16/01/2026"
+  "last_updated": "17/01/2026"
 }

@@ -7,11 +7,16 @@
   "value": 1000,
   "weight": 0.8,
   "stack_size": 3,
+  "recipe": {},
   "recycles_into": {
     "plastic_parts": 7,
     "sensors": 1
   },
+  "salvages_into": {
+    "sensors": 1
+  },
+  "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/remote_control.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/remote_control.png",
-  "last_updated": "16/01/2026"
+  "last_updated": "17/01/2026"
 }

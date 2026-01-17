@@ -7,11 +7,19 @@
   "value": 2000,
   "weight": 2,
   "stack_size": 0,
+  "recipe": {
+    "electrical_components": 2,
+    "magnet": 3
+  },
   "recycles_into": {
     "electrical_components": 1,
     "magnet": 1
   },
+  "salvages_into": {
+    "electrical_components": 1
+  },
+  "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/looting_mk2.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/looting_mk2.png",
-  "last_updated": "16/01/2026"
+  "last_updated": "17/01/2026"
 }

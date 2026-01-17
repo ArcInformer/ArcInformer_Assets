@@ -7,11 +7,19 @@
   "value": 640,
   "weight": 2,
   "stack_size": 0,
+  "recipe": {
+    "plastic_parts": 6,
+    "rubber_parts": 6
+  },
   "recycles_into": {
     "plastic_parts": 3,
     "rubber_parts": 3
   },
+  "salvages_into": {
+    "plastic_parts": 3
+  },
+  "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk_1.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "last_updated": "16/01/2026"
+  "last_updated": "17/01/2026"
 }

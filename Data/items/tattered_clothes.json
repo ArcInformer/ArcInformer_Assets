@@ -7,10 +7,15 @@
   "value": 640,
   "weight": 0,
   "stack_size": 0,
+  "recipe": {},
   "recycles_into": {
     "fabric": 11
   },
+  "salvages_into": {
+    "fabric": 5
+  },
+  "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tattered_clothes.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/tattered_clothes.png",
-  "last_updated": "16/01/2026"
+  "last_updated": "17/01/2026"
 }

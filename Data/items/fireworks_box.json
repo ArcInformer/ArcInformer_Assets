@@ -7,10 +7,18 @@
   "value": 2000,
   "weight": 0.5,
   "stack_size": 1,
+  "recipe": {
+    "explosive_compound": 1,
+    "pop_trigger": 3
+  },
   "recycles_into": {
     "explosive_compound": 1
   },
+  "salvages_into": {
+    "explosive_compound": 1
+  },
+  "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fireworks_box.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "last_updated": "16/01/2026"
+  "last_updated": "17/01/2026"
 }

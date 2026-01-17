@@ -7,11 +7,19 @@
   "value": 2000,
   "weight": 0.5,
   "stack_size": 0,
+  "recipe": {
+    "duct_tape": 3,
+    "mechanical_components": 2
+  },
   "recycles_into": {
     "duct_tape": 1,
     "mechanical_components": 1
   },
+  "salvages_into": {
+    "mechanical_components": 1
+  },
+  "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stable_stock_ii.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/stable_stock_ii.png",
-  "last_updated": "16/01/2026"
+  "last_updated": "17/01/2026"
 }

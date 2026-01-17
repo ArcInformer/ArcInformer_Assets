@@ -7,11 +7,19 @@
   "value": 2000,
   "weight": 0.2,
   "stack_size": 3,
+  "recipe": {
+    "antiseptic": 1,
+    "durable_cloth": 2
+  },
   "recycles_into": {
     "antiseptic": 1,
     "fabric": 1
   },
+  "salvages_into": {
+    "durable_cloth": 1
+  },
+  "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/sterilized_bandage.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/sterilized_bandage.png",
-  "last_updated": "16/01/2026"
+  "last_updated": "17/01/2026"
 }

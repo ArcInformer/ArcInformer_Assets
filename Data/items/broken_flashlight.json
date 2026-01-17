@@ -7,11 +7,16 @@
   "value": 1000,
   "weight": 2,
   "stack_size": 3,
+  "recipe": {},
   "recycles_into": {
     "battery": 2,
     "metal_parts": 6
   },
+  "salvages_into": {
+    "metal_parts": 7
+  },
+  "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/broken_flashlight.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/broken_flashlight.png",
-  "last_updated": "16/01/2026"
+  "last_updated": "17/01/2026"
 }

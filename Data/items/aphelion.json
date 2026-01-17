@@ -7,11 +7,20 @@
   "value": 27500,
   "weight": 14,
   "stack_size": 0,
+  "recipe": {
+    "complex_gun_parts": 3,
+    "magnetic_accelerator": 3,
+    "matriarch_reactor": 1
+  },
   "recycles_into": {
     "complex_gun_parts": 1,
     "magnetic_accelerator": 2
   },
+  "salvages_into": {
+    "magnetic_accelerator": 1
+  },
+  "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/aphelion.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "last_updated": "16/01/2026"
+  "last_updated": "17/01/2026"
 }

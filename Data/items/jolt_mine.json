@@ -7,11 +7,19 @@
   "value": 850,
   "weight": 0.2,
   "stack_size": 3,
+  "recipe": {
+    "battery": 1,
+    "electrical_components": 1
+  },
   "recycles_into": {
     "battery": 1,
     "plastic_parts": 2
   },
+  "salvages_into": {
+    "battery": 1
+  },
+  "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/jolt_mine.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/jolt_mine.png",
-  "last_updated": "16/01/2026"
+  "last_updated": "17/01/2026"
 }

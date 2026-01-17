@@ -7,11 +7,19 @@
   "value": 5000,
   "weight": 0.5,
   "stack_size": 0,
+  "recipe": {
+    "mod_components": 2,
+    "wires": 8
+  },
   "recycles_into": {
     "mod_components": 1,
     "wires": 1
   },
+  "salvages_into": {
+    "mechanical_components": 2
+  },
+  "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_barrel.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/extended_barrel.png",
-  "last_updated": "16/01/2026"
+  "last_updated": "17/01/2026"
 }

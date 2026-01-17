@@ -7,10 +7,17 @@
   "value": 250,
   "weight": 0.1,
   "stack_size": 5,
+  "recipe": {
+    "fabric": 5
+  },
   "recycles_into": {
     "fabric": 2
   },
+  "salvages_into": {
+    "fabric": 1
+  },
+  "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bandage.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bandage.png",
-  "last_updated": "16/01/2026"
+  "last_updated": "17/01/2026"
 }

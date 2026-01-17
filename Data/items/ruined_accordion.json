@@ -7,11 +7,16 @@
   "value": 2000,
   "weight": 3,
   "stack_size": 3,
+  "recipe": {},
   "recycles_into": {
     "rubber_parts": 18,
     "steel_spring": 3
   },
+  "salvages_into": {
+    "rubber_parts": 13
+  },
+  "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ruined_accordion.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/ruined_accordion.png",
-  "last_updated": "16/01/2026"
+  "last_updated": "17/01/2026"
 }

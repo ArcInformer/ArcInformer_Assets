@@ -7,11 +7,19 @@
   "value": 2000,
   "weight": 0.5,
   "stack_size": 0,
+  "recipe": {
+    "mechanical_components": 2,
+    "wires": 4
+  },
   "recycles_into": {
     "mechanical_components": 1,
     "wires": 1
   },
+  "salvages_into": {
+    "mechanical_components": 1
+  },
+  "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/muzzle_brake_ii.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/muzzle_brake_ii.png",
-  "last_updated": "16/01/2026"
+  "last_updated": "17/01/2026"
 }

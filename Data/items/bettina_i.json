@@ -7,11 +7,20 @@
   "value": 8000,
   "weight": 11,
   "stack_size": 0,
+  "recipe": {
+    "advanced_mechanical_components": 3,
+    "canister": 3,
+    "heavy_gun_parts": 3
+  },
   "recycles_into": {
     "advanced_mechanical_components": 1,
     "heavy_gun_parts": 2
   },
+  "salvages_into": {
+    "advanced_mechanical_components": 1
+  },
+  "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bettina.png",
-  "last_updated": "16/01/2026"
+  "last_updated": "17/01/2026"
 }

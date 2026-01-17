@@ -7,11 +7,19 @@
   "value": 640,
   "weight": 0.5,
   "stack_size": 10,
+  "recipe": {
+    "metal_parts": 7,
+    "rubber_parts": 3
+  },
   "recycles_into": {
     "metal_parts": 3,
     "rubber_parts": 2
   },
+  "salvages_into": {
+    "metal_parts": 3
+  },
+  "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/mechanical_components.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "last_updated": "16/01/2026"
+  "last_updated": "17/01/2026"
 }

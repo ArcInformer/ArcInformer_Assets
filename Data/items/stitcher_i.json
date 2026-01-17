@@ -7,11 +7,19 @@
   "value": 800,
   "weight": 5,
   "stack_size": 0,
+  "recipe": {
+    "metal_parts": 8,
+    "rubber_parts": 4
+  },
   "recycles_into": {
     "metal_parts": 3,
     "rubber_parts": 2
   },
+  "salvages_into": {
+    "metal_parts": 3
+  },
+  "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stitcher.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/stitcher.png",
-  "last_updated": "16/01/2026"
+  "last_updated": "17/01/2026"
 }

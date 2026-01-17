@@ -7,11 +7,16 @@
   "value": 22000,
   "weight": 8,
   "stack_size": 0,
+  "recipe": {},
   "recycles_into": {
     "advanced_mechanical_components": 4,
     "heavy_gun_parts": 5
   },
+  "salvages_into": {
+    "heavy_gun_parts": 5
+  },
+  "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "last_updated": "16/01/2026"
+  "last_updated": "17/01/2026"
 }
