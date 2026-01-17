@@ -13,5 +13,23 @@
   "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vertical_grip_ii.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/vertical_grip_ii_blueprint.png",
-  "last_updated": "17/01/2026"
+  "last_updated": "17/01/2026",
+  "compatible_with": [
+    "arpeggio_i",
+    "arpeggio_ii",
+    "arpeggio_iii",
+    "arpeggio_iv",
+    "ferro_i",
+    "ferro_ii",
+    "ferro_iii",
+    "ferro_iv",
+    "venator_i",
+    "venator_ii",
+    "venator_iii",
+    "venator_iv",
+    "stitcher_i",
+    "stitcher_ii",
+    "stitcher_iii",
+    "stitcher_iv"
+  ]
 }

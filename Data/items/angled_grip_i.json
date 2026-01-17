@@ -20,5 +20,27 @@
   "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_i.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/angled_grip_i.png",
-  "last_updated": "17/01/2026"
+  "last_updated": "17/01/2026",
+  "compatible_with": [
+    "tempest_i",
+    "tempest_ii",
+    "tempest_iii",
+    "tempest_iv",
+    "arpeggio_i",
+    "arpeggio_ii",
+    "arpeggio_iii",
+    "arpeggio_iv",
+    "kettle_i",
+    "kettle_ii",
+    "kettle_iii",
+    "kettle_iv",
+    "ferro_i",
+    "ferro_ii",
+    "ferro_iii",
+    "ferro_iv",
+    "hullcracker_i",
+    "hullcracker_ii",
+    "hullcracker_iii",
+    "hullcracker_iv"
+  ]
 }

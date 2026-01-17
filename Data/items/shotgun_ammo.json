@@ -16,5 +16,6 @@
   "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shotgun_ammo.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/shotgun_ammo.png",
-  "last_updated": "17/01/2026"
+  "last_updated": "17/01/2026",
+  "compatible_with": ["vulcano_i", "vulcano_ii", "vulcano_iii", "vulcano_iv"]
 }

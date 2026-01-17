@@ -20,5 +20,27 @@
   "crafts_into": {},
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_medium_mag_i.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "last_updated": "17/01/2026"
+  "last_updated": "17/01/2026",
+  "compatible_with": [
+    "arpeggio_i",
+    "arpeggio_ii",
+    "arpeggio_iii",
+    "arpeggio_iv",
+    "renegade_i",
+    "renegade_ii",
+    "renegade_iii",
+    "renegade_iv",
+    "venator_i",
+    "venator_ii",
+    "venator_iii",
+    "venator_iv",
+    "tempest_i",
+    "tempest_ii",
+    "tempest_iii",
+    "tempest_iv",
+    "torrente_i",
+    "torrente_ii",
+    "torrente_iii",
+    "torrente_iv"
+  ]
 }
