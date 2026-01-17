@@ -139,6 +139,7 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 
 .reference/
+examples/
 
 create_and_update_jsons.ps1
 add_property_to_items.ps1
