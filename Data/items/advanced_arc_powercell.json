@@ -7,18 +7,16 @@
   "value": 640,
   "weight": 0.5,
   "stack_size": 5,
-  "recipe": {},
   "recycles_into": {
     "arc_powercell": 2
   },
   "salvages_into": {
     "arc_powercell": 1
   },
-  "crafts_into": [],
+  "crafts_into": ["energy_clip", "surge_shield_recharger"],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/advanced_arc_powercell.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/advanced_arc_powercell.png",
   "found_in": ["ARC"],
-  "repair_cost": {},
-  "sources": [],
+  "sources": ["Scavenging", "Courier", "Bastion", "Bombardier", "Leaper", "Queen", "Rocketeer", "Sentinel", "Surveyor"],
   "last_updated": "Jan 18, 2026"
 }
