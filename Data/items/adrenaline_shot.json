@@ -7,15 +7,9 @@
   "value": 300,
   "weight": 0.2,
   "item_data": {
-    "Stamina Regeneration": {
-      "value": "1s"
-    },
-    "Duration": {
-      "value": "15s"
-    },
-    "Use Time": {
-      "value": "1s"
-    }
+    "Duration":"10s",
+    "Stamina Regeneration":"5/s",
+    "Use Time":"1s"
   },
   "stack_size": 5,
   "recipe": {
