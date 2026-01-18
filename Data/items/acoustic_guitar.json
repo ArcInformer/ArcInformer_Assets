@@ -7,7 +7,10 @@
   "value": 7000,
   "weight": 1,
   "stack_size": 1,
-  "recipe": {},
+  "repair_cost": {
+    "wires": 3,
+    "metal_parts": 2
+  },
   "recycles_into": {
     "metal_parts": 4,
     "wires": 6
@@ -18,6 +21,9 @@
   "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/acoustic_guitar.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "found_in": [],
+  "found_in": ["Goalie Deck", "Music Puzzle Room on Burried City"],
+  "history": {
+    "1.7.0": "Added to the game."
+  },
   "last_updated": "Jan 17, 2026"
 }
