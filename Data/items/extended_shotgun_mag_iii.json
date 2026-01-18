@@ -20,5 +20,7 @@
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/extended_shotgun_mag_iii.png",
   "compatible_with": ["vulcano_i", "vulcano_ii", "vulcano_iii", "vulcano_iv"],
   "found_in": [],
-  "last_updated": "Jan 17, 2026"
+  "repair_cost": {},
+  "sources": [],
+  "last_updated": "Jan 18, 2026"
 }

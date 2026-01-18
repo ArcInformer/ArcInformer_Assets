@@ -14,5 +14,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/yellow_light_stick.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/yellow_light_stick_blueprint.png",
   "found_in": [],
-  "last_updated": "Jan 17, 2026"
+  "repair_cost": {},
+  "sources": [],
+  "last_updated": "Jan 18, 2026"
 }

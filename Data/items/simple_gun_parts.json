@@ -36,5 +36,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/simple_gun_parts.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/simple_gun_parts.png",
   "found_in": ["Raider", "Security"],
-  "last_updated": "Jan 17, 2026"
+  "repair_cost": {},
+  "sources": [],
+  "last_updated": "Jan 18, 2026"
 }
