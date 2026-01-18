@@ -23,12 +23,16 @@
     "combat_mk3_flanking",
     "combat_mk3_aggressive",
     "looting_mk3_cautious",
-    "tactical_mk3_healing"
+    "tactical_mk3_healing",
+    "raider_hatch_key",
+    "showstopper",
+    "photoelectric_cloak",
+    "power_rod"
   ],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/advanced_electrical_components.png",
   "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/advanced_electrical_components.png",
   "found_in": ["Electrical"],
   "repair_cost": {},
-  "sources": [],
+  "sources": ["Scavenging", "Crafting", "Recycling", "Queen"],
   "last_updated": "Jan 18, 2026"
 }
