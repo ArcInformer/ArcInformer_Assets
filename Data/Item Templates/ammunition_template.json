@@ -1,3 +1,9 @@
 {
-    
+    "id":"",
+    "name":"",
+    "description":"",
+    "stack":"",
+    "weight":"",
+    "value":"",
+    "crafting_materials":{}
 }
