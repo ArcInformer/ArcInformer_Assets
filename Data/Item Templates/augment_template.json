@@ -10,7 +10,11 @@
     "image_location":"",
     "ingame_image":"",
     "item_data":{
-        
+        "Backpack Slots":"",
+        "Weight Limit":"",
+        "Weapon Slots":"",
+        "Quick-Use Slots":"",
+        "Safe Pocket Slots":""
     },
     "crafting_requirements":{},
     "repair_cost":{},
