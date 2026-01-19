@@ -8,5 +8,7 @@
     "weight":"",
     "stack_size":"",
     "image_location":"",
-    "ingame_image":""
+    "ingame_image":"",
+    "mod_effects":[],
+    "last_updated":""
 }
