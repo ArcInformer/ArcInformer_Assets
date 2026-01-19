@@ -8,5 +8,24 @@
     "weight":"",
     "stack_size":"",
     "image_location":"",
-    "ingame_image":""
+    "ingame_image":"",
+    "item_data":{
+        "Ammo Type":"",
+        "Magazine Size":"",
+        "Firing Mode":"",
+        "ARC Armor Penetration":"",
+        "Damage":"",
+        "Fire Rate":"",
+        "Range":"",
+        "Stability":"",
+        "Agility":"",
+        "Stealth":""
+    },
+    "varients":[],
+    "matching_blueprint":[],
+    "crafting_requirements":{},
+    "repair_cost":{},
+    "recycles_into":{},
+    "salvages_into":{},
+    "last_updated":""
 }
