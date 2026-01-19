@@ -8,5 +8,12 @@
     "weight":"",
     "stack_size":"",
     "image_location":"",
-    "ingame_image":""
+    "ingame_image":"",
+    "Item_data":{
+        "Stamina":"",
+        "Use Time":""
+    },
+    "recycles_into":{},
+    "salvages_into":{},
+    "last_updated":""
 }
