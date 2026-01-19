@@ -9,5 +9,6 @@
     "stack_size":"",
     "image_location":"",
     "ingame_image":"",
-    "found_in":[]
+    "found_in":[],
+    "last_updated":""
 }
