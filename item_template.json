@@ -13,7 +13,10 @@
     "found_in":[],
     "sources":[],
     "crafts_into":[],
-    "item_data":{},
+    "item_data":{
+        "":"",
+        "":""
+    },
     "repair_cost":{},
     "recycles_into":{},
     "salvages_into":{},
