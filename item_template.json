@@ -7,6 +7,10 @@
     "value":"",
     "weight":"",
     "stack_size":"",
+    "image_location":"",
+    "ingame_image":"",
     "varients":[],
-    "found_in":[]
+    "found_in":[],
+    "sources":[],
+    "crafts_into"[]
 }
