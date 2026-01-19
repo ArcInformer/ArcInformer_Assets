@@ -10,5 +10,6 @@
     "image_location":"",
     "ingame_image":"",
     "mod_effects":[],
+    "matching_blueprint":[],
     "last_updated":""
 }
