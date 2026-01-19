@@ -9,7 +9,7 @@
     "stack_size":"",
     "image_location":"",
     "ingame_image":"",
-    "weapon_data":{
+    "item_data":{
         "Ammo Type":"",
         "Magazine Size":"",
         "Firing Mode":"",
@@ -25,5 +25,6 @@
     "crafting_requirements":{},
     "repair_cost":{},
     "recycles_into":{},
-    "salvages_into":{}
+    "salvages_into":{},
+    "last_updated":""
 }
