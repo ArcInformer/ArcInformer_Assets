@@ -9,9 +9,10 @@
     "stack_size":"",
     "image_location":"",
     "ingame_image":"",
-    "augment_data":{
+    "item_data":{
         
     },
     "crafting_requirements":{},
     "repair_cost":{},
+    "last_updated":""
 }
