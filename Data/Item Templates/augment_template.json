@@ -1,2 +1,12 @@
 {
+    "id":"",
+    "name":"",
+    "description":"",
+    "type":"",
+    "rarity":"",
+    "value":"",
+    "weight":"",
+    "stack_size":"",
+    "image_location":"",
+    "ingame_image":""
 }
