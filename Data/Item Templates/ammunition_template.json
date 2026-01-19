@@ -2,8 +2,12 @@
     "id":"",
     "name":"",
     "description":"",
-    "stack":"",
-    "weight":"",
+    "type":"",
+    "rarity":"",
     "value":"",
+    "weight":"",
+    "stack_size":"",
+    "image_location":"",
+    "ingame_image":"",
     "crafting_requirements":{}
 }
