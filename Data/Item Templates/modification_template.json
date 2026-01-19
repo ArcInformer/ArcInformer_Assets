@@ -11,5 +11,9 @@
     "ingame_image":"",
     "mod_effects":[],
     "matching_blueprint":[],
+    "crafting_requirements":{},
+    "compatible_with":[],
+    "recycles_into":{},
+    "salvages_into":{},
     "last_updated":""
 }
