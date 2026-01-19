@@ -14,7 +14,8 @@
         "Weight Limit":"",
         "Weapon Slots":"",
         "Quick-Use Slots":"",
-        "Safe Pocket Slots":""
+        "Safe Pocket Slots":"",
+        "Utility Slots":""
     },
     "crafting_requirements":{},
     "repair_cost":{},
