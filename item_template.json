@@ -6,6 +6,7 @@
     "rarity":"",
     "value":"",
     "weight":"",
-    "stack_size":""
-    "varients":[]
+    "stack_size":"",
+    "varients":[],
+    "found_in":[]
 }
