@@ -8,5 +8,7 @@
     "weight":"",
     "stack_size":"",
     "image_location":"",
-    "ingame_image":""
+    "ingame_image":"",
+    "recipe_for":[],
+    "last_updated":""
 }
