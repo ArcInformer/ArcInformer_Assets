@@ -17,4 +17,6 @@
     "repair_cost":{},
     "recycles_into":{},
     "salvages_into":{},
+    "crafting_requirements":{},
+    "last_updated":""
 }
