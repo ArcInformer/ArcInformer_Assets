@@ -9,6 +9,7 @@
     "stack_size":"",
     "image_location":"",
     "ingame_image":"",
+    "coompatible_with":[],
     "item_data":{
         "Backpack Slots":"",
         "Weight Limit":"",
@@ -17,6 +18,7 @@
         "Safe Pocket Slots":"",
         "Utility Slots":""
     },
+    "recycles_into":{},
     "crafting_requirements":{},
     "repair_cost":{},
     "last_updated":""

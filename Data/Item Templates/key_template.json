@@ -8,5 +8,6 @@
     "weight":"",
     "image_location":"",
     "ingame_image":"",
+    "crafting_requirements":{},
     "last_updated":""
 }

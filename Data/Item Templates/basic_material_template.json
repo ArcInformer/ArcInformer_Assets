@@ -10,5 +10,8 @@
     "image_location":"",
     "ingame_image":"",
     "found_in":[],
+    "crafts_into":[],
+    "recycles_from":{},
+    "workshop_benchs":[],
     "last_updated":""
 }

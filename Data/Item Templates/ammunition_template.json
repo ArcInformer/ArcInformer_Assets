@@ -9,6 +9,8 @@
     "stack_size":"",
     "image_location":"",
     "ingame_image":"",
+    "coompatible_with":[],
+    "dropped_by":[],
     "crafting_requirements":{},
     "last_updated":""
 }
