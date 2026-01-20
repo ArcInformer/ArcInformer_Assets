@@ -8,5 +8,11 @@
     "weight":"",
     "stack_size":"",
     "image_location":"",
-    "ingame_image":""
+    "ingame_image":"",
+    "recycles_into":{},
+    "salvages_into":{},
+    "crafts_into":{},
+    "found_in":[],
+    "dropped_by":[],
+    "last_updated":""
 }

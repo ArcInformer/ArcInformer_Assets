@@ -8,5 +8,11 @@
     "weight":"",
     "stack_size":"",
     "image_location":"",
-    "ingame_image":""
+    "ingame_image":"",
+    "item_data":{},
+    "crafting_requirements":{},
+    "repair_cost":{},
+    "recycles_into":{},
+    "salvages_into":{},
+    "last_updated":""
 }
