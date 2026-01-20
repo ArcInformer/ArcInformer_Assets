@@ -9,9 +9,11 @@
     "stack_size":"",
     "image_location":"",
     "ingame_image":"",
+    "matching_blueprint":[],
     "item_data":{},
     "crafting_requirements":{},
     "recycles_into":{},
     "salvages_into":{},
+    "repair_cost":{},
     "last_updated":""
 }

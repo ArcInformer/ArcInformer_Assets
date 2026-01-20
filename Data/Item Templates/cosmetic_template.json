@@ -8,5 +8,6 @@
     "weight":"",
     "stack_size":"",
     "image_location":"",
-    "ingame_image":""
+    "ingame_image":"",
+    "last_updated":""
 }
