@@ -14,6 +14,6 @@
     "recycles_into":{},
     "recycles_from":{},
     "salvages_into":{},
-    "crafts_into":{},
+    "crafts_into":[],
     "last_updated":""
 }
