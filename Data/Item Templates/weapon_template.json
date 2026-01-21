@@ -9,6 +9,9 @@
     "stack_size":"",
     "image_location":"",
     "ingame_image":"",
+    "variants":[],
+    "matching_blueprint":[],
+    "compatible_with":[],
     "item_data":{
         "Ammo Type":"",
         "Magazine Size":"",
@@ -21,9 +24,6 @@
         "Agility":"",
         "Stealth":""
     },
-    "variants":[],
-    "matching_blueprint":[],
-    "compatible_with":[],
     "crafting_requirements":{},
     "repair_cost":{},
     "recycles_into":{},

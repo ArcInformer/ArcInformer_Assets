@@ -8,6 +8,8 @@
     "weight":"",
     "stack_size":"",
     "image_location":"",
+    "variants":[],
+    "matching_blueprint":[],
     "ingame_image":"",
         "item_data":{
         "Ammo Type":"",
@@ -21,8 +23,6 @@
         "Agility":"",
         "Stealth":""
     },
-    "variants":[],
-    "matching_blueprint":[],
     "crafting_requirements":{},
     "repair_cost":{},
     "recycles_into":{},
