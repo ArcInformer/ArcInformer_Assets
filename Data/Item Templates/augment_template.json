@@ -18,8 +18,9 @@
         "Safe Pocket Slots":"",
         "Utility Slots":""
     },
-    "recycles_into":{},
     "crafting_requirements":{},
     "repair_cost":{},
+    "recycles_into":{},
+    "salvages_into":{},
     "last_updated":""
 }
