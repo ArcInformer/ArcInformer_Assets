@@ -8,7 +8,7 @@
   "weight": 7,
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker.png",
-  "variants": [],
+  "variants": ["hullcracker_i", "hullcracker_ii", "hullcracker_iii"],
   "matching_blueprint": [],
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/hullcracker.png",
   "item_data": {

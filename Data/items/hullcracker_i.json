@@ -8,8 +8,8 @@
   "weight": 7,
   "stack_size": 1,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker.png",
-  "variants": [],
-  "matching_blueprint": [],
+  "variants": ["hullcracker_ii", "hullcracker_iii", "hullcracker_iv"],
+  "matching_blueprint": ["hullcracker_blueprint"],
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/hullcracker.png",
   "item_data": {
     "Firing Mode": "Pump-Action",
