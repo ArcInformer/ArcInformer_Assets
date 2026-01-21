@@ -9,7 +9,7 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bettina.png",
-  "variants": [],
+  "variants": ["bettina_i", "bettina_iii", "bettina_iv"],
   "matching_blueprint": [],
   "compatible_with": [],
   "item_data": {
