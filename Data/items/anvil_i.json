@@ -17,7 +17,7 @@
     "Durability": "100/100"
   },
   "variants": ["anvil_ii", "anvil_iii", "anvil_iv"],
-  "matching_blueprint": [],
+  "matching_blueprint": ["anvil_blueprint"],
   "compatible_with": [],
   "crafting_requirements": {
     "mechanical_components": 5,
