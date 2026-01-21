@@ -9,7 +9,7 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "variants": [],
+  "variants": ["vulcano_i", "vulcano_ii", "vulcano_iv"],
   "matching_blueprint": [],
   "compatible_with": [],
   "item_data": {
