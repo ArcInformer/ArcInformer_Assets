@@ -9,7 +9,7 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/venator_ii.png",
-  "variants": [],
+  "variants": ["venator_i", "venator_iii", "venator_iv"],
   "matching_blueprint": [],
   "compatible_with": [],
   "item_data": {

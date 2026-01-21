@@ -9,8 +9,8 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/venator_i.png",
-  "variants": [],
-  "matching_blueprint": [],
+  "variants": ["venator_ii", "venator_iii", "venator_iv"],
+  "matching_blueprint": ["venator_blueprint"],
   "compatible_with": [],
   "item_data": {
     "ARC Armor Penetration": "Moderate",
