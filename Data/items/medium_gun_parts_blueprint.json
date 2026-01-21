@@ -7,14 +7,8 @@
   "value": 5000,
   "weight": 0,
   "stack_size": 0,
-  "recipe": {},
-  "recycles_into": {},
-  "salvages_into": {},
-  "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/medium_gun_parts_blueprint.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/medium_gun_parts_blueprint.png",
-  "found_in": [],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/medium_gun_parts_blueprint.png",
+  "recipe_for": [],
+  "last_updated": "Jan 21, 2026"
 }

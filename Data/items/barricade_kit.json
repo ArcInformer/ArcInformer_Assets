@@ -7,7 +7,14 @@
   "value": 640,
   "weight": 0.4,
   "stack_size": 3,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/barricade_kit.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/barricade_kit.png",
+  "matching_blueprint": [],
+  "item_data": {
+    "Duration": "500 Health",
+    "Health": 500
+  },
+  "crafting_requirements": {
     "mechanical_components": 1
   },
   "recycles_into": {
@@ -16,11 +23,6 @@
   "salvages_into": {
     "metal_parts": 3
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/barricade_kit.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/barricade_kit.png",
-  "found_in": [],
   "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

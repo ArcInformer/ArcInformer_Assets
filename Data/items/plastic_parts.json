@@ -7,9 +7,12 @@
   "value": 60,
   "weight": 0.1,
   "stack_size": 50,
-  "recipe": {},
-  "recycles_into": {},
-  "salvages_into": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/plastic_parts.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/plastic_parts.png",
+  "found_in": "Commercial, Residential, Technological",
+  "recycles_from": {},
+  "workshop_benchs": [],
+  "last_updated": "Jan 21, 2026",
   "crafts_into": [
     "hairpin_i",
     "hairpin_ii",
@@ -19,11 +22,5 @@
     "looting_mk1",
     "light_impact_grenade",
     "extended_shotgun_mag_i"
-  ],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/plastic_parts.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/plastic_parts.png",
-  "found_in": ["Commercial", "Residential", "Technological"],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  ]
 }

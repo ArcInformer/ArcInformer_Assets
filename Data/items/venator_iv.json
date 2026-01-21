@@ -1,13 +1,29 @@
 ﻿{
   "id": "venator_iv",
-  "name": "Venator Iv",
+  "name": "Venator IV",
   "description": "Semi-automatic pistol. Fires two shots at a time.",
   "type": "Pistol",
   "rarity": "Rare",
   "value": 17000,
   "weight": 5,
   "stack_size": 0,
-  "recipe": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/venator_iv.png",
+  "item_data": {
+    "Reduced Reload Time": "50%",
+    "ARC Armor Penetration": "Moderate",
+    "Increased Fire Rate": "40%",
+    "Special Trait": "Twin Shot",
+    "Ammo Type": "Medium Ammo",
+    "Durability": "130/130",
+    "Magazine Size": 10,
+    "Firing Mode": "Semi-Automatic"
+  },
+  "varients": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
+  "crafting_requirements": {},
+  "repair_cost": {},
   "recycles_into": {
     "advanced_mechanical_components": 3,
     "medium_gun_parts": 3
@@ -15,11 +31,5 @@
   "salvages_into": {
     "medium_gun_parts": 3
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/venator_iv.png",
-  "found_in": [],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

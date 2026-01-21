@@ -1,13 +1,17 @@
 ﻿{
   "id": "extended_shotgun_mag_i",
-  "name": "Extended Shotgun Mag I",
+  "name": " Extended Shotgun Mag I",
   "description": "Slightly extends the ammo capacity of shotguns.",
   "type": "Modification",
   "rarity": "Common",
   "value": 640,
   "weight": 0.25,
   "stack_size": 0,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_shotgun_mag_i.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/extended_shotgun_mag_i.png",
+  "mod_effects": [],
+  "matching_blueprint": [],
+  "crafting_requirements": {
     "plastic_parts": 6,
     "steel_spring": 1
   },
@@ -17,12 +21,6 @@
   "salvages_into": {
     "plastic_parts": 3
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_shotgun_mag_i.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "compatible_with": ["vulcano_i", "vulcano_ii", "vulcano_iii", "vulcano_iv"],
-  "found_in": [],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026",
+  "compatible_with": ["vulcano_i", "vulcano_ii", "vulcano_iii", "vulcano_iv"]
 }

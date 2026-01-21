@@ -1,24 +1,20 @@
 ﻿{
   "id": "arc_synthetic_resin",
-  "name": "Arc Synthetic Resin",
+  "name": "ARC Synthetic Resin",
   "description": "Can be recycled into crafting materials.",
   "type": "Recyclable",
   "rarity": "Rare",
   "value": 1000,
   "weight": 1,
   "stack_size": 3,
-  "recipe": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_synthetic_resin.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_synthetic_resin.png",
   "recycles_into": {
     "plastic_parts": 14
   },
   "salvages_into": {
     "plastic_parts": 9
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_synthetic_resin.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "found_in": ["ARC"],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "found_in": "ARC",
+  "last_updated": "Jan 21, 2026"
 }

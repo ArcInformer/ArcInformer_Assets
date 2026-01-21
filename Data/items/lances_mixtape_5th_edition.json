@@ -1,20 +1,14 @@
 ﻿{
   "id": "lances_mixtape_5th_edition",
-  "name": "Lances Mixtape 5Th Edition",
+  "name": "Lance's Mixtape (5th Edition)",
   "description": "Lance has personally planted a number of these around the Rust Belt, for some reason.",
   "type": "Trinket",
   "rarity": "Epic",
   "value": 10000,
   "weight": 0.2,
   "stack_size": 3,
-  "recipe": {},
-  "recycles_into": {},
-  "salvages_into": {},
-  "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lances_mixtape_5th_edition.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "found_in": ["Residential", "Commercial"],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "found_in": "Residential, Commercial",
+  "last_updated": "Jan 21, 2026"
 }

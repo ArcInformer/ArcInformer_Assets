@@ -7,7 +7,29 @@
   "value": 17000,
   "weight": 7,
   "stack_size": 0,
-  "recipe": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bobcat.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "item_data": {
+    "Stealth": 21,
+    "Firing Mode": "Fully-Automatic",
+    "Magazine Size": 20,
+    "Stability": 45.9,
+    "Fire Rate": 66.7,
+    "Reduced Horizontal Recoil": "15%",
+    "Damage": 6,
+    "Reduced Max Shot Dispersion": "15%",
+    "Range": 44,
+    "Reduced Reload Time": "13%",
+    "Durability": "110/110",
+    "Ammo Type": "Light Ammo",
+    "ARC Armor Penetration": "Very Weak",
+    "Agility": 73.1
+  },
+  "varients": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
+  "crafting_requirements": {},
+  "repair_cost": {},
   "recycles_into": {
     "advanced_mechanical_components": 3,
     "light_gun_parts": 3
@@ -15,11 +37,5 @@
   "salvages_into": {
     "light_gun_parts": 3
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bobcat.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "found_in": [],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

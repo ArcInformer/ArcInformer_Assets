@@ -6,13 +6,16 @@
   "rarity": "Common",
   "value": 300,
   "weight": 0.2,
-  "item_data": {
-    "Duration":"10s",
-    "Stamina Regeneration":"5/s",
-    "Use Time":"1s"
-  },
   "stack_size": 5,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/adrenaline_shot.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/adrenaline_shot.png",
+  "matching_blueprint": [],
+  "item_data": {
+    "Duration": "10s",
+    "Stamina Regeneration": "5/s",
+    "Use Time": "1s"
+  },
+  "crafting_requirements": {
     "chemicals": 3,
     "plastic_parts": 3
   },
@@ -23,9 +26,6 @@
   "salvages_into": {
     "chemicals": 1
   },
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/adrenaline_shot.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/adrenaline_shot.png",
-  "found_in": ["Medical"],
-  "sources": ["Scavenging", "Crafting", "Sold by Lance"],
-  "last_updated": "Jan 18, 2026"
+  "repair_cost": {},
+  "last_updated": "Jan 21, 2026"
 }

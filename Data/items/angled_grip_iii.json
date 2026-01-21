@@ -1,13 +1,17 @@
 ﻿{
   "id": "angled_grip_iii",
-  "name": "Angled Grip Iii",
+  "name": "Angled Grip III",
   "description": "Significantly reduces horizontal recoil.",
   "type": "Modification",
   "rarity": "Rare",
   "value": 5000,
   "weight": 0.75,
   "stack_size": 0,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_iii.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "mod_effects": [],
+  "matching_blueprint": [],
+  "crafting_requirements": {
     "duct_tape": 5,
     "mod_components": 2
   },
@@ -18,9 +22,7 @@
   "salvages_into": {
     "mechanical_components": 2
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_iii.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "last_updated": "Jan 21, 2026",
   "compatible_with": [
     "arpeggio_i",
     "arpeggio_ii",
@@ -38,9 +40,5 @@
     "stitcher_ii",
     "stitcher_iii",
     "stitcher_iv"
-  ],
-  "found_in": [],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  ]
 }

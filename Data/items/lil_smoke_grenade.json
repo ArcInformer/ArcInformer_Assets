@@ -1,13 +1,20 @@
 ﻿{
   "id": "lil_smoke_grenade",
-  "name": "Lil Smoke Grenade",
+  "name": "Li'l Smoke Grenade",
   "description": "A grenade that pops a thick but small smoke cloud on impact, blocking visibility from ARC and other Raiders.",
   "type": "Quick Use",
   "rarity": "Common",
   "value": 300,
   "weight": 0.15,
   "stack_size": 5,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lil_smoke_grenade.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/lil_smoke_grenade.png",
+  "matching_blueprint": [],
+  "item_data": {
+    "Duration": "6s",
+    "Radius": "2.5m"
+  },
+  "crafting_requirements": {
     "chemicals": 5,
     "plastic_parts": 1
   },
@@ -18,11 +25,6 @@
   "salvages_into": {
     "chemicals": 2
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lil_smoke_grenade.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "found_in": [],
   "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

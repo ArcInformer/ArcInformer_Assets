@@ -7,18 +7,14 @@
   "value": 640,
   "weight": 1,
   "stack_size": 3,
-  "recipe": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tattered_arc_lining.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/tattered_arc_lining.png",
   "recycles_into": {
     "fabric": 12
   },
   "salvages_into": {
     "fabric": 5
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tattered_arc_lining.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "found_in": ["ARC"],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "found_in": "ARC",
+  "last_updated": "Jan 21, 2026"
 }

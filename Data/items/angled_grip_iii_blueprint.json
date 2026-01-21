@@ -1,18 +1,16 @@
 ﻿{
   "id": "angled_grip_iii_blueprint",
-  "name": "Angled Grip Iii Blueprint",
+  "name": "Angled Grip III Blueprint",
   "description": "Significantly reduces horizontal recoil.",
   "type": "Blueprint",
   "rarity": "Legendary",
   "value": 5000,
   "weight": 0,
   "stack_size": 0,
-  "recipe": {},
-  "recycles_into": {},
-  "salvages_into": {},
-  "crafts_into": [],
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_iii.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "recipe_for": [],
+  "last_updated": "Jan 21, 2026",
   "compatible_with": [
     "arpeggio_i",
     "arpeggio_ii",
@@ -30,9 +28,5 @@
     "stitcher_ii",
     "stitcher_iii",
     "stitcher_iv"
-  ],
-  "found_in": [],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  ]
 }

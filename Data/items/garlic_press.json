@@ -7,18 +7,14 @@
   "value": 1000,
   "weight": 0.8,
   "stack_size": 3,
-  "recipe": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/garlic_press.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/garlic_press.png",
   "recycles_into": {
     "metal_parts": 12
   },
   "salvages_into": {
     "metal_parts": 7
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/garlic_press.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/garlic_press.png",
-  "found_in": ["Residential", "Commercial"],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "found_in": "Residential, Commercial",
+  "last_updated": "Jan 21, 2026"
 }

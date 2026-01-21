@@ -7,10 +7,23 @@
   "value": 5000,
   "weight": 5,
   "stack_size": 0,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/anvil_i.png",
+  "item_data": {
+    "Firing Mode": "Single-Action",
+    "ARC Armor Penetration": "Strong",
+    "Magazine Size": 6,
+    "Ammo Type": "Heavy Ammo",
+    "Durability": "100/100"
+  },
+  "varients": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
+  "crafting_requirements": {
     "mechanical_components": 5,
     "simple_gun_parts": 6
   },
+  "repair_cost": {},
   "recycles_into": {
     "mechanical_components": 2,
     "simple_gun_parts": 2
@@ -18,11 +31,5 @@
   "salvages_into": {
     "simple_gun_parts": 2
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/anvil_i.png",
-  "found_in": [],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

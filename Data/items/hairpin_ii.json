@@ -7,7 +7,23 @@
   "value": 1000,
   "weight": 3,
   "stack_size": 0,
-  "recipe": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hairpin.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/hairpin.png",
+  "item_data": {
+    "Reduced Reload Time": "13%",
+    "ARC Armor Penetration": "Very Weak",
+    "Increased Fire Rate": "10%",
+    "Special Trait": "Integrated Silencer",
+    "Ammo Type": "Light Ammo",
+    "Durability": "110/110",
+    "Magazine Size": 8,
+    "Firing Mode": "Slide-Action"
+  },
+  "varients": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
+  "crafting_requirements": {},
+  "repair_cost": {},
   "recycles_into": {
     "metal_parts": 4,
     "rubber_parts": 3
@@ -15,11 +31,5 @@
   "salvages_into": {
     "metal_parts": 4
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hairpin.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/hairpin.png",
-  "found_in": [],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

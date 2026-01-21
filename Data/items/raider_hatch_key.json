@@ -6,18 +6,12 @@
   "rarity": "Rare",
   "value": 2000,
   "weight": 0.01,
-  "stack_size": 1,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/raider_hatch_key.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/raider_hatch_key.png",
+  "found_in": [],
+  "crafting_requirements": {
     "advanced_electrical_components": 1,
     "sensors": 3
   },
-  "recycles_into": {},
-  "salvages_into": {},
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/raider_hatch_key.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/raider_hatch_key.png",
-  "found_in": [],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

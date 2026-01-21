@@ -7,20 +7,17 @@
   "value": 50,
   "weight": 0.15,
   "stack_size": 50,
-  "recipe": {},
-  "recycles_into": {},
-  "salvages_into": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/chemicals.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/chemicals.png",
+  "found_in": "Medical, Residential, Mechanical",
+  "recycles_from": {},
+  "workshop_benchs": [],
+  "last_updated": "Jan 21, 2026",
   "crafts_into": [
     "heavy_ammo",
     "medium_ammo",
     "shotgun_ammo",
     "light_ammo",
     "light_impact_grenade"
-  ],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/chemicals.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/chemicals.png",
-  "found_in": ["Medical", "Residential", "Mechanical"],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  ]
 }

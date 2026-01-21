@@ -7,7 +7,9 @@
   "value": 700,
   "weight": 0.4,
   "stack_size": 5,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/medium_gun_parts.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/medium_gun_parts.png",
+  "crafting_requirements": {
     "simple_gun_parts": 4
   },
   "recycles_into": {
@@ -16,6 +18,9 @@
   "salvages_into": {
     "simple_gun_parts": 1
   },
+  "found_in": "Raider, Security",
+  "dropped_by": [],
+  "last_updated": "Jan 21, 2026",
   "crafts_into": [
     "torrente_i",
     "torrente_ii",
@@ -37,11 +42,5 @@
     "tempest_ii",
     "tempest_iii",
     "tempest_iv"
-  ],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/medium_gun_parts.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/medium_gun_parts.png",
-  "found_in": ["Raider", "Security"],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  ]
 }

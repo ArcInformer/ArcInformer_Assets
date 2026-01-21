@@ -7,24 +7,23 @@
   "value": 200,
   "weight": 0.25,
   "stack_size": 15,
-  "recipe": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/wires.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/wires.png",
+  "crafting_requirements": {},
   "recycles_into": {
     "rubber_parts": 3
   },
   "salvages_into": {
     "rubber_parts": 1
   },
+  "found_in": "Electrical, Technological",
+  "dropped_by": [],
+  "last_updated": "Jan 21, 2026",
   "crafts_into": [
     "blaze_grenade_trap",
     "smoke_grenade_trap",
     "lure_grenade_trap",
     "gas_grenade_trap",
     "muzzle_brake_i"
-  ],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/wires.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/wires.png",
-  "found_in": ["Electrical", "Technological"],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  ]
 }

@@ -7,7 +7,14 @@
   "value": 1600,
   "weight": 1,
   "stack_size": 3,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/trailblazer.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/trailblazer.png",
+  "matching_blueprint": [],
+  "item_data": {
+    "Damage": 20,
+    "Radius": "2m"
+  },
+  "crafting_requirements": {
     "explosive_compound": 1,
     "synthesized_fuel": 1
   },
@@ -17,11 +24,6 @@
   "salvages_into": {
     "crude_explosives": 1
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/trailblazer.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/trailblazer.png",
-  "found_in": [],
   "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

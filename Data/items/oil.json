@@ -7,13 +7,18 @@
   "value": 300,
   "weight": 0.25,
   "stack_size": 15,
-  "recipe": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/oil.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/oil.png",
+  "crafting_requirements": {},
   "recycles_into": {
     "chemicals": 3
   },
   "salvages_into": {
     "chemicals": 1
   },
+  "found_in": "Mechanical",
+  "dropped_by": [],
+  "last_updated": "Jan 21, 2026",
   "crafts_into": [
     "renegade_i",
     "renegade_ii",
@@ -21,11 +26,5 @@
     "renegade_iv",
     "explosive_compound",
     "blaze_grenade"
-  ],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/oil.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/oil.png",
-  "found_in": ["Mechanical"],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  ]
 }

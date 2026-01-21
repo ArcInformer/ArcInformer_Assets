@@ -1,24 +1,20 @@
 ﻿{
   "id": "impure_arc_coolant",
-  "name": "Impure Arc Coolant",
+  "name": "Impure ARC Coolant",
   "description": "Can be recycled into crafting materials.",
   "type": "Recyclable",
   "rarity": "Uncommon",
   "value": 640,
   "weight": 0.33,
   "stack_size": 3,
-  "recipe": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/impure_arc_coolant.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/impure_arc_coolant.png",
   "recycles_into": {
     "chemicals": 12
   },
   "salvages_into": {
     "chemicals": 5
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/impure_arc_coolant.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "found_in": ["ARC"],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "found_in": "ARC",
+  "last_updated": "Jan 21, 2026"
 }

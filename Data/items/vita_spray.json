@@ -7,7 +7,15 @@
   "value": 3000,
   "weight": 1,
   "stack_size": 1,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vita_spray.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/vita_spray.png",
+  "matching_blueprint": [],
+  "item_data": {
+    "Heal Capacity": 150,
+    "Healing": "10/s",
+    "Durability": "100/100"
+  },
+  "crafting_requirements": {
     "antiseptic": 3,
     "canister": 1
   },
@@ -18,11 +26,6 @@
   "salvages_into": {
     "antiseptic": 1
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vita_spray.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/vita_spray.png",
-  "found_in": [],
   "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

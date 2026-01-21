@@ -7,7 +7,14 @@
   "value": 640,
   "weight": 0.2,
   "stack_size": 5,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/seeker_grenade.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/seeker_grenade.png",
+  "matching_blueprint": [],
+  "item_data": {
+    "Damage": 50,
+    "Homing Range": "20m"
+  },
+  "crafting_requirements": {
     "arc_alloy": 2,
     "crude_explosives": 1
   },
@@ -17,11 +24,6 @@
   "salvages_into": {
     "chemicals": 3
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/seeker_grenade.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "found_in": [],
   "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

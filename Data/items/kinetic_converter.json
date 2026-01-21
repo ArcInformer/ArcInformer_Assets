@@ -7,7 +7,11 @@
   "value": 7000,
   "weight": 0.75,
   "stack_size": 0,
-  "recipe": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kinetic_converter.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/kinetic_converter.png",
+  "mod_effects": [],
+  "matching_blueprint": [],
+  "crafting_requirements": {},
   "recycles_into": {
     "duct_tape": 2,
     "mod_components": 1
@@ -15,9 +19,7 @@
   "salvages_into": {
     "mechanical_components": 2
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kinetic_converter.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/kinetic_converter.png",
+  "last_updated": "Jan 21, 2026",
   "compatible_with": [
     "arpeggio_i",
     "arpeggio_ii",
@@ -39,9 +41,5 @@
     "renegade_ii",
     "renegade_iii",
     "renegade_iv"
-  ],
-  "found_in": [],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  ]
 }

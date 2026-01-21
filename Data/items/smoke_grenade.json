@@ -7,7 +7,14 @@
   "value": 1000,
   "weight": 0.2,
   "stack_size": 3,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/smoke_grenade.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/smoke_grenade.png",
+  "matching_blueprint": [],
+  "item_data": {
+    "Duration": "20s",
+    "Radius": "7.5m"
+  },
+  "crafting_requirements": {
     "canister": 1,
     "chemicals": 14
   },
@@ -18,11 +25,6 @@
   "salvages_into": {
     "chemicals": 3
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/smoke_grenade.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/smoke_grenade.png",
-  "found_in": [],
   "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

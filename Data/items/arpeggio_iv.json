@@ -1,13 +1,28 @@
 ﻿{
   "id": "arpeggio_iv",
-  "name": "Arpeggio Iv",
+  "name": "Arpeggio IV",
   "description": "Has decent damage output and accuracy.",
   "type": "Assault Rifle",
   "rarity": "Uncommon",
   "value": 15000,
   "weight": 7,
   "stack_size": 0,
-  "recipe": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arpeggio.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arpeggio.png",
+  "item_data": {
+    "Reduced Reload Time": "50%",
+    "ARC Armor Penetration": "Moderate",
+    "Increased Fire Rate": "60%",
+    "Ammo Type": "Medium Ammo",
+    "Durability": "130/130",
+    "Magazine Size": 24,
+    "Firing Mode": "3-Round Burst"
+  },
+  "varients": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
+  "crafting_requirements": {},
+  "repair_cost": {},
   "recycles_into": {
     "mechanical_components": 5,
     "simple_gun_parts": 5
@@ -15,11 +30,5 @@
   "salvages_into": {
     "simple_gun_parts": 5
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arpeggio.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arpeggio.png",
-  "found_in": [],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

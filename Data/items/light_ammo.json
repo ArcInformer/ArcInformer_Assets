@@ -7,15 +7,14 @@
   "value": 4,
   "weight": 0.017,
   "stack_size": 100,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/light_ammo.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/light_ammo.png",
+  "dropped_by": [],
+  "crafting_requirements": {
     "chemicals": 2,
     "metal_parts": 3
   },
-  "recycles_into": {},
-  "salvages_into": {},
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/light_ammo.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/light_ammo.png",
+  "last_updated": "Jan 21, 2026",
   "compatible_with": [
     "burletta_i",
     "burletta_ii",
@@ -37,9 +36,5 @@
     "bobcat_ii",
     "bobcat_iii",
     "bobcat_iv"
-  ],
-  "found_in": [],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  ]
 }

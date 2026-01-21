@@ -7,7 +7,9 @@
   "value": 4000,
   "weight": 0.25,
   "stack_size": 3,
-  "recipe": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fossilized_lightning.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "crafting_requirements": {},
   "recycles_into": {
     "explosive_compound": 3
   },
@@ -15,10 +17,7 @@
     "explosive_compound": 2
   },
   "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fossilized_lightning.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "found_in": ["Nature"],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "found_in": "Nature",
+  "dropped_by": [],
+  "last_updated": "Jan 21, 2026"
 }

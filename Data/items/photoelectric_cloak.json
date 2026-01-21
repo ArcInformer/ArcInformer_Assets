@@ -7,7 +7,13 @@
   "value": 5000,
   "weight": 1,
   "stack_size": 0,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/photoelectric_cloak.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/photoelectric_cloak.png",
+  "matching_blueprint": [],
+  "item_data": {
+    "Durability": "100/100"
+  },
+  "crafting_requirements": {
     "advanced_electrical_components": 2,
     "speaker_component": 4
   },
@@ -18,11 +24,6 @@
   "salvages_into": {
     "advanced_electrical_components": 1
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/photoelectric_cloak.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "found_in": [],
   "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

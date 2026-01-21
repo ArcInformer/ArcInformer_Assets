@@ -7,21 +7,20 @@
   "value": 640,
   "weight": 0.25,
   "stack_size": 0,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stable_stock_i.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "mod_effects": [],
+  "matching_blueprint": [],
+  "crafting_requirements": {
     "duct_tape": 1,
     "rubber_parts": 6
   },
+  "compatible_with": [],
   "recycles_into": {
     "rubber_parts": 6
   },
   "salvages_into": {
     "rubber_parts": 3
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stable_stock_i.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "found_in": [],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

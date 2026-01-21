@@ -1,13 +1,29 @@
 ﻿{
   "id": "hairpin_iv",
-  "name": "Hairpin Iv",
+  "name": "Hairpin IV",
   "description": "Has a built-in silencer. Great for stealth, but tricky in combat.",
   "type": "Pistol",
   "rarity": "Common",
   "value": 2900,
   "weight": 3,
   "stack_size": 0,
-  "recipe": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hairpin.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/hairpin.png",
+  "item_data": {
+    "Reduced Reload Time": "40%",
+    "ARC Armor Penetration": "Very Weak",
+    "Increased Fire Rate": "30%",
+    "Special Trait": "Integrated Silencer",
+    "Ammo Type": "Light Ammo",
+    "Durability": "130/130",
+    "Magazine Size": 8,
+    "Firing Mode": "Slide-Action"
+  },
+  "varients": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
+  "crafting_requirements": {},
+  "repair_cost": {},
   "recycles_into": {
     "mechanical_components": 1,
     "simple_gun_parts": 2
@@ -15,11 +31,5 @@
   "salvages_into": {
     "simple_gun_parts": 2
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hairpin.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/hairpin.png",
-  "found_in": [],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

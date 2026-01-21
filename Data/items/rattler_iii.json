@@ -7,7 +7,21 @@
   "value": 5000,
   "weight": 6,
   "stack_size": 0,
-  "recipe": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rattler.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rattler.png",
+  "item_data": {
+    "ARC Armor Penetration": "Moderate",
+    "Upgrade Modifiers": "+8 Magazine Size",
+    "Ammo Type": "Medium Ammo",
+    "Durability": "120/120",
+    "Magazine Size": 20,
+    "Firing Mode": "Fully-Automatic"
+  },
+  "varients": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
+  "crafting_requirements": {},
+  "repair_cost": {},
   "recycles_into": {
     "mechanical_components": 3,
     "simple_gun_parts": 1
@@ -15,11 +29,5 @@
   "salvages_into": {
     "metal_parts": 12
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rattler.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rattler.png",
-  "found_in": [],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

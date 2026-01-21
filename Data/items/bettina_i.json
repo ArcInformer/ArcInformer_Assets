@@ -7,11 +7,24 @@
   "value": 8000,
   "weight": 11,
   "stack_size": 0,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bettina.png",
+  "item_data": {
+    "Firing Mode": "Fully-Automatic",
+    "ARC Armor Penetration": "Strong",
+    "Magazine Size": 20,
+    "Ammo Type": "Heavy Ammo",
+    "Durability": "100/100"
+  },
+  "varients": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
+  "crafting_requirements": {
     "advanced_mechanical_components": 3,
     "canister": 3,
     "heavy_gun_parts": 3
   },
+  "repair_cost": {},
   "recycles_into": {
     "advanced_mechanical_components": 1,
     "heavy_gun_parts": 2
@@ -19,11 +32,5 @@
   "salvages_into": {
     "advanced_mechanical_components": 1
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bettina.png",
-  "found_in": [],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

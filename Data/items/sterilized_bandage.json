@@ -7,7 +7,15 @@
   "value": 2000,
   "weight": 0.2,
   "stack_size": 3,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/sterilized_bandage.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/sterilized_bandage.png",
+  "matching_blueprint": [],
+  "item_data": {
+    "Duration": "10s",
+    "Healing": "5/s",
+    "Use Time": "1.5s"
+  },
+  "crafting_requirements": {
     "antiseptic": 1,
     "durable_cloth": 2
   },
@@ -18,11 +26,6 @@
   "salvages_into": {
     "durable_cloth": 1
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/sterilized_bandage.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/sterilized_bandage.png",
-  "found_in": [],
   "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

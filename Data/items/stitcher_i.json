@@ -7,10 +7,23 @@
   "value": 800,
   "weight": 5,
   "stack_size": 0,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stitcher.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/stitcher.png",
+  "item_data": {
+    "Firing Mode": "Fully-Automatic",
+    "ARC Armor Penetration": "Very Weak",
+    "Magazine Size": 20,
+    "Ammo Type": "Light Ammo",
+    "Durability": "100/100"
+  },
+  "varients": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
+  "crafting_requirements": {
     "metal_parts": 8,
     "rubber_parts": 4
   },
+  "repair_cost": {},
   "recycles_into": {
     "metal_parts": 3,
     "rubber_parts": 2
@@ -18,11 +31,5 @@
   "salvages_into": {
     "metal_parts": 3
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stitcher.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/stitcher.png",
-  "found_in": [],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

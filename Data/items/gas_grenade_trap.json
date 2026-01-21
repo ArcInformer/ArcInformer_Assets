@@ -7,17 +7,20 @@
   "value": 300,
   "weight": 0.25,
   "stack_size": 3,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/gas_grenade_trap.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "matching_blueprint": [],
+  "item_data": {
+    "Radius": "7.5m",
+    "Duration": "20s",
+    "Stamina Drain": "25/s"
+  },
+  "crafting_requirements": {
     "gas_grenade": 1,
     "wires": 1
   },
   "recycles_into": {},
   "salvages_into": {},
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/gas_grenade_trap.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "found_in": [],
   "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

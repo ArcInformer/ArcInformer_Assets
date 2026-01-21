@@ -7,7 +7,11 @@
   "value": 640,
   "weight": 0.25,
   "stack_size": 0,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_light_mag_i.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "mod_effects": [],
+  "matching_blueprint": [],
+  "crafting_requirements": {
     "plastic_parts": 6,
     "steel_spring": 1
   },
@@ -17,9 +21,7 @@
   "salvages_into": {
     "plastic_parts": 3
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_light_mag_i.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "last_updated": "Jan 21, 2026",
   "compatible_with": [
     "kettle_i",
     "kettle_ii",
@@ -41,9 +43,5 @@
     "stitcher_ii",
     "stitcher_iii",
     "stitcher_iv"
-  ],
-  "found_in": [],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  ]
 }

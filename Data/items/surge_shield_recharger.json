@@ -7,7 +7,14 @@
   "value": 1200,
   "weight": 0.2,
   "stack_size": 5,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/surge_shield_recharger.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/surge_shield_recharger.png",
+  "matching_blueprint": [],
+  "item_data": {
+    "Recharge": 50,
+    "Use Time": "5s"
+  },
+  "crafting_requirements": {
     "advanced_arc_powercell": 1,
     "electrical_components": 1
   },
@@ -17,11 +24,6 @@
   "salvages_into": {
     "plastic_parts": 5
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/surge_shield_recharger.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/surge_shield_recharger.png",
-  "found_in": [],
   "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

@@ -1,13 +1,27 @@
 ﻿{
   "id": "il_toro_iv",
-  "name": "Il Toro Iv",
+  "name": "Il Toro IV",
   "description": "Pump-action shotgun with large bullet spread, sharp falloff, and high damage output.",
   "type": "Shotgun",
   "rarity": "Uncommon",
   "value": 13000,
   "weight": 8,
   "stack_size": 0,
-  "recipe": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/il_toro.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/il_toro.png",
+  "item_data": {
+    "ARC Armor Penetration": "Weak",
+    "Increased Fire Rate": "50%",
+    "Ammo Type": "Shotgun Ammo",
+    "Durability": "130/130",
+    "Magazine Size": 8,
+    "Firing Mode": "Pump-Action"
+  },
+  "varients": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
+  "crafting_requirements": {},
+  "repair_cost": {},
   "recycles_into": {
     "mechanical_components": 5,
     "simple_gun_parts": 5
@@ -15,11 +29,5 @@
   "salvages_into": {
     "simple_gun_parts": 5
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/il_toro.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/il_toro.png",
-  "found_in": [],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

@@ -7,7 +7,8 @@
   "value": 2000,
   "weight": 3,
   "stack_size": 3,
-  "recipe": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rusted_shut_medical_kit.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rusted_shut_medical_kit.png",
   "recycles_into": {
     "antiseptic": 1,
     "syringe": 2
@@ -15,11 +16,6 @@
   "salvages_into": {
     "syringe": 2
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rusted_shut_medical_kit.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rusted_shut_medical_kit.png",
-  "found_in": ["Medical"],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "found_in": "Medical",
+  "last_updated": "Jan 21, 2026"
 }

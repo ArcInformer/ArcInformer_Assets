@@ -7,7 +7,10 @@
   "value": 640,
   "weight": 0.5,
   "stack_size": 10,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/electrical_components.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/electrical_components.png",
+  "found_in": "Electrical",
+  "crafting_requirements": {
     "plastic_parts": 8,
     "rubber_parts": 4
   },
@@ -15,20 +18,16 @@
     "plastic_parts": 3,
     "rubber_parts": 3
   },
+  "recycles_from": {},
   "salvages_into": {
     "plastic_parts": 3
   },
+  "last_updated": "Jan 21, 2026",
   "crafts_into": [
     "tactical_mk2",
     "combat_mk2",
     "looting_mk2",
     "surge_shield_recharger",
     "lure_grenade"
-  ],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/electrical_components.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "found_in": ["Electrical"],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  ]
 }

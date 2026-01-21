@@ -7,7 +7,15 @@
   "value": 270,
   "weight": 0.2,
   "stack_size": 3,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/gas_grenade.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/gas_grenade.png",
+  "matching_blueprint": [],
+  "item_data": {
+    "Radius": "7.5m",
+    "Duration": "20s",
+    "Stamina Drain": "25/s"
+  },
+  "crafting_requirements": {
     "chemicals": 4,
     "rubber_parts": 2
   },
@@ -18,11 +26,6 @@
   "salvages_into": {
     "chemicals": 1
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/gas_grenade.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/gas_grenade.png",
-  "found_in": [],
   "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

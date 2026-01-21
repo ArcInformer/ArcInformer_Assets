@@ -7,7 +7,14 @@
   "value": 150,
   "weight": 0.15,
   "stack_size": 5,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/green_light_stick.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/green_light_stick.png",
+  "matching_blueprint": [],
+  "item_data": {
+    "Duration": "40s",
+    "Illumination Radius": "7m"
+  },
+  "crafting_requirements": {
     "chemicals": 3
   },
   "recycles_into": {
@@ -16,11 +23,6 @@
   "salvages_into": {
     "chemicals": 1
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/green_light_stick.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "found_in": [],
   "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

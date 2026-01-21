@@ -7,18 +7,17 @@
   "value": 250,
   "weight": 0.25,
   "stack_size": 15,
-  "recipe": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/battery.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/battery.png",
+  "crafting_requirements": {},
   "recycles_into": {
     "metal_parts": 2
   },
   "salvages_into": {
     "metal_parts": 1
   },
-  "crafts_into": ["energy_clip", "medium_shield", "jolt_mine"],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/battery.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/battery.png",
-  "found_in": ["Technological", "Electrical"],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "found_in": "Technological, Electrical",
+  "dropped_by": [],
+  "last_updated": "Jan 21, 2026",
+  "crafts_into": ["energy_clip", "medium_shield", "jolt_mine"]
 }

@@ -7,7 +7,20 @@
   "value": 17000,
   "weight": 7,
   "stack_size": 0,
-  "recipe": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/hullcracker.png",
+  "item_data": {
+    "ARC Armor Penetration": "Very Strong",
+    "Increased Fire Rate": "35%",
+    "Ammo Type": "Launcher Ammo",
+    "Durability": "120/120",
+    "Magazine Size": 5,
+    "Firing Mode": "Pump-Action"
+  },
+  "varients": [],
+  "matching_blueprint": [],
+  "crafting_requirements": {},
+  "repair_cost": {},
   "recycles_into": {
     "advanced_mechanical_components": 3,
     "heavy_gun_parts": 4
@@ -15,11 +28,5 @@
   "salvages_into": {
     "heavy_gun_parts": 4
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/hullcracker.png",
-  "found_in": [],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

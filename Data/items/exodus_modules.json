@@ -7,7 +7,9 @@
   "value": 2750,
   "weight": 1,
   "stack_size": 3,
-  "recipe": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/exodus_modules.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/exodus_modules.png",
+  "crafting_requirements": {},
   "recycles_into": {
     "magnet": 2,
     "processor": 2
@@ -15,6 +17,9 @@
   "salvages_into": {
     "processor": 2
   },
+  "found_in": "Exodus",
+  "dropped_by": [],
+  "last_updated": "Jan 21, 2026",
   "crafts_into": [
     "tempest_i",
     "tempest_ii",
@@ -33,11 +38,5 @@
     "bobcat_iii",
     "bobcat_iv",
     "snap_hook"
-  ],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/exodus_modules.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/exodus_modules.png",
-  "found_in": ["Exodus"],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  ]
 }

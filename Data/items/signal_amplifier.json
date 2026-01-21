@@ -7,7 +7,8 @@
   "value": 3000,
   "weight": 1.5,
   "stack_size": 3,
-  "recipe": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/signal_amplifier.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/signal_amplifier.png",
   "recycles_into": {
     "electrical_components": 2,
     "voltage_converter": 2
@@ -15,11 +16,6 @@
   "salvages_into": {
     "voltage_converter": 2
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/signal_amplifier.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/signal_amplifier.png",
-  "found_in": ["Exodus"],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "found_in": "Exodus",
+  "last_updated": "Jan 21, 2026"
 }

@@ -7,7 +7,14 @@
   "value": 640,
   "weight": 1,
   "stack_size": 0,
-  "recipe": {
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/flame_spray.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/flame_spray.png",
+  "matching_blueprint": [],
+  "item_data": {
+    "Durability": "100/100",
+    "Damage": "10/s"
+  },
+  "crafting_requirements": {
     "air_freshener": 1,
     "fireball_burner": 1
   },
@@ -18,11 +25,6 @@
   "salvages_into": {
     "fireball_burner": 1
   },
-  "crafts_into": [],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/flame_spray.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/flame_spray.png",
-  "found_in": [],
   "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  "last_updated": "Jan 21, 2026"
 }

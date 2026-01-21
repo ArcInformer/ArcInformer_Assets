@@ -7,9 +7,12 @@
   "value": 50,
   "weight": 0.1,
   "stack_size": 50,
-  "recipe": {},
-  "recycles_into": {},
-  "salvages_into": {},
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rubber_parts.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rubber_parts.png",
+  "found_in": "Mechanical, Industrial, Electrical",
+  "recycles_from": {},
+  "workshop_benchs": [],
+  "last_updated": "Jan 21, 2026",
   "crafts_into": [
     "ferro_i",
     "ferro_ii",
@@ -25,11 +28,5 @@
     "stitcher_ii",
     "stitcher_iii",
     "stitcher_iv"
-  ],
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rubber_parts.png",
-  "in_game_image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rubber_parts.png",
-  "found_in": ["Mechanical", "Industrial", "Electrical"],
-  "repair_cost": {},
-  "sources": [],
-  "last_updated": "Jan 18, 2026"
+  ]
 }
