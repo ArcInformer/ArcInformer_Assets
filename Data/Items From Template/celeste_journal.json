@@ -1,0 +1,14 @@
+﻿{
+  "id": "celeste_journal",
+  "name": "Celeste's Journal",
+  "description": "Battered and torn, you can see the faint outline of doodles along the edges.",
+  "type": "Trinket",
+  "rarity": "Common",
+  "value": 0,
+  "weight": 0.25,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/celeste_journal.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "found_in": [],
+  "last_updated": "Jan 21, 2026"
+}

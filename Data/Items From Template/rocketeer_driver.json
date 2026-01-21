@@ -1,0 +1,21 @@
+﻿{
+  "id": "rocketeer_driver",
+  "name": "Rocketeer Driver",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Epic",
+  "value": 5000,
+  "weight": 1,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rocketeer_driver.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "recycles_into": {
+    "advanced_electrical_components": 2,
+    "arc_alloy": 3
+  },
+  "salvages_into": {
+    "arc_circuitry": 2
+  },
+  "found_in": "ARC",
+  "last_updated": "Jan 21, 2026"
+}

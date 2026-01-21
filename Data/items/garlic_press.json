@@ -1,7 +1,7 @@
 ﻿{
   "id": "garlic_press",
   "name": "Garlic Press",
-  "description": "It\u0027ll press garlic, olives, and probably many other things.",
+  "description": "It'll press garlic, olives, and probably many other things.",
   "type": "Recyclable",
   "rarity": "Uncommon",
   "value": 1000,

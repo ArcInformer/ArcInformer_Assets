@@ -1,0 +1,14 @@
+﻿{
+  "id": "spaceport_control_tower_key",
+  "name": "Spaceport Control Tower Key",
+  "description": "Unlocks a door in Control Tower A6 in Spaceport",
+  "type": "Key",
+  "rarity": "Rare",
+  "value": 100,
+  "weight": 0.25,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/spaceport_control_tower_key.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/spaceport_control_tower_key.png",
+  "found_in": [],
+  "crafting_requirements": {},
+  "last_updated": "Jan 21, 2026"
+}

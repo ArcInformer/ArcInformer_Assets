@@ -1,7 +1,7 @@
 ﻿{
   "id": "acoustic_guitar",
   "name": "Acoustic Guitar",
-  "description": "A playable acoustic guitar used to attract ARC\u0027s attention, and impress other Raiders.",
+  "description": "A playable acoustic guitar used to attract ARC's attention, and impress other Raiders.",
   "type": "Quick Use",
   "rarity": "Legendary",
   "value": 7000,

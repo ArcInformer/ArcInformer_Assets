@@ -1,0 +1,31 @@
+﻿{
+  "id": "crude_explosives",
+  "name": "Crude Explosives",
+  "description": "Used to craft explosives. Can be recycled into crafting materials.",
+  "type": "Refined Material",
+  "rarity": "Uncommon",
+  "value": 270,
+  "weight": 0.5,
+  "stack_size": 10,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/crude_explosives.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/crude_explosives.png",
+  "found_in": "Industrial, Security",
+  "crafting_requirements": {
+    "chemicals": 6
+  },
+  "recycles_into": {
+    "chemicals": 3
+  },
+  "recycles_from": {},
+  "salvages_into": {
+    "chemicals": 2
+  },
+  "last_updated": "Jan 21, 2026",
+  "crafts_into": [
+    "launcher_ammo",
+    "explosive_compound",
+    "snap_blast_grenade",
+    "shrapnel_grenade",
+    "trigger_nade"
+  ]
+}

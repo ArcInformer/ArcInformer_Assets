@@ -1,0 +1,39 @@
+﻿{
+  "id": "jupiter",
+  "name": "Jupiter",
+  "description": "A bolt-action sniper rifle with exceptional damage output and accuracy, but slow handling.",
+  "type": "Sniper Rifle",
+  "rarity": "Legendary",
+  "value": 27500,
+  "weight": 9,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/jupiter.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/jupiter.png",
+  "item_data": {
+    "ARC Armor Penetration": "Very Strong",
+    "Magazine Size": 5,
+    "Ammo Type": "Energy Clip",
+    "Special Trait": "Experimental",
+    "Firing Mode": "Bolt-Action"
+  },
+  "varients": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
+  "crafting_requirements": {
+    "complex_gun_parts": 3,
+    "magnetic_accelerator": 3,
+    "queen_reactor": 1
+  },
+  "repair_cost": {
+    "complex_gun_parts": 1,
+    "magnetic_accelerator": 2
+  },
+  "recycles_into": {
+    "complex_gun_parts": 1,
+    "magnetic_accelerator": 2
+  },
+  "salvages_into": {
+    "advanced_mechanical_components": 3
+  },
+  "last_updated": "Jan 21, 2026"
+}

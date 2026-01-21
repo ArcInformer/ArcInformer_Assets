@@ -1,0 +1,36 @@
+﻿{
+  "id": "vulcano_iii",
+  "name": "Vulcano III",
+  "description": "Semi-automatic shotgun with good bullet spread but sharp falloff",
+  "type": "Shotgun",
+  "rarity": "Epic",
+  "value": 17000,
+  "weight": 8,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "item_data": {
+    "Reduced Reload Time": "26%",
+    "20% Increased Fire Rate": true,
+    "ARC Armor Penetration": "Weak",
+    "Increased Fire Rate": "20%",
+    "26% Reduced Reload Time": true,
+    "Ammo Type": "Shotgun Ammo",
+    "Durability": "120/120",
+    "Magazine Size": 6,
+    "Firing Mode": "Semi-Automatic"
+  },
+  "varients": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
+  "crafting_requirements": {},
+  "repair_cost": {},
+  "recycles_into": {
+    "advanced_mechanical_components": 3,
+    "heavy_gun_parts": 4
+  },
+  "salvages_into": {
+    "heavy_gun_parts": 4
+  },
+  "last_updated": "Jan 21, 2026"
+}

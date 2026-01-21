@@ -1,0 +1,48 @@
+﻿{
+  "id": "extended_light_mag_ii",
+  "name": "Extended Light Mag II",
+  "description": "Moderately extends the ammo capacity of compatible weapons that use light ammo.",
+  "type": "Modification",
+  "rarity": "Uncommon",
+  "value": 2000,
+  "weight": 0.5,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_light_mag_ii.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/extended_light_mag_ii.png",
+  "mod_effects": [],
+  "matching_blueprint": [],
+  "crafting_requirements": {
+    "mechanical_components": 2,
+    "steel_spring": 3
+  },
+  "recycles_into": {
+    "mechanical_components": 1,
+    "steel_spring": 1
+  },
+  "salvages_into": {
+    "mechanical_components": 1
+  },
+  "last_updated": "Jan 21, 2026",
+  "compatible_with": [
+    "stitcher_i",
+    "stitcher_ii",
+    "stitcher_iii",
+    "stitcher_iv",
+    "kettle_i",
+    "kettle_ii",
+    "kettle_iii",
+    "kettle_iv",
+    "burletta_i",
+    "burletta_ii",
+    "burletta_iii",
+    "burletta_iv",
+    "hairpin_i",
+    "hairpin_ii",
+    "hairpin_iii",
+    "hairpin_iv",
+    "bobcat_i",
+    "bobcat_ii",
+    "bobcat_iii",
+    "bobcat_iv"
+  ]
+}

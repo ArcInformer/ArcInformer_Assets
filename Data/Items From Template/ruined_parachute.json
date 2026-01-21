@@ -1,0 +1,20 @@
+﻿{
+  "id": "ruined_parachute",
+  "name": "Ruined Parachute",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Uncommon",
+  "value": 640,
+  "weight": 0.8,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ruined_parachute.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/ruined_parachute.png",
+  "recycles_into": {
+    "fabric": 10
+  },
+  "salvages_into": {
+    "fabric": 5
+  },
+  "found_in": "Exodus",
+  "last_updated": "Jan 21, 2026"
+}

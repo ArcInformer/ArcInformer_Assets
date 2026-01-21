@@ -1,0 +1,22 @@
+﻿{
+  "id": "candleberries",
+  "name": "Candleberries",
+  "description": "A waxy berry that grows only during a small window each year. People have depended on them to make candles, foods and medicine for ages.",
+  "type": "Nature",
+  "rarity": "Rare",
+  "value": 460,
+  "weight": 0.5,
+  "stack_size": 10,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/candleberries.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "found_in": "Nature",
+  "item_data": {
+    "Stamina": "",
+    "Use Time": ""
+  },
+  "recycles_into": {
+    "assorted_seeds": 2
+  },
+  "salvages_into": {},
+  "last_updated": "Jan 21, 2026"
+}

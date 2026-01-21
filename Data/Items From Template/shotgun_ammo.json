@@ -1,0 +1,19 @@
+﻿{
+  "id": "shotgun_ammo",
+  "name": "Shotgun Ammo",
+  "description": "",
+  "type": "Ammunition",
+  "rarity": "Common",
+  "value": 20,
+  "weight": 0.085,
+  "stack_size": 20,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shotgun_ammo.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/shotgun_ammo.png",
+  "dropped_by": [],
+  "crafting_requirements": {
+    "chemicals": 2,
+    "metal_parts": 3
+  },
+  "last_updated": "Jan 21, 2026",
+  "compatible_with": ["vulcano_i", "vulcano_ii", "vulcano_iii", "vulcano_iv"]
+}

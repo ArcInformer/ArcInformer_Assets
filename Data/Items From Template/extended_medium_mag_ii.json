@@ -1,0 +1,48 @@
+﻿{
+  "id": "extended_medium_mag_ii",
+  "name": "Extended Medium Mag II",
+  "description": "Moderately extends the ammo capacity of compatible weapons that use medium ammo.",
+  "type": "Modification",
+  "rarity": "Uncommon",
+  "value": 2000,
+  "weight": 0.5,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_medium_mag_ii.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/extended_medium_mag_ii.png",
+  "mod_effects": [],
+  "matching_blueprint": [],
+  "crafting_requirements": {
+    "mechanical_components": 2,
+    "steel_spring": 3
+  },
+  "recycles_into": {
+    "mechanical_components": 1,
+    "steel_spring": 1
+  },
+  "salvages_into": {
+    "mechanical_components": 1
+  },
+  "last_updated": "Jan 21, 2026",
+  "compatible_with": [
+    "arpeggio_i",
+    "arpeggio_ii",
+    "arpeggio_iii",
+    "arpeggio_iv",
+    "renegade_i",
+    "renegade_ii",
+    "renegade_iii",
+    "renegade_iv",
+    "venator_i",
+    "venator_ii",
+    "venator_iii",
+    "venator_iv",
+    "tempest_i",
+    "tempest_ii",
+    "tempest_iii",
+    "tempest_iv",
+    "torrente_i",
+    "torrente_ii",
+    "torrente_iii",
+    "torrente_iv"
+  ]
+}

@@ -1,0 +1,27 @@
+﻿{
+  "id": "power_rod",
+  "name": "Power Rod",
+  "description": "Used in crafting.",
+  "type": "Refined Material",
+  "rarity": "Epic",
+  "value": 5000,
+  "weight": 2,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/power_rod.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/power_rod.png",
+  "found_in": "Exodus",
+  "crafting_requirements": {
+    "advanced_electrical_components": 2,
+    "arc_circuitry": 2
+  },
+  "recycles_into": {
+    "advanced_electrical_components": 1,
+    "arc_circuitry": 1
+  },
+  "recycles_from": {},
+  "salvages_into": {
+    "advanced_electrical_components": 1
+  },
+  "last_updated": "Jan 21, 2026",
+  "crafts_into": ["heavy_shield", "snap_hook"]
+}

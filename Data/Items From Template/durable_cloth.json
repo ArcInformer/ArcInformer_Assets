@@ -1,0 +1,25 @@
+﻿{
+  "id": "durable_cloth",
+  "name": "Durable Cloth",
+  "description": "Used to craft medical supplies.",
+  "type": "Refined Material",
+  "rarity": "Uncommon",
+  "value": 640,
+  "weight": 0.25,
+  "stack_size": 10,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/durable_cloth.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/durable_cloth.png",
+  "found_in": "Medical, Commercial",
+  "crafting_requirements": {
+    "fabric": 14
+  },
+  "recycles_into": {
+    "fabric": 6
+  },
+  "recycles_from": {},
+  "salvages_into": {
+    "fabric": 2
+  },
+  "last_updated": "Jan 21, 2026",
+  "crafts_into": ["herbal_bandage", "sterilized_bandage"]
+}

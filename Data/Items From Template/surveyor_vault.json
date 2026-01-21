@@ -1,0 +1,21 @@
+﻿{
+  "id": "surveyor_vault",
+  "name": "Surveyor Vault",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 2000,
+  "weight": 1,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/surveyor_vault.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/surveyor_vault.png",
+  "recycles_into": {
+    "arc_alloy": 2,
+    "mechanical_components": 2
+  },
+  "salvages_into": {
+    "mechanical_components": 2
+  },
+  "found_in": "ARC",
+  "last_updated": "Jan 21, 2026"
+}

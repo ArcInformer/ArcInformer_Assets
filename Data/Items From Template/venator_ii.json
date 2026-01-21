@@ -1,0 +1,35 @@
+﻿{
+  "id": "venator_ii",
+  "name": "Venator II",
+  "description": "Semi-automatic pistol. Fires two shots at a time.",
+  "type": "Pistol",
+  "rarity": "Rare",
+  "value": 10000,
+  "weight": 5,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/venator_ii.png",
+  "item_data": {
+    "Reduced Reload Time": "16%",
+    "ARC Armor Penetration": "Moderate",
+    "Increased Fire Rate": "13%",
+    "Special Trait": "Twin Shot",
+    "Ammo Type": "Medium Ammo",
+    "Durability": "110/110",
+    "Magazine Size": 10,
+    "Firing Mode": "Semi-Automatic"
+  },
+  "varients": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
+  "crafting_requirements": {},
+  "repair_cost": {},
+  "recycles_into": {
+    "advanced_mechanical_components": 2,
+    "medium_gun_parts": 2
+  },
+  "salvages_into": {
+    "medium_gun_parts": 2
+  },
+  "last_updated": "Jan 21, 2026"
+}

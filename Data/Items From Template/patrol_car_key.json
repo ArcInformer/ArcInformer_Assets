@@ -1,0 +1,14 @@
+﻿{
+  "id": "patrol_car_key",
+  "name": "Patrol Car Key",
+  "description": "A key to a patrol car.",
+  "type": "Key",
+  "rarity": "Uncommon",
+  "value": 100,
+  "weight": 0.01,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/patrol_car_key.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "found_in": "Security",
+  "crafting_requirements": {},
+  "last_updated": "Jan 21, 2026"
+}

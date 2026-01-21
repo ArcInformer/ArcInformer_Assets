@@ -1,0 +1,16 @@
+﻿{
+  "id": "damaged_snitch_scanner",
+  "name": "Damaged Snitch Scanner",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Common",
+  "value": 659,
+  "weight": 0.25,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/damaged_snitch_scanner.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "recycles_into": {},
+  "salvages_into": {},
+  "found_in": "ARC",
+  "last_updated": "Jan 21, 2026"
+}

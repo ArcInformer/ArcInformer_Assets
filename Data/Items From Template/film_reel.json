@@ -1,0 +1,14 @@
+﻿{
+  "id": "film_reel",
+  "name": "Film Reel",
+  "description": "May be worth a few coins.",
+  "type": "Trinket",
+  "rarity": "Rare",
+  "value": 2000,
+  "weight": 0.2,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/film_reel.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/film_reel.png",
+  "found_in": "Old World, Residential",
+  "last_updated": "Jan 21, 2026"
+}

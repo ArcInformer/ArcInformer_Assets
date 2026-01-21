@@ -1,0 +1,47 @@
+﻿{
+  "id": "muzzle_brake_i",
+  "name": "Muzzle Brake I",
+  "description": "Slightly reduces both vertical recoil \u0026 horizontal recoil.",
+  "type": "Modification",
+  "rarity": "Common",
+  "value": 640,
+  "weight": 0.25,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/muzzle_brake_i.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/muzzle_brake_i.png",
+  "mod_effects": [],
+  "matching_blueprint": [],
+  "crafting_requirements": {
+    "metal_parts": 6,
+    "wires": 1
+  },
+  "recycles_into": {
+    "metal_parts": 5
+  },
+  "salvages_into": {
+    "metal_parts": 3
+  },
+  "last_updated": "Jan 21, 2026",
+  "compatible_with": [
+    "rattler_i",
+    "rattler_ii",
+    "rattler_iii",
+    "rattler_iv",
+    "ferro_i",
+    "ferro_ii",
+    "ferro_iii",
+    "ferro_iv",
+    "burletta_i",
+    "burletta_ii",
+    "burletta_iii",
+    "burletta_iv",
+    "stitcher_i",
+    "stitcher_ii",
+    "stitcher_iii",
+    "stitcher_iv",
+    "tempest_i",
+    "tempest_ii",
+    "tempest_iii",
+    "tempest_iv"
+  ]
+}

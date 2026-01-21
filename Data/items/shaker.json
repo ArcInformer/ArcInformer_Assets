@@ -1,7 +1,7 @@
 ﻿{
   "id": "shaker",
   "name": "Shaker",
-  "description": "A rhythmic instrument used to attract ARC\u0027s attention, and impress other Raiders.",
+  "description": "A rhythmic instrument used to attract ARC's attention, and impress other Raiders.",
   "type": "Quick Use",
   "rarity": "Uncommon",
   "value": 1000,

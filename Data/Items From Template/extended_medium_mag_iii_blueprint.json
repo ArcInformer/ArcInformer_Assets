@@ -1,0 +1,14 @@
+﻿{
+  "id": "extended_medium_mag_iii_blueprint",
+  "name": "Extended Medium Mag III Blueprint",
+  "description": "Significantly extends the ammo capacity of compataible weapons that use medium ammo.",
+  "type": "Blueprint",
+  "rarity": "Legendary",
+  "value": 5000,
+  "weight": 0,
+  "stack_size": 1,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_medium_mag_iii.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/extended_medium_mag_iii_blueprint.png",
+  "recipe_for": [],
+  "last_updated": "Jan 21, 2026"
+}

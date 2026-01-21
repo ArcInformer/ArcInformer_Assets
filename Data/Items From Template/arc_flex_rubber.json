@@ -1,0 +1,20 @@
+﻿{
+  "id": "arc_flex_rubber",
+  "name": "ARC Flex Rubber",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 1000,
+  "weight": 1,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_flex_rubber.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_flex_rubber.png",
+  "recycles_into": {
+    "rubber_parts": 16
+  },
+  "salvages_into": {
+    "rubber_parts": 9
+  },
+  "found_in": "ARC",
+  "last_updated": "Jan 21, 2026"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "id": "rocket_thruster",
+  "name": "Rocket Thruster",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 2000,
+  "weight": 3,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rocket_thruster.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rocket_thruster.png",
+  "recycles_into": {
+    "metal_parts": 6,
+    "synthesized_fuel": 2
+  },
+  "salvages_into": {
+    "synthesized_fuel": 1
+  },
+  "found_in": "Exodus",
+  "last_updated": "Jan 21, 2026"
+}

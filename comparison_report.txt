@@ -1,0 +1,158 @@
+﻿=========================================
+Item Comparison Report
+Generated: Jan 21, 2026 01:20:49
+=========================================
+
+NEW FILE: kinetic_converter_blueprint.json (not in old items)
+NEW FILE: silencer_iii_blueprint.json (not in old items)
+Found differences in 49 files:
+
+acoustic_guitar.json:
+  - sources: EXISTS in old (with data), MISSING in new
+  - history: EXISTS in old (with data), MISSING in new
+
+adrenaline_shot.json:
+  - found_in: EXISTS in old (with data), MISSING in new
+  - sources: EXISTS in old (with data), MISSING in new
+
+advanced_arc_powercell.json:
+  - sources: EXISTS in old (with data), MISSING in new
+
+advanced_electrical_components.json:
+  - sources: EXISTS in old (with data), MISSING in new
+
+advanced_mechanical_components.json:
+  - sources: EXISTS in old (with data), MISSING in new
+
+backpack_black_hiker_color.json:
+  - name: OLD='Backpack Black Hiker Color' NEW='Backpack (Black Hiker Color)'
+
+blue_gate_cellar_key.json:
+  - stack_size: EXISTS in old (with data), MISSING in new
+
+blue_gate_communication_tower_key.json:
+  - stack_size: EXISTS in old (with data), MISSING in new
+
+blue_gate_village_key.json:
+  - stack_size: EXISTS in old (with data), MISSING in new
+
+blue_radio_renegade_color.json:
+  - name: OLD='Blue Radio Renegade Color' NEW='Blue (Radio Renegade Color)'
+
+buried_city_hospital_key.json:
+  - stack_size: EXISTS in old (with data), MISSING in new
+
+buried_city_jkv_employee_access_card.json:
+  - stack_size: EXISTS in old (with data), MISSING in new
+
+buried_city_residential_master_key.json:
+  - stack_size: EXISTS in old (with data), MISSING in new
+
+buried_city_town_hall_key.json:
+  - stack_size: EXISTS in old (with data), MISSING in new
+
+burnt_out_candles.json:
+  - name: OLD='Burnt Out Candles' NEW='Burnt-Out Candles'
+
+celeste_journal.json:
+  - name: OLD='Celeste Journal' NEW='Celeste's Journal'
+
+combat_mk3_aggressive.json:
+  - name: OLD='Combat Mk3 Aggressive' NEW='Combat Mk. 3 (Aggressive)'
+
+combat_mk3_aggressive_blueprint.json:
+  - name: OLD='Combat Mk3 Aggressive Blueprint' NEW='Combat Mk. 3 (Aggressive) Blueprint'
+
+combat_mk3_flanking.json:
+  - name: OLD='Combat Mk3 Flanking' NEW='Combat Mk. 3 (Flanking)'
+
+combat_mk3_flanking_blueprint.json:
+  - name: OLD='Combat Mk3 Flanking Blueprint' NEW='Combat Mk. 3 (Flanking) Blueprint'
+
+combat_mk_1.json:
+  - name: OLD='Combat Mk 1' NEW='Combat Mk. 1'
+
+combat_mk_2.json:
+  - name: OLD='Combat Mk 2' NEW='Combat Mk. 2'
+
+dam_staff_room_key.json:
+  - stack_size: EXISTS in old (with data), MISSING in new
+
+dam_utility_key.json:
+  - stack_size: EXISTS in old (with data), MISSING in new
+
+dried_out_arc_resin.json:
+  - name: OLD='Dried Out Arc Resin' NEW='Dried-Out ARC Resin'
+
+extended_shotgun_mag_i.json:
+  - name: OLD='Extended Shotgun Mag I' NEW=' Extended Shotgun Mag I'
+
+lances_mixtape_5th_edition.json:
+  - name: OLD='Lances Mixtape 5Th Edition' NEW='Lance's Mixtape (5th Edition)'
+
+lil_smoke_grenade.json:
+  - name: OLD='Lil Smoke Grenade' NEW='Li'l Smoke Grenade'
+
+looting_mk1.json:
+  - name: OLD='Looting Mk1' NEW='Looting Mk. 1'
+
+looting_mk2.json:
+  - name: OLD='Looting Mk2' NEW='Looting Mk. 2'
+
+looting_mk3_cautious.json:
+  - name: OLD='Looting Mk3 Cautious' NEW='Looting Mk. 3 (Cautious)'
+
+looting_mk3_survivor.json:
+  - name: OLD='Looting Mk3 Survivor' NEW='Looting Mk. 3 (Survivor)'
+
+looting_mk3_survivor_blueprint.json:
+  - name: OLD='Looting Mk3 Survivor Blueprint' NEW='Looting Mk. 3 (Survivor) Blueprint'
+
+major_aivas_patch.json:
+  - name: OLD='Major Aivas Patch' NEW='Major Aiva's Patch'
+
+patrol_car_key.json:
+  - stack_size: EXISTS in old (with data), MISSING in new
+
+raider_hatch_key.json:
+  - stack_size: EXISTS in old (with data), MISSING in new
+
+recorder.json:
+  - found_in: EXISTS in old (with data), MISSING in new
+
+shaker.json:
+  - found_in: EXISTS in old (with data), MISSING in new
+
+snowball.json:
+  - found_in: EXISTS in old (with data), MISSING in new
+
+spaceport_container_storage_key.json:
+  - stack_size: EXISTS in old (with data), MISSING in new
+
+stella_montis_archives_key.json:
+  - stack_size: EXISTS in old (with data), MISSING in new
+
+stella_montis_medical_storage_key.json:
+  - stack_size: EXISTS in old (with data), MISSING in new
+
+tactical_mk3_defensive.json:
+  - name: OLD='Tactical Mk3 Defensive' NEW='Tactical Mk. 3 (Defensive)'
+
+tactical_mk3_defensive_blueprint.json:
+  - name: OLD='Tactical Mk3 Defensive Blueprint' NEW='Tactical Mk. 3 (Defensive) Blueprint'
+
+tactical_mk3_healing.json:
+  - name: OLD='Tactical Mk3 Healing' NEW='Tactical Mk. 3 (Healing)'
+
+tactical_mk3_healing_blueprint.json:
+  - name: OLD='Tactical Mk3 Healing Blueprint' NEW='Tactical Mk. 3 (Healing) Blueprint'
+
+tactical_mk_1.json:
+  - name: OLD='Tactical Mk 1' NEW='Tactical Mk. 1'
+
+tactical_mk_2.json:
+  - name: OLD='Tactical Mk 2' NEW='Tactical Mk. 2'
+
+trigger_nade.json:
+  - name: OLD='Trigger Nade' NEW='Trigger 'Nade'
+

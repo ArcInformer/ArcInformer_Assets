@@ -1,0 +1,45 @@
+﻿{
+  "id": "kinetic_converter",
+  "name": "Kinetic Converter",
+  "description": "Moderately increases fire rate.",
+  "type": "Modification",
+  "rarity": "Legendary",
+  "value": 7000,
+  "weight": 0.75,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kinetic_converter.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/kinetic_converter.png",
+  "mod_effects": [],
+  "matching_blueprint": [],
+  "crafting_requirements": {},
+  "recycles_into": {
+    "duct_tape": 2,
+    "mod_components": 1
+  },
+  "salvages_into": {
+    "mechanical_components": 2
+  },
+  "last_updated": "Jan 21, 2026",
+  "compatible_with": [
+    "arpeggio_i",
+    "arpeggio_ii",
+    "arpeggio_iii",
+    "arpeggio_iv",
+    "rattler_i",
+    "rattler_ii",
+    "rattler_iii",
+    "rattler_iv",
+    "kettle_i",
+    "kettle_ii",
+    "kettle_iii",
+    "kettle_iv",
+    "ferro_i",
+    "ferro_ii",
+    "ferro_iii",
+    "ferro_iv",
+    "renegade_i",
+    "renegade_ii",
+    "renegade_iii",
+    "renegade_iv"
+  ]
+}

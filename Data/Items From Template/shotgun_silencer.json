@@ -1,0 +1,27 @@
+﻿{
+  "id": "shotgun_silencer",
+  "name": "Shotgun Silencer",
+  "description": "Moderately reduces the amount of noise produced when firing.",
+  "type": "Modification",
+  "rarity": "Epic",
+  "value": 5000,
+  "weight": 0.5,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shotgun_silencer.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/shotgun_silencer.png",
+  "mod_effects": [],
+  "matching_blueprint": [],
+  "crafting_requirements": {
+    "mod_components": 2,
+    "wires": 8
+  },
+  "compatible_with": [],
+  "recycles_into": {
+    "mod_components": 1,
+    "wires": 1
+  },
+  "salvages_into": {
+    "mechanical_components": 2
+  },
+  "last_updated": "Jan 21, 2026"
+}

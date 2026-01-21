@@ -1,0 +1,42 @@
+﻿{
+  "id": "exodus_modules",
+  "name": "Exodus Modules",
+  "description": "Used to craft a wide range of items.",
+  "type": "Topside Material",
+  "rarity": "Epic",
+  "value": 2750,
+  "weight": 1,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/exodus_modules.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/exodus_modules.png",
+  "crafting_requirements": {},
+  "recycles_into": {
+    "magnet": 2,
+    "processor": 2
+  },
+  "salvages_into": {
+    "processor": 2
+  },
+  "found_in": "Exodus",
+  "dropped_by": [],
+  "last_updated": "Jan 21, 2026",
+  "crafts_into": [
+    "tempest_i",
+    "tempest_ii",
+    "tempest_iii",
+    "tempest_iv",
+    "vulcano_i",
+    "vulcano_ii",
+    "vulcano_iii",
+    "volcano_iv",
+    "hullcracker_i",
+    "hullcracker_ii",
+    "hullcracker_iii",
+    "hullcracker_iv",
+    "bobcat_i",
+    "bobcat_ii",
+    "bobcat_iii",
+    "bobcat_iv",
+    "snap_hook"
+  ]
+}

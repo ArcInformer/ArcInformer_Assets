@@ -1,0 +1,14 @@
+﻿{
+  "id": "bettina_blueprint",
+  "name": "Bettina Blueprint",
+  "description": "Has slow fire rate and high damage output.",
+  "type": "Blueprint",
+  "rarity": "Legendary",
+  "value": 5000,
+  "weight": 0,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina_blueprint.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bettina_blueprint.png",
+  "recipe_for": [],
+  "last_updated": "Jan 21, 2026"
+}

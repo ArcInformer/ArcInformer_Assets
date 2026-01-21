@@ -1,0 +1,34 @@
+﻿{
+  "id": "vulcano_ii",
+  "name": "Vulcano II",
+  "description": "Semi-automatic shotgun with good bullet spread but sharp falloff",
+  "type": "Shotgun",
+  "rarity": "Epic",
+  "value": 13000,
+  "weight": 9.25,
+  "stack_size": 1,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "item_data": {
+    "Reduced Reload Time": "13%",
+    "ARC Armor Penetration": "Weak",
+    "Increased Fire Rate": "10%",
+    "Ammo Type": "Shotgun Ammo",
+    "Durability": "110/110",
+    "Magazine Size": 6,
+    "Firing Mode": "Semi-Automatic"
+  },
+  "varients": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
+  "crafting_requirements": {},
+  "repair_cost": {},
+  "recycles_into": {
+    "advanced_mechanical_components": 2,
+    "heavy_gun_parts": 3
+  },
+  "salvages_into": {
+    "heavy_gun_parts": 3
+  },
+  "last_updated": "Jan 21, 2026"
+}

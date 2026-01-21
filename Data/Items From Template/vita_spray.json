@@ -1,0 +1,31 @@
+﻿{
+  "id": "vita_spray",
+  "name": "Vita Spray",
+  "description": "A medical item that continuously restores health during use. Can be used on yourself or your allies.",
+  "type": "Quick Use",
+  "rarity": "Epic",
+  "value": 3000,
+  "weight": 1,
+  "stack_size": 1,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vita_spray.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/vita_spray.png",
+  "matching_blueprint": [],
+  "item_data": {
+    "Heal Capacity": 150,
+    "Healing": "10/s",
+    "Durability": "100/100"
+  },
+  "crafting_requirements": {
+    "antiseptic": 3,
+    "canister": 1
+  },
+  "recycles_into": {
+    "antiseptic": 1,
+    "canister": 2
+  },
+  "salvages_into": {
+    "antiseptic": 1
+  },
+  "repair_cost": {},
+  "last_updated": "Jan 21, 2026"
+}

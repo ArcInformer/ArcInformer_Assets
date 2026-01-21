@@ -1,0 +1,20 @@
+﻿{
+  "id": "crumpled_plastic_bottle",
+  "name": "Crumpled Plastic Bottle",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Uncommon",
+  "value": 270,
+  "weight": 0.8,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/crumpled_plastic_bottle.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/crumpled_plastic_bottle.png",
+  "recycles_into": {
+    "plastic_parts": 4
+  },
+  "salvages_into": {
+    "plastic_parts": 1
+  },
+  "found_in": "Residential",
+  "last_updated": "Jan 21, 2026"
+}

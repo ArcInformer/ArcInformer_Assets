@@ -1,0 +1,25 @@
+﻿{
+  "id": "blaze_grenade_trap",
+  "name": "Blaze Grenade Trap",
+  "description": "A laser trip wire that detonates a Blaze Grenade.",
+  "type": "Quick Use",
+  "rarity": "Rare",
+  "value": 1000,
+  "weight": 0.3,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/blaze_grenade_trap.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/blaze_grenade_trap.png",
+  "matching_blueprint": [],
+  "item_data": {
+    "Duration": "10s",
+    "Damage": "5/s"
+  },
+  "crafting_requirements": {
+    "blaze_grenade": 1,
+    "wires": 1
+  },
+  "recycles_into": {},
+  "salvages_into": {},
+  "repair_cost": {},
+  "last_updated": "Jan 21, 2026"
+}

@@ -1,0 +1,23 @@
+﻿{
+  "id": "chemicals",
+  "name": "Chemicals",
+  "description": "Used to craft medical supplies, explosives, and utility items.",
+  "type": "Basic Material",
+  "rarity": "Common",
+  "value": 50,
+  "weight": 0.15,
+  "stack_size": 50,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/chemicals.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/chemicals.png",
+  "found_in": "Medical, Residential, Mechanical",
+  "recycles_from": {},
+  "workshop_benchs": [],
+  "last_updated": "Jan 21, 2026",
+  "crafts_into": [
+    "heavy_ammo",
+    "medium_ammo",
+    "shotgun_ammo",
+    "light_ammo",
+    "light_impact_grenade"
+  ]
+}

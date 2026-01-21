@@ -1,0 +1,37 @@
+﻿{
+  "id": "burletta_ii",
+  "name": "Burletta II",
+  "description": "Semi-automatic pistol with decent damage output and accuracy. Can be fired as fast as you can pull the trigger.",
+  "type": "Pistol",
+  "rarity": "Uncommon",
+  "value": 5000,
+  "weight": 4,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burletta.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "item_data": {
+    "Ammo Type": "",
+    "Magazine Size": "",
+    "Firing Mode": "",
+    "ARC Armor Penetration": "",
+    "Damage": "",
+    "Fire Rate": "",
+    "Range": "",
+    "Stability": "",
+    "Agility": "",
+    "Stealth": ""
+  },
+  "varients": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
+  "crafting_requirements": {},
+  "repair_cost": {},
+  "recycles_into": {
+    "mechanical_components": 2,
+    "simple_gun_parts": 2
+  },
+  "salvages_into": {
+    "simple_gun_parts": 2
+  },
+  "last_updated": "Jan 21, 2026"
+}

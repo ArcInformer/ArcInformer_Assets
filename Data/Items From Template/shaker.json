@@ -1,0 +1,23 @@
+﻿{
+  "id": "shaker",
+  "name": "Shaker",
+  "description": "A rhythmic instrument used to attract ARC's attention, and impress other Raiders.",
+  "type": "Quick Use",
+  "rarity": "Uncommon",
+  "value": 1000,
+  "weight": 0.2,
+  "stack_size": 1,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shaker.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/shaker.png",
+  "matching_blueprint": [],
+  "item_data": {},
+  "crafting_requirements": {},
+  "recycles_into": {
+    "plastic_parts": 10
+  },
+  "salvages_into": {
+    "plastic_parts": 4
+  },
+  "repair_cost": {},
+  "last_updated": "Jan 21, 2026"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "id": "vita_shot",
+  "name": "Vita Shot",
+  "description": "A medical item that restores a large amount of health.",
+  "type": "Quick Use",
+  "rarity": "Rare",
+  "value": 2200,
+  "weight": 0.4,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vita_shot.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/vita_shot.png",
+  "matching_blueprint": [],
+  "item_data": {
+    "Healing": 50,
+    "Use Time": "4s"
+  },
+  "crafting_requirements": {
+    "antiseptic": 2,
+    "syringe": 1
+  },
+  "recycles_into": {
+    "chemicals": 4,
+    "syringe": 1
+  },
+  "salvages_into": {
+    "syringe": 1
+  },
+  "repair_cost": {},
+  "last_updated": "Jan 21, 2026"
+}

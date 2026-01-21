@@ -1,0 +1,19 @@
+﻿{
+  "id": "energy_clip",
+  "name": "Energy Clip",
+  "description": "",
+  "type": "Ammunition",
+  "rarity": "Rare",
+  "value": 1000,
+  "weight": 0.3,
+  "stack_size": 5,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/energy_clip.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/energy_clip.png",
+  "compatible_with": [],
+  "dropped_by": [],
+  "crafting_requirements": {
+    "advanced_arc_powercell": 1,
+    "battery": 2
+  },
+  "last_updated": "Jan 21, 2026"
+}

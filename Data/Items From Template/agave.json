@@ -1,0 +1,25 @@
+﻿{
+  "id": "agave",
+  "name": "Agave",
+  "description": "A piece of an agave leaf. Can be used to regain a small amount of health.",
+  "type": "Nature",
+  "rarity": "Uncommon",
+  "value": 1000,
+  "weight": 0.2,
+  "stack_size": 10,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/agave.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/agave.png",
+  "found_in": "Nature",
+  "item_data": {
+    "Duration": "10s",
+    "Healing": "1/s",
+    "Use Time": "1s"
+  },
+  "recycles_into": {
+    "assorted_seeds": 3
+  },
+  "salvages_into": {
+    "assorted_seeds": 2
+  },
+  "last_updated": "Jan 21, 2026"
+}

@@ -1,0 +1,42 @@
+﻿{
+  "id": "mechanical_components",
+  "name": "Mechanical Components",
+  "description": "Used to craft a wide range of items. Can be recycled into crafting materials.",
+  "type": "Refined Material",
+  "rarity": "Uncommon",
+  "value": 640,
+  "weight": 0.5,
+  "stack_size": 10,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/mechanical_components.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/mechanical_components.png",
+  "found_in": "Mechanical",
+  "crafting_requirements": {
+    "metal_parts": 7,
+    "rubber_parts": 3
+  },
+  "recycles_into": {
+    "metal_parts": 3,
+    "rubber_parts": 2
+  },
+  "recycles_from": {},
+  "salvages_into": {
+    "metal_parts": 3
+  },
+  "last_updated": "Jan 21, 2026",
+  "crafts_into": [
+    "il_toro_i",
+    "il_toro_ii",
+    "il_toro_iii",
+    "il_toro_iv",
+    "burletta_i",
+    "burletta_ii",
+    "burletta_iii",
+    "burletta_iv",
+    "anvil_i",
+    "anvil_ii",
+    "anvil_iii",
+    "anvil_iv",
+    "muzzle_brake_ii",
+    "extended_medium_mag_ii"
+  ]
+}

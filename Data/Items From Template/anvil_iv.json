@@ -1,0 +1,34 @@
+﻿{
+  "id": "anvil_iv",
+  "name": "Anvil IV",
+  "description": "Single-action hand cannon with high damage and headshot damage, but slow handling.",
+  "type": "Hand Cannon",
+  "rarity": "Uncommon",
+  "value": 13000,
+  "weight": 5,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/anvil_iv.png",
+  "item_data": {
+    "ARC Armor Penetration": "Strong",
+    "Increased Fire Rate": "75%",
+    "Ammo Type": "Heavy Ammo",
+    "Reduced Dispersion Recovery Time": "18.75%",
+    "Durability": "130/130",
+    "Magazine Size": 6,
+    "Firing Mode": "Single-Action"
+  },
+  "varients": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
+  "crafting_requirements": {},
+  "repair_cost": {},
+  "recycles_into": {
+    "mechanical_components": 5,
+    "simple_gun_parts": 5
+  },
+  "salvages_into": {
+    "simple_gun_parts": 5
+  },
+  "last_updated": "Jan 21, 2026"
+}

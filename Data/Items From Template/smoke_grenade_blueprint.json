@@ -1,0 +1,14 @@
+﻿{
+  "id": "smoke_grenade_blueprint",
+  "name": "Smoke Grenade Blueprint",
+  "description": "A grenade that creates a lingering smoke cloud on impact, blocking visibility from ARC and other Raiders.",
+  "type": "Blueprint",
+  "rarity": "Legendary",
+  "value": 5000,
+  "weight": 0,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/smoke_grenade.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/smoke_grenade_blueprint.png",
+  "recipe_for": [],
+  "last_updated": "Jan 21, 2026"
+}

@@ -1,0 +1,28 @@
+﻿{
+  "id": "medium_shield",
+  "name": "Medium Shield",
+  "description": "A standard shield that blocks a medium portion of incoming damage at a moderate cost to mobility.",
+  "type": "Shield",
+  "rarity": "Rare",
+  "value": 2000,
+  "weight": 7,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/medium_shield.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/medium_shield.png",
+  "item_data": {
+    "Charge": 70,
+    "Damage Reduction": "42.5%",
+    "Reduced Movement Speed": "5%",
+    "Durability": "100/100"
+  },
+  "crafting_requirements": {
+    "arc_circuitry": 1,
+    "battery": 4
+  },
+  "repair_cost": {},
+  "recycles_into": {
+    "arc_circuitry": 1
+  },
+  "salvages_into": {},
+  "last_updated": "Jan 21, 2026"
+}

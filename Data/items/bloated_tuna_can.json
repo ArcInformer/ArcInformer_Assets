@@ -1,7 +1,7 @@
 ﻿{
   "id": "bloated_tuna_can",
   "name": "Bloated Tuna Can",
-  "description": "Something tells you that you don\u0027t want to open this... Can (reluctantly) be consumed to restore small amounts of stamina.",
+  "description": "Something tells you that you don't want to open this... Can (reluctantly) be consumed to restore small amounts of stamina.",
   "type": "Trinket",
   "rarity": "Common",
   "value": 1000,

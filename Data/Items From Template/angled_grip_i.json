@@ -1,0 +1,47 @@
+﻿{
+  "id": "angled_grip_i",
+  "name": "Angled Grip I",
+  "description": "Slightly reduces horizontal recoil.",
+  "type": "Modification",
+  "rarity": "Common",
+  "value": 640,
+  "weight": 0.25,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_i.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/angled_grip_i.png",
+  "mod_effects": [],
+  "matching_blueprint": [],
+  "crafting_requirements": {
+    "duct_tape": 1,
+    "plastic_parts": 6
+  },
+  "recycles_into": {
+    "plastic_parts": 6
+  },
+  "salvages_into": {
+    "plastic_parts": 3
+  },
+  "last_updated": "Jan 21, 2026",
+  "compatible_with": [
+    "tempest_i",
+    "tempest_ii",
+    "tempest_iii",
+    "tempest_iv",
+    "arpeggio_i",
+    "arpeggio_ii",
+    "arpeggio_iii",
+    "arpeggio_iv",
+    "kettle_i",
+    "kettle_ii",
+    "kettle_iii",
+    "kettle_iv",
+    "ferro_i",
+    "ferro_ii",
+    "ferro_iii",
+    "ferro_iv",
+    "hullcracker_i",
+    "hullcracker_ii",
+    "hullcracker_iii",
+    "hullcracker_iv"
+  ]
+}

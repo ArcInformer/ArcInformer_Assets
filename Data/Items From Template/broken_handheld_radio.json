@@ -1,0 +1,21 @@
+﻿{
+  "id": "broken_handheld_radio",
+  "name": "Broken Handheld Radio",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 2000,
+  "weight": 3,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/broken_handheld_radio.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/broken_handheld_radio.png",
+  "recycles_into": {
+    "sensors": 3,
+    "wires": 2
+  },
+  "salvages_into": {
+    "sensors": 2
+  },
+  "found_in": "Security",
+  "last_updated": "Jan 21, 2026"
+}

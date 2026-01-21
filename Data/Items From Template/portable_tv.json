@@ -1,0 +1,21 @@
+﻿{
+  "id": "portable_tv",
+  "name": "Portable TV",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 2000,
+  "weight": 3,
+  "stack_size": 1,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/portable_tv.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/portable_tv.png",
+  "recycles_into": {
+    "battery": 2,
+    "wires": 6
+  },
+  "salvages_into": {
+    "wires": 4
+  },
+  "found_in": "Residential",
+  "last_updated": "Jan 21, 2026"
+}

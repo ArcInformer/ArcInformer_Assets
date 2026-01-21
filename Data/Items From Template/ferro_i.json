@@ -1,0 +1,35 @@
+﻿{
+  "id": "ferro_i",
+  "name": "Ferro I",
+  "description": "Packs a punch, but must be reloaded between every shot.",
+  "type": "Battle Rifle",
+  "rarity": "Common",
+  "value": 475,
+  "weight": 8,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ferro.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/ferro.png",
+  "item_data": {
+    "Firing Mode": "Break-Action",
+    "ARC Armor Penetration": "Strong",
+    "Magazine Size": 1,
+    "Ammo Type": "Heavy Ammo",
+    "Durability": "100/100"
+  },
+  "varients": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
+  "crafting_requirements": {
+    "metal_parts": 5,
+    "rubber_parts": 2
+  },
+  "repair_cost": {},
+  "recycles_into": {
+    "metal_parts": 2,
+    "rubber_parts": 1
+  },
+  "salvages_into": {
+    "metal_parts": 2
+  },
+  "last_updated": "Jan 21, 2026"
+}

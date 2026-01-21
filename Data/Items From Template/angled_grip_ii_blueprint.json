@@ -1,0 +1,28 @@
+﻿{
+  "id": "angled_grip_ii_blueprint",
+  "name": "Angled Grip II Blueprint",
+  "description": "Moderately reduces horizontal recoil.",
+  "type": "Blueprint",
+  "rarity": "Legendary",
+  "value": 5000,
+  "weight": 0,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_ii.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/angled_grip_ii_blueprint.png",
+  "recipe_for": [],
+  "last_updated": "Jan 21, 2026",
+  "compatible_with": [
+    "arpeggio_i",
+    "arpeggio_ii",
+    "arpeggio_iii",
+    "arpeggio_iv",
+    "ferro_i",
+    "ferro_ii",
+    "ferro_iii",
+    "ferro_iv",
+    "stitcher_i",
+    "stitcher_ii",
+    "stitcher_iii",
+    "stitcher_iv"
+  ]
+}

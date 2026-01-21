@@ -1,0 +1,35 @@
+﻿{
+  "id": "hullcracker_i",
+  "name": "Hullcracker I",
+  "description": "Fires explosive projectiles that only detonate when hitting ARC.",
+  "type": "Special",
+  "rarity": "Epic",
+  "value": 10000,
+  "weight": 7,
+  "stack_size": 1,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/hullcracker.png",
+  "item_data": {
+    "Firing Mode": "Pump-Action",
+    "ARC Armor Penetration": "Very Strong",
+    "Magazine Size": 5,
+    "Ammo Type": "Launcher Ammo",
+    "Durability": "100/100"
+  },
+  "varients": [],
+  "matching_blueprint": [],
+  "crafting_requirements": {
+    "exodus_modules": 1,
+    "heavy_gun_parts": 3,
+    "magnetic_accelerator": 1
+  },
+  "repair_cost": {},
+  "recycles_into": {
+    "advanced_mechanical_components": 2,
+    "heavy_gun_parts": 2
+  },
+  "salvages_into": {
+    "heavy_gun_parts": 2
+  },
+  "last_updated": "Jan 21, 2026"
+}

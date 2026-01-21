@@ -1,0 +1,14 @@
+﻿{
+  "id": "music_box",
+  "name": "Music Box",
+  "description": "Worth a small fortune.",
+  "type": "Trinket",
+  "rarity": "Rare",
+  "value": 5000,
+  "weight": 0.4,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/music_box.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/music_box.png",
+  "found_in": "Old World, Residential, Commercial",
+  "last_updated": "Jan 21, 2026"
+}

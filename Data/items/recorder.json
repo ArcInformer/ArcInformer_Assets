@@ -1,7 +1,7 @@
 ﻿{
   "id": "recorder",
   "name": "Recorder",
-  "description": "A playable recorder used to attract ARC\u0027s attention, and impress other Raiders.",
+  "description": "A playable recorder used to attract ARC's attention, and impress other Raiders.",
   "type": "Quick Use",
   "rarity": "Uncommon",
   "value": 1000,

@@ -1,0 +1,33 @@
+﻿{
+  "id": "mod_components",
+  "name": "Mod Components",
+  "description": "Used to craft weapon mods. Can be recycled into crafting materials.",
+  "type": "Refined Material",
+  "rarity": "Rare",
+  "value": 1750,
+  "weight": 1,
+  "stack_size": 5,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/mod_components.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/mod_components.png",
+  "found_in": "Security",
+  "crafting_requirements": {
+    "mechanical_components": 2,
+    "steel_spring": 2
+  },
+  "recycles_into": {
+    "mechanical_components": 1,
+    "steel_spring": 1
+  },
+  "recycles_from": {},
+  "salvages_into": {
+    "mechanical_components": 1
+  },
+  "last_updated": "Jan 21, 2026",
+  "crafts_into": [
+    "lightweight_stock",
+    "shotgun_choke_iii",
+    "extended_shotgun_mag_iii",
+    "padded_stock",
+    "compensator_iii"
+  ]
+}

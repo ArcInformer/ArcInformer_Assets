@@ -1,7 +1,7 @@
 ﻿{
   "id": "lidar_scanner",
   "name": "Lidar Scanner",
-  "description": "A laser-based scanner used to detect the subtlest changes to the Earth\u0027s surface",
+  "description": "A laser-based scanner used to detect the subtlest changes to the Earth's surface",
   "type": "Trinket",
   "rarity": "Common",
   "value": 0,

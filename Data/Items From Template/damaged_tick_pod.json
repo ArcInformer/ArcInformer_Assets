@@ -1,0 +1,20 @@
+﻿{
+  "id": "damaged_tick_pod",
+  "name": "Damaged Tick Pod",
+  "description": "Can be recycled into crafting materials.",
+  "type": "Recyclable",
+  "rarity": "Common",
+  "value": 270,
+  "weight": 0.083,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/damaged_tick_pod.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/damaged_tick_pod.png",
+  "recycles_into": {
+    "arc_alloy": 1
+  },
+  "salvages_into": {
+    "metal_parts": 1
+  },
+  "found_in": "ARC",
+  "last_updated": "Jan 21, 2026"
+}

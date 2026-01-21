@@ -1,0 +1,20 @@
+﻿{
+  "id": "degraded_arc_rubber",
+  "name": "Degraded ARC Rubber",
+  "description": "Obtained from ARC enemies or activities. Can be recycled into rubber.",
+  "type": "Recyclable",
+  "rarity": "Uncommon",
+  "value": 640,
+  "weight": 1,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/degraded_arc_rubber.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "recycles_into": {
+    "rubber_parts": 11
+  },
+  "salvages_into": {
+    "rubber_parts": 5
+  },
+  "found_in": "ARC",
+  "last_updated": "Jan 21, 2026"
+}

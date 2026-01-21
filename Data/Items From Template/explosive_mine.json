@@ -1,0 +1,30 @@
+﻿{
+  "id": "explosive_mine",
+  "name": "Explosive Mine",
+  "description": "A proximity-triggered explosive device that detonates when enemies approach.",
+  "type": "Quick Use",
+  "rarity": "Rare",
+  "value": 1500,
+  "weight": 0.5,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/explosive_mine.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/explosive_mine.png",
+  "matching_blueprint": [],
+  "item_data": {
+    "Damage": 100,
+    "Radius": "5m"
+  },
+  "crafting_requirements": {
+    "explosive_compound": 1,
+    "sensors": 1
+  },
+  "recycles_into": {
+    "oil": 2,
+    "sensors": 1
+  },
+  "salvages_into": {
+    "oil": 2
+  },
+  "repair_cost": {},
+  "last_updated": "Jan 21, 2026"
+}

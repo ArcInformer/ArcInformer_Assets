@@ -1,0 +1,34 @@
+﻿{
+  "id": "rattler_i",
+  "name": "Rattler I",
+  "description": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
+  "type": "Assault Rifle",
+  "rarity": "Common",
+  "value": 1750,
+  "weight": 6,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rattler_i.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rattler_i.png",
+  "item_data": {
+    "Firing Mode": "Fully-Automatic",
+    "ARC Armor Penetration": "Moderate",
+    "Magazine Size": 12,
+    "Ammo Type": "Medium Ammo",
+    "Durability": "100/100"
+  },
+  "varients": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
+  "crafting_requirements": {
+    "metal_parts": 16,
+    "rubber_parts": 12
+  },
+  "repair_cost": {},
+  "recycles_into": {
+    "metal_parts": 8
+  },
+  "salvages_into": {
+    "metal_parts": 4
+  },
+  "last_updated": "Jan 21, 2026"
+}

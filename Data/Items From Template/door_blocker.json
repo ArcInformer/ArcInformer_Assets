@@ -1,0 +1,26 @@
+﻿{
+  "id": "door_blocker",
+  "name": "Door Blocker",
+  "description": "A locking mechanism that can be placed on large metal doors to limit access.",
+  "type": "Quick Use",
+  "rarity": "Common",
+  "value": 270,
+  "weight": 0.2,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/door_blocker.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/door_blocker.png",
+  "matching_blueprint": [],
+  "item_data": {},
+  "crafting_requirements": {
+    "metal_parts": 3,
+    "rubber_parts": 3
+  },
+  "recycles_into": {
+    "metal_parts": 2
+  },
+  "salvages_into": {
+    "metal_parts": 1
+  },
+  "repair_cost": {},
+  "last_updated": "Jan 21, 2026"
+}

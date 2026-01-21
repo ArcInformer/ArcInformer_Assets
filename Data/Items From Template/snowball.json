@@ -1,0 +1,19 @@
+﻿{
+  "id": "snowball",
+  "name": "Snowball",
+  "description": "A compact snowball.",
+  "type": "Quick Use",
+  "rarity": "Common",
+  "value": 10,
+  "weight": 0.4,
+  "stack_size": 5,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/snowball.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "matching_blueprint": [],
+  "item_data": {},
+  "crafting_requirements": {},
+  "recycles_into": {},
+  "salvages_into": {},
+  "repair_cost": {},
+  "last_updated": "Jan 21, 2026"
+}

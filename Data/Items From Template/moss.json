@@ -1,0 +1,23 @@
+﻿{
+  "id": "moss",
+  "name": "Moss",
+  "description": "Can be used to regain a small amount of health.",
+  "type": "Topside Material",
+  "rarity": "Rare",
+  "value": 500,
+  "weight": 0.3,
+  "stack_size": 10,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/moss.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/moss.png",
+  "crafting_requirements": {},
+  "recycles_into": {
+    "assorted_seeds": 3
+  },
+  "salvages_into": {
+    "assorted_seeds": 2
+  },
+  "crafts_into": [],
+  "found_in": "Nature",
+  "dropped_by": [],
+  "last_updated": "Jan 21, 2026"
+}

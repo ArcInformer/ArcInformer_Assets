@@ -1,0 +1,21 @@
+﻿{
+  "id": "motor",
+  "name": "Motor",
+  "description": "A small electric motor, useful for various devices.",
+  "type": "Recyclable",
+  "rarity": "Rare",
+  "value": 2000,
+  "weight": 3,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/motor.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/motor.png",
+  "recycles_into": {
+    "mechanical_components": 2,
+    "oil": 2
+  },
+  "salvages_into": {
+    "oil": 3
+  },
+  "found_in": "Mechanical",
+  "last_updated": "Jan 21, 2026"
+}

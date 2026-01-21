@@ -1,0 +1,14 @@
+﻿{
+  "id": "light_bulb",
+  "name": "Light Bulb",
+  "description": "Without light, life underground would be impossible.",
+  "type": "Trinket",
+  "rarity": "Uncommon",
+  "value": 2000,
+  "weight": 0.2,
+  "stack_size": 3,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/light_bulb.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/light_bulb.png",
+  "found_in": "Electrical",
+  "last_updated": "Jan 21, 2026"
+}

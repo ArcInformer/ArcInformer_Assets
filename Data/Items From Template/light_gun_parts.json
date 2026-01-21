@@ -1,0 +1,31 @@
+﻿{
+  "id": "light_gun_parts",
+  "name": "Light Gun Parts",
+  "description": "Assorted spare parts used for pistols and SMGs.",
+  "type": "Topside Material",
+  "rarity": "Rare",
+  "value": 700,
+  "weight": 0.3,
+  "stack_size": 5,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/light_gun_parts.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/light_gun_parts.png",
+  "crafting_requirements": {
+    "simple_gun_parts": 4
+  },
+  "recycles_into": {
+    "simple_gun_parts": 2
+  },
+  "salvages_into": {
+    "simple_gun_parts": 1
+  },
+  "found_in": "Raider, Security",
+  "dropped_by": [],
+  "last_updated": "Jan 21, 2026",
+  "crafts_into": [
+    "bobcat_i",
+    "bobcat_ii",
+    "bobcat_iii",
+    "bobcat_iv",
+    "complex_gun_parts"
+  ]
+}

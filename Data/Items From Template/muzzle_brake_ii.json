@@ -1,0 +1,48 @@
+﻿{
+  "id": "muzzle_brake_ii",
+  "name": "Muzzle Brake II",
+  "description": "Moderately reduces both vertical recoil \u0026 horizontal recoil.",
+  "type": "Modification",
+  "rarity": "Uncommon",
+  "value": 2000,
+  "weight": 0.5,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/muzzle_brake_ii.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/muzzle_brake_ii.png",
+  "mod_effects": [],
+  "matching_blueprint": [],
+  "crafting_requirements": {
+    "mechanical_components": 2,
+    "wires": 4
+  },
+  "recycles_into": {
+    "mechanical_components": 1,
+    "wires": 1
+  },
+  "salvages_into": {
+    "mechanical_components": 1
+  },
+  "last_updated": "Jan 21, 2026",
+  "compatible_with": [
+    "tempest_i",
+    "tempest_ii",
+    "tempest_iii",
+    "tempest_iv",
+    "arpeggio_i",
+    "arpeggio_ii",
+    "arpeggio_iii",
+    "arpeggio_iv",
+    "kettle_i",
+    "kettle_ii",
+    "kettle_iii",
+    "kettle_iv",
+    "ferro_i",
+    "ferro_ii",
+    "ferro_iii",
+    "ferro_iv",
+    "renegade_i",
+    "renegade_ii",
+    "renegade_iii",
+    "renegade_iv"
+  ]
+}

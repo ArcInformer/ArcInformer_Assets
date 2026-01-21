@@ -1,0 +1,23 @@
+﻿{
+  "id": "advanced_arc_powercell",
+  "name": "Advanced ARC Powercell",
+  "description": "Very valuable resource that drops from certain ARC enemies.",
+  "type": "Topside Material",
+  "rarity": "Rare",
+  "value": 640,
+  "weight": 0.5,
+  "stack_size": 5,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/advanced_arc_powercell.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/advanced_arc_powercell.png",
+  "crafting_requirements": {},
+  "recycles_into": {
+    "arc_powercell": 2
+  },
+  "salvages_into": {
+    "arc_powercell": 1
+  },
+  "found_in": "ARC",
+  "dropped_by": [],
+  "last_updated": "Jan 21, 2026",
+  "crafts_into": ["energy_clip", "surge_shield_recharger"]
+}

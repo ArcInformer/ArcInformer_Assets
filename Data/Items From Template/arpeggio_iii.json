@@ -1,0 +1,34 @@
+﻿{
+  "id": "arpeggio_iii",
+  "name": "Arpeggio III",
+  "description": "Has decent damage output and accuracy.",
+  "type": "Assault Rifle",
+  "rarity": "Uncommon",
+  "value": 11500,
+  "weight": 7,
+  "stack_size": 0,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arpeggio.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arpeggio.png",
+  "item_data": {
+    "Reduced Reload Time": "25%",
+    "ARC Armor Penetration": "Moderate",
+    "Increased Fire Rate": "40%",
+    "Ammo Type": "Medium Ammo",
+    "Durability": "120/120",
+    "Magazine Size": 24,
+    "Firing Mode": "3-Round Burst"
+  },
+  "varients": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
+  "crafting_requirements": {},
+  "repair_cost": {},
+  "recycles_into": {
+    "mechanical_components": 4,
+    "simple_gun_parts": 4
+  },
+  "salvages_into": {
+    "simple_gun_parts": 4
+  },
+  "last_updated": "Jan 21, 2026"
+}
