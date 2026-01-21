@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "advanced_arc_powercell",
   "name": "Advanced ARC Powercell",
   "description": "Very valuable resource that drops from certain ARC enemies.",
@@ -10,7 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/advanced_arc_powercell.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/advanced_arc_powercell.png",
   "found_in": "ARC",
-  "dropped_by": [],
+  "dropped_by": ["arc_courier","arc_bastion","arc_bombardier","arc_leaper","arc_queen","arc_rocketeer","arc_sentinel","arc_surveyor"],
   "crafts_into": ["energy_clip", "surge_shield_recharger"],
   "crafting_requirements": {},
   "recycles_into": {
