@@ -15,7 +15,7 @@
     },
     {
         "id":  "advanced_arc_powercell",
-        "name":  "Advanced Arc Powercell",
+        "name":  "Advanced ARC Powercell",
         "type":  "Topside Material",
         "rarity":  "Rare",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/advanced_arc_powercell.png"
@@ -64,28 +64,28 @@
     },
     {
         "id":  "angled_grip_ii",
-        "name":  "Angled Grip Ii",
+        "name":  "Angled Grip II",
         "type":  "Modification",
         "rarity":  "Uncommon",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_ii.png"
     },
     {
         "id":  "angled_grip_iii",
-        "name":  "Angled Grip Iii",
+        "name":  "Angled Grip III",
         "type":  "Modification",
         "rarity":  "Rare",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_iii.png"
     },
     {
         "id":  "angled_grip_iii_blueprint",
-        "name":  "Angled Grip Iii Blueprint",
+        "name":  "Angled Grip III Blueprint",
         "type":  "Blueprint",
         "rarity":  "Legendary",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_iii.png"
     },
     {
         "id":  "angled_grip_ii_blueprint",
-        "name":  "Angled Grip Ii Blueprint",
+        "name":  "Angled Grip II Blueprint",
         "type":  "Blueprint",
         "rarity":  "Legendary",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_ii.png"
@@ -127,7 +127,7 @@
     },
     {
         "id":  "anvil_iv",
-        "name":  "Anvil Iv",
+        "name":  "Anvil IV",
         "type":  "Hand Cannon",
         "rarity":  "Uncommon",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil.png"
@@ -162,63 +162,63 @@
     },
     {
         "id":  "arc_alloy",
-        "name":  "Arc Alloy",
+        "name":  "ARC Alloy",
         "type":  "Topside Material",
         "rarity":  "Uncommon",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_alloy.png"
     },
     {
         "id":  "arc_circuitry",
-        "name":  "Arc Circuitry",
+        "name":  "ARC Circuitry",
         "type":  "Topside Material",
         "rarity":  "Rare",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_circuitry.png"
     },
     {
         "id":  "arc_coolant",
-        "name":  "Arc Coolant",
+        "name":  "ARC Coolant",
         "type":  "Recyclable",
         "rarity":  "Rare",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_coolant.png"
     },
     {
         "id":  "arc_flex_rubber",
-        "name":  "Arc Flex Rubber",
+        "name":  "ARC Flex Rubber",
         "type":  "Recyclable",
         "rarity":  "Rare",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_flex_rubber.png"
     },
     {
         "id":  "arc_motion_core",
-        "name":  "Arc Motion Core",
+        "name":  "ARC Motion Core",
         "type":  "Topside Material",
         "rarity":  "Rare",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_motion_core.png"
     },
     {
         "id":  "arc_performance_steel",
-        "name":  "Arc Performance Steel",
+        "name":  "ARC Performance Steel",
         "type":  "Recyclable",
         "rarity":  "Rare",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_performance_steel.png"
     },
     {
         "id":  "arc_powercell",
-        "name":  "Arc Powercell",
+        "name":  "ARC Powercell",
         "type":  "Topside Material",
         "rarity":  "Common",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_powercell.png"
     },
     {
         "id":  "arc_synthetic_resin",
-        "name":  "Arc Synthetic Resin",
+        "name":  "ARC Synthetic Resin",
         "type":  "Recyclable",
         "rarity":  "Rare",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_synthetic_resin.png"
     },
     {
         "id":  "arc_thermo_lining",
-        "name":  "Arc Thermo Lining",
+        "name":  "ARC Thermo Lining",
         "type":  "Recyclable",
         "rarity":  "Rare",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_thermo_lining.png"
@@ -246,7 +246,7 @@
     },
     {
         "id":  "arpeggio_iv",
-        "name":  "Arpeggio Iv",
+        "name":  "Arpeggio IV",
         "type":  "Assault Rifle",
         "rarity":  "Uncommon",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arpeggio.png"
@@ -260,7 +260,7 @@
     },
     {
         "id":  "backpack_black_hiker_color",
-        "name":  "Backpack Black Hiker Color",
+        "name":  "Backpack (Black Hiker Color)",
         "type":  "Cosmetic",
         "rarity":  "Common",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png"
@@ -337,7 +337,7 @@
     },
     {
         "id":  "bettina_iv",
-        "name":  "Bettina Iv",
+        "name":  "Bettina IV",
         "type":  "Assault Rifle",
         "rarity":  "Epic",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina.png"
@@ -428,7 +428,7 @@
     },
     {
         "id":  "blue_radio_renegade_color",
-        "name":  "Blue Radio Renegade Color",
+        "name":  "Blue (Radio Renegade Color)",
         "type":  "Cosmetic",
         "rarity":  "Common",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/blue_radio_renegade_color.png"
@@ -463,7 +463,7 @@
     },
     {
         "id":  "bobcat_iv",
-        "name":  "Bobcat Iv",
+        "name":  "Bobcat IV",
         "type":  "SMG",
         "rarity":  "Epic",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bobcat.png"
@@ -526,7 +526,7 @@
     },
     {
         "id":  "buried_city_jkv_employee_access_card",
-        "name":  "Buried City Jkv Employee Access Card",
+        "name":  "Buried City JKV Employee Access Card",
         "type":  "Key",
         "rarity":  "Uncommon",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/buried_city_jkv_employee_access_card.png"
@@ -575,7 +575,7 @@
     },
     {
         "id":  "burletta_iv",
-        "name":  "Burletta Iv",
+        "name":  "Burletta IV",
         "type":  "Pistol",
         "rarity":  "Uncommon",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burletta.png"
@@ -589,7 +589,7 @@
     },
     {
         "id":  "burnt_out_candles",
-        "name":  "Burnt Out Candles",
+        "name":  "Burnt-Out Candles",
         "type":  "Trinket",
         "rarity":  "Common",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burnt_out_candles.png"
@@ -638,7 +638,7 @@
     },
     {
         "id":  "celeste_journal",
-        "name":  "Celeste Journal",
+        "name":  "Celeste\u0027s Journal",
         "type":  "Trinket",
         "rarity":  "Common",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/celeste_journal.png"
@@ -666,42 +666,42 @@
     },
     {
         "id":  "combat_mk3_aggressive",
-        "name":  "Combat Mk3 Aggressive",
+        "name":  "Combat Mk. 3 (Aggressive)",
         "type":  "Augment",
         "rarity":  "Epic",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk3_aggressive.png"
     },
     {
         "id":  "combat_mk3_aggressive_blueprint",
-        "name":  "Combat Mk3 Aggressive Blueprint",
+        "name":  "Combat Mk. 3 (Aggressive) Blueprint",
         "type":  "Blueprint",
         "rarity":  "Legendary",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk3_aggressive.png"
     },
     {
         "id":  "combat_mk3_flanking",
-        "name":  "Combat Mk3 Flanking",
+        "name":  "Combat Mk. 3 (Flanking)",
         "type":  "Augment",
         "rarity":  "Epic",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk3_flanking.png"
     },
     {
         "id":  "combat_mk3_flanking_blueprint",
-        "name":  "Combat Mk3 Flanking Blueprint",
+        "name":  "Combat Mk. 3 (Flanking) Blueprint",
         "type":  "Blueprint",
         "rarity":  "Legendary",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk3_flanking.png"
     },
     {
         "id":  "combat_mk_1",
-        "name":  "Combat Mk 1",
+        "name":  "Combat Mk. 1",
         "type":  "Augment",
         "rarity":  "Uncommon",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk_1.png"
     },
     {
         "id":  "combat_mk_2",
-        "name":  "Combat Mk 2",
+        "name":  "Combat Mk. 2",
         "type":  "Augment",
         "rarity":  "Rare",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk_2.png"
@@ -799,14 +799,14 @@
     },
     {
         "id":  "damaged_arc_motion_core",
-        "name":  "Damaged Arc Motion Core",
+        "name":  "Damaged ARC Motion Core",
         "type":  "Recyclable",
         "rarity":  "Uncommon",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/damaged_arc_motion_core.png"
     },
     {
         "id":  "damaged_arc_powercell",
-        "name":  "Damaged Arc Powercell",
+        "name":  "Damaged ARC Powercell",
         "type":  "Recyclable",
         "rarity":  "Common",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/damaged_arc_powercell.png"
@@ -939,7 +939,7 @@
     },
     {
         "id":  "degraded_arc_rubber",
-        "name":  "Degraded Arc Rubber",
+        "name":  "Degraded ARC Rubber",
         "type":  "Recyclable",
         "rarity":  "Uncommon",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/degraded_arc_rubber.png"
@@ -967,7 +967,7 @@
     },
     {
         "id":  "dried_out_arc_resin",
-        "name":  "Dried Out Arc Resin",
+        "name":  "Dried-Out ARC Resin",
         "type":  "Recyclable",
         "rarity":  "Uncommon",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/dried_out_arc_resin.png"
@@ -1023,7 +1023,7 @@
     },
     {
         "id":  "esr_analyzer",
-        "name":  "Esr Analyzer",
+        "name":  "ESR Analyzer",
         "type":  "Trinket",
         "rarity":  "Common",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/esr_analyzer.png"
@@ -1163,7 +1163,7 @@
     },
     {
         "id":  "extended_shotgun_mag_i",
-        "name":  "Extended Shotgun Mag I",
+        "name":  " Extended Shotgun Mag I",
         "type":  "Modification",
         "rarity":  "Common",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_shotgun_mag_i.png"
@@ -1233,7 +1233,7 @@
     },
     {
         "id":  "ferro_iv",
-        "name":  "Ferro Iv",
+        "name":  "Ferro IV",
         "type":  "Battle Rifle",
         "rarity":  "Common",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ferro.png"
@@ -1457,7 +1457,7 @@
     },
     {
         "id":  "hairpin_iv",
-        "name":  "Hairpin Iv",
+        "name":  "Hairpin IV",
         "type":  "Pistol",
         "rarity":  "Common",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hairpin.png"
@@ -1569,7 +1569,7 @@
     },
     {
         "id":  "hullcracker_iv",
-        "name":  "Hullcracker Iv",
+        "name":  "Hullcracker IV",
         "type":  "Special",
         "rarity":  "Epic",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker.png"
@@ -1618,14 +1618,14 @@
     },
     {
         "id":  "il_toro_iv",
-        "name":  "Il Toro Iv",
+        "name":  "Il Toro IV",
         "type":  "Shotgun",
         "rarity":  "Uncommon",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/il_toro.png"
     },
     {
         "id":  "impure_arc_coolant",
-        "name":  "Impure Arc Coolant",
+        "name":  "Impure ARC Coolant",
         "type":  "Recyclable",
         "rarity":  "Uncommon",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/impure_arc_coolant.png"
@@ -1716,7 +1716,7 @@
     },
     {
         "id":  "kettle_iv",
-        "name":  "Kettle Iv",
+        "name":  "Kettle IV",
         "type":  "Assault Rifle",
         "rarity":  "Common",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kettle.png"
@@ -1729,6 +1729,13 @@
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kinetic_converter.png"
     },
     {
+        "id":  "kinetic_converter_blueprint",
+        "name":  "Kinetic Converter Blueprint",
+        "type":  "Blueprint",
+        "rarity":  "Legendary",
+        "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kinetic_converter.png"
+    },
+    {
         "id":  "laboratory_reagents",
         "name":  "Laboratory Reagents",
         "type":  "Recyclable",
@@ -1737,7 +1744,7 @@
     },
     {
         "id":  "lances_mixtape_5th_edition",
-        "name":  "Lances Mixtape 5Th Edition",
+        "name":  "Lance\u0027s Mixtape (5th Edition)",
         "type":  "Trinket",
         "rarity":  "Epic",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lances_mixtape_5th_edition.png"
@@ -1828,42 +1835,42 @@
     },
     {
         "id":  "lil_smoke_grenade",
-        "name":  "Lil Smoke Grenade",
+        "name":  "Li\u0027l Smoke Grenade",
         "type":  "Quick Use",
         "rarity":  "Common",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lil_smoke_grenade.png"
     },
     {
         "id":  "looting_mk1",
-        "name":  "Looting Mk1",
+        "name":  "Looting Mk. 1",
         "type":  "Augment",
         "rarity":  "Uncommon",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/looting_mk1.png"
     },
     {
         "id":  "looting_mk2",
-        "name":  "Looting Mk2",
+        "name":  "Looting Mk. 2",
         "type":  "Augment",
         "rarity":  "Rare",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/looting_mk2.png"
     },
     {
         "id":  "looting_mk3_cautious",
-        "name":  "Looting Mk3 Cautious",
+        "name":  "Looting Mk. 3 (Cautious)",
         "type":  "Augment",
         "rarity":  "Epic",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/looting_mk3_cautious.png"
     },
     {
         "id":  "looting_mk3_survivor",
-        "name":  "Looting Mk3 Survivor",
+        "name":  "Looting Mk. 3 (Survivor)",
         "type":  "Augment",
         "rarity":  "Epic",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/looting_mk3_survivor.png"
     },
     {
         "id":  "looting_mk3_survivor_blueprint",
-        "name":  "Looting Mk3 Survivor Blueprint",
+        "name":  "Looting Mk. 3 (Survivor) Blueprint",
         "type":  "Blueprint",
         "rarity":  "Legendary",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/looting_mk3_survivor_blueprint.png"
@@ -1912,7 +1919,7 @@
     },
     {
         "id":  "major_aivas_patch",
-        "name":  "Major Aivas Patch",
+        "name":  "Major Aiva\u0027s Patch",
         "type":  "Trinket",
         "rarity":  "Common",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/major_aivas_patch.png"
@@ -2122,7 +2129,7 @@
     },
     {
         "id":  "osprey_iv",
-        "name":  "Osprey Iv",
+        "name":  "Osprey IV",
         "type":  "Sniper Rifle",
         "rarity":  "Rare",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/osprey.png"
@@ -2192,14 +2199,14 @@
     },
     {
         "id":  "portable_tv",
-        "name":  "Portable Tv",
+        "name":  "Portable TV",
         "type":  "Recyclable",
         "rarity":  "Rare",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/portable_tv.png"
     },
     {
         "id":  "poster_of_natural_wonders",
-        "name":  "Poster Of Natural Wonders",
+        "name":  "Poster of Natural Wonders",
         "type":  "Trinket",
         "rarity":  "Uncommon",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/poster_of_natural_wonders.png"
@@ -2325,7 +2332,7 @@
     },
     {
         "id":  "rattler_iv",
-        "name":  "Rattler Iv",
+        "name":  "Rattler IV",
         "type":  "Assault Rifle",
         "rarity":  "Common",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rattler.png"
@@ -2402,7 +2409,7 @@
     },
     {
         "id":  "renegade_iv",
-        "name":  "Renegade Iv",
+        "name":  "Renegade IV",
         "type":  "Battle Rifle",
         "rarity":  "Rare",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/renegade.png"
@@ -2563,7 +2570,7 @@
     },
     {
         "id":  "rusty_arc_steel",
-        "name":  "Rusty Arc Steel",
+        "name":  "Rusty ARC Steel",
         "type":  "Recyclable",
         "rarity":  "Uncommon",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rusty_arc_steel.png"
@@ -2727,6 +2734,13 @@
         "name":  "Silencer III",
         "type":  "Modification",
         "rarity":  "Epic",
+        "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/silencer_iii.png"
+    },
+    {
+        "id":  "silencer_iii_blueprint",
+        "name":  "Silencer III Blueprint",
+        "type":  "Blueprint",
+        "rarity":  "Legendary",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/silencer_iii.png"
     },
     {
@@ -2983,7 +2997,7 @@
     },
     {
         "id":  "stitcher_iv",
-        "name":  "Stitcher Iv",
+        "name":  "Stitcher IV",
         "type":  "SMG",
         "rarity":  "Uncommon",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stitcher.png"
@@ -3018,42 +3032,42 @@
     },
     {
         "id":  "tactical_mk3_defensive",
-        "name":  "Tactical Mk3 Defensive",
+        "name":  "Tactical Mk. 3 (Defensive)",
         "type":  "Augment",
         "rarity":  "Epic",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk3_defensive.png"
     },
     {
         "id":  "tactical_mk3_defensive_blueprint",
-        "name":  "Tactical Mk3 Defensive Blueprint",
+        "name":  "Tactical Mk. 3 (Defensive) Blueprint",
         "type":  "Blueprint",
         "rarity":  "Legendary",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk3_defensive.png"
     },
     {
         "id":  "tactical_mk3_healing",
-        "name":  "Tactical Mk3 Healing",
+        "name":  "Tactical Mk. 3 (Healing)",
         "type":  "Augment",
         "rarity":  "Epic",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk3_healing.png"
     },
     {
         "id":  "tactical_mk3_healing_blueprint",
-        "name":  "Tactical Mk3 Healing Blueprint",
+        "name":  "Tactical Mk. 3 (Healing) Blueprint",
         "type":  "Blueprint",
         "rarity":  "Legendary",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk3_healing_blueprint.png"
     },
     {
         "id":  "tactical_mk_1",
-        "name":  "Tactical Mk 1",
+        "name":  "Tactical Mk. 1",
         "type":  "Augment",
         "rarity":  "Uncommon",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk_1.png"
     },
     {
         "id":  "tactical_mk_2",
-        "name":  "Tactical Mk 2",
+        "name":  "Tactical Mk. 2",
         "type":  "Augment",
         "rarity":  "Rare",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk_2.png"
@@ -3123,7 +3137,7 @@
     },
     {
         "id":  "tempest_iv",
-        "name":  "Tempest Iv",
+        "name":  "Tempest IV",
         "type":  "Assault Rifle",
         "rarity":  "Epic",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tempest.png"
@@ -3193,7 +3207,7 @@
     },
     {
         "id":  "torrente_iv",
-        "name":  "Torrente Iv",
+        "name":  "Torrente IV",
         "type":  "LMG",
         "rarity":  "Rare",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/torrente.png"
@@ -3214,7 +3228,7 @@
     },
     {
         "id":  "trigger_nade",
-        "name":  "Trigger Nade",
+        "name":  "Trigger \u0027Nade",
         "type":  "Quick Use",
         "rarity":  "Rare",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/trigger_nade.png"
@@ -3277,7 +3291,7 @@
     },
     {
         "id":  "venator_iv",
-        "name":  "Venator Iv",
+        "name":  "Venator IV",
         "type":  "Pistol",
         "rarity":  "Rare",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator.png"
@@ -3396,7 +3410,7 @@
     },
     {
         "id":  "vulcano_iv",
-        "name":  "Vulcano Iv",
+        "name":  "Vulcano IV",
         "type":  "Shotgun",
         "rarity":  "Epic",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano.png"
