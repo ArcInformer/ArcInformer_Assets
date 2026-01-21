@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "arc_circuitry",
   "name": "ARC Circuitry",
   "description": "Obtained from ARC enemies or activities. Used to craft components. Can be recycled into ARC Alloy.",
@@ -10,8 +10,8 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_circuitry.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_circuitry.png",
   "found_in": "ARC",
-  "dropped_by": [],
-  "crafts_into": ["medium_shield", "power_rod"],
+  "dropped_by": ["arc_baron_husk","arc_bastion","arc_courier","arc_probe","arc_queen","arc_rocketeer","arc_surveyor"],
+  "crafts_into": ["deadline", "medium_shield", "power_rod"],
   "crafting_requirements": {
     "arc_alloy": 8
   },
