@@ -19,6 +19,9 @@
   "salvages_into": {
     "wires": 3
   },
-  "repair_cost": {},
+  "repair_cost": {
+    "wires": 3,
+    "metal_parts": 2
+  },
   "last_updated": "Jan 21, 2026"
 }
