@@ -9,6 +9,7 @@
     "stack_size":"",
     "image_location":"",
     "ingame_image":"",
+    "crafting_requirements":{},
     "recycles_into":{},
     "salvages_into":{},
     "crafts_into":[],
