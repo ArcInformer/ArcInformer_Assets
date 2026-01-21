@@ -18,7 +18,7 @@
     "Magazine Size": 6,
     "Firing Mode": "Single-Action"
   },
-  "variants": [],
+  "variants": ["anvil_i", "anvil_ii", "anvil_iii"],
   "matching_blueprint": [],
   "compatible_with": [],
   "crafting_requirements": {},
