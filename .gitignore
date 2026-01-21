@@ -141,3 +141,5 @@ vite.config.ts.timestamp-*
 .reference/
 examples/
 scripts/
+Data/items from Template/
+comparison_report.txt

@@ -638,7 +638,7 @@
     },
     {
         "id":  "celeste_journal",
-        "name":  "Celeste\u0027s Journal",
+        "name":  "Celeste's Journal",
         "type":  "Trinket",
         "rarity":  "Common",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/celeste_journal.png"
@@ -1744,7 +1744,7 @@
     },
     {
         "id":  "lances_mixtape_5th_edition",
-        "name":  "Lance\u0027s Mixtape (5th Edition)",
+        "name":  "Lance's Mixtape (5th Edition)",
         "type":  "Trinket",
         "rarity":  "Epic",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lances_mixtape_5th_edition.png"
@@ -1835,7 +1835,7 @@
     },
     {
         "id":  "lil_smoke_grenade",
-        "name":  "Li\u0027l Smoke Grenade",
+        "name":  "Li'l Smoke Grenade",
         "type":  "Quick Use",
         "rarity":  "Common",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lil_smoke_grenade.png"
@@ -1919,7 +1919,7 @@
     },
     {
         "id":  "major_aivas_patch",
-        "name":  "Major Aiva\u0027s Patch",
+        "name":  "Major Aiva's Patch",
         "type":  "Trinket",
         "rarity":  "Common",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/major_aivas_patch.png"
@@ -3228,7 +3228,7 @@
     },
     {
         "id":  "trigger_nade",
-        "name":  "Trigger \u0027Nade",
+        "name":  "Trigger 'Nade",
         "type":  "Quick Use",
         "rarity":  "Rare",
         "image_location":  "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/trigger_nade.png"

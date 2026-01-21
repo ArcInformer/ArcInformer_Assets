@@ -11,18 +11,6 @@
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/extended_medium_mag_iii.png",
   "mod_effects": [],
   "matching_blueprint": [],
-  "crafting_requirements": {
-    "mod_components": 2,
-    "steel_spring": 5
-  },
-  "recycles_into": {
-    "mod_components": 1,
-    "steel_spring": 2
-  },
-  "salvages_into": {
-    "mechanical_components": 2
-  },
-  "last_updated": "Jan 21, 2026",
   "compatible_with": [
     "arpeggio_i",
     "arpeggio_ii",
@@ -44,5 +32,17 @@
     "torrente_ii",
     "torrente_iii",
     "torrente_iv"
-  ]
+  ],
+  "crafting_requirements": {
+    "mod_components": 2,
+    "steel_spring": 5
+  },
+  "recycles_into": {
+    "mod_components": 1,
+    "steel_spring": 2
+  },
+  "salvages_into": {
+    "mechanical_components": 2
+  },
+  "last_updated": "Jan 21, 2026"
 }

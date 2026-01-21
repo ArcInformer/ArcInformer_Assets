@@ -9,6 +9,7 @@
   "stack_size": 3,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ripped_safety_vest.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "found_in": [],
   "recycles_into": {
     "durable_cloth": 1,
     "magnet": 1
@@ -16,6 +17,5 @@
   "salvages_into": {
     "fabric": 8
   },
-  "found_in": [],
   "last_updated": "Jan 21, 2026"
 }

@@ -9,6 +9,9 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tempest.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "variants": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
   "item_data": {
     "Reduced Reload Time": "13%",
     "Reduced Horizontal Recoil": "16.6%",
@@ -18,9 +21,6 @@
     "Magazine Size": 25,
     "Firing Mode": "Fully-Automatic"
   },
-  "variants": [],
-  "matching_blueprint": [],
-  "compatible_with": [],
   "crafting_requirements": {},
   "repair_cost": {},
   "recycles_into": {

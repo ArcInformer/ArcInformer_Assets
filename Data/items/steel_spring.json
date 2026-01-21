@@ -9,16 +9,8 @@
   "stack_size": 15,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/steel_spring.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/steel_spring.png",
-  "crafting_requirements": {},
-  "recycles_into": {
-    "metal_parts": 2
-  },
-  "salvages_into": {
-    "metal_parts": 1
-  },
   "found_in": "Industrial",
   "dropped_by": [],
-  "last_updated": "Jan 21, 2026",
   "crafts_into": [
     "extended_shotgun_mag_i",
     "extended_medium_mag_i",
@@ -28,5 +20,13 @@
     "torrente_iii",
     "torrente_iv",
     "extended_medium_mag_ii"
-  ]
+  ],
+  "crafting_requirements": {},
+  "recycles_into": {
+    "metal_parts": 2
+  },
+  "salvages_into": {
+    "metal_parts": 1
+  },
+  "last_updated": "Jan 21, 2026"
 }

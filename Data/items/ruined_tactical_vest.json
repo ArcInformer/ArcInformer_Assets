@@ -9,6 +9,7 @@
   "stack_size": 3,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ruined_tactical_vest.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/ruined_tactical_vest.png",
+  "found_in": "Security",
   "recycles_into": {
     "fabric": 5,
     "magnet": 1
@@ -16,6 +17,5 @@
   "salvages_into": {
     "fabric": 5
   },
-  "found_in": "Security",
   "last_updated": "Jan 21, 2026"
 }

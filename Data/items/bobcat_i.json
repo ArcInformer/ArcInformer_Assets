@@ -9,6 +9,9 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bobcat.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bobcat_i.png",
+  "variants": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
   "item_data": {
     "Agility": 73.1,
     "Stability": 45.9,
@@ -22,9 +25,6 @@
     "Magazine Size": 20,
     "Firing Mode": "Fully-Automatic"
   },
-  "variants": [],
-  "matching_blueprint": [],
-  "compatible_with": [],
   "crafting_requirements": {
     "exodus_modules": 2,
     "light_gun_parts": 3,

@@ -10,6 +10,13 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/crude_explosives.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/crude_explosives.png",
   "found_in": "Industrial, Security",
+  "crafts_into": [
+    "launcher_ammo",
+    "explosive_compound",
+    "snap_blast_grenade",
+    "shrapnel_grenade",
+    "trigger_nade"
+  ],
   "crafting_requirements": {
     "chemicals": 6
   },
@@ -20,12 +27,5 @@
   "salvages_into": {
     "chemicals": 2
   },
-  "last_updated": "Jan 21, 2026",
-  "crafts_into": [
-    "launcher_ammo",
-    "explosive_compound",
-    "snap_blast_grenade",
-    "shrapnel_grenade",
-    "trigger_nade"
-  ]
+  "last_updated": "Jan 21, 2026"
 }

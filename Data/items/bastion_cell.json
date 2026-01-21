@@ -9,6 +9,7 @@
   "stack_size": 3,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bastion_cell.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bastion_cell.png",
+  "found_in": "ARC",
   "recycles_into": {
     "advanced_mechanical_components": 2,
     "arc_alloy": 2
@@ -16,6 +17,5 @@
   "salvages_into": {
     "advanced_mechanical_components": 2
   },
-  "found_in": "ARC",
   "last_updated": "Jan 21, 2026"
 }

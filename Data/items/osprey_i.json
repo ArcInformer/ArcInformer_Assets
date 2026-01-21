@@ -9,6 +9,9 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/osprey.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/osprey.png",
+  "variants": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
   "item_data": {
     "ARC Armor Penetration": "Moderate",
     "Special Trait": "Scoped",
@@ -17,9 +20,6 @@
     "Magazine Size": 8,
     "Firing Mode": "Bolt-Action"
   },
-  "variants": [],
-  "matching_blueprint": [],
-  "compatible_with": [],
   "crafting_requirements": {
     "advanced_mechanical_components": 2,
     "medium_gun_parts": 3,

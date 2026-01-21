@@ -9,12 +9,12 @@
   "stack_size": 3,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_thermo_lining.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_thermo_lining.png",
+  "found_in": "ARC",
   "recycles_into": {
     "fabric": 16
   },
   "salvages_into": {
     "fabric": 9
   },
-  "found_in": "ARC",
   "last_updated": "Jan 21, 2026"
 }

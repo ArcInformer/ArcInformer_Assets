@@ -9,32 +9,11 @@
   "stack_size": 100,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/light_ammo.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/light_ammo.png",
+  "compatible_with": ["Kettle", "Burletta", "Hairpin", "Bobcat", "Stitcher"],
   "dropped_by": [],
   "crafting_requirements": {
     "chemicals": 2,
     "metal_parts": 3
   },
-  "last_updated": "Jan 21, 2026",
-  "compatible_with": [
-    "burletta_i",
-    "burletta_ii",
-    "burletta_iii",
-    "burletta_iv",
-    "stitcher_i",
-    "stitcher_ii",
-    "stitcher_iii",
-    "stitcher_iv",
-    "kettle_i",
-    "kettle_ii",
-    "kettle_iii",
-    "kettle_iv",
-    "hairpin_i",
-    "hairpin_ii",
-    "hairpin_iii",
-    "hairpin_iv",
-    "bobcat_i",
-    "bobcat_ii",
-    "bobcat_iii",
-    "bobcat_iv"
-  ]
+  "last_updated": "Jan 21, 2026"
 }

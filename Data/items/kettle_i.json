@@ -9,6 +9,9 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kettle.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/kettle_i.png",
+  "variants": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
   "item_data": {
     "Firing Mode": "Semi-Automatic",
     "ARC Armor Penetration": "Very Weak",
@@ -16,9 +19,6 @@
     "Ammo Type": "Light Ammo",
     "Durability": "100/100"
   },
-  "variants": [],
-  "matching_blueprint": [],
-  "compatible_with": [],
   "crafting_requirements": {
     "metal_parts": 6,
     "rubber_parts": 8

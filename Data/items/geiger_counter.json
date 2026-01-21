@@ -9,6 +9,7 @@
   "stack_size": 3,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/geiger_counter.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/geiger_counter.png",
+  "found_in": "Exodus",
   "recycles_into": {
     "battery": 3,
     "exodus_modules": 1
@@ -16,6 +17,5 @@
   "salvages_into": {
     "battery": 3
   },
-  "found_in": "Exodus",
   "last_updated": "Jan 21, 2026"
 }

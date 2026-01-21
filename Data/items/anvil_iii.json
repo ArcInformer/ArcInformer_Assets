@@ -9,6 +9,9 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/anvil_iii.png",
+  "variants": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
   "item_data": {
     "ARC Armor Penetration": "Strong",
     "Increased Fire Rate": "50%",
@@ -18,9 +21,6 @@
     "Magazine Size": 6,
     "Firing Mode": "Single-Action"
   },
-  "variants": ["anvil_i", "anvil_ii", "anvil_iv"],
-  "matching_blueprint": [],
-  "compatible_with": [],
   "crafting_requirements": {},
   "repair_cost": {},
   "recycles_into": {

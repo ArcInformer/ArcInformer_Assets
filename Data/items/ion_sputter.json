@@ -9,6 +9,7 @@
   "stack_size": 3,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ion_sputter.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/ion_sputter.png",
+  "found_in": "Exodus",
   "recycles_into": {
     "exodus_modules": 1,
     "voltage_converter": 4
@@ -16,6 +17,5 @@
   "salvages_into": {
     "exodus_modules": 1
   },
-  "found_in": "Exodus",
   "last_updated": "Jan 21, 2026"
 }

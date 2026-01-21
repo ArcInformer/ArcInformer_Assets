@@ -9,12 +9,12 @@
   "stack_size": 3,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/metal_brackets.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/metal_brackets.png",
+  "found_in": "Mechanical, Electrical",
   "recycles_into": {
     "metal_parts": 8
   },
   "salvages_into": {
     "metal_parts": 4
   },
-  "found_in": "Mechanical, Electrical",
   "last_updated": "Jan 21, 2026"
 }

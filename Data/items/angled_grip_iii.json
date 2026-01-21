@@ -11,18 +11,6 @@
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "mod_effects": [],
   "matching_blueprint": [],
-  "crafting_requirements": {
-    "duct_tape": 5,
-    "mod_components": 2
-  },
-  "recycles_into": {
-    "duct_tape": 2,
-    "mod_components": 1
-  },
-  "salvages_into": {
-    "mechanical_components": 2
-  },
-  "last_updated": "Jan 21, 2026",
   "compatible_with": [
     "arpeggio_i",
     "arpeggio_ii",
@@ -40,5 +28,17 @@
     "stitcher_ii",
     "stitcher_iii",
     "stitcher_iv"
-  ]
+  ],
+  "crafting_requirements": {
+    "duct_tape": 5,
+    "mod_components": 2
+  },
+  "recycles_into": {
+    "duct_tape": 2,
+    "mod_components": 1
+  },
+  "salvages_into": {
+    "mechanical_components": 2
+  },
+  "last_updated": "Jan 21, 2026"
 }

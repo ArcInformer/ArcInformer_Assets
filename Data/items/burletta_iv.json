@@ -9,6 +9,9 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burletta.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/burletta_iv.png",
+  "variants": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
   "item_data": {
     "Ammo Type": "",
     "Magazine Size": "",
@@ -21,9 +24,6 @@
     "Agility": "",
     "Stealth": ""
   },
-  "variants": [],
-  "matching_blueprint": [],
-  "compatible_with": [],
   "crafting_requirements": {},
   "repair_cost": {},
   "recycles_into": {

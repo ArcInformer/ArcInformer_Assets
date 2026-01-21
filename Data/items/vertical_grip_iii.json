@@ -11,18 +11,6 @@
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/vertical_grip_iii.png",
   "mod_effects": [],
   "matching_blueprint": [],
-  "crafting_requirements": {
-    "duct_tape": 5,
-    "mod_components": 2
-  },
-  "recycles_into": {
-    "duct_tape": 2,
-    "mechanical_components": 2
-  },
-  "salvages_into": {
-    "mechanical_components": 2
-  },
-  "last_updated": "Jan 21, 2026",
   "compatible_with": [
     "tempest_i",
     "tempest_ii",
@@ -40,5 +28,17 @@
     "venator_ii",
     "venator_iii",
     "venator_iv"
-  ]
+  ],
+  "crafting_requirements": {
+    "duct_tape": 5,
+    "mod_components": 2
+  },
+  "recycles_into": {
+    "duct_tape": 2,
+    "mechanical_components": 2
+  },
+  "salvages_into": {
+    "mechanical_components": 2
+  },
+  "last_updated": "Jan 21, 2026"
 }

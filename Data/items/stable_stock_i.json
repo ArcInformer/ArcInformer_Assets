@@ -11,11 +11,11 @@
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "mod_effects": [],
   "matching_blueprint": [],
+  "compatible_with": ["Rattler", "Ferro", "Stitcher", "Arpeggio", "Bettina"],
   "crafting_requirements": {
     "duct_tape": 1,
     "rubber_parts": 6
   },
-  "compatible_with": [],
   "recycles_into": {
     "rubber_parts": 6
   },

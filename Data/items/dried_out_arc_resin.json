@@ -9,12 +9,12 @@
   "stack_size": 3,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/dried_out_arc_resin.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/dried_out_arc_resin.png",
+  "found_in": "ARC",
   "recycles_into": {
     "plastic_parts": 9
   },
   "salvages_into": {
     "plastic_parts": 4
   },
-  "found_in": "ARC",
   "last_updated": "Jan 21, 2026"
 }

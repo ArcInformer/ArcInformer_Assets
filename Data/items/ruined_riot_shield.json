@@ -9,6 +9,7 @@
   "stack_size": 3,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ruined_riot_shield.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/ruined_riot_shield.png",
+  "found_in": "Security",
   "recycles_into": {
     "plastic_parts": 10,
     "rubber_parts": 6
@@ -16,6 +17,5 @@
   "salvages_into": {
     "plastic_parts": 10
   },
-  "found_in": "Security",
   "last_updated": "Jan 21, 2026"
 }

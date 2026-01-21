@@ -9,6 +9,9 @@
   "stack_size": 5,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/speaker_component.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/speaker_component.png",
+  "found_in": "Commercial",
+  "dropped_by": [],
+  "crafts_into": ["lure_grenade", "photoelectric_cloak"],
   "crafting_requirements": {},
   "recycles_into": {
     "plastic_parts": 2,
@@ -17,8 +20,5 @@
   "salvages_into": {
     "plastic_parts": 2
   },
-  "found_in": "Commercial",
-  "dropped_by": [],
-  "last_updated": "Jan 21, 2026",
-  "crafts_into": ["lure_grenade", "photoelectric_cloak"]
+  "last_updated": "Jan 21, 2026"
 }

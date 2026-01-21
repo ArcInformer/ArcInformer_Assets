@@ -9,6 +9,7 @@
   "stack_size": 3,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/spectrometer.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/spectrometer.png",
+  "found_in": "Exodus",
   "recycles_into": {
     "advanced_electrical_components": 1,
     "sensors": 1
@@ -16,6 +17,5 @@
   "salvages_into": {
     "electrical_components": 2
   },
-  "found_in": "Exodus",
   "last_updated": "Jan 21, 2026"
 }

@@ -11,11 +11,11 @@
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "mod_effects": [],
   "matching_blueprint": [],
+  "compatible_with": [],
   "crafting_requirements": {
     "mod_components": 2,
     "steel_spring": 5
   },
-  "compatible_with": [],
   "recycles_into": {
     "mod_components": 1,
     "steel_spring": 2

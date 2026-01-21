@@ -9,18 +9,8 @@
   "stack_size": 5,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/heavy_gun_parts.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/heavy_gun_parts.png",
-  "crafting_requirements": {
-    "simple_gun_parts": 4
-  },
-  "recycles_into": {
-    "simple_gun_parts": 2
-  },
-  "salvages_into": {
-    "simple_gun_parts": 1
-  },
   "found_in": "Security, Raider",
   "dropped_by": [],
-  "last_updated": "Jan 21, 2026",
   "crafts_into": [
     "vulcano_i",
     "vulcano_ii",
@@ -35,5 +25,15 @@
     "bettina_iii",
     "bettina_iv",
     "complex_gun_parts"
-  ]
+  ],
+  "crafting_requirements": {
+    "simple_gun_parts": 4
+  },
+  "recycles_into": {
+    "simple_gun_parts": 2
+  },
+  "salvages_into": {
+    "simple_gun_parts": 1
+  },
+  "last_updated": "Jan 21, 2026"
 }

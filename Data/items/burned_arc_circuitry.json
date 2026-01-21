@@ -9,12 +9,12 @@
   "stack_size": 5,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burned_arc_circuitry.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "found_in": "ARC",
   "recycles_into": {
     "arc_alloy": 2
   },
   "salvages_into": {
     "arc_alloy": 1
   },
-  "found_in": "ARC",
   "last_updated": "Jan 21, 2026"
 }

@@ -9,12 +9,12 @@
   "stack_size": 3,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ruined_parachute.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/ruined_parachute.png",
+  "found_in": "Exodus",
   "recycles_into": {
     "fabric": 10
   },
   "salvages_into": {
     "fabric": 5
   },
-  "found_in": "Exodus",
   "last_updated": "Jan 21, 2026"
 }

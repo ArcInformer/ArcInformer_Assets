@@ -9,6 +9,9 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arpeggio.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arpeggio.png",
+  "variants": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
   "item_data": {
     "Firing Mode": "3-Round Burst",
     "ARC Armor Penetration": "Moderate",
@@ -16,9 +19,6 @@
     "Ammo Type": "Medium Ammo",
     "Durability": "100/100"
   },
-  "variants": [],
-  "matching_blueprint": [],
-  "compatible_with": [],
   "crafting_requirements": {
     "mechanical_components": 6,
     "simple_gun_parts": 6

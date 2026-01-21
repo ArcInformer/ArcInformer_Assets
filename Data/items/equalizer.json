@@ -9,15 +9,15 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/equalizer.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/equalizer.png",
+  "variants": [],
+  "matching_blueprint": [],
+  "compatible_with": [],
   "item_data": {
     "ARC Armor Penetration": "Very Strong",
     "Magazine Size": 50,
     "Ammo Type": "Energy Clip",
     "Firing Mode": "Fully-Automatic"
   },
-  "variants": [],
-  "matching_blueprint": [],
-  "compatible_with": [],
   "crafting_requirements": {
     "complex_gun_parts": 3,
     "magnetic_accelerator": 3,

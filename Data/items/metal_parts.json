@@ -11,7 +11,7 @@
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/metal_parts.png",
   "found_in": "Mechanical, Industrial, Electrical, Technological",
   "crafts_into": [],
-  "recycles_from": {},
   "workshop_benchs": [],
+  "recycles_from": {},
   "last_updated": "Jan 21, 2026"
 }

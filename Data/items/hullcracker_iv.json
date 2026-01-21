@@ -8,6 +8,8 @@
   "weight": 7,
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker.png",
+  "variants": [],
+  "matching_blueprint": [],
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/hullcracker.png",
   "item_data": {
     "ARC Armor Penetration": "Very Strong",
@@ -17,8 +19,6 @@
     "Magazine Size": 5,
     "Firing Mode": "Pump-Action"
   },
-  "variants": [],
-  "matching_blueprint": [],
   "crafting_requirements": {},
   "repair_cost": {},
   "recycles_into": {

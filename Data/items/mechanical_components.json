@@ -10,19 +10,6 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/mechanical_components.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/mechanical_components.png",
   "found_in": "Mechanical",
-  "crafting_requirements": {
-    "metal_parts": 7,
-    "rubber_parts": 3
-  },
-  "recycles_into": {
-    "metal_parts": 3,
-    "rubber_parts": 2
-  },
-  "recycles_from": {},
-  "salvages_into": {
-    "metal_parts": 3
-  },
-  "last_updated": "Jan 21, 2026",
   "crafts_into": [
     "il_toro_i",
     "il_toro_ii",
@@ -38,5 +25,18 @@
     "anvil_iv",
     "muzzle_brake_ii",
     "extended_medium_mag_ii"
-  ]
+  ],
+  "crafting_requirements": {
+    "metal_parts": 7,
+    "rubber_parts": 3
+  },
+  "recycles_into": {
+    "metal_parts": 3,
+    "rubber_parts": 2
+  },
+  "recycles_from": {},
+  "salvages_into": {
+    "metal_parts": 3
+  },
+  "last_updated": "Jan 21, 2026"
 }

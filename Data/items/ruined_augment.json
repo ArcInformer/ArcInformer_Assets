@@ -9,11 +9,11 @@
   "stack_size": 1,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ruined_augment.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "found_in": "ARC",
   "recycles_into": {
     "plastic_parts": 2,
     "rubber_parts": 2
   },
   "salvages_into": {},
-  "found_in": "ARC",
   "last_updated": "Jan 21, 2026"
 }

@@ -9,6 +9,7 @@
   "stack_size": 3,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/spring_cushion.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/spring_cushion.png",
+  "found_in": "Residential, Commercial",
   "recycles_into": {
     "durable_cloth": 2,
     "steel_spring": 2
@@ -16,6 +17,5 @@
   "salvages_into": {
     "steel_spring": 2
   },
-  "found_in": "Residential, Commercial",
   "last_updated": "Jan 21, 2026"
 }

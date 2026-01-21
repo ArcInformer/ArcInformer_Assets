@@ -9,12 +9,12 @@
   "stack_size": 3,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/broken_guidance_system.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/broken_guidance_system.png",
+  "found_in": "Exodus",
   "recycles_into": {
     "processor": 4
   },
   "salvages_into": {
     "processor": 2
   },
-  "found_in": "Exodus",
   "last_updated": "Jan 21, 2026"
 }

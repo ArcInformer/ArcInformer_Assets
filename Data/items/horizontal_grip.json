@@ -11,11 +11,23 @@
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "mod_effects": [],
   "matching_blueprint": [],
+  "compatible_with": [
+    "Ferro",
+    "Kettle",
+    "Rattler",
+    "Stitcher",
+    "Arpeggio",
+    "Il Toro",
+    "Venator",
+    "Bettina",
+    "Bobcat",
+    "Tempest",
+    "Vulcano"
+  ],
   "crafting_requirements": {
     "duct_tape": 5,
     "mod_components": 2
   },
-  "compatible_with": [],
   "recycles_into": {
     "duct_tape": 2,
     "mod_components": 1
