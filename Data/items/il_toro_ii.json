@@ -9,7 +9,7 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/il_toro.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/il_toro_ii.png",
-  "variants": [],
+  "variants": ["il_toro_i", "il_toro_iii", "il_toro_iv"],
   "matching_blueprint": [],
   "compatible_with": [],
   "item_data": {
