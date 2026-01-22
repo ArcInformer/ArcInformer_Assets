@@ -24,7 +24,33 @@
   "recycles_into": {
     "metal_parts": 2
   },
-  "recycles_from": {},
+  "recycles_from": {
+    "arc_circuitry": 2,
+    "arc_motion_core": 2,
+    "bastion_cell": 2,
+    "bombardier_cell": 2,
+    "burned_arc_circuitry": 2,
+    "damaged_arc_motion_core": 2,
+    "damaged_arc_powercell": 1,
+    "damaged_fireball_burner": 1,
+    "damaged_hornet_driver": 2,
+    "damaged_leaper_pulse_unit": 3,
+    "damaged_rocketeer_driver": 3,
+    "damaged_tick_pod": 1,
+    "damaged_wasp_driver": 1,
+    "fireball_burner": 1,
+    "hornet_driver": 2,
+    "leaper_pulse_unit": 3,
+    "pop_trigger": 1,
+    "rocketeer_driver": 3,
+    "sentinel_firing_core": 2,
+    "shredder_gyro": 3,
+    "snitch_scanner": 1,
+    "spotter_relay": 1,
+    "surveyor_vault": 2,
+    "tick_pod": 2,
+    "wasp_driver": 1
+  },
   "salvages_into": {
     "metal_parts": 1
   },
