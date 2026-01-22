@@ -10,7 +10,17 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_thermo_lining.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_thermo_lining.png",
   "found_in": "ARC",
-  "sources": [],
+  "sources": [
+    "Scavenging",
+    "arc_baron_husk",
+    "arc_fireball",
+    "arc_pop",
+    "arc_queen",
+    "arc_sentinel",
+    "arc_snitch",
+    "arc_tick",
+    "arc_turret"
+  ],
   "recycles_into": {
     "fabric": 16
   },
