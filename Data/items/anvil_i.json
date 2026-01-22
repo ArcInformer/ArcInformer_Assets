@@ -45,9 +45,12 @@
   },
   "crafting_requirements": {
     "mechanical_components": 5,
-    "simple_gun_parts": 6
+    "simple_gun_parts": 6,
+    "anvil_blueprint": 1
   },
-  "bench_requirements": {},
+  "bench_requirements": {
+    "bench_gunsmith": 1
+  },
   "repair_cost": {},
   "recycles_into": {
     "mechanical_components": 2,
