@@ -15,6 +15,7 @@
     "crafting_requirements":{},
     "bench_requirements":{},
     "recycles_into":{},
+    "recycles_from":{},
     "salvages_into":{},
     "last_updated":""
 }
