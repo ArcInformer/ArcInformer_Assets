@@ -47,7 +47,10 @@
   "bench_requirements": {
     "bench_gunsmith": 1
   },
-  "repair_cost": {},
+  "repair_cost": {
+    "mechanical_components": 4,
+    "simple_gun_parts": 4
+  },
   "recycles_into": {
     "mechanical_components": 4,
     "simple_gun_parts": 4
