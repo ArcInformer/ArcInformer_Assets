@@ -16,6 +16,8 @@
     "Scavenging",
     "Crafting"
   ],
-  "bench_requirements": {},
+  "bench_requirements": {
+    "bench_gunsmith": 3
+  },
   "last_updated": "Jan 22, 2026"
 }
