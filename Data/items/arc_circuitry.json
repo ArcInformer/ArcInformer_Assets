@@ -10,7 +10,18 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_circuitry.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_circuitry.png",
   "found_in": "ARC",
-  "sources": [],
+  "sources": [
+    "Scavenging",
+    "arc_baron_husk",
+    "arc_bastion",
+    "arc_courier",
+    "arc_probe",
+    "arc_queen",
+    "arc_rocketeer",
+    "arc_surveyor",
+    "Crafting",
+    "Recycling ARC Parts"
+  ],
   "crafts_into": [
     "deadline",
     "medium_shield",
@@ -19,11 +30,18 @@
   "crafting_requirements": {
     "arc_alloy": 8
   },
-  "bench_requirements": {},
+  "bench_requirements": {
+    "bench_refiner": 2
+  },
   "recycles_into": {
     "arc_alloy": 2
   },
-  "recycles_from": {},
+  "recycles_from": {
+    "deadline": 1,
+    "heavy_shield": 2,
+    "medium_shield": 1,
+    "power_rod": 1
+  },
   "salvages_into": {
     "arc_alloy": 1
   },
