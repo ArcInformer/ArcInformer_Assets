@@ -10,18 +10,37 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_motion_core.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_motion_core.png",
   "found_in": "ARC",
-  "sources": [],
+  "sources": [
+    "Scavenging",
+    "arc_bastion",
+    "arc_courier",
+    "arc_sentinel",
+    "arc_matriarch",
+    "arc_probe",
+    "arc_queen",
+    "arc_rocketeer",
+    "arc_surveyor",
+    "Recycling",
+    "Crafting"
+  ],
   "crafts_into": [
+    "launcher_ammo",
+    "wolfpack",
     "magnetic_accelerator"
   ],
   "crafting_requirements": {
     "arc_alloy": 8
   },
-  "bench_requirements": {},
+  "bench_requirements": {
+    "bench_refiner": 2
+  },
   "recycles_into": {
     "arc_alloy": 2
   },
-  "recycles_from": {},
+  "recycles_from": {
+    "magnetic_accelerator": 1,
+    "wolfpack": 1
+  },
   "salvages_into": {
     "arc_alloy": 1
   },
