@@ -16,7 +16,10 @@
   ],
   "matching_blueprint": [],
   "compatible_with": [],
-  "sources": [],
+  "sources": [
+    "Crafting",
+    "Scavenging"
+  ],
   "item_data": {
     "Ammo Type": "Medium Ammo",
     "ARC Armor Penetration": "Moderate",
@@ -26,9 +29,18 @@
     "Magazine Size": 24,
     "Reduced Reload Time": "25%"
   },
-  "crafting_requirements": {},
-  "bench_requirements": {},
-  "repair_cost": {},
+  "crafting_requirements": {
+    "arpeggio_ii": 1,
+    "mechanical_components": 5,
+    "medium_gun_parts": 1
+  },
+  "bench_requirements": {
+    "bench_gunsmith": 1
+  },
+  "repair_cost": {
+    "mechanical_components": 4,
+    "simple_gun_parts": 4
+  },
   "recycles_into": {
     "mechanical_components": 4,
     "simple_gun_parts": 4
