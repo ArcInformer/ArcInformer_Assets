@@ -10,7 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_alloy.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_alloy.png",
   "found_in": "ARC",
-  "dropped_by": [],
+  "sources": [],
   "crafts_into": ["light_shield", "arc_motion_core", "arc_circuitry"],
   "crafting_requirements": {},
   "recycles_into": {

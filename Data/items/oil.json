@@ -10,7 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/oil.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/oil.png",
   "found_in": "Mechanical",
-  "dropped_by": [],
+  "sources": [],
   "crafts_into": [
     "renegade_i",
     "renegade_ii",

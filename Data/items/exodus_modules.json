@@ -10,7 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/exodus_modules.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/exodus_modules.png",
   "found_in": "Exodus",
-  "dropped_by": [],
+  "sources": [],
   "crafts_into": [
     "tempest_i",
     "tempest_ii",

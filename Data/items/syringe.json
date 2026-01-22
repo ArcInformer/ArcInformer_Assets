@@ -10,7 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/syringe.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/syringe.png",
   "found_in": "Medical",
-  "dropped_by": [],
+  "sources": [],
   "crafts_into": ["vita_shot"],
   "crafting_requirements": {},
   "recycles_into": {

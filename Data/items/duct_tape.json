@@ -10,7 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/duct_tape.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/duct_tape.png",
   "found_in": "Residential, Commercial",
-  "dropped_by": [],
+  "sources": [],
   "crafts_into": [
     "stable_stock_i",
     "vertical_grip_i",

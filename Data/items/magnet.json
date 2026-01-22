@@ -10,7 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/magnet.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/magnet.png",
   "found_in": "Exodus",
-  "dropped_by": [],
+  "sources": [],
   "crafts_into": [],
   "crafting_requirements": {},
   "recycles_into": {
