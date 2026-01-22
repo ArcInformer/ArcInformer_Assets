@@ -10,12 +10,36 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/assorted_seeds.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/assorted_seeds.png",
   "found_in": "Nature",
-  "sources": [],
+  "sources": [
+    "Scavenging",
+    "fridge",
+    "green_locker",
+    "red_locker",
+    "seed_drawer_box",
+    "seed_vault",
+    "wicker_basket",
+    "Recycling or Salvaging most Nature items",
+    "scrappy"
+  ],
   "item_data": {
     "Stamina": "",
     "Use Time": ""
   },
   "recycles_into": {},
+  "recycles_from": {
+    "agave": 3,
+    "apricot": 3,
+    "candleberries": 2,
+    "fertilizer": 2,
+    "great_mullein": 2,
+    "herbal_bandage": 2,
+    "lemon": 3,
+    "moss": 3,
+    "olives": 2,
+    "prickly_pear": 3,
+    "roots": 1,
+    "sample_cleaner": 14
+  },
   "salvages_into": {},
   "last_updated": "Jan 22, 2026"
 }
