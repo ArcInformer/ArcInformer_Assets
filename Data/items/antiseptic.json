@@ -15,7 +15,11 @@
     "vita_spray",
     "vita_shot"
   ],
-  "sources": [],
+  "sources": [
+    "Scavenging",
+    "Crafting",
+    "Recycling"
+  ],
   "crafting_requirements": {
     "chemicals": 10,
     "great_mullein": 2
@@ -23,7 +27,11 @@
   "recycles_into": {
     "chemicals": 10
   },
-  "recycles_from": {},
+  "recycles_from": {
+    "rusted_shut_medical_kit": 1,
+    "sterilized_bandage": 1,
+    "vita_spray": 1
+  },
   "salvages_into": {
     "chemicals": 5
   },
