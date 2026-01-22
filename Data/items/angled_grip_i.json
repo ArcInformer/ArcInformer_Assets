@@ -38,7 +38,11 @@
     "stitcher_iii",
     "stitcher_iv"
   ],
-  "sources": [],
+  "sources": [
+    "Scavenging",
+    "Crafting",
+    "Sold by Tian Wen"
+  ],
   "crafting_requirements": {
     "duct_tape": 1,
     "plastic_parts": 6
