@@ -21,6 +21,7 @@
   "recycles_into": {
     "metal_parts": 2
   },
+  "recycles_from": {},
   "salvages_into": {
     "metal_parts": 1
   },

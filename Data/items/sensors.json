@@ -23,6 +23,7 @@
     "metal_parts": 1,
     "wires": 1
   },
+  "recycles_from": {},
   "salvages_into": {
     "wires": 1
   },

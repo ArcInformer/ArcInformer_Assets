@@ -21,6 +21,7 @@
     "rubber_parts": 1,
     "wires": 1
   },
+  "recycles_from": {},
   "salvages_into": {
     "rubber_parts": 2
   },

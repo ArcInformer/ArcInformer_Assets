@@ -20,6 +20,7 @@
     "chemicals": 2,
     "plastic_parts": 3
   },
+  "recycles_from": {},
   "salvages_into": {
     "plastic_parts": 2
   },

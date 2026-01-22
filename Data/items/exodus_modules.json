@@ -36,6 +36,7 @@
     "magnet": 2,
     "processor": 2
   },
+  "recycles_from": {},
   "salvages_into": {
     "processor": 2
   },

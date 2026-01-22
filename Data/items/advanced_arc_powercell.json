@@ -30,6 +30,7 @@
   "recycles_into": {
     "arc_powercell": 2
   },
+  "recycles_from": {},
   "salvages_into": {
     "arc_powercell": 1
   },

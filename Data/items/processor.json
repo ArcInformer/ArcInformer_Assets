@@ -24,6 +24,7 @@
     "plastic_parts": 1,
     "wires": 1
   },
+  "recycles_from": {},
   "salvages_into": {
     "plastic_parts": 2
   },

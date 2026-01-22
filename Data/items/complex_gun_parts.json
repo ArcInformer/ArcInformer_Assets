@@ -24,6 +24,7 @@
   "recycles_into": {
     "simple_gun_parts": 3
   },
+  "recycles_from": {},
   "salvages_into": {
     "simple_gun_parts": 2
   },

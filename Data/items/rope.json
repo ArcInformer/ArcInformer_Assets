@@ -20,6 +20,7 @@
   "recycles_into": {
     "fabric": 5
   },
+  "recycles_from": {},
   "salvages_into": {
     "fabric": 2
   },

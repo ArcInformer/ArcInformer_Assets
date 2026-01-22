@@ -23,6 +23,7 @@
   "recycles_into": {
     "rubber_parts": 3
   },
+  "recycles_from": {},
   "salvages_into": {
     "rubber_parts": 1
   },

@@ -17,6 +17,7 @@
   "recycles_into": {
     "explosive_compound": 3
   },
+  "recycles_from": {},
   "salvages_into": {
     "explosive_compound": 2
   },
