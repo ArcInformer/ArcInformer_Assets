@@ -10,7 +10,12 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/agave.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/agave.png",
   "found_in": "Nature",
-  "sources": [],
+  "sources": [
+    "Harvesting",
+    "Argave Plants",
+    "Scavenging",
+    "Wicker Baskets"
+  ],
   "item_data": {
     "Duration": "10s",
     "Healing": "1/s",
