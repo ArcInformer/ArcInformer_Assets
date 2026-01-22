@@ -19,6 +19,7 @@
     "muzzle_brake_i"
   ],
   "crafting_requirements": {},
+  "bench_requirements": {},
   "recycles_into": {
     "rubber_parts": 3
   },

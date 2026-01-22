@@ -20,6 +20,7 @@
     "light_gun_parts": 2,
     "medium_gun_parts": 2
   },
+  "bench_requirements": {},
   "recycles_into": {
     "simple_gun_parts": 3
   },

@@ -15,6 +15,7 @@
     "vita_shot"
   ],
   "crafting_requirements": {},
+  "bench_requirements": {},
   "recycles_into": {
     "chemicals": 2,
     "plastic_parts": 3

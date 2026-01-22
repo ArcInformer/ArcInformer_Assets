@@ -19,6 +19,7 @@
     "angled_grip_ii"
   ],
   "crafting_requirements": {},
+  "bench_requirements": {},
   "recycles_into": {
     "fabric": 3
   },

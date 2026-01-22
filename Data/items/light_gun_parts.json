@@ -21,6 +21,7 @@
   "crafting_requirements": {
     "simple_gun_parts": 4
   },
+  "bench_requirements": {},
   "recycles_into": {
     "simple_gun_parts": 2
   },

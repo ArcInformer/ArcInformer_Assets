@@ -16,6 +16,7 @@
     "showstopper"
   ],
   "crafting_requirements": {},
+  "bench_requirements": {},
   "recycles_into": {
     "rubber_parts": 1,
     "wires": 1

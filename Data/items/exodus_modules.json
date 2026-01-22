@@ -31,6 +31,7 @@
     "snap_hook"
   ],
   "crafting_requirements": {},
+  "bench_requirements": {},
   "recycles_into": {
     "magnet": 2,
     "processor": 2

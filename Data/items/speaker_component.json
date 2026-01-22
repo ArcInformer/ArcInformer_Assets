@@ -16,6 +16,7 @@
     "photoelectric_cloak"
   ],
   "crafting_requirements": {},
+  "bench_requirements": {},
   "recycles_into": {
     "plastic_parts": 2,
     "rubber_parts": 3

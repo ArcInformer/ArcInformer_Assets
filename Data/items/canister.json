@@ -21,6 +21,7 @@
     "smoke_grenade"
   ],
   "crafting_requirements": {},
+  "bench_requirements": {},
   "recycles_into": {
     "plastic_parts": 3
   },

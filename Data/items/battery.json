@@ -17,6 +17,7 @@
     "jolt_mine"
   ],
   "crafting_requirements": {},
+  "bench_requirements": {},
   "recycles_into": {
     "metal_parts": 2
   },

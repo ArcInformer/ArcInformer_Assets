@@ -26,6 +26,7 @@
     "surge_shield_recharger"
   ],
   "crafting_requirements": {},
+  "bench_requirements": {},
   "recycles_into": {
     "arc_powercell": 2
   },

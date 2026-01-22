@@ -16,6 +16,7 @@
     "snap_hook"
   ],
   "crafting_requirements": {},
+  "bench_requirements": {},
   "recycles_into": {
     "fabric": 5
   },

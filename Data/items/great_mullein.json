@@ -16,6 +16,7 @@
     "antiseptic"
   ],
   "crafting_requirements": {},
+  "bench_requirements": {},
   "recycles_into": {
     "assorted_seeds": 2
   },

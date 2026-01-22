@@ -19,6 +19,7 @@
     "tactical_mk3_healing"
   ],
   "crafting_requirements": {},
+  "bench_requirements": {},
   "recycles_into": {
     "plastic_parts": 1,
     "wires": 1

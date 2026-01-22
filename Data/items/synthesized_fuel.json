@@ -13,6 +13,7 @@
   "sources": [],
   "crafts_into": [],
   "crafting_requirements": {},
+  "bench_requirements": {},
   "recycles_into": {
     "oil": 1,
     "plastic_parts": 1
