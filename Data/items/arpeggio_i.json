@@ -16,7 +16,10 @@
   ],
   "matching_blueprint": [],
   "compatible_with": [],
-  "sources": [],
+  "sources": [
+    "Crafting",
+    "Scavenging"
+  ],
   "item_data": {
     "Ammo Type": "Medium Ammo",
     "ARC Armor Penetration": "Moderate",
@@ -28,8 +31,13 @@
     "mechanical_components": 6,
     "simple_gun_parts": 6
   },
-  "bench_requirements": {},
-  "repair_cost": {},
+  "bench_requirements": {
+    "bench_gunsmith": 2
+  },
+  "repair_cost": {
+    "mechanical_components": 2,
+    "simple_gun_parts": 2
+  },
   "recycles_into": {
     "mechanical_components": 2,
     "simple_gun_parts": 2
