@@ -50,7 +50,9 @@
     "duct_tape": 3,
     "mechanical_components": 2
   },
-  "bench_requirements": {},
+  "bench_requirements": {
+    "bench_gunsmith": 2
+  },
   "recycles_into": {
     "duct_tape": 1,
     "mechanical_components": 1
