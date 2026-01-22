@@ -9,7 +9,9 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/aphelion.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/aphelion_blueprint.png",
-  "recipe_for": ["aphelion"],
+  "recipe_for": [
+    "aphelion"
+  ],
   "sources": [
     "Stella Montis"
   ],
