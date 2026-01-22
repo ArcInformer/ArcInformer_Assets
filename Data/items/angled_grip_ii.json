@@ -42,7 +42,10 @@
     "stitcher_iii",
     "stitcher_iv"
   ],
-  "sources": [],
+  "sources": [
+    "Scavenging",
+    "Crafting"
+  ],
   "crafting_requirements": {
     "duct_tape": 3,
     "mechanical_components": 2
