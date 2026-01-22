@@ -23,6 +23,7 @@
     "mechanical_components": 2,
     "wires": 4
   },
+  "bench_requirements": {},
   "recycles_into": {
     "mechanical_components": 1,
     "wires": 1

@@ -26,6 +26,7 @@
     "Upgrade Modifiers": "39% Reduced Reload Time"
   },
   "crafting_requirements": {},
+  "bench_requirements": {},
   "repair_cost": {},
   "recycles_into": {
     "mechanical_components": 1,

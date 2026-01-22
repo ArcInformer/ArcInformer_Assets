@@ -17,6 +17,7 @@
     "mod_components": 2,
     "wires": 8
   },
+  "bench_requirements": {},
   "recycles_into": {
     "mod_components": 1,
     "wires": 1

@@ -24,6 +24,7 @@
     "magnetic_accelerator": 3,
     "queen_reactor": 1
   },
+  "bench_requirements": {},
   "repair_cost": {
     "complex_gun_parts": 1,
     "magnetic_accelerator": 2

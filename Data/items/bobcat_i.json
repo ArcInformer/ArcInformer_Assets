@@ -37,6 +37,7 @@
     "light_gun_parts": 3,
     "magnetic_accelerator": 1
   },
+  "bench_requirements": {},
   "repair_cost": {},
   "recycles_into": {
     "advanced_mechanical_components": 2,

@@ -30,6 +30,7 @@
     "Stealth": ""
   },
   "crafting_requirements": {},
+  "bench_requirements": {},
   "repair_cost": {},
   "recycles_into": {
     "metal_parts": 6,

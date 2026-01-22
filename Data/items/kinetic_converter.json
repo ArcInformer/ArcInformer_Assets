@@ -35,6 +35,7 @@
   ],
   "sources": [],
   "crafting_requirements": {},
+  "bench_requirements": {},
   "recycles_into": {
     "duct_tape": 2,
     "mod_components": 1

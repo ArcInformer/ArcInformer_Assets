@@ -20,6 +20,7 @@
   ],
   "sources": [],
   "crafting_requirements": {},
+  "bench_requirements": {},
   "recycles_into": {
     "mod_components": 1,
     "wires": 3

@@ -27,6 +27,7 @@
     "Reduced Dispersion Recovery Time": "16.6%"
   },
   "crafting_requirements": {},
+  "bench_requirements": {},
   "repair_cost": {},
   "recycles_into": {
     "advanced_mechanical_components": 2,

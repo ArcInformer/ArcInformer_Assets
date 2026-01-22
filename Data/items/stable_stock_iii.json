@@ -17,6 +17,7 @@
     "duct_tape": 5,
     "mod_components": 2
   },
+  "bench_requirements": {},
   "recycles_into": {
     "duct_tape": 2,
     "mod_components": 1

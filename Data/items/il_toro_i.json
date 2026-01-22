@@ -30,6 +30,7 @@
     "mechanical_components": 5,
     "simple_gun_parts": 6
   },
+  "bench_requirements": {},
   "repair_cost": {},
   "recycles_into": {
     "mechanical_components": 2,

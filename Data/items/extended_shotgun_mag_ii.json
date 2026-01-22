@@ -22,6 +22,7 @@
     "mechanical_components": 2,
     "steel_spring": 3
   },
+  "bench_requirements": {},
   "recycles_into": {
     "mechanical_components": 1,
     "steel_spring": 1

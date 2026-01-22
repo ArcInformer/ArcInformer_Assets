@@ -17,6 +17,7 @@
     "mod_components": 2,
     "steel_spring": 5
   },
+  "bench_requirements": {},
   "recycles_into": {
     "mod_components": 1,
     "steel_spring": 2

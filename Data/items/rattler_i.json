@@ -28,6 +28,7 @@
     "metal_parts": 16,
     "rubber_parts": 12
   },
+  "bench_requirements": {},
   "repair_cost": {},
   "recycles_into": {
     "metal_parts": 8

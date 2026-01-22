@@ -27,6 +27,7 @@
     "Reduced Reload Time": "40%"
   },
   "crafting_requirements": {},
+  "bench_requirements": {},
   "repair_cost": {},
   "recycles_into": {
     "mechanical_components": 2,

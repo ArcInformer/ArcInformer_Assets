@@ -23,6 +23,7 @@
     "duct_tape": 1,
     "rubber_parts": 6
   },
+  "bench_requirements": {},
   "recycles_into": {
     "rubber_parts": 6
   },

@@ -47,6 +47,7 @@
     "duct_tape": 1,
     "plastic_parts": 6
   },
+  "bench_requirements": {},
   "recycles_into": {
     "plastic_parts": 6
   },

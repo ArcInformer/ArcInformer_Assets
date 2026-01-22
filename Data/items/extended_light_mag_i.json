@@ -23,6 +23,7 @@
     "plastic_parts": 6,
     "steel_spring": 1
   },
+  "bench_requirements": {},
   "recycles_into": {
     "plastic_parts": 6
   },

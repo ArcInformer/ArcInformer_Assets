@@ -26,6 +26,7 @@
     "Magazine Size": 8
   },
   "crafting_requirements": {},
+  "bench_requirements": {},
   "repair_cost": {},
   "recycles_into": {
     "mechanical_components": 5,
