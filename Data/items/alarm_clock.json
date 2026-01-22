@@ -10,7 +10,9 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/alarm_clock.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/alarm_clock.png",
   "found_in": "Residential",
-  "sources": ["Scavenging"],
+  "sources": [
+    "Scavenging"
+  ],
   "recycles_into": {
     "plastic_parts": 6,
     "processor": 1

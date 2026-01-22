@@ -12,13 +12,13 @@
   "found_in": "ARC",
   "sources": [
     "Scavenging",
-    "arc_courier", 
-    "arc_bastion", 
-    "arc_bombardier", 
-    "arc_leaper", 
-    "arc_queen", 
-    "arc_rocketeer", 
-    "arc_sentinel", 
+    "arc_courier",
+    "arc_bastion",
+    "arc_bombardier",
+    "arc_leaper",
+    "arc_queen",
+    "arc_rocketeer",
+    "arc_sentinel",
     "arc_surveyor"
   ],
   "crafts_into": [
