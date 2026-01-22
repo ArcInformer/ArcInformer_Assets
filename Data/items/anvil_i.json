@@ -17,8 +17,25 @@
   "matching_blueprint": [
     "anvil_blueprint"
   ],
-  "compatible_with": [],
-  "sources": [],
+  "compatible_with": [
+    "heavy_ammo",
+    "anvil_splitter",
+    "compensator_i",
+    "compensator_ii",
+    "compensator_iii",
+    "extended_barrel",
+    "muzzle_brake_i",
+    "muzzle_brake_ii",
+    "muzzle_brake_iii",
+    "silencer_i",
+    "silencer_ii",
+    "silencer_iii"
+  ],
+  "sources": [
+    "Scavenging",
+    "Crafting",
+    "Sold by Tian Wen"
+  ],
   "item_data": {
     "Ammo Type": "Heavy Ammo",
     "ARC Armor Penetration": "Strong",
