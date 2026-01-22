@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "photoelectric_cloak",
   "name": "Photoelectric Cloak",
   "description": "A gadget that allows the user to conceal themselves from ARC.",
@@ -10,6 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/photoelectric_cloak.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/photoelectric_cloak.png",
   "matching_blueprint": [],
+  "sources": [],
   "item_data": {
     "Durability": "100/100"
   },
@@ -25,5 +26,5 @@
     "advanced_electrical_components": 1
   },
   "repair_cost": {},
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

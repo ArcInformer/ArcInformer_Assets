@@ -1,7 +1,7 @@
-﻿{
+{
   "id": "muzzle_brake_iii",
   "name": "Muzzle Brake III",
-  "description": "Significantly reduces both vertical recoil \u0026 horizontal recoil.",
+  "description": "Significantly reduces both vertical recoil & horizontal recoil.",
   "type": "Modification",
   "rarity": "Rare",
   "value": 5000,
@@ -33,6 +33,7 @@
     "stitcher_iii",
     "stitcher_iv"
   ],
+  "sources": [],
   "crafting_requirements": {
     "mod_components": 2,
     "wires": 8
@@ -44,5 +45,5 @@
   "salvages_into": {
     "mechanical_components": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "tactical_mk3_defensive_blueprint",
   "name": "Tactical Mk. 3 (Defensive) Blueprint",
   "description": "A defensive-focused augment for keeping Shields topped up.",
@@ -10,5 +10,6 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk3_defensive.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "recipe_for": [],
-  "last_updated": "Jan 21, 2026"
+  "sources": [],
+  "last_updated": "Jan 22, 2026"
 }

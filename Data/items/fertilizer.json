@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "fertilizer",
   "name": "Fertilizer",
   "description": "May be worth a few coins.",
@@ -10,6 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fertilizer.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/fertilizer.png",
   "found_in": "Nature",
+  "sources": [],
   "item_data": {
     "Stamina": "",
     "Use Time": ""
@@ -20,5 +21,5 @@
   "salvages_into": {
     "assorted_seeds": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

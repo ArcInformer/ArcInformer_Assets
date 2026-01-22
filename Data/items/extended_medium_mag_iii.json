@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "extended_medium_mag_iii",
   "name": "Extended Medium Mag III",
   "description": "Significantly extends the ammo capacity of compatible weapons that use medium ammo.",
@@ -33,6 +33,7 @@
     "torrente_iii",
     "torrente_iv"
   ],
+  "sources": [],
   "crafting_requirements": {
     "mod_components": 2,
     "steel_spring": 5
@@ -44,5 +45,5 @@
   "salvages_into": {
     "mechanical_components": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

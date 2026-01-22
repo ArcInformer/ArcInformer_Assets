@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "looting_mk3_cautious",
   "name": "Looting Mk. 3 (Cautious)",
   "description": "A looting augment that swaps some carry capacity to increase survivability. Upon Shield break, automatically administers a weak Adrenaline Shot. Has a fixed cooldown.",
@@ -10,10 +10,11 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/looting_mk3_cautious.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/looting_mk3_cautious.png",
   "compatible_with": [],
+  "sources": [],
   "item_data": {
+    "Durability": "100/100",
     "Max Loadout Weight": 70,
-    "Shield Compatibility": "Light",
-    "Durability": "100/100"
+    "Shield Compatibility": "Light"
   },
   "crafting_requirements": {
     "advanced_electrical_components": 2,
@@ -27,5 +28,5 @@
   "salvages_into": {
     "electrical_components": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

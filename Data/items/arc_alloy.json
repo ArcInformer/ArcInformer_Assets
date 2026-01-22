@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "arc_alloy",
   "name": "ARC Alloy",
   "description": "Obtained from ARC enemies or activities, or by recycling certain ARC parts. Used to craft components.",
@@ -11,7 +11,11 @@
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_alloy.png",
   "found_in": "ARC",
   "sources": [],
-  "crafts_into": ["light_shield", "arc_motion_core", "arc_circuitry"],
+  "crafts_into": [
+    "light_shield",
+    "arc_motion_core",
+    "arc_circuitry"
+  ],
   "crafting_requirements": {},
   "recycles_into": {
     "metal_parts": 2
@@ -19,5 +23,5 @@
   "salvages_into": {
     "metal_parts": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

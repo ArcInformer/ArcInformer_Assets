@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "kettle_iii",
   "name": "Kettle III",
   "description": "Quick and accurate, but has low bullet velocity and takes a long time to reload.",
@@ -9,19 +9,24 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kettle.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/kettle_iii.png",
-  "variants": ["kettle_i", "kettle_ii", "kettle_iv"],
+  "variants": [
+    "kettle_i",
+    "kettle_ii",
+    "kettle_iv"
+  ],
   "matching_blueprint": [],
   "compatible_with": [],
+  "sources": [],
   "item_data": {
+    "Ammo Type": "Light Ammo",
     "ARC Armor Penetration": "Very Weak",
+    "Durability": "120/120",
+    "Firing Mode": "Semi-Automatic",
+    "Magazine Size": 20,
     "Upgrade Modifiers": [
       "50% Increased Bullet Velocity",
       "26% Reduced Reload Time"
-    ],
-    "Ammo Type": "Light Ammo",
-    "Durability": "120/120",
-    "Magazine Size": 20,
-    "Firing Mode": "Semi-Automatic"
+    ]
   },
   "crafting_requirements": {},
   "repair_cost": {},
@@ -32,5 +37,5 @@
   "salvages_into": {
     "simple_gun_parts": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

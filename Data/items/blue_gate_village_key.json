@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "blue_gate_village_key",
   "name": "Blue Gate Village Key",
   "description": "A key to areas within Blue Gate Village.",
@@ -9,6 +9,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/blue_gate_village_key.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "found_in": [],
+  "sources": [],
   "crafting_requirements": {},
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

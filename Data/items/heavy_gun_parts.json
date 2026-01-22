@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "heavy_gun_parts",
   "name": "Heavy Gun Parts",
   "description": "Used to craft weapons.",
@@ -35,5 +35,5 @@
   "salvages_into": {
     "simple_gun_parts": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

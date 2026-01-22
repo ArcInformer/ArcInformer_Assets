@@ -1,7 +1,7 @@
-﻿{
+{
   "id": "muzzle_brake_iii_blueprint",
   "name": "Muzzle Brake III Blueprint",
-  "description": "Significantly reduces both vertical recoil \u0026 horizontal recoil.",
+  "description": "Significantly reduces both vertical recoil & horizontal recoil.",
   "type": "Blueprint",
   "rarity": "Legendary",
   "value": 5000,
@@ -10,5 +10,6 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/muzzle_brake_iii.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/muzzle_brake_iii.png",
   "recipe_for": [],
-  "last_updated": "Jan 21, 2026"
+  "sources": [],
+  "last_updated": "Jan 22, 2026"
 }

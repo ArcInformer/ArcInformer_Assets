@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "metal_parts",
   "name": "Metal Parts",
   "description": "Used to craft a wide range of items.",
@@ -12,6 +12,7 @@
   "found_in": "Mechanical, Industrial, Electrical, Technological",
   "crafts_into": [],
   "workshop_benchs": [],
+  "sources": [],
   "recycles_from": {},
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "assorted_seeds",
   "name": "Assorted Seeds",
   "description": "A handful of seeds. Celeste might be looking for these.",
@@ -10,11 +10,12 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/assorted_seeds.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/assorted_seeds.png",
   "found_in": "Nature",
+  "sources": [],
   "item_data": {
     "Stamina": "",
     "Use Time": ""
   },
   "recycles_into": {},
   "salvages_into": {},
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

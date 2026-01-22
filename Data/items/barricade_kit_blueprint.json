@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "barricade_kit_blueprint",
   "name": "Barricade Kit Blueprint",
   "description": "A deployable cover that can block incoming damage until it breaks.",
@@ -10,5 +10,6 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/barricade_kit.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/barricade_kit_blueprint.png",
   "recipe_for": [],
-  "last_updated": "Jan 21, 2026"
+  "sources": [],
+  "last_updated": "Jan 22, 2026"
 }

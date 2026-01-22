@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "jolt_mine",
   "name": "Jolt Mine",
   "description": "A proximity-triggered mine that pops up and stuns anything within its radius.",
@@ -10,10 +10,11 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/jolt_mine.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/jolt_mine.png",
   "matching_blueprint": [],
+  "sources": [],
   "item_data": {
+    "ARC Stun Duration": "10s",
     "Radius": "5m",
-    "Raider Stun Duration": "4s",
-    "ARC Stun Duration": "10s"
+    "Raider Stun Duration": "4s"
   },
   "crafting_requirements": {
     "battery": 1,
@@ -27,5 +28,5 @@
     "battery": 1
   },
   "repair_cost": {},
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

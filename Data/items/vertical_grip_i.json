@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "vertical_grip_i",
   "name": "Vertical Grip I",
   "description": "Slightly reduces vertical recoil.",
@@ -33,6 +33,7 @@
     "hullcracker_iii",
     "hullcracker_iv"
   ],
+  "sources": [],
   "crafting_requirements": {
     "duct_tape": 1,
     "plastic_parts": 6
@@ -43,5 +44,5 @@
   "salvages_into": {
     "plastic_parts": 3
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

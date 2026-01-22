@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "pulse_mine",
   "name": "Pulse Mine",
   "description": "A proximity-triggered mine that pops up and knocks back anything within its radius.",
@@ -10,6 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/pulse_mine.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/pulse_mine.png",
   "matching_blueprint": [],
+  "sources": [],
   "item_data": {
     "Radius": "7.5m"
   },
@@ -24,5 +25,5 @@
     "chemicals": 3
   },
   "repair_cost": {},
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

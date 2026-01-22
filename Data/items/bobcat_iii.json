@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "bobcat_iii",
   "name": "Bobcat III",
   "description": "Fully automatic SMG with high fire rate but low accuracy.",
@@ -9,24 +9,29 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bobcat.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "variants": ["bobcat_i", "bobcat_ii", "bobcat_iv"],
+  "variants": [
+    "bobcat_i",
+    "bobcat_ii",
+    "bobcat_iv"
+  ],
   "matching_blueprint": [],
   "compatible_with": [],
+  "sources": [],
   "item_data": {
-    "Stealth": 21,
-    "Firing Mode": "Fully-Automatic",
-    "Magazine Size": 20,
-    "Stability": 45.9,
-    "Fire Rate": 66.7,
-    "Reduced Horizontal Recoil": "30%",
-    "Damage": 6,
-    "Reduced Max Shot Dispersion": "30%",
-    "Range": 44,
-    "Reduced Reload Time": "26%",
-    "Durability": "120/120",
+    "Agility": 73.1,
     "Ammo Type": "Light Ammo",
     "ARC Armor Penetration": "Very Weak",
-    "Agility": 73.1
+    "Damage": 6,
+    "Durability": "120/120",
+    "Fire Rate": 66.7,
+    "Firing Mode": "Fully-Automatic",
+    "Magazine Size": 20,
+    "Range": 44,
+    "Reduced Horizontal Recoil": "30%",
+    "Reduced Max Shot Dispersion": "30%",
+    "Reduced Reload Time": "26%",
+    "Stability": 45.9,
+    "Stealth": 21
   },
   "crafting_requirements": {},
   "repair_cost": {},
@@ -37,5 +42,5 @@
   "salvages_into": {
     "light_gun_parts": 4
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

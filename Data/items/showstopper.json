@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "showstopper",
   "name": "Showstopper",
   "description": "A grenade that detonates after a delay, stunning enemies within its radius.",
@@ -10,10 +10,11 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/showstopper.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/showstopper.png",
   "matching_blueprint": [],
+  "sources": [],
   "item_data": {
+    "ARC Stun Duration": "10s",
     "Radius": "6m",
-    "Raider Stun Duration": "2s",
-    "ARC Stun Duration": "10s"
+    "Raider Stun Duration": "2s"
   },
   "crafting_requirements": {
     "advanced_electrical_components": 1,
@@ -27,5 +28,5 @@
     "battery": 2
   },
   "repair_cost": {},
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

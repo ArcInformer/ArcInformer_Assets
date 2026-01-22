@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "sensors",
   "name": "Sensors",
   "description": "Used in crafting.",
@@ -25,5 +25,5 @@
   "salvages_into": {
     "wires": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "torrente_i",
   "name": "Torrente I",
   "description": "Has a large ammo capacity, but is only accurate while crouched",
@@ -9,15 +9,22 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/torrente.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/torrente.png",
-  "variants": ["torrente_ii", "torrente_iii", "torrente_iv"],
-  "matching_blueprint": ["torrente_blueprint"],
+  "variants": [
+    "torrente_ii",
+    "torrente_iii",
+    "torrente_iv"
+  ],
+  "matching_blueprint": [
+    "torrente_blueprint"
+  ],
   "compatible_with": [],
+  "sources": [],
   "item_data": {
-    "Firing Mode": "Fully-Automatic",
-    "ARC Armor Penetration": "Moderate",
-    "Magazine Size": 60,
     "Ammo Type": "Medium Ammo",
-    "Durability": "100/100"
+    "ARC Armor Penetration": "Moderate",
+    "Durability": "100/100",
+    "Firing Mode": "Fully-Automatic",
+    "Magazine Size": 60
   },
   "crafting_requirements": {
     "advanced_mechanical_components": 2,
@@ -32,5 +39,5 @@
   "salvages_into": {
     "medium_gun_parts": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

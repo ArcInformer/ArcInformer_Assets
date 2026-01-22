@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "vertical_grip_iii",
   "name": "Vertical Grip III",
   "description": "Significantly reduces vertical recoil.",
@@ -29,6 +29,7 @@
     "venator_iii",
     "venator_iv"
   ],
+  "sources": [],
   "crafting_requirements": {
     "duct_tape": 5,
     "mod_components": 2
@@ -40,5 +41,5 @@
   "salvages_into": {
     "mechanical_components": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

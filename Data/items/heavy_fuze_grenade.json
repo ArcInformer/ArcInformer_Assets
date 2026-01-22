@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "heavy_fuze_grenade",
   "name": "Heavy Fuze Grenade",
   "description": "A grenade that detonates after a delay, dealing explosive damage in its radius.",
@@ -10,6 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/heavy_fuze_grenade.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/heavy_fuze_grenade.png",
   "matching_blueprint": [],
+  "sources": [],
   "item_data": {
     "Damage": 80,
     "Radius": "7.5m"
@@ -26,5 +27,5 @@
     "crude_explosives": 1
   },
   "repair_cost": {},
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

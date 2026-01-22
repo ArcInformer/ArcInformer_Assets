@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "angled_grip_iii_blueprint",
   "name": "Angled Grip III Blueprint",
   "description": "Significantly reduces horizontal recoil.",
@@ -10,5 +10,6 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_iii.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "recipe_for": [],
-  "last_updated": "Jan 21, 2026"
+  "sources": [],
+  "last_updated": "Jan 22, 2026"
 }

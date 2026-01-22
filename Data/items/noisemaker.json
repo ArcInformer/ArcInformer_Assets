@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "noisemaker",
   "name": "Noisemaker",
   "description": "A deployable proximity sensor that sounds an alarm when enemy raiders are detected.",
@@ -10,6 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/noisemaker.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/noisemaker.png",
   "matching_blueprint": [],
+  "sources": [],
   "item_data": {
     "Duration": "4s",
     "Trigger Radius": "8m"
@@ -25,5 +26,5 @@
     "speaker_component": 1
   },
   "repair_cost": {},
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "oil",
   "name": "Oil",
   "description": "Used to craft weapons and explosives. Can be recycled into chemicals.",
@@ -26,5 +26,5 @@
   "salvages_into": {
     "chemicals": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

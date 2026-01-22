@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "plastic_parts",
   "name": "Plastic Parts",
   "description": "Used to craft a wide range of items.",
@@ -21,6 +21,7 @@
     "extended_shotgun_mag_i"
   ],
   "workshop_benchs": [],
+  "sources": [],
   "recycles_from": {},
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

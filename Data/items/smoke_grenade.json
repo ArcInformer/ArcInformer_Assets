@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "smoke_grenade",
   "name": "Smoke Grenade",
   "description": "A grenade that creates a lingering smoke cloud on impact, blocking visibility from ARC and other Raiders.",
@@ -10,6 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/smoke_grenade.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/smoke_grenade.png",
   "matching_blueprint": [],
+  "sources": [],
   "item_data": {
     "Duration": "20s",
     "Radius": "7.5m"
@@ -26,5 +27,5 @@
     "chemicals": 3
   },
   "repair_cost": {},
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

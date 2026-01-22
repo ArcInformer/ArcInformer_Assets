@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "kinetic_converter",
   "name": "Kinetic Converter",
   "description": "Moderately increases fire rate.",
@@ -33,6 +33,7 @@
     "renegade_iii",
     "renegade_iv"
   ],
+  "sources": [],
   "crafting_requirements": {},
   "recycles_into": {
     "duct_tape": 2,
@@ -41,5 +42,5 @@
   "salvages_into": {
     "mechanical_components": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "rubber_duck",
   "name": "Rubber Duck",
   "description": "Always there to lend an ear when you need it. Can be thrown to create noise.",
@@ -10,5 +10,6 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rubber_duck.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rubber_duck.png",
   "found_in": [],
-  "last_updated": "Jan 21, 2026"
+  "sources": [],
+  "last_updated": "Jan 22, 2026"
 }

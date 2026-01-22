@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "extended_shotgun_mag_ii",
   "name": "Extended Shotgun Mag II",
   "description": "Moderately extends the ammo capacity of shotguns.",
@@ -11,7 +11,13 @@
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/extended_shotgun_mag_ii.png",
   "mod_effects": [],
   "matching_blueprint": [],
-  "compatible_with": ["vulcano_i", "vulcano_ii", "vulcano_iii", "vulcano_iv"],
+  "compatible_with": [
+    "vulcano_i",
+    "vulcano_ii",
+    "vulcano_iii",
+    "vulcano_iv"
+  ],
+  "sources": [],
   "crafting_requirements": {
     "mechanical_components": 2,
     "steel_spring": 3
@@ -23,5 +29,5 @@
   "salvages_into": {
     "mechanical_components": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

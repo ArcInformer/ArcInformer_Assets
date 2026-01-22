@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "wasp_driver",
   "name": "Wasp Driver",
   "description": "Can be recycled into ARC Alloy. Can be thrown, and will explode if shot.",
@@ -10,6 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/wasp_driver.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/wasp_driver.png",
   "found_in": "ARC",
+  "sources": [],
   "recycles_into": {
     "arc_alloy": 1,
     "electrical_components": 1
@@ -17,5 +18,5 @@
   "salvages_into": {
     "electrical_components": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

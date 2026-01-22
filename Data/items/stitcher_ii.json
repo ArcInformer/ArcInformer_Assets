@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "stitcher_ii",
   "name": "Stitcher II",
   "description": "Deals good damage, but has quite a low fire-rate and can be hard to control.",
@@ -9,17 +9,22 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stitcher.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/stitcher.png",
-  "variants": ["stitcher_i", "stitcher_iii", "stitcher_iv"],
+  "variants": [
+    "stitcher_i",
+    "stitcher_iii",
+    "stitcher_iv"
+  ],
   "matching_blueprint": [],
   "compatible_with": [],
+  "sources": [],
   "item_data": {
-    "Reduced Reload Time": "13%",
-    "Reduced Horizontal Recoil": "16.6%",
-    "ARC Armor Penetration": "Very Weak",
     "Ammo Type": "Light Ammo",
+    "ARC Armor Penetration": "Very Weak",
     "Durability": "110/110",
+    "Firing Mode": "Fully-Automatic",
     "Magazine Size": 20,
-    "Firing Mode": "Fully-Automatic"
+    "Reduced Horizontal Recoil": "16.6%",
+    "Reduced Reload Time": "13%"
   },
   "crafting_requirements": {},
   "repair_cost": {},
@@ -30,5 +35,5 @@
   "salvages_into": {
     "metal_parts": 6
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

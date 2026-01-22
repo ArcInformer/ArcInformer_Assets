@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "red_coral_jewelry",
   "name": "Red Coral Jewelry",
   "description": "Valued for its fine craftsmanship, and effortless ability to make your eyes pop.",
@@ -10,5 +10,6 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/red_coral_jewelry.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/red_coral_jewelry.png",
   "found_in": "Residential, Old World, Commercial",
-  "last_updated": "Jan 21, 2026"
+  "sources": [],
+  "last_updated": "Jan 22, 2026"
 }

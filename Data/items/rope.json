@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "rope",
   "name": "Rope",
   "description": "Used in crafting.",
@@ -11,7 +11,10 @@
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rope.png",
   "found_in": "Residential, Commercial",
   "sources": [],
-  "crafts_into": ["zipline", "snap_hook"],
+  "crafts_into": [
+    "zipline",
+    "snap_hook"
+  ],
   "crafting_requirements": {},
   "recycles_into": {
     "fabric": 5
@@ -19,5 +22,5 @@
   "salvages_into": {
     "fabric": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

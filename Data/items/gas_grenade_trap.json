@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "gas_grenade_trap",
   "name": "Gas Grenade Trap",
   "description": "A laser trip wire that detonates a Gas Grenade.",
@@ -10,9 +10,10 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/gas_grenade_trap.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "matching_blueprint": [],
+  "sources": [],
   "item_data": {
-    "Radius": "7.5m",
     "Duration": "20s",
+    "Radius": "7.5m",
     "Stamina Drain": "25/s"
   },
   "crafting_requirements": {
@@ -22,5 +23,5 @@
   "recycles_into": {},
   "salvages_into": {},
   "repair_cost": {},
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

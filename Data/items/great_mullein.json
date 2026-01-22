@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "great_mullein",
   "name": "Great Mullein",
   "description": "Used to craft medical supplies.",
@@ -11,7 +11,10 @@
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/great_mullein.png",
   "found_in": "Nature",
   "sources": [],
-  "crafts_into": ["herbal_bandage", "antiseptic"],
+  "crafts_into": [
+    "herbal_bandage",
+    "antiseptic"
+  ],
   "crafting_requirements": {},
   "recycles_into": {
     "assorted_seeds": 2
@@ -19,5 +22,5 @@
   "salvages_into": {
     "assorted_seeds": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

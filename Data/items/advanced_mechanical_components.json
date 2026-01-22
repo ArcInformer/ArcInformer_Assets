@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "advanced_mechanical_components",
   "name": "Advanced Mechanical Components",
   "description": "Used to craft advanced weapons. Can be recycled into crafting materials.",
@@ -32,6 +32,7 @@
     "bettina_iii",
     "bettina_iv"
   ],
+  "sources": [],
   "crafting_requirements": {
     "mechanical_components": 2,
     "steel_spring": 2
@@ -44,5 +45,5 @@
   "salvages_into": {
     "mechanical_components": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "looting_mk1",
   "name": "Looting Mk. 1",
   "description": "Basic looting augment. More backpack slots and weight capacity, but low defensive and tactical capability.",
@@ -10,10 +10,11 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/looting_mk1.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/looting_mk1.png",
   "compatible_with": [],
+  "sources": [],
   "item_data": {
+    "Durability": "100/100",
     "Max Loadout Weight": 50,
-    "Shield Compatibility": "Light",
-    "Durability": "100/100"
+    "Shield Compatibility": "Light"
   },
   "crafting_requirements": {
     "plastic_parts": 6,
@@ -27,5 +28,5 @@
   "salvages_into": {
     "plastic_parts": 3
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

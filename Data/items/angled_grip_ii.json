@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "angled_grip_ii",
   "name": "Angled Grip II",
   "description": "Moderately reduces horizontal recoil.",
@@ -12,32 +12,13 @@
   "mod_effects": [],
   "matching_blueprint": [],
   "compatible_with": [
-    "arpeggio_i",
-    "arpeggio_ii",
-    "arpeggio_iii",
-    "arpeggio_iv",
-    "kettle_i",
-    "kettle_ii",
-    "kettle_iii",
-    "kettle_iv",
-    "rattler_i",
-    "rattler_ii",
-    "rattler_iii",
-    "rattler_iv",
-    "ferro_i",
-    "ferro_ii",
-    "ferro_iii",
-    "ferro_iv",
-    "venator_i",
-    "il_toro_i",
-    "il_toro_ii",
-    "il_toro_iii",
-    "il_toro_iv",
-    "stitcher_i",
-    "stitcher_ii",
-    "stitcher_iii",
-    "stitcher_iv"
+    "Arpeggio",
+    "Rattler",
+    "Kettle",
+    "Il Toro",
+    "Stitcher"
   ],
+  "sources": [],
   "crafting_requirements": {
     "duct_tape": 3,
     "mechanical_components": 2
@@ -49,5 +30,5 @@
   "salvages_into": {
     "mechanical_components": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

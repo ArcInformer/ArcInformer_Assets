@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "major_aivas_patch",
   "name": "Major Aiva's Patch",
   "description": "A torn patch, found amidst rubble and ruin.",
@@ -10,5 +10,6 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/major_aivas_patch.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "found_in": [],
-  "last_updated": "Jan 21, 2026"
+  "sources": [],
+  "last_updated": "Jan 22, 2026"
 }

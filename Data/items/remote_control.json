@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "remote_control",
   "name": "Remote Control",
   "description": "Can be recycled into crafting materials.",
@@ -10,6 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/remote_control.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/remote_control.png",
   "found_in": "Residential",
+  "sources": [],
   "recycles_into": {
     "plastic_parts": 7,
     "sensors": 1
@@ -17,5 +18,5 @@
   "salvages_into": {
     "sensors": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

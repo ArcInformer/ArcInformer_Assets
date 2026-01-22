@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "firecracker",
   "name": "Firecracker",
   "description": "A device that sparks and pops in a pleasant manner.",
@@ -10,6 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/firecracker.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/firecracker.png",
   "matching_blueprint": [],
+  "sources": [],
   "item_data": {
     "Duration": "7.5s"
   },
@@ -24,5 +25,5 @@
     "plastic_parts": 1
   },
   "repair_cost": {},
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

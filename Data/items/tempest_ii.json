@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "tempest_ii",
   "name": "Tempest II",
   "description": "Fully automatic assault rifle with moderate fire rate and accuracy.",
@@ -9,17 +9,22 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tempest.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "variants": ["tempest_i", "tempest_iii", "tempest_iv"],
+  "variants": [
+    "tempest_i",
+    "tempest_iii",
+    "tempest_iv"
+  ],
   "matching_blueprint": [],
   "compatible_with": [],
+  "sources": [],
   "item_data": {
-    "Reduced Reload Time": "13%",
-    "Reduced Horizontal Recoil": "16.6%",
-    "ARC Armor Penetration": "Moderate",
     "Ammo Type": "Medium Ammo",
+    "ARC Armor Penetration": "Moderate",
     "Durability": "110/110",
+    "Firing Mode": "Fully-Automatic",
     "Magazine Size": 25,
-    "Firing Mode": "Fully-Automatic"
+    "Reduced Horizontal Recoil": "16.6%",
+    "Reduced Reload Time": "13%"
   },
   "crafting_requirements": {},
   "repair_cost": {},
@@ -30,5 +35,5 @@
   "salvages_into": {
     "medium_gun_parts": 3
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

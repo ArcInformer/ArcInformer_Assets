@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "horizontal_grip",
   "name": "Horizontal Grip",
   "description": "Moderately reduces both vertical recoil and horizontal recoil.",
@@ -24,6 +24,7 @@
     "Tempest",
     "Vulcano"
   ],
+  "sources": [],
   "crafting_requirements": {
     "duct_tape": 5,
     "mod_components": 2
@@ -35,5 +36,5 @@
   "salvages_into": {
     "mechanical_components": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

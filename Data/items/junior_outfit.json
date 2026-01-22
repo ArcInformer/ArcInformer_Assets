@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "junior_outfit",
   "name": "Junior Outfit",
   "description": "Cosmetic Outfit",
@@ -9,5 +9,6 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "last_updated": "Jan 21, 2026"
+  "sources": [],
+  "last_updated": "Jan 22, 2026"
 }

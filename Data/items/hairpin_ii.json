@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "hairpin_ii",
   "name": "Hairpin II",
   "description": "Has a built-in silencer. Great for stealth, but tricky in combat.",
@@ -9,18 +9,23 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hairpin.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/hairpin.png",
-  "variants": ["hairpin_i", "hairpin_iii", "hairpin_iv"],
+  "variants": [
+    "hairpin_i",
+    "hairpin_iii",
+    "hairpin_iv"
+  ],
   "matching_blueprint": [],
   "compatible_with": [],
+  "sources": [],
   "item_data": {
-    "Reduced Reload Time": "13%",
-    "ARC Armor Penetration": "Very Weak",
-    "Increased Fire Rate": "10%",
-    "Special Trait": "Integrated Silencer",
     "Ammo Type": "Light Ammo",
+    "ARC Armor Penetration": "Very Weak",
     "Durability": "110/110",
+    "Firing Mode": "Slide-Action",
+    "Increased Fire Rate": "10%",
     "Magazine Size": 8,
-    "Firing Mode": "Slide-Action"
+    "Reduced Reload Time": "13%",
+    "Special Trait": "Integrated Silencer"
   },
   "crafting_requirements": {},
   "repair_cost": {},
@@ -31,5 +36,5 @@
   "salvages_into": {
     "metal_parts": 4
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

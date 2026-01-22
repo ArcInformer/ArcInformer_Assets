@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "steel_spring",
   "name": "Steel Spring",
   "description": "Used to craft a wide range of items. Can be recycled into crafting materials.",
@@ -28,5 +28,5 @@
   "salvages_into": {
     "metal_parts": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

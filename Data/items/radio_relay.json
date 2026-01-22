@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "radio_relay",
   "name": "Radio Relay",
   "description": "Can be recycled into crafting materials.",
@@ -10,6 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/radio_relay.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/radio_relay.png",
   "found_in": "Exodus",
+  "sources": [],
   "recycles_into": {
     "sensors": 2,
     "speaker_component": 2
@@ -17,5 +18,5 @@
   "salvages_into": {
     "sensors": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

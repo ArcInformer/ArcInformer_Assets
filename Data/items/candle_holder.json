@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "candle_holder",
   "name": "Candle Holder",
   "description": "Can be recycled into crafting materials.",
@@ -10,11 +10,12 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/candle_holder.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/candle_holder.png",
   "found_in": "Residential",
+  "sources": [],
   "recycles_into": {
     "metal_parts": 8
   },
   "salvages_into": {
     "metal_parts": 4
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

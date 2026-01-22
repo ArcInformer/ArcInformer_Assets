@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "magnetic_accelerator",
   "name": "Magnetic Accelerator",
   "description": "Used to craft advanced weapons.",
@@ -26,6 +26,7 @@
     "hullcracker_iii",
     "hullcracker_iv"
   ],
+  "sources": [],
   "crafting_requirements": {
     "advanced_mechanical_components": 2,
     "arc_motion_core": 2
@@ -38,5 +39,5 @@
   "salvages_into": {
     "advanced_mechanical_components": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

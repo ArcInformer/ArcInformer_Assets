@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "fireworks_box",
   "name": "Fireworks Box",
   "description": "A remotely triggered arrangement of dazzling fireworks, sure to put on a show.",
@@ -10,6 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fireworks_box.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "matching_blueprint": [],
+  "sources": [],
   "item_data": {},
   "crafting_requirements": {
     "explosive_compound": 1,
@@ -22,5 +23,5 @@
     "explosive_compound": 1
   },
   "repair_cost": {},
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

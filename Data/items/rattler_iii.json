@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "rattler_iii",
   "name": "Rattler III",
   "description": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
@@ -9,16 +9,21 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rattler.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rattler.png",
-  "variants": ["rattler_i", "rattler_ii", "rattler_iv"],
+  "variants": [
+    "rattler_i",
+    "rattler_ii",
+    "rattler_iv"
+  ],
   "matching_blueprint": [],
   "compatible_with": [],
+  "sources": [],
   "item_data": {
-    "ARC Armor Penetration": "Moderate",
-    "Upgrade Modifiers": "+8 Magazine Size",
     "Ammo Type": "Medium Ammo",
+    "ARC Armor Penetration": "Moderate",
     "Durability": "120/120",
+    "Firing Mode": "Fully-Automatic",
     "Magazine Size": 20,
-    "Firing Mode": "Fully-Automatic"
+    "Upgrade Modifiers": "+8 Magazine Size"
   },
   "crafting_requirements": {},
   "repair_cost": {},
@@ -29,5 +34,5 @@
   "salvages_into": {
     "metal_parts": 12
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

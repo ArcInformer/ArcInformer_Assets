@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "buried_city_residential_master_key",
   "name": "Buried City Residential Master Key",
   "description": "A master key for residential areas in Buried City.",
@@ -9,6 +9,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/buried_city_residential_master_key.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "found_in": [],
+  "sources": [],
   "crafting_requirements": {},
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

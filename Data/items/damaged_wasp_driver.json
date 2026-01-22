@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "damaged_wasp_driver",
   "name": "Damaged Wasp Driver",
   "description": "Can be recycled into crafting materials.",
@@ -10,11 +10,12 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/damaged_wasp_driver.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/damaged_wasp_driver.png",
   "found_in": "ARC",
+  "sources": [],
   "recycles_into": {
     "arc_alloy": 1
   },
   "salvages_into": {
     "metal_parts": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

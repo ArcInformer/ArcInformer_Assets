@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "looting_mk2",
   "name": "Looting Mk. 2",
   "description": "Significantly increases looting potential; adds slots for trinkets. Automatically throws off attached Ticks after 0.5s.",
@@ -10,10 +10,11 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/looting_mk2.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/looting_mk2.png",
   "compatible_with": [],
+  "sources": [],
   "item_data": {
+    "Durability": "100/100",
     "Max Loadout Weight": 60,
-    "Shield Compatibility": "Light",
-    "Durability": "100/100"
+    "Shield Compatibility": "Light"
   },
   "crafting_requirements": {
     "electrical_components": 2,
@@ -27,5 +28,5 @@
   "salvages_into": {
     "electrical_components": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

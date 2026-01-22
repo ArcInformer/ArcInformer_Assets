@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "heavy_ammo",
   "name": "Heavy Ammo",
   "description": "",
@@ -9,11 +9,15 @@
   "stack_size": 40,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/heavy_ammo.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/heavy_ammo.png",
-  "compatible_with": ["Anvil", "Ferro", "Bettina"],
+  "compatible_with": [
+    "Anvil",
+    "Ferro",
+    "Bettina"
+  ],
   "sources": [],
   "crafting_requirements": {
     "chemicals": 2,
     "metal_parts": 3
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "fossilized_lightning",
   "name": "Fossilized Lightning",
   "description": "An item that has a chance to spawn after lightning strikes.",
@@ -19,5 +19,5 @@
   "salvages_into": {
     "explosive_compound": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

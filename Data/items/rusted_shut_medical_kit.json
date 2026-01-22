@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "rusted_shut_medical_kit",
   "name": "Rusted Shut Medical Kit",
   "description": "A medical kit rusted shut, its contents unknown.",
@@ -10,6 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rusted_shut_medical_kit.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rusted_shut_medical_kit.png",
   "found_in": "Medical",
+  "sources": [],
   "recycles_into": {
     "antiseptic": 1,
     "syringe": 2
@@ -17,5 +18,5 @@
   "salvages_into": {
     "syringe": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

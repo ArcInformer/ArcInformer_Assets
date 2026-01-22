@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "battery",
   "name": "Battery",
   "description": "Used to craft a wide range of items. Can be recycled into scrap metal.",
@@ -11,7 +11,11 @@
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/battery.png",
   "found_in": "Technological, Electrical",
   "sources": [],
-  "crafts_into": ["energy_clip", "medium_shield", "jolt_mine"],
+  "crafts_into": [
+    "energy_clip",
+    "medium_shield",
+    "jolt_mine"
+  ],
   "crafting_requirements": {},
   "recycles_into": {
     "metal_parts": 2
@@ -19,5 +23,5 @@
   "salvages_into": {
     "metal_parts": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

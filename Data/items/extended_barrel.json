@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "extended_barrel",
   "name": "Extended Barrel",
   "description": "Moderately increases bullet velocity.",
@@ -33,6 +33,7 @@
     "anvil_iii",
     "anvil_iv"
   ],
+  "sources": [],
   "crafting_requirements": {
     "mod_components": 2,
     "wires": 8
@@ -44,5 +45,5 @@
   "salvages_into": {
     "mechanical_components": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

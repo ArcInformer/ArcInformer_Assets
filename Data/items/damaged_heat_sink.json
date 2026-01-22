@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "damaged_heat_sink",
   "name": "Damaged Heat Sink",
   "description": "Can be recycled into crafting materials.",
@@ -10,6 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/damaged_heat_sink.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/damaged_heat_sink.png",
   "found_in": "Technological",
+  "sources": [],
   "recycles_into": {
     "metal_parts": 6,
     "wires": 2
@@ -17,5 +18,5 @@
   "salvages_into": {
     "wires": 3
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

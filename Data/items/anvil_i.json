@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "anvil_i",
   "name": "Anvil I",
   "description": "Single-action hand cannon with high damage and headshot damage, but slow handling.",
@@ -9,15 +9,22 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/anvil_i.png",
-  "variants": ["anvil_ii", "anvil_iii", "anvil_iv"],
-  "matching_blueprint": ["anvil_blueprint"],
+  "variants": [
+    "anvil_ii",
+    "anvil_iii",
+    "anvil_iv"
+  ],
+  "matching_blueprint": [
+    "anvil_blueprint"
+  ],
   "compatible_with": [],
+  "sources": [],
   "item_data": {
-    "Firing Mode": "Single-Action",
-    "ARC Armor Penetration": "Strong",
-    "Magazine Size": 6,
     "Ammo Type": "Heavy Ammo",
-    "Durability": "100/100"
+    "ARC Armor Penetration": "Strong",
+    "Durability": "100/100",
+    "Firing Mode": "Single-Action",
+    "Magazine Size": 6
   },
   "crafting_requirements": {
     "mechanical_components": 5,
@@ -31,5 +38,5 @@
   "salvages_into": {
     "simple_gun_parts": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

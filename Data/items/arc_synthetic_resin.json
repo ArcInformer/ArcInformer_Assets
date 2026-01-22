@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "arc_synthetic_resin",
   "name": "ARC Synthetic Resin",
   "description": "Can be recycled into crafting materials.",
@@ -10,11 +10,12 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_synthetic_resin.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_synthetic_resin.png",
   "found_in": "ARC",
+  "sources": [],
   "recycles_into": {
     "plastic_parts": 14
   },
   "salvages_into": {
     "plastic_parts": 9
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

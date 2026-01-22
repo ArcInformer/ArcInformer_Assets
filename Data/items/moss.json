@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "moss",
   "name": "Moss",
   "description": "Can be used to regain a small amount of health.",
@@ -19,5 +19,5 @@
   "salvages_into": {
     "assorted_seeds": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

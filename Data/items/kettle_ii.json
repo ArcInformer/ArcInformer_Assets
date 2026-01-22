@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "kettle_ii",
   "name": "Kettle II",
   "description": "Semi-automatic assault rifle. Quick and accurate, but has low bullet velocity and takes a long time reload.",
@@ -9,9 +9,14 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kettle.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/kettle.png",
-  "variants": ["kettle_i", "kettle_iii", "kettle_iv"],
+  "variants": [
+    "kettle_i",
+    "kettle_iii",
+    "kettle_iv"
+  ],
   "matching_blueprint": [],
   "compatible_with": [],
+  "sources": [],
   "item_data": {
     "Ammo Type": "",
     "Magazine Size": "",
@@ -33,5 +38,5 @@
   "salvages_into": {
     "metal_parts": 6
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

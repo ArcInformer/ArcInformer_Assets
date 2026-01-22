@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "voltage_converter",
   "name": "Voltage Converter",
   "description": "Used in crafting.",
@@ -11,7 +11,10 @@
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/voltage_converter.png",
   "found_in": "Electrical",
   "sources": [],
-  "crafts_into": ["heavy_shield", "showstopper"],
+  "crafts_into": [
+    "heavy_shield",
+    "showstopper"
+  ],
   "crafting_requirements": {},
   "recycles_into": {
     "rubber_parts": 1,
@@ -20,5 +23,5 @@
   "salvages_into": {
     "rubber_parts": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

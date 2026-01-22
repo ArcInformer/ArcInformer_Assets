@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "arc_coolant",
   "name": "ARC Coolant",
   "description": "Obtained from ARC enemies or activities. Can be recycled into chemicals.",
@@ -10,11 +10,12 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_coolant.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_coolant.png",
   "found_in": "ARC",
+  "sources": [],
   "recycles_into": {
     "chemicals": 16
   },
   "salvages_into": {
     "chemicals": 9
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

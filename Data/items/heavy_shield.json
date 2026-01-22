@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "heavy_shield",
   "name": "Heavy Shield",
   "description": "A heavy shield that blocks a large portion of incoming damage, but carries a significant cost to mobility.",
@@ -9,7 +9,9 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/heavy_shield.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/heavy_shield.png",
+  "sources": [],
   "item_data": {
+    "15% Reduced Movement Speed": "",
     "Charge": 80,
     "Damage Reduction": "52.5%",
     "Durability": "100/100"
@@ -26,5 +28,5 @@
   "salvages_into": {
     "arc_alloy": 4
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

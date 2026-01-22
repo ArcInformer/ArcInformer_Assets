@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "red_light_stick",
   "name": "Red Light Stick",
   "description": "A throwable chemical light that illuminates the area around it.",
@@ -10,6 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/red_light_stick.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/red_light_stick.png",
   "matching_blueprint": [],
+  "sources": [],
   "item_data": {
     "Duration": "40s",
     "Illumination Radius": "7m"
@@ -24,5 +25,5 @@
     "chemicals": 1
   },
   "repair_cost": {},
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "combat_mk_2",
   "name": "Combat Mk. 2",
   "description": "A Combat augment more focused on maneuverability than absorbing damage.",
@@ -10,11 +10,12 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk_2.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "compatible_with": [],
+  "sources": [],
   "item_data": {
+    "Durability": "100/100",
     "Max Loadout Weight": 55,
-    "Shield Compatibility": "Light, Medium, Heavy",
     "Restores": "1 health every 5 seconds. When damage is taken, the effect is paused for 30 seconds.",
-    "Durability": "100/100"
+    "Shield Compatibility": "Light, Medium, Heavy"
   },
   "crafting_requirements": {
     "electrical_components": 2,
@@ -28,5 +29,5 @@
   "salvages_into": {
     "electrical_components": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

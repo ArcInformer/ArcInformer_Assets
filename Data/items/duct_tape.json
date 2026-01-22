@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "duct_tape",
   "name": "Duct Tape",
   "description": "Used to craft a wide range of items. Can be recycled into crafting materials.",
@@ -25,5 +25,5 @@
   "salvages_into": {
     "fabric": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

@@ -1,7 +1,7 @@
-﻿{
+{
   "id": "muzzle_brake_i",
   "name": "Muzzle Brake I",
-  "description": "Slightly reduces both vertical recoil \u0026 horizontal recoil.",
+  "description": "Slightly reduces both vertical recoil & horizontal recoil.",
   "type": "Modification",
   "rarity": "Common",
   "value": 640,
@@ -33,6 +33,7 @@
     "tempest_iii",
     "tempest_iv"
   ],
+  "sources": [],
   "crafting_requirements": {
     "metal_parts": 6,
     "wires": 1
@@ -43,5 +44,5 @@
   "salvages_into": {
     "metal_parts": 3
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

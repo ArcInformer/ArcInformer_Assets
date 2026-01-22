@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "il_toro_iii",
   "name": "Il Toro III",
   "description": "Pump-action shotgun with large bullet spread, sharp falloff, and high damage output.",
@@ -9,16 +9,21 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/il_toro.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/il_toro.png",
-  "variants": ["il_toro_i", "il_toro_ii", "il_toro_iv"],
+  "variants": [
+    "il_toro_i",
+    "il_toro_ii",
+    "il_toro_iv"
+  ],
   "matching_blueprint": [],
   "compatible_with": [],
+  "sources": [],
   "item_data": {
-    "ARC Armor Penetration": "Weak",
-    "Increased Fire Rate": "35%",
     "Ammo Type": "Shotgun Ammo",
+    "ARC Armor Penetration": "Weak",
     "Durability": "120/120",
-    "Magazine Size": 7,
-    "Firing Mode": "Pump-Action"
+    "Firing Mode": "Pump-Action",
+    "Increased Fire Rate": "35%",
+    "Magazine Size": 7
   },
   "crafting_requirements": {},
   "repair_cost": {},
@@ -29,5 +34,5 @@
   "salvages_into": {
     "simple_gun_parts": 4
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

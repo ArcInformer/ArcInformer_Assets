@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "jupiter",
   "name": "Jupiter",
   "description": "A bolt-action sniper rifle with exceptional damage output and accuracy, but slow handling.",
@@ -12,12 +12,13 @@
   "variants": [],
   "matching_blueprint": [],
   "compatible_with": [],
+  "sources": [],
   "item_data": {
-    "ARC Armor Penetration": "Very Strong",
-    "Magazine Size": 5,
     "Ammo Type": "Energy Clip",
-    "Special Trait": "Experimental",
-    "Firing Mode": "Bolt-Action"
+    "ARC Armor Penetration": "Very Strong",
+    "Firing Mode": "Bolt-Action",
+    "Magazine Size": 5,
+    "Special Trait": "Experimental"
   },
   "crafting_requirements": {
     "complex_gun_parts": 3,
@@ -35,5 +36,5 @@
   "salvages_into": {
     "advanced_mechanical_components": 3
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "equalizer",
   "name": "Equalizer",
   "description": "A high capacity experimental beam rifle.",
@@ -12,11 +12,12 @@
   "variants": [],
   "matching_blueprint": [],
   "compatible_with": [],
+  "sources": [],
   "item_data": {
-    "ARC Armor Penetration": "Very Strong",
-    "Magazine Size": 50,
     "Ammo Type": "Energy Clip",
-    "Firing Mode": "Fully-Automatic"
+    "ARC Armor Penetration": "Very Strong",
+    "Firing Mode": "Fully-Automatic",
+    "Magazine Size": 50
   },
   "crafting_requirements": {
     "complex_gun_parts": 3,
@@ -34,5 +35,5 @@
   "salvages_into": {
     "magnetic_accelerator": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "processor",
   "name": "Processor",
   "description": "Used in crafting.",
@@ -26,5 +26,5 @@
   "salvages_into": {
     "plastic_parts": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

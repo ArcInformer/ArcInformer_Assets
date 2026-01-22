@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "extended_light_mag_ii",
   "name": "Extended Light Mag II",
   "description": "Moderately extends the ammo capacity of compatible weapons that use light ammo.",
@@ -33,6 +33,7 @@
     "bobcat_iii",
     "bobcat_iv"
   ],
+  "sources": [],
   "crafting_requirements": {
     "mechanical_components": 2,
     "steel_spring": 3
@@ -44,5 +45,5 @@
   "salvages_into": {
     "mechanical_components": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

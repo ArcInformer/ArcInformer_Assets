@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "combat_mk3_aggressive",
   "name": "Combat Mk. 3 (Aggressive)",
   "description": "An improved version of the Combat II augment. Supports more shield types, and comes with extra space for grenades.",
@@ -10,15 +10,16 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk3_aggressive.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "compatible_with": [],
+  "sources": [],
   "item_data": {
-    "Health Regeneration": "Restores 2 health every 5 seconds. When damage is taken the effect is paused for 30 seconds.",
-    "Weapon Slots": 2,
-    "Grenade Use Slots": 2,
-    "Shield Compatibility": "Light, Medium, Heavy",
-    "Safe Pocket Slots": 1,
-    "Weight Limit": 65,
     "Backpack Slots": 18,
-    "Quick Use Slots": 4
+    "Grenade Use Slots": 2,
+    "Health Regeneration": "Restores 2 health every 5 seconds. When damage is taken the effect is paused for 30 seconds.",
+    "Quick Use Slots": 4,
+    "Safe Pocket Slots": 1,
+    "Shield Compatibility": "Light, Medium, Heavy",
+    "Weapon Slots": 2,
+    "Weight Limit": 65
   },
   "crafting_requirements": {
     "advanced_electrical_components": 2,
@@ -35,5 +36,5 @@
   "salvages_into": {
     "electrical_components": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

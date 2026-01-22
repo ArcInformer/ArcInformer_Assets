@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "radio",
   "name": "Radio",
   "description": "Can be recycled into crafting components.",
@@ -10,6 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/radio.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/radio.png",
   "found_in": "Commercial, Residential",
+  "sources": [],
   "recycles_into": {
     "sensors": 1,
     "speaker_component": 1
@@ -17,5 +18,5 @@
   "salvages_into": {
     "speaker_component": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

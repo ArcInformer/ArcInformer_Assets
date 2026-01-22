@@ -1,7 +1,7 @@
-﻿{
+{
   "id": "stable_stock_i",
   "name": "Stable Stock I",
-  "description": "Slightly improves dispersion \u0026 recoil recovery time.",
+  "description": "Slightly improves dispersion & recoil recovery time.",
   "type": "Modification",
   "rarity": "Common",
   "value": 640,
@@ -11,7 +11,14 @@
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "mod_effects": [],
   "matching_blueprint": [],
-  "compatible_with": ["Rattler", "Ferro", "Stitcher", "Arpeggio", "Bettina"],
+  "compatible_with": [
+    "Rattler",
+    "Ferro",
+    "Stitcher",
+    "Arpeggio",
+    "Bettina"
+  ],
+  "sources": [],
   "crafting_requirements": {
     "duct_tape": 1,
     "rubber_parts": 6
@@ -22,5 +29,5 @@
   "salvages_into": {
     "rubber_parts": 3
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

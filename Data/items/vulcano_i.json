@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "vulcano_i",
   "name": "Vulcano I",
   "description": "Semi-automatic shotgun with good bullet spread but sharp falloff",
@@ -9,15 +9,22 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/vulcano_i.png",
-  "variants": ["vulcano_ii", "vulcano_iii", "vulcano_iv"],
-  "matching_blueprint": ["vulcano_blueprint"],
+  "variants": [
+    "vulcano_ii",
+    "vulcano_iii",
+    "vulcano_iv"
+  ],
+  "matching_blueprint": [
+    "vulcano_blueprint"
+  ],
   "compatible_with": [],
+  "sources": [],
   "item_data": {
-    "Firing Mode": "Semi-Automatic",
-    "ARC Armor Penetration": "Weak",
-    "Magazine Size": 6,
     "Ammo Type": "Shotgun Ammo",
-    "Durability": "100/100"
+    "ARC Armor Penetration": "Weak",
+    "Durability": "100/100",
+    "Firing Mode": "Semi-Automatic",
+    "Magazine Size": 6
   },
   "crafting_requirements": {
     "exodus_modules": 1,
@@ -32,5 +39,5 @@
   "salvages_into": {
     "heavy_gun_parts": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

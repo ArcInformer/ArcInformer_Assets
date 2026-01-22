@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "electrical_components",
   "name": "Electrical Components",
   "description": "Used to craft a wide range of items. Can be recycled into crafting materials.",
@@ -17,6 +17,7 @@
     "surge_shield_recharger",
     "lure_grenade"
   ],
+  "sources": [],
   "crafting_requirements": {
     "plastic_parts": 8,
     "rubber_parts": 4
@@ -29,5 +30,5 @@
   "salvages_into": {
     "plastic_parts": 3
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

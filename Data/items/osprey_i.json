@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "osprey_i",
   "name": "Osprey I",
   "description": "A scoped bolt-action sniper rifle with reliable damage output and accuracy.",
@@ -9,16 +9,23 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/osprey.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/osprey.png",
-  "variants": ["osprey_ii", "osprey_iii", "osprey_iv"],
-  "matching_blueprint": ["osprey_blueprint"],
+  "variants": [
+    "osprey_ii",
+    "osprey_iii",
+    "osprey_iv"
+  ],
+  "matching_blueprint": [
+    "osprey_blueprint"
+  ],
   "compatible_with": [],
+  "sources": [],
   "item_data": {
-    "ARC Armor Penetration": "Moderate",
-    "Special Trait": "Scoped",
     "Ammo Type": "Medium Ammo",
+    "ARC Armor Penetration": "Moderate",
     "Durability": "100/100",
+    "Firing Mode": "Bolt-Action",
     "Magazine Size": 8,
-    "Firing Mode": "Bolt-Action"
+    "Special Trait": "Scoped"
   },
   "crafting_requirements": {
     "advanced_mechanical_components": 2,
@@ -33,5 +40,5 @@
   "salvages_into": {
     "medium_gun_parts": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "leaper_pulse_unit",
   "name": "Leaper Pulse Unit",
   "description": "Can be recycled into crafting materials. Can be thrown to create a violent singularity.",
@@ -10,6 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/leaper_pulse_unit.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/leaper_pulse_unit.png",
   "found_in": "ARC",
+  "sources": [],
   "recycles_into": {
     "advanced_mechanical_components": 2,
     "arc_alloy": 3
@@ -17,5 +18,5 @@
   "salvages_into": {
     "mechanical_components": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

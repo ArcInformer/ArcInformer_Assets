@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "rusty_arc_steel",
   "name": "Rusty ARC Steel",
   "description": "Obtained from ARC enemies and activites. Can be recycled into scrap metal.",
@@ -10,11 +10,12 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rusty_arc_steel.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rusty_arc_steel.png",
   "found_in": "ARC",
+  "sources": [],
   "recycles_into": {
     "metal_parts": 8
   },
   "salvages_into": {
     "metal_parts": 3
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

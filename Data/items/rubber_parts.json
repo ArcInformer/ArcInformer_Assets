@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "rubber_parts",
   "name": "Rubber Parts",
   "description": "Scrap rubber pieces for crafting.",
@@ -27,6 +27,7 @@
     "stitcher_iv"
   ],
   "workshop_benchs": [],
+  "sources": [],
   "recycles_from": {},
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

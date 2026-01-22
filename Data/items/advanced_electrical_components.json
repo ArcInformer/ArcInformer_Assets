@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "advanced_electrical_components",
   "name": "Advanced Electrical Components",
   "description": "Used to craft a wide range of items. Can be recycled into crafting materials.",
@@ -21,6 +21,7 @@
     "photoelectric_cloak",
     "power_rod"
   ],
+  "sources": [],
   "crafting_requirements": {
     "electrical_components": 2,
     "wires": 3
@@ -33,5 +34,5 @@
   "salvages_into": {
     "electrical_components": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

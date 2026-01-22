@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "launcher_ammo",
   "name": "Launcher Ammo",
   "description": "Anti-ARC payloads used mainly by the Hullcracker.",
@@ -9,11 +9,13 @@
   "stack_size": 24,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/launcher_ammo.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/launcher_ammo.png",
-  "compatible_with": ["Hullcracker"],
+  "compatible_with": [
+    "Hullcracker"
+  ],
   "sources": [],
   "crafting_requirements": {
     "arc_motion_core": 1,
     "crude_explosives": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

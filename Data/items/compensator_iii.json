@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "compensator_iii",
   "name": "Compensator III",
   "description": "Moderately reduces per-shot dispersion.",
@@ -27,6 +27,7 @@
     "Bobcat",
     "Tempest"
   ],
+  "sources": [],
   "crafting_requirements": {
     "mod_components": 2,
     "wires": 8
@@ -38,5 +39,5 @@
   "salvages_into": {
     "mechanical_components": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

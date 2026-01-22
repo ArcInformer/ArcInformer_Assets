@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "renegade_i",
   "name": "Renegade I",
   "description": "Lever-action battle rifle with high damage output, accuracy, and headshot damage.",
@@ -9,15 +9,20 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/renegade.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/renegade_i.png",
-  "variants": ["renegade_ii", "renegade_iii", "renegade_iv"],
+  "variants": [
+    "renegade_ii",
+    "renegade_iii",
+    "renegade_iv"
+  ],
   "matching_blueprint": [],
   "compatible_with": [],
+  "sources": [],
   "item_data": {
-    "Firing Mode": "Lever-Action",
-    "ARC Armor Penetration": "Moderate",
-    "Magazine Size": 8,
     "Ammo Type": "Medium Ammo",
-    "Durability": "100/100"
+    "ARC Armor Penetration": "Moderate",
+    "Durability": "100/100",
+    "Firing Mode": "Lever-Action",
+    "Magazine Size": 8
   },
   "crafting_requirements": {
     "advanced_mechanical_components": 2,
@@ -32,5 +37,5 @@
   "salvages_into": {
     "medium_gun_parts": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

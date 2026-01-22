@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "medium_gun_parts",
   "name": "Medium Gun Parts",
   "description": "Assorted spare parts used for rifles.",
@@ -42,5 +42,5 @@
   "salvages_into": {
     "simple_gun_parts": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

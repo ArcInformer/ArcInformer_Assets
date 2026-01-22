@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "synthesized_fuel",
   "name": "Synthesized Fuel",
   "description": "A canister of synthetic fuel blend.",
@@ -20,5 +20,5 @@
   "salvages_into": {
     "oil": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

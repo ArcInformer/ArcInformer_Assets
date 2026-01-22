@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "shotgun_choke_i",
   "name": "Shotgun Choke I",
   "description": "Slightly reduces base dispersion.",
@@ -11,7 +11,13 @@
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/shotgun_choke_i.png",
   "mod_effects": [],
   "matching_blueprint": [],
-  "compatible_with": ["vulcano_i", "vulcano_ii", "vulcano_iii", "vulcano_iv"],
+  "compatible_with": [
+    "vulcano_i",
+    "vulcano_ii",
+    "vulcano_iii",
+    "vulcano_iv"
+  ],
+  "sources": [],
   "crafting_requirements": {
     "metal_parts": 6,
     "wires": 1
@@ -22,5 +28,5 @@
   "salvages_into": {
     "metal_parts": 3
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

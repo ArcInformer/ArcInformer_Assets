@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "trigger_nade",
   "name": "Trigger 'Nade",
   "description": "A remote-detonated grenade that can stick to surfaces and ARC, dealing explosive damage when triggered.",
@@ -10,6 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/trigger_nade.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/trigger_nade.png",
   "matching_blueprint": [],
+  "sources": [],
   "item_data": {
     "Damage": 90,
     "Radius": "7.5m"
@@ -26,5 +27,5 @@
     "processor": 1
   },
   "repair_cost": {},
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

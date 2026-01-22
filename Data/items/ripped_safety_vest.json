@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "ripped_safety_vest",
   "name": "Ripped Safety Vest",
   "description": "Can be recycled into crafting materials.",
@@ -10,6 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ripped_safety_vest.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "found_in": [],
+  "sources": [],
   "recycles_into": {
     "durable_cloth": 1,
     "magnet": 1
@@ -17,5 +18,5 @@
   "salvages_into": {
     "fabric": 8
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "combat_mk_1",
   "name": "Combat Mk. 1",
   "description": "Basic combat augment. Supports stronger shields, but with limited backpack capacity and Quick Use slots.",
@@ -10,10 +10,11 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk_1.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "compatible_with": [],
+  "sources": [],
   "item_data": {
+    "Durability": "100/100",
     "Max Loadout Weight": 45,
-    "Shield Compatibility": "Light, Medium",
-    "Durability": "100/100"
+    "Shield Compatibility": "Light, Medium"
   },
   "crafting_requirements": {
     "plastic_parts": 6,
@@ -27,5 +28,5 @@
   "salvages_into": {
     "plastic_parts": 3
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

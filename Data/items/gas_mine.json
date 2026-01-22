@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "gas_mine",
   "name": "Gas Mine",
   "description": "A proximity-triggered mine that pops up and deploys a gas cloud that rapidly drains stamina.",
@@ -10,9 +10,10 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/gas_mine.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/gas_mine.png",
   "matching_blueprint": [],
+  "sources": [],
   "item_data": {
-    "Radius": "7.5m",
     "Duration": "20s",
+    "Radius": "7.5m",
     "Stamina Drain": "25/s"
   },
   "crafting_requirements": {
@@ -27,5 +28,5 @@
     "chemicals": 2
   },
   "repair_cost": {},
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

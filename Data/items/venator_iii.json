@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "venator_iii",
   "name": "Venator III",
   "description": "Semi-automatic pistol. Fires two shots at a time.",
@@ -9,18 +9,23 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/venator_iii.png",
-  "variants": ["venator_i", "venator_ii", "venator_iv"],
+  "variants": [
+    "venator_i",
+    "venator_ii",
+    "venator_iv"
+  ],
   "matching_blueprint": [],
   "compatible_with": [],
+  "sources": [],
   "item_data": {
-    "Reduced Reload Time": "33%",
-    "ARC Armor Penetration": "Moderate",
-    "Increased Fire Rate": "26%",
-    "Special Trait": "Twin Shot",
     "Ammo Type": "Medium Ammo",
+    "ARC Armor Penetration": "Moderate",
     "Durability": "120/120",
+    "Firing Mode": "Semi-Automatic",
+    "Increased Fire Rate": "26%",
     "Magazine Size": 10,
-    "Firing Mode": "Semi-Automatic"
+    "Reduced Reload Time": "33%",
+    "Special Trait": "Twin Shot"
   },
   "crafting_requirements": {},
   "repair_cost": {},
@@ -31,5 +36,5 @@
   "salvages_into": {
     "medium_gun_parts": 3
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

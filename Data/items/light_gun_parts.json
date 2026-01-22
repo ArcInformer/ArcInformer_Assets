@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "light_gun_parts",
   "name": "Light Gun Parts",
   "description": "Assorted spare parts used for pistols and SMGs.",
@@ -27,5 +27,5 @@
   "salvages_into": {
     "simple_gun_parts": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

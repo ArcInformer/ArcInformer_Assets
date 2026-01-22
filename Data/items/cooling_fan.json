@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "cooling_fan",
   "name": "Cooling Fan",
   "description": "Can be recycled into crafting materials.",
@@ -10,6 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/cooling_fan.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/cooling_fan.png",
   "found_in": "Technological",
+  "sources": [],
   "recycles_into": {
     "plastic_parts": 14,
     "wires": 4
@@ -17,5 +18,5 @@
   "salvages_into": {
     "wires": 4
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

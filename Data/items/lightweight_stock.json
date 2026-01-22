@@ -1,7 +1,7 @@
-﻿{
+{
   "id": "lightweight_stock",
   "name": "Lightweight Stock",
-  "description": "Moderately improves ADS \u0026 draw speed.",
+  "description": "Moderately improves ADS & draw speed.",
   "type": "Modification",
   "rarity": "Epic",
   "value": 5000,
@@ -33,6 +33,7 @@
     "hullcracker_iii",
     "hullcracker_iv"
   ],
+  "sources": [],
   "crafting_requirements": {
     "duct_tape": 5,
     "mod_components": 2
@@ -44,5 +45,5 @@
   "salvages_into": {
     "mechanical_components": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

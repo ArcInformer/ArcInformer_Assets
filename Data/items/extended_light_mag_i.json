@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "extended_light_mag_i",
   "name": "Extended Light Mag I",
   "description": "Slightly extends the ammo capacity of compatible weapons that use light ammo.",
@@ -11,7 +11,14 @@
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "mod_effects": [],
   "matching_blueprint": [],
-  "compatible_with": ["Hairpin", "Kettle", "Stitcher", "Burletta", "Bobcat"],
+  "compatible_with": [
+    "Hairpin",
+    "Kettle",
+    "Stitcher",
+    "Burletta",
+    "Bobcat"
+  ],
+  "sources": [],
   "crafting_requirements": {
     "plastic_parts": 6,
     "steel_spring": 1
@@ -22,5 +29,5 @@
   "salvages_into": {
     "plastic_parts": 3
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

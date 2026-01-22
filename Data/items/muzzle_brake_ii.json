@@ -1,7 +1,7 @@
-﻿{
+{
   "id": "muzzle_brake_ii",
   "name": "Muzzle Brake II",
-  "description": "Moderately reduces both vertical recoil \u0026 horizontal recoil.",
+  "description": "Moderately reduces both vertical recoil & horizontal recoil.",
   "type": "Modification",
   "rarity": "Uncommon",
   "value": 2000,
@@ -11,7 +11,14 @@
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/muzzle_brake_ii.png",
   "mod_effects": [],
   "matching_blueprint": [],
-  "compatible_with": ["Arpeggio", "Rattler", "Kettle", "Burletta", "Stitcher"],
+  "compatible_with": [
+    "Arpeggio",
+    "Rattler",
+    "Kettle",
+    "Burletta",
+    "Stitcher"
+  ],
+  "sources": [],
   "crafting_requirements": {
     "mechanical_components": 2,
     "wires": 4
@@ -23,5 +30,5 @@
   "salvages_into": {
     "mechanical_components": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

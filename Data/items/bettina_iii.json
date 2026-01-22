@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "bettina_iii",
   "name": "Bettina III",
   "description": "Has slow fire rate and high damage output.",
@@ -9,17 +9,22 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bettina.png",
-  "variants": ["bettina_i", "bettina_ii", "bettina_iv"],
+  "variants": [
+    "bettina_i",
+    "bettina_ii",
+    "bettina_iv"
+  ],
   "matching_blueprint": [],
   "compatible_with": [],
+  "sources": [],
   "item_data": {
-    "Reduced Reload Time": "22.2%",
-    "ARC Armor Penetration": "Strong",
-    "Increased Fire Rate": "10%",
     "Ammo Type": "Heavy Ammo",
+    "ARC Armor Penetration": "Strong",
     "Durability": "120/120",
+    "Firing Mode": "Fully-Automatic",
+    "Increased Fire Rate": "10%",
     "Magazine Size": 20,
-    "Firing Mode": "Fully-Automatic"
+    "Reduced Reload Time": "22.2%"
   },
   "crafting_requirements": {},
   "repair_cost": {},
@@ -30,5 +35,5 @@
   "salvages_into": {
     "advanced_mechanical_components": 3
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

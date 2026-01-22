@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "poster_of_natural_wonders",
   "name": "Poster of Natural Wonders",
   "description": "If you stand close and squint your eyes, it's like the world never came crumbling down.",
@@ -10,5 +10,6 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/poster_of_natural_wonders.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/poster_of_natural_wonders.png",
   "found_in": "Residential, Commercial",
-  "last_updated": "Jan 21, 2026"
+  "sources": [],
+  "last_updated": "Jan 22, 2026"
 }

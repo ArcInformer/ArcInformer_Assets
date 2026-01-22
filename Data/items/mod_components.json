@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "mod_components",
   "name": "Mod Components",
   "description": "Used to craft weapon mods. Can be recycled into crafting materials.",
@@ -17,6 +17,7 @@
     "padded_stock",
     "compensator_iii"
   ],
+  "sources": [],
   "crafting_requirements": {
     "mechanical_components": 2,
     "steel_spring": 2
@@ -29,5 +30,5 @@
   "salvages_into": {
     "mechanical_components": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

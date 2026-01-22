@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "simple_gun_parts",
   "name": "Simple Gun Parts",
   "description": "Used to craft weapons.",
@@ -37,5 +37,5 @@
   "salvages_into": {
     "metal_parts": 1
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "fabric",
   "name": "Fabric",
   "description": "Used to craft medical supplies and shields. Can be used to slowly restore small amounts of health.",
@@ -12,6 +12,7 @@
   "found_in": "Commercial, Medical, Residential",
   "crafts_into": [],
   "workshop_benchs": [],
+  "sources": [],
   "recycles_from": {},
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }

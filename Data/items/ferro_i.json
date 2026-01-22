@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "ferro_i",
   "name": "Ferro I",
   "description": "Packs a punch, but must be reloaded between every shot.",
@@ -9,15 +9,20 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ferro.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/ferro.png",
-  "variants": ["ferro_ii", "ferro_iii", "ferro_iv"],
+  "variants": [
+    "ferro_ii",
+    "ferro_iii",
+    "ferro_iv"
+  ],
   "matching_blueprint": [],
   "compatible_with": [],
+  "sources": [],
   "item_data": {
-    "Firing Mode": "Break-Action",
-    "ARC Armor Penetration": "Strong",
-    "Magazine Size": 1,
     "Ammo Type": "Heavy Ammo",
-    "Durability": "100/100"
+    "ARC Armor Penetration": "Strong",
+    "Durability": "100/100",
+    "Firing Mode": "Break-Action",
+    "Magazine Size": 1
   },
   "crafting_requirements": {
     "metal_parts": 5,
@@ -31,5 +36,5 @@
   "salvages_into": {
     "metal_parts": 2
   },
-  "last_updated": "Jan 21, 2026"
+  "last_updated": "Jan 22, 2026"
 }
