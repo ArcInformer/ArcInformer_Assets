@@ -27,8 +27,13 @@
     "magnetic_accelerator": 3,
     "matriarch_reactor": 1
   },
-  "bench_requirements": {},
-  "repair_cost": {},
+  "bench_requirements": {
+    "bench_gunsmith": 3
+  },
+  "repair_cost": {
+    "complex_gun_parts": 1,
+    "magnetic_accelerator": 2
+  },
   "recycles_into": {
     "complex_gun_parts": 1,
     "magnetic_accelerator": 2
