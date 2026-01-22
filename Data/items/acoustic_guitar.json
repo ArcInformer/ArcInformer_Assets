@@ -10,7 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/acoustic_guitar.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "matching_blueprint": [],
-  "sources": [],
+  "sources": ["Music Puzzle Room on Buried City", "Goalie Deck"],
   "item_data": {},
   "crafting_requirements": {},
   "recycles_into": {
