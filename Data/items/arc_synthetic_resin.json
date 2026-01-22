@@ -10,7 +10,16 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_synthetic_resin.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_synthetic_resin.png",
   "found_in": "ARC",
-  "sources": [],
+  "sources": [
+    "Scavenging",
+    "arc_baron_husk",
+    "arc_matriarch",
+    "arc_queen",
+    "arc_sentinel",
+    "arc_shredder",
+    "arc_snitch",
+    "arc_turret"
+  ],
   "recycles_into": {
     "plastic_parts": 14
   },
