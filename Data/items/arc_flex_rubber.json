@@ -10,7 +10,14 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_flex_rubber.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_flex_rubber.png",
   "found_in": "ARC",
-  "sources": [],
+  "sources": [
+    "Scavenging",
+    "arc_baron_husk",
+    "arc_leaper",
+    "arc_matriarch",
+    "arc_queen",
+    "arc_tick"
+  ],
   "recycles_into": {
     "rubber_parts": 16
   },
