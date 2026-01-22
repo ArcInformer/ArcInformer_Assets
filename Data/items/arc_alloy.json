@@ -17,7 +17,8 @@
   "crafts_into": [
     "light_shield",
     "arc_motion_core",
-    "arc_circuitry"
+    "arc_circuitry",
+    "seeker_grenade"
   ],
   "crafting_requirements": {},
   "bench_requirements": {},
