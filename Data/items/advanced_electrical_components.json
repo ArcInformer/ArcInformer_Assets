@@ -21,7 +21,12 @@
     "photoelectric_cloak",
     "power_rod"
   ],
-  "sources": [],
+  "sources": [
+    "Scavenging",
+    "arc_queen",
+    "Crafting",
+    "Recycling"
+  ],
   "crafting_requirements": {
     "electrical_components": 2,
     "wires": 3
@@ -30,7 +35,20 @@
     "electrical_components": 1,
     "wires": 1
   },
-  "recycles_from": {},
+  "recycles_from": {
+    "combat_mk3_aggressive": 1,
+    "combat_mk3_flanking": 1,
+    "frequency_modulation_box": 1,
+    "looting_mk3_cautious": 1,
+    "looting_mk3_survivor": 1,
+    "photoelectric_cloak": 1,
+    "power_rod": 1,
+    "rocketeer_driver": 2,
+    "spectrometer": 1,
+    "tactical_mk3_defensive": 1,
+    "tactical_mk3_healing": 1,
+    "telemetry_transceiver": 1
+  },
   "salvages_into": {
     "electrical_components": 1
   },
