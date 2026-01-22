@@ -29,7 +29,10 @@
     "stitcher_iii",
     "stitcher_iv"
   ],
-  "sources": [],
+  "sources": [
+    "Scavenging",
+    "Crafting"
+  ],
   "crafting_requirements": {
     "duct_tape": 5,
     "mod_components": 2
