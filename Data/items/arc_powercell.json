@@ -10,14 +10,18 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_powercell.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_powercell.png",
   "found_in": "ARC",
-  "sources": [],
+  "sources": [
+    "Scavenging"
+  ],
   "crafts_into": [
     "shield_recharger"
   ],
   "crafting_requirements": {},
   "bench_requirements": {},
   "recycles_into": {},
-  "recycles_from": {},
+  "recycles_from": {
+    "advanced_powercell": 1
+  },
   "salvages_into": {},
   "last_updated": "Jan 22, 2026"
 }
