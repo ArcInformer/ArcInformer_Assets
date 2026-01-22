@@ -13,6 +13,8 @@
     "angled_grip_ii"
   ],
   "sources": [],
-  "bench_requirements": {},
+  "bench_requirements": {
+    "bench_gunsmith": 2
+  },
   "last_updated": "Jan 22, 2026"
 }
