@@ -10,6 +10,7 @@
     "image_location":"",
     "variants":[],
     "matching_blueprint":[],
+    "sources":[],
     "ingame_image":"",
         "item_data":{
         "Ammo Type":"",

@@ -10,7 +10,7 @@
     "image_location":"",
     "ingame_image":"",
     "compatible_with":[],
-    "dropped_by":[],
+    "sources":[],
     "crafting_requirements":{},
     "last_updated":""
 }

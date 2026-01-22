@@ -12,6 +12,7 @@
     "mod_effects":[],
     "matching_blueprint":[],
     "compatible_with":[],
+    "sources":[],
     "crafting_requirements":{},
     "recycles_into":{},
     "salvages_into":{},

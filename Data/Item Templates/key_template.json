@@ -9,6 +9,7 @@
     "image_location":"",
     "ingame_image":"",
     "found_in":[],
+    "sources":[],
     "crafting_requirements":{},
     "last_updated":""
 }

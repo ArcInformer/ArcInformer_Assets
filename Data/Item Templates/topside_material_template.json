@@ -10,7 +10,7 @@
     "image_location":"",
     "ingame_image":"",
     "found_in":[],
-    "dropped_by":[],
+    "sources":[],
     "crafts_into":[],
     "crafting_requirements":{},
     "recycles_into":{},

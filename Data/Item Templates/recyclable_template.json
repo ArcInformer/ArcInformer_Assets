@@ -10,6 +10,7 @@
     "image_location":"",
     "ingame_image":"",
     "found_in":[],
+    "sources":[],
     "recycles_into":{},
     "salvages_into":{},
     "last_updated":""

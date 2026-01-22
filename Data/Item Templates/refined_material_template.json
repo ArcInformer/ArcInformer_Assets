@@ -11,6 +11,7 @@
     "ingame_image":"",
     "found_in":[],
     "crafts_into":[],
+    "sources":[],
     "crafting_requirements":{},
     "recycles_into":{},
     "recycles_from":{},

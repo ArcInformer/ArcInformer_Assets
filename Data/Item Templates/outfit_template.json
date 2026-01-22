@@ -9,5 +9,6 @@
     "stack_size":"",
     "image_location":"",
     "ingame_image":"",
+    "sources":[],
     "last_updated":""
 }

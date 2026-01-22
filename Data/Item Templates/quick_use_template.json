@@ -10,6 +10,7 @@
     "image_location":"",
     "ingame_image":"",
     "matching_blueprint":[],
+    "sources":[],
     "item_data":{},
     "crafting_requirements":{},
     "recycles_into":{},
