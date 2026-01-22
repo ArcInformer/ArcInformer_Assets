@@ -9,7 +9,10 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_iii.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "recipe_for": [],
-  "sources": [],
+  "recipe_for": ["angled_grip_iii"],
+  "sources": [
+    "Scavenging",
+    "Crafting"
+  ],
   "last_updated": "Jan 22, 2026"
 }
