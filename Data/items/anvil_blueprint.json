@@ -12,6 +12,11 @@
   "recipe_for": [
     "anvil_i"
   ],
-  "sources": [],
+  "sources": [
+    "Raider Caches",
+    "Weapon Cases",
+    "Ammo Cases",
+    "Grenade Tubes"
+  ],
   "last_updated": "Jan 22, 2026"
 }
