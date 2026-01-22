@@ -31,6 +31,7 @@
     "advanced_mechanical_components": 2,
     "arc_motion_core": 2
   },
+  "bench_requirements": {},
   "recycles_into": {
     "advanced_mechanical_components": 1,
     "arc_motion_core": 1

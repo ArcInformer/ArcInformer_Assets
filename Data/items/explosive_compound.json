@@ -21,6 +21,7 @@
     "crude_explosives": 2,
     "oil": 2
   },
+  "bench_requirements": {},
   "recycles_into": {
     "crude_explosives": 2
   },

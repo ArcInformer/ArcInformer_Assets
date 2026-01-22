@@ -13,7 +13,9 @@
     "40% Reduced Horizontal Recoil",
     "30% Reduced ADS Speed"
   ],
-  "matching_blueprint": ["angled_grip_iii_blueprint"],
+  "matching_blueprint": [
+    "angled_grip_iii_blueprint"
+  ],
   "compatible_with": [
     "arpeggio_i",
     "arpeggio_ii",
@@ -50,8 +52,7 @@
   ],
   "crafting_requirements": {
     "duct_tape": 5,
-    "mod_components": 2,
-    "angled_grip_iii_blueprint": 1
+    "mod_components": 2
   },
   "bench_requirements": {
     "bench_gunsmith": 3

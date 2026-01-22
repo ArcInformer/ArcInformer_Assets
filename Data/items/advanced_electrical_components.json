@@ -31,6 +31,7 @@
     "electrical_components": 2,
     "wires": 3
   },
+  "bench_requirements": {},
   "recycles_into": {
     "electrical_components": 1,
     "wires": 1

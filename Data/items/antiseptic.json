@@ -24,6 +24,7 @@
     "chemicals": 10,
     "great_mullein": 2
   },
+  "bench_requirements": {},
   "recycles_into": {
     "chemicals": 10
   },

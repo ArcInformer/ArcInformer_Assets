@@ -22,6 +22,7 @@
     "plastic_parts": 8,
     "rubber_parts": 4
   },
+  "bench_requirements": {},
   "recycles_into": {
     "plastic_parts": 3,
     "rubber_parts": 3

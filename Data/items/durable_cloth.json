@@ -18,6 +18,7 @@
   "crafting_requirements": {
     "fabric": 14
   },
+  "bench_requirements": {},
   "recycles_into": {
     "fabric": 6
   },

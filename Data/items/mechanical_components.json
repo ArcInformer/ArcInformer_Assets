@@ -31,6 +31,7 @@
     "metal_parts": 7,
     "rubber_parts": 3
   },
+  "bench_requirements": {},
   "recycles_into": {
     "metal_parts": 3,
     "rubber_parts": 2

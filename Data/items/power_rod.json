@@ -19,6 +19,7 @@
     "advanced_electrical_components": 2,
     "arc_circuitry": 2
   },
+  "bench_requirements": {},
   "recycles_into": {
     "advanced_electrical_components": 1,
     "arc_circuitry": 1

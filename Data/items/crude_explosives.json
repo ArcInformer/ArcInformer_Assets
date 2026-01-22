@@ -21,6 +21,7 @@
   "crafting_requirements": {
     "chemicals": 6
   },
+  "bench_requirements": {},
   "recycles_into": {
     "chemicals": 3
   },
