@@ -9,6 +9,7 @@
     "stack_size":"",
     "image_location":"",
     "ingame_image":"",
+    "craft_bench":"",
     "mod_effects":[],
     "matching_blueprint":[],
     "compatible_with":[],

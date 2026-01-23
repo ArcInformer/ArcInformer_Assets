@@ -9,6 +9,7 @@
     "stack_size":"",
     "image_location":"",
     "ingame_image":"",
+    "craft_bench":"",
     "compatible_with":[],
     "sources":[],
     "item_data":{
