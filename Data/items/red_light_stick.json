@@ -9,7 +9,9 @@
   "stack_size": 5,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/red_light_stick.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/red_light_stick.png",
-  "craft_bench": "bench_utility",
+  "craft_bench": [
+    "bench_utility"
+  ],
   "matching_blueprint": [],
   "sources": [],
   "item_data": {

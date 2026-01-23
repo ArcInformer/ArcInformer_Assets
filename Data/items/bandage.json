@@ -10,8 +10,8 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bandage.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bandage.png",
   "craft_bench": [
-    "workbench",
-    "med_station"
+    "bench_work",
+    "bench_medical"
   ],
   "matching_blueprint": [],
   "sources": [],

@@ -9,7 +9,9 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tempest.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "craft_bench": "bench_gunsmith",
+  "craft_bench": [
+    "bench_gunsmith"
+  ],
   "variants": [
     "tempest_i",
     "tempest_iii",

@@ -26,7 +26,9 @@
   },
   "salvages_into": {},
   "last_updated": "Jan 23, 2026",
-  "craft_bench": "bench_equipment",
+  "craft_bench": [
+    "bench_equipment"
+  ],
   "damageMitigation": 42.5,
   "durability": 100,
   "movementSpeedModifier": -5,

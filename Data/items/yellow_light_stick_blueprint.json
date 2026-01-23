@@ -7,7 +7,7 @@
   "value": 5000,
   "weight": 0,
   "stack_size": 1,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/yellow_light_stick_blueprint.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/yellow_light_stick.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/yellow_light_stick_blueprint.png",
   "recipe_for": [],
   "sources": [],

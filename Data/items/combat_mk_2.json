@@ -9,7 +9,9 @@
   "stack_size": 1,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk_2.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "craft_bench": "bench_equipment",
+  "craft_bench": [
+    "bench_equipment"
+  ],
   "compatible_with": [],
   "sources": [],
   "item_data": {

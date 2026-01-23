@@ -8,7 +8,7 @@
   "weight": 0.8,
   "stack_size": 3,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ripped_safety_vest.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/ripped_safety_vest.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "found_in": [],
   "sources": [],
   "recycles_into": {

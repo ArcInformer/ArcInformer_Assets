@@ -10,8 +10,8 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shield_recharger.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/shield_recharger.png",
   "craft_bench": [
-    "workbench",
-    "med_station",
+    "bench_work",
+    "bench_medical",
     "in_raid"
   ],
   "matching_blueprint": [],

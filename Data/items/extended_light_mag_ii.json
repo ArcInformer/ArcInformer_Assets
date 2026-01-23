@@ -9,7 +9,9 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_light_mag_ii.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/extended_light_mag_ii.png",
-  "craft_bench": "bench_gunsmith",
+  "craft_bench": [
+    "bench_gunsmith"
+  ],
   "item_data": {
     "Magazine Size": "+10"
   },

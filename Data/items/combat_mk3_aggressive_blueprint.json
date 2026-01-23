@@ -7,7 +7,7 @@
   "value": 5000,
   "weight": 0,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk3_aggressive_blueprint.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk3_aggressive.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/combat_mk3_aggressive_blueprint.png",
   "recipe_for": [],
   "sources": [],

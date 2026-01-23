@@ -9,7 +9,9 @@
   "stack_size": 3,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/blaze_grenade_trap.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/blaze_grenade_trap.png",
-  "craft_bench": "bench_work",
+  "craft_bench": [
+    "bench_work"
+  ],
   "matching_blueprint": [],
   "sources": [],
   "item_data": {

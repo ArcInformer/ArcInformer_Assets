@@ -28,8 +28,8 @@
   },
   "last_updated": "Jan 23, 2026",
   "craft_bench": [
-    "workbench",
-    "equipment_bench"
+    "bench_work",
+    "bench_equipment"
   ],
   "damageMitigation": 40,
   "durability": 100,

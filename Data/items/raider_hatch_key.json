@@ -16,6 +16,8 @@
   },
   "last_updated": "Jan 23, 2026",
   "stack_size": 1,
-  "craft_bench": "bench_utility",
+  "craft_bench": [
+    "bench_utility"
+  ],
   "recycles_into": {}
 }

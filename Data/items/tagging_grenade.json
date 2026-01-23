@@ -9,7 +9,9 @@
   "stack_size": 3,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tagging_grenade.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/tagging_grenade.png",
-  "craft_bench": "bench_utility",
+  "craft_bench": [
+    "bench_utility"
+  ],
   "matching_blueprint": [],
   "sources": [],
   "item_data": {

@@ -9,7 +9,9 @@
   "stack_size": 5,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/seeker_grenade.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/seeker_grenade.png",
-  "craft_bench": "bench_explosives",
+  "craft_bench": [
+    "bench_explosives"
+  ],
   "matching_blueprint": [],
   "sources": [],
   "item_data": {

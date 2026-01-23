@@ -9,7 +9,9 @@
   "stack_size": 5,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/showstopper.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/showstopper.png",
-  "craft_bench": "bench_explosives",
+  "craft_bench": [
+    "bench_explosives"
+  ],
   "matching_blueprint": [],
   "sources": [],
   "item_data": {

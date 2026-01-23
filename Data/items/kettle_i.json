@@ -10,8 +10,8 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kettle.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/kettle_i.png",
   "craft_bench": [
-    "workbench",
-    "weapon_bench"
+    "bench_work",
+    "bench_gunsmith"
   ],
   "variants": [
     "kettle_ii",

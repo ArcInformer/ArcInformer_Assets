@@ -9,7 +9,9 @@
   "stack_size": 3,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/power_rod.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/power_rod.png",
-  "craft_bench": "bench_refiner",
+  "craft_bench": [
+    "bench_refiner"
+  ],
   "found_in": "Exodus",
   "crafts_into": [
     "heavy_shield",
