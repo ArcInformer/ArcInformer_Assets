@@ -74,7 +74,7 @@
     "name": "Angled Grip II Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_ii_blueprint.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_ii.png"
   },
   {
     "id": "angled_grip_iii",
@@ -88,7 +88,7 @@
     "name": "Angled Grip III Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_iii_blueprint.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_iii.png"
   },
   {
     "id": "antiseptic",
@@ -739,7 +739,7 @@
     "name": "Compensator III Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/compensator_iii_blueprint.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/compensator_iii.png"
   },
   {
     "id": "complex_gun_parts",
@@ -1089,7 +1089,7 @@
     "name": "Extended Barrel Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_barrel_blueprint.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_barrel.png"
   },
   {
     "id": "extended_light_mag_i",
@@ -1159,7 +1159,7 @@
     "name": "Extended Medium Mag III Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_medium_mag_iii_blueprint.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_medium_mag_iii.png"
   },
   {
     "id": "extended_shotgun_mag_i",
@@ -2055,7 +2055,7 @@
     "name": "Muzzle Brake II Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/muzzle_brake_ii_blueprint.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/muzzle_brake_ii.png"
   },
   {
     "id": "muzzle_brake_iii",
@@ -2069,7 +2069,7 @@
     "name": "Muzzle Brake III Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/muzzle_brake_iii_blueprint.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/muzzle_brake_iii.png"
   },
   {
     "id": "noisemaker",
@@ -2146,7 +2146,7 @@
     "name": "Padded Stock Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/padded_stock_blueprint.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/padded_stock.png"
   },
   {
     "id": "painted_box",
@@ -2650,7 +2650,7 @@
     "name": "Shotgun Choke II Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shotgun_choke_ii_blueprint.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shotgun_choke_ii.png"
   },
   {
     "id": "shotgun_choke_iii",
@@ -3315,7 +3315,7 @@
     "name": "Vertical Grip II Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vertical_grip_ii_blueprint.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vertical_grip_ii.png"
   },
   {
     "id": "vertical_grip_iii",
