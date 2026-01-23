@@ -9,13 +9,8 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_iii.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/angled_grip_iii.png",
-  "sources": [
-    "Scavenging",
-    "Crafting"
-  ],
-  "recipe_for": [
-    "angled_grip_iii"
-  ],
+  "sources": ["Scavenging", "Crafting"],
+  "recipe_for": ["angled_grip_iii"],
   "bench_requirements": {
     "bench_gunsmith": 3
   },

@@ -9,11 +9,7 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/osprey.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/osprey_iii.png",
-  "variants": [
-    "osprey_i",
-    "osprey_ii",
-    "osprey_iv"
-  ],
+  "variants": ["osprey_i", "osprey_ii", "osprey_iv"],
   "matching_blueprint": [],
   "compatible_with": [],
   "sources": [],

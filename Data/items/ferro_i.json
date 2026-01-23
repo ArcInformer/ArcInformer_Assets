@@ -17,11 +17,7 @@
     "Firing Mode": "Break-Action",
     "Magazine Size": 1
   },
-  "variants": [
-    "ferro_ii",
-    "ferro_iii",
-    "ferro_iv"
-  ],
+  "variants": ["ferro_ii", "ferro_iii", "ferro_iv"],
   "compatible_with": [],
   "matching_blueprint": [],
   "crafting_requirements": {

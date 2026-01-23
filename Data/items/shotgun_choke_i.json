@@ -9,14 +9,9 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shotgun_choke_i.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/shotgun_choke_i.png",
-  "mod_effects": [],
+
   "matching_blueprint": [],
-  "compatible_with": [
-    "vulcano_i",
-    "vulcano_ii",
-    "vulcano_iii",
-    "vulcano_iv"
-  ],
+  "compatible_with": ["vulcano_i", "vulcano_ii", "vulcano_iii", "vulcano_iv"],
   "sources": [],
   "crafting_requirements": {
     "metal_parts": 6,

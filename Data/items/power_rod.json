@@ -10,10 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/power_rod.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/power_rod.png",
   "found_in": "Exodus",
-  "crafts_into": [
-    "heavy_shield",
-    "snap_hook"
-  ],
+  "crafts_into": ["heavy_shield", "snap_hook"],
   "sources": [],
   "crafting_requirements": {
     "advanced_electrical_components": 2,

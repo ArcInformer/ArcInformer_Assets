@@ -21,10 +21,7 @@
     "arc_sentinel",
     "arc_surveyor"
   ],
-  "crafts_into": [
-    "energy_clip",
-    "surge_shield_recharger"
-  ],
+  "crafts_into": ["energy_clip", "surge_shield_recharger"],
   "crafting_requirements": {},
   "bench_requirements": {},
   "recycles_into": {

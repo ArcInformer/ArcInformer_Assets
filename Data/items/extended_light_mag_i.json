@@ -10,15 +10,9 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_light_mag_i.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/extended_light_mag_i.png",
   "sources": [],
-  "compatible_with": [
-    "Hairpin",
-    "Kettle",
-    "Stitcher",
-    "Burletta",
-    "Bobcat"
-  ],
+  "compatible_with": ["Hairpin", "Kettle", "Stitcher", "Burletta", "Bobcat"],
   "matching_blueprint": [],
-  "mod_effects": [],
+
   "crafting_requirements": {
     "plastic_parts": 6,
     "steel_spring": 1

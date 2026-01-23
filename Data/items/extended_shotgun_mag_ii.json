@@ -9,14 +9,9 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_shotgun_mag_ii.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/extended_shotgun_mag_ii.png",
-  "mod_effects": [],
+
   "matching_blueprint": [],
-  "compatible_with": [
-    "vulcano_i",
-    "vulcano_ii",
-    "vulcano_iii",
-    "vulcano_iv"
-  ],
+  "compatible_with": ["vulcano_i", "vulcano_ii", "vulcano_iii", "vulcano_iv"],
   "sources": [],
   "crafting_requirements": {
     "mechanical_components": 2,

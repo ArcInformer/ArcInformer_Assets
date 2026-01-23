@@ -17,14 +17,8 @@
     "Firing Mode": "Pump-Action",
     "Magazine Size": 5
   },
-  "variants": [
-    "hullcracker_ii",
-    "hullcracker_iii",
-    "hullcracker_iv"
-  ],
-  "matching_blueprint": [
-    "hullcracker_blueprint"
-  ],
+  "variants": ["hullcracker_ii", "hullcracker_iii", "hullcracker_iv"],
+  "matching_blueprint": ["hullcracker_blueprint"],
   "crafting_requirements": {
     "exodus_modules": 1,
     "heavy_gun_parts": 3,

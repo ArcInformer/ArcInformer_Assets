@@ -20,11 +20,7 @@
     "Reduced Reload Time": "40%",
     "Special Trait": "Integrated Silencer"
   },
-  "variants": [
-    "hairpin_i",
-    "hairpin_ii",
-    "hairpin_iii"
-  ],
+  "variants": ["hairpin_i", "hairpin_ii", "hairpin_iii"],
   "compatible_with": [],
   "matching_blueprint": [],
   "crafting_requirements": {},

@@ -9,7 +9,6 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_i.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/angled_grip_i.png",
-  "mod_effects": [],
   "matching_blueprint": [],
   "compatible_with": [
     "arpeggio_i",
@@ -41,11 +40,7 @@
     "stitcher_iii",
     "stitcher_iv"
   ],
-  "sources": [
-    "Scavenging",
-    "Crafting",
-    "Sold by Tian Wen"
-  ],
+  "sources": ["Scavenging", "Crafting", "Sold by Tian Wen"],
   "crafting_requirements": {
     "duct_tape": 1,
     "plastic_parts": 6

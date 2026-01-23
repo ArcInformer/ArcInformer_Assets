@@ -18,11 +18,7 @@
     "Increased Fire Rate": "53%",
     "Magazine Size": 5
   },
-  "variants": [
-    "hullcracker_i",
-    "hullcracker_ii",
-    "hullcracker_iii"
-  ],
+  "variants": ["hullcracker_i", "hullcracker_ii", "hullcracker_iii"],
   "matching_blueprint": [],
   "crafting_requirements": {},
   "bench_requirements": {},

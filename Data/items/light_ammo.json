@@ -9,13 +9,7 @@
   "stack_size": 100,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/light_ammo.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/light_ammo.png",
-  "compatible_with": [
-    "Kettle",
-    "Burletta",
-    "Hairpin",
-    "Bobcat",
-    "Stitcher"
-  ],
+  "compatible_with": ["Kettle", "Burletta", "Hairpin", "Bobcat", "Stitcher"],
   "sources": [],
   "crafting_requirements": {
     "chemicals": 2,

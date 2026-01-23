@@ -19,11 +19,7 @@
     "Magazine Size": 20,
     "Reduced Reload Time": "11.1%"
   },
-  "variants": [
-    "bettina_i",
-    "bettina_iii",
-    "bettina_iv"
-  ],
+  "variants": ["bettina_i", "bettina_iii", "bettina_iv"],
   "compatible_with": [],
   "matching_blueprint": [],
   "crafting_requirements": {},

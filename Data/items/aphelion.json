@@ -9,12 +9,8 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/aphelion.png",
   "variants": [],
-  "matching_blueprint": [
-    "aphelion_blueprint"
-  ],
-  "sources": [
-    "Crafting"
-  ],
+  "matching_blueprint": ["aphelion_blueprint"],
+  "sources": ["Crafting"],
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "item_data": {
     "Ammo Type": "Energy Clip",

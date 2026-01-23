@@ -18,11 +18,7 @@
     "Magazine Size": 1,
     "Upgrade Modifiers": "26% Reduced Reload Time"
   },
-  "variants": [
-    "ferro_i",
-    "ferro_ii",
-    "ferro_iv"
-  ],
+  "variants": ["ferro_i", "ferro_ii", "ferro_iv"],
   "compatible_with": [],
   "matching_blueprint": [],
   "crafting_requirements": {},

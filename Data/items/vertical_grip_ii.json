@@ -9,15 +9,9 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vertical_grip_ii.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/vertical_grip_ii.png",
-  "mod_effects": [],
+
   "matching_blueprint": [],
-  "compatible_with": [
-    "Arpeggio",
-    "Rattler",
-    "Kettle",
-    "Il Toro",
-    "Stitcher"
-  ],
+  "compatible_with": ["Arpeggio", "Rattler", "Kettle", "Il Toro", "Stitcher"],
   "sources": [],
   "crafting_requirements": {
     "duct_tape": 3,

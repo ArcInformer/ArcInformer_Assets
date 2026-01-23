@@ -9,10 +9,7 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_iii.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/angled_grip_iii.png",
-  "sources": [
-    "Scavenging",
-    "Crafting"
-  ],
+  "sources": ["Scavenging", "Crafting"],
   "compatible_with": [
     "arpeggio_i",
     "arpeggio_ii",
@@ -43,13 +40,7 @@
     "stitcher_iii",
     "stitcher_iv"
   ],
-  "matching_blueprint": [
-    "angled_grip_iii_blueprint"
-  ],
-  "mod_effects": [
-    "40% Reduced Horizontal Recoil",
-    "30% Reduced ADS Speed"
-  ],
+  "matching_blueprint": ["angled_grip_iii_blueprint"],
   "crafting_requirements": {
     "duct_tape": 5,
     "mod_components": 2

@@ -17,15 +17,9 @@
     "Firing Mode": "Fully-Automatic",
     "Magazine Size": 20
   },
-  "variants": [
-    "bettina_ii",
-    "bettina_iii",
-    "bettina_iv"
-  ],
+  "variants": ["bettina_ii", "bettina_iii", "bettina_iv"],
   "compatible_with": [],
-  "matching_blueprint": [
-    "bettina_blueprint"
-  ],
+  "matching_blueprint": ["bettina_blueprint"],
   "crafting_requirements": {
     "advanced_mechanical_components": 3,
     "canister": 3,

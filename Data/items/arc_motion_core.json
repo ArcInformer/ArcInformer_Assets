@@ -23,11 +23,7 @@
     "Recycling",
     "Crafting"
   ],
-  "crafts_into": [
-    "launcher_ammo",
-    "wolfpack",
-    "magnetic_accelerator"
-  ],
+  "crafts_into": ["launcher_ammo", "wolfpack", "magnetic_accelerator"],
   "crafting_requirements": {
     "arc_alloy": 8
   },

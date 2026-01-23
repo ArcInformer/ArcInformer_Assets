@@ -22,11 +22,7 @@
     "Crafting",
     "Recycling ARC Parts"
   ],
-  "crafts_into": [
-    "deadline",
-    "medium_shield",
-    "power_rod"
-  ],
+  "crafts_into": ["deadline", "medium_shield", "power_rod"],
   "crafting_requirements": {
     "arc_alloy": 8
   },

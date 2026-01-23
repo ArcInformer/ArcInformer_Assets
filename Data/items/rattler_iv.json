@@ -9,11 +9,7 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rattler.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rattler.png",
-  "variants": [
-    "rattler_i",
-    "rattler_ii",
-    "rattler_iii"
-  ],
+  "variants": ["rattler_i", "rattler_ii", "rattler_iii"],
   "matching_blueprint": [],
   "compatible_with": [],
   "sources": [],

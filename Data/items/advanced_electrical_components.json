@@ -21,12 +21,7 @@
     "photoelectric_cloak",
     "power_rod"
   ],
-  "sources": [
-    "Scavenging",
-    "arc_queen",
-    "Crafting",
-    "Recycling"
-  ],
+  "sources": ["Scavenging", "arc_queen", "Crafting", "Recycling"],
   "crafting_requirements": {
     "electrical_components": 2,
     "wires": 3

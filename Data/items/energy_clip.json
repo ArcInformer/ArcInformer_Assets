@@ -9,10 +9,7 @@
   "stack_size": 5,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/energy_clip.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/energy_clip.png",
-  "compatible_with": [
-    "Equalizer",
-    "Jupiter"
-  ],
+  "compatible_with": ["Equalizer", "Jupiter"],
   "sources": [],
   "crafting_requirements": {
     "advanced_arc_powercell": 1,

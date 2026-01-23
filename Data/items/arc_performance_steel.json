@@ -10,9 +10,7 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_performance_steel.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_performance_steel.png",
   "found_in": "ARC",
-  "sources": [
-    "Scavenging"
-  ],
+  "sources": ["Scavenging"],
   "recycles_into": {
     "metal_parts": 12
   },

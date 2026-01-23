@@ -9,11 +9,7 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ferro.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/ferro_iv.png",
-  "variants": [
-    "ferro_i",
-    "ferro_ii",
-    "ferro_iii"
-  ],
+  "variants": ["ferro_i", "ferro_ii", "ferro_iii"],
   "matching_blueprint": [],
   "compatible_with": [],
   "sources": [],

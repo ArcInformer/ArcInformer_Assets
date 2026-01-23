@@ -9,11 +9,7 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kettle.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/kettle.png",
-  "variants": [
-    "kettle_i",
-    "kettle_iii",
-    "kettle_iv"
-  ],
+  "variants": ["kettle_i", "kettle_iii", "kettle_iv"],
   "matching_blueprint": [],
   "compatible_with": [],
   "sources": [],

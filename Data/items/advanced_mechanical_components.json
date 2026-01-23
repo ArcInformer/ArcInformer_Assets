@@ -32,12 +32,7 @@
     "bettina_iii",
     "bettina_iv"
   ],
-  "sources": [
-    "Scavenging",
-    "arc_queen",
-    "Crafting",
-    "Recycling"
-  ],
+  "sources": ["Scavenging", "arc_queen", "Crafting", "Recycling"],
   "crafting_requirements": {
     "mechanical_components": 2,
     "steel_spring": 2

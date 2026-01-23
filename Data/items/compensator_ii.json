@@ -9,15 +9,8 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/compensator_ii.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/compensator_ii.png",
-  "mod_effects": [],
   "matching_blueprint": [],
-  "compatible_with": [
-    "Arpeggio",
-    "Rattler",
-    "Kettle",
-    "Burletta",
-    "Stitcher"
-  ],
+  "compatible_with": [],
   "sources": [],
   "crafting_requirements": {
     "mechanical_components": 2,
