@@ -10,7 +10,7 @@
     "image_location":"",
     "ingame_image":"",
     "craft_bench":[],
-    "mod_effects":[],
+    "item_data":[],
     "matching_blueprint":[],
     "compatible_with":[],
     "sources":[],
