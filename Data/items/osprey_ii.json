@@ -7,9 +7,14 @@
   "value": 10000,
   "weight": 7,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/osprey.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/osprey.png",
-  "variants": ["osprey_i", "osprey_iii", "osprey_iv"],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/osprey_ii.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/osprey_ii.png",
+  "craft_bench": "bench_gunsmith",
+  "variants": [
+    "osprey_i",
+    "osprey_iii",
+    "osprey_iv"
+  ],
   "matching_blueprint": [],
   "compatible_with": [],
   "sources": [],
@@ -33,5 +38,11 @@
   "salvages_into": {
     "medium_gun_parts": 2
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026",
+  "agility": 45.9,
+  "damage": 45,
+  "fireRate": 17.7,
+  "range": 80.3,
+  "stability": 89.4,
+  "stealth": 12
 }

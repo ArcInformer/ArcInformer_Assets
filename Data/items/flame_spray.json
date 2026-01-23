@@ -7,8 +7,9 @@
   "value": 640,
   "weight": 1,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/flame_spray.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/flame_spray.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/flame_spray.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/flame_spray.png",
+  "craft_bench": "in_raid",
   "matching_blueprint": [],
   "sources": [],
   "item_data": {
@@ -27,5 +28,5 @@
     "fireball_burner": 1
   },
   "repair_cost": {},
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

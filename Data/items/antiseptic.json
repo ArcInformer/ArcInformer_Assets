@@ -7,11 +7,20 @@
   "value": 1000,
   "weight": 1,
   "stack_size": 5,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/antiseptic.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/antiseptic.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/antiseptic.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/antiseptic.png",
+  "craft_bench": "bench_refiner",
   "found_in": "Medical",
-  "crafts_into": ["sterilized_bandage", "vita_spray", "vita_shot"],
-  "sources": ["Scavenging", "Crafting", "Recycling"],
+  "crafts_into": [
+    "sterilized_bandage",
+    "vita_spray",
+    "vita_shot"
+  ],
+  "sources": [
+    "Scavenging",
+    "Crafting",
+    "Recycling"
+  ],
   "crafting_requirements": {
     "chemicals": 10,
     "great_mullein": 2
@@ -30,5 +39,5 @@
   "salvages_into": {
     "chemicals": 5
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

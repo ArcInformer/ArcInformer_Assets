@@ -7,10 +7,14 @@
   "value": 5000,
   "weight": 2,
   "stack_size": 3,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/power_rod.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/power_rod.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/power_rod.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/power_rod.png",
+  "craft_bench": "bench_refiner",
   "found_in": "Exodus",
-  "crafts_into": ["heavy_shield", "snap_hook"],
+  "crafts_into": [
+    "heavy_shield",
+    "snap_hook"
+  ],
   "sources": [],
   "crafting_requirements": {
     "advanced_electrical_components": 2,
@@ -25,5 +29,5 @@
   "salvages_into": {
     "advanced_electrical_components": 1
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

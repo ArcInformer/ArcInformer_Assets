@@ -7,11 +7,15 @@
   "value": 500,
   "weight": 0.3,
   "stack_size": 5,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/speaker_component.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/speaker_component.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/speaker_component.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/speaker_component.png",
+  "craft_bench": [],
   "found_in": "Commercial",
   "sources": [],
-  "crafts_into": ["lure_grenade", "photoelectric_cloak"],
+  "crafts_into": [
+    "lure_grenade",
+    "photoelectric_cloak"
+  ],
   "crafting_requirements": {},
   "bench_requirements": {},
   "recycles_into": {
@@ -22,5 +26,5 @@
   "salvages_into": {
     "plastic_parts": 2
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

@@ -6,9 +6,10 @@
   "rarity": "Epic",
   "value": 5000,
   "weight": 4,
-  "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk3_healing.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "stack_size": 1,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/tactical_mk3_healing.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/tactical_mk3_healing.png",
+  "craft_bench": "bench_equipment",
   "compatible_with": [],
   "sources": [],
   "item_data": {
@@ -28,5 +29,5 @@
   "salvages_into": {
     "electrical_components": 2
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

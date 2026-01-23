@@ -7,10 +7,15 @@
   "value": 1000,
   "weight": 0.2,
   "stack_size": 10,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/agave.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/agave.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/agave.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/agave.png",
   "found_in": "Nature",
-  "sources": ["Harvesting", "Argave Plants", "Scavenging", "Wicker Baskets"],
+  "sources": [
+    "Harvesting",
+    "Argave Plants",
+    "Scavenging",
+    "Wicker Baskets"
+  ],
   "item_data": {
     "Duration": "10s",
     "Healing": "1/s",
@@ -22,5 +27,5 @@
   "salvages_into": {
     "assorted_seeds": 2
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

@@ -7,8 +7,9 @@
   "value": 640,
   "weight": 0.5,
   "stack_size": 10,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/electrical_components.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/electrical_components.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/electrical_components.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/electrical_components.png",
+  "craft_bench": "bench_refiner",
   "found_in": "Electrical",
   "crafts_into": [
     "tactical_mk2",
@@ -31,5 +32,5 @@
   "salvages_into": {
     "plastic_parts": 3
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

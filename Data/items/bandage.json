@@ -7,8 +7,12 @@
   "value": 250,
   "weight": 0.1,
   "stack_size": 5,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bandage.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bandage.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/bandage.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/bandage.png",
+  "craft_bench": [
+    "workbench",
+    "med_station"
+  ],
   "matching_blueprint": [],
   "sources": [],
   "item_data": {
@@ -26,5 +30,5 @@
     "fabric": 1
   },
   "repair_cost": {},
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

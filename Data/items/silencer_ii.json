@@ -7,9 +7,12 @@
   "value": 5000,
   "weight": 0.5,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/silencer_ii.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/silencer_ii.png",
-
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/silencer_ii.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/silencer_ii.png",
+  "craft_bench": "bench_gunsmith",
+  "item_data": {
+    "Reduced Noise": "40%"
+  },
   "matching_blueprint": [],
   "compatible_with": [
     "arpeggio_i",
@@ -46,5 +49,5 @@
   "salvages_into": {
     "mechanical_components": 2
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

@@ -1,14 +1,15 @@
 {
-  "id": "tactical_mk_1",
+  "id": "tactical_mk1",
   "name": "Tactical Mk. 1",
   "description": "Basic tactical augment. More Quick Use slots for more tactical choice, but limited survivability and slightly lower looting potential.",
   "type": "Augment",
   "rarity": "Uncommon",
   "value": 640,
   "weight": 2,
-  "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk_1.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "stack_size": 1,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/tactical_mk_1.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/tactical_mk_1.png",
+  "craft_bench": "bench_equipment",
   "compatible_with": [],
   "sources": [],
   "item_data": {
@@ -28,5 +29,5 @@
   "salvages_into": {
     "plastic_parts": 3
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

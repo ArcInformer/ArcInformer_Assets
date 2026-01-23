@@ -7,8 +7,13 @@
   "value": 520,
   "weight": 0.15,
   "stack_size": 5,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shield_recharger.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/shield_recharger.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/shield_recharger.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/shield_recharger.png",
+  "craft_bench": [
+    "workbench",
+    "med_station",
+    "in_raid"
+  ],
   "matching_blueprint": [],
   "sources": [],
   "item_data": {
@@ -27,5 +32,5 @@
     "rubber_parts": 3
   },
   "repair_cost": {},
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

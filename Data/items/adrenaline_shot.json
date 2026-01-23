@@ -7,10 +7,15 @@
   "value": 300,
   "weight": 0.2,
   "stack_size": 5,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/adrenaline_shot.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/adrenaline_shot.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/adrenaline_shot.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/adrenaline_shot.png",
+  "craft_bench": "bench_medical",
   "matching_blueprint": [],
-  "sources": ["Scavenging", "Crafting", "Sold by Lance"],
+  "sources": [
+    "Scavenging",
+    "Crafting",
+    "Sold by Lance"
+  ],
   "item_data": {
     "Duration": "10s",
     "Stamina Regeneration": "5/s",
@@ -28,5 +33,5 @@
     "chemicals": 1
   },
   "repair_cost": {},
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

@@ -7,9 +7,14 @@
   "value": 22000,
   "weight": 11,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tempest.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "variants": ["tempest_i", "tempest_ii", "tempest_iv"],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/tempest_iii.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/tempest_iii.png",
+  "craft_bench": "bench_gunsmith",
+  "variants": [
+    "tempest_i",
+    "tempest_ii",
+    "tempest_iv"
+  ],
   "matching_blueprint": [],
   "compatible_with": [],
   "sources": [],
@@ -32,5 +37,5 @@
   "salvages_into": {
     "medium_gun_parts": 4
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

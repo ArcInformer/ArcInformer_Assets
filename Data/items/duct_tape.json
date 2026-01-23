@@ -7,8 +7,9 @@
   "value": 300,
   "weight": 0.25,
   "stack_size": 15,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/duct_tape.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/duct_tape.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/duct_tape.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/duct_tape.png",
+  "craft_bench": [],
   "found_in": "Residential, Commercial",
   "sources": [],
   "crafts_into": [
@@ -27,5 +28,5 @@
   "salvages_into": {
     "fabric": 1
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

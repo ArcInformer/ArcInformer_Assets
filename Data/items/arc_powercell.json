@@ -7,11 +7,16 @@
   "value": 270,
   "weight": 0.5,
   "stack_size": 5,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_powercell.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_powercell.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/arc_powercell.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/arc_powercell.png",
+  "craft_bench": [],
   "found_in": "ARC",
-  "sources": ["Scavenging"],
-  "crafts_into": ["shield_recharger"],
+  "sources": [
+    "Scavenging"
+  ],
+  "crafts_into": [
+    "shield_recharger"
+  ],
   "crafting_requirements": {},
   "bench_requirements": {},
   "recycles_into": {},
@@ -19,5 +24,10 @@
     "advanced_powercell": 1
   },
   "salvages_into": {},
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026",
+  "item_data": {
+    "Duration": "10s",
+    "Recharge": "2/s",
+    "Use Time": "3s"
+  }
 }

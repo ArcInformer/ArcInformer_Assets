@@ -7,9 +7,10 @@
   "value": 3000,
   "weight": 0.3,
   "stack_size": 3,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/statuette.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/statuette.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/statuette.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/statuette.png",
   "found_in": "Old World, Residential",
   "sources": [],
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026",
+  "recycles_into": {}
 }

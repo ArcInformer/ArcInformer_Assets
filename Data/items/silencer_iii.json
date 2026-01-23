@@ -7,11 +7,21 @@
   "value": 7000,
   "weight": 0.75,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/silencer_iii.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/silencer_iii.png",
-
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/silencer_iii.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/silencer_iii.png",
+  "craft_bench": "bench_gunsmith",
+  "item_data": {
+    "Increased Durability Burn Rate": "20%",
+    "Reduced Noise": "60%"
+  },
   "matching_blueprint": [],
-  "compatible_with": ["Arpeggio", "Rattler", "Ferro", "Anvil", "Torrente"],
+  "compatible_with": [
+    "Arpeggio",
+    "Rattler",
+    "Ferro",
+    "Anvil",
+    "Torrente"
+  ],
   "sources": [],
   "crafting_requirements": {},
   "bench_requirements": {},
@@ -22,5 +32,5 @@
   "salvages_into": {
     "mod_components": 2
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

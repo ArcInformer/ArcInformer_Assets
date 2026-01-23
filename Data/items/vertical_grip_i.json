@@ -7,9 +7,12 @@
   "value": 640,
   "weight": 0.25,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vertical_grip_i.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/vertical_grip_i.png",
-
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/vertical_grip_i.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/vertical_grip_i.png",
+  "craft_bench": "bench_gunsmith",
+  "item_data": {
+    "Reduced Vertical Recoil": "20%"
+  },
   "matching_blueprint": [],
   "compatible_with": [
     "tempest_i",
@@ -45,5 +48,5 @@
   "salvages_into": {
     "plastic_parts": 3
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

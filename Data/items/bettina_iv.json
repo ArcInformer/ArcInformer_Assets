@@ -7,8 +7,16 @@
   "value": 17000,
   "weight": 11,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bettina_iv.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/bettina_iv.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/bettina_iv.png",
+  "craft_bench": "bench_gunsmith",
+  "variants": [
+    "bettina_i",
+    "bettina_ii",
+    "bettina_iii"
+  ],
+  "matching_blueprint": [],
+  "compatible_with": [],
   "sources": [],
   "item_data": {
     "Ammo Type": "Heavy Ammo",
@@ -19,9 +27,6 @@
     "Magazine Size": 20,
     "Reduced Reload Time": "33.3%"
   },
-  "variants": ["bettina_i", "bettina_ii", "bettina_iii"],
-  "compatible_with": [],
-  "matching_blueprint": [],
   "crafting_requirements": {},
   "bench_requirements": {},
   "repair_cost": {},

@@ -7,9 +7,14 @@
   "value": 13000,
   "weight": 9.25,
   "stack_size": 1,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "variants": ["vulcano_i", "vulcano_iii", "vulcano_iv"],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/vulcano_ii.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/vulcano_ii.png",
+  "craft_bench": "bench_gunsmith",
+  "variants": [
+    "vulcano_i",
+    "vulcano_iii",
+    "vulcano_iv"
+  ],
   "matching_blueprint": [],
   "compatible_with": [],
   "sources": [],
@@ -32,5 +37,14 @@
   "salvages_into": {
     "heavy_gun_parts": 3
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026",
+  "agility": 70.7,
+  "damage": 58.5,
+  "fireRate": 14.3,
+  "increasedFireRate": 20,
+  "range": 22.1,
+  "reducedDurabilityBurnRate": 46,
+  "reducedReloadTime": 26,
+  "stability": 70.3,
+  "stealth": 15
 }

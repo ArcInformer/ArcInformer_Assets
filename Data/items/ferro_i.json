@@ -7,8 +7,19 @@
   "value": 475,
   "weight": 8,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ferro.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/ferro_i.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/ferro_i.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/ferro_i.png",
+  "craft_bench": [
+    "workbench",
+    "weapon_bench"
+  ],
+  "variants": [
+    "ferro_ii",
+    "ferro_iii",
+    "ferro_iv"
+  ],
+  "matching_blueprint": [],
+  "compatible_with": [],
   "sources": [],
   "item_data": {
     "Ammo Type": "Heavy Ammo",
@@ -17,9 +28,6 @@
     "Firing Mode": "Break-Action",
     "Magazine Size": 1
   },
-  "variants": ["ferro_ii", "ferro_iii", "ferro_iv"],
-  "compatible_with": [],
-  "matching_blueprint": [],
   "crafting_requirements": {
     "metal_parts": 5,
     "rubber_parts": 2
@@ -33,5 +41,9 @@
   "salvages_into": {
     "metal_parts": 2
   },
-  "last_updated": "Jan 23, 2026"
+  "last_updated": "Jan 23, 2026",
+  "repairMaterials": {
+    "durability_increase": 50,
+    "materials": null
+  }
 }

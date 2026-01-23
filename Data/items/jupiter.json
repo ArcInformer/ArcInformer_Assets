@@ -7,8 +7,9 @@
   "value": 27500,
   "weight": 9,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/jupiter.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/jupiter.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/jupiter.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/jupiter.png",
+  "craft_bench": "bench_gunsmith",
   "variants": [],
   "matching_blueprint": [],
   "compatible_with": [],
@@ -37,5 +38,11 @@
   "salvages_into": {
     "advanced_mechanical_components": 3
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026",
+  "agility": 39.2,
+  "damage": 60,
+  "fireRate": 7.67,
+  "range": 71.7,
+  "stability": 73.5,
+  "stealth": 5
 }

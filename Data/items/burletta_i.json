@@ -7,10 +7,17 @@
   "value": 2900,
   "weight": 4,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burletta.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/burletta_i.png",
-  "variants": ["burletta_ii", "burletta_iii", "burletta_iv"],
-  "matching_blueprint": ["burletta_blueprint"],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/burletta_i.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/burletta_i.png",
+  "craft_bench": "bench_gunsmith",
+  "variants": [
+    "burletta_ii",
+    "burletta_iii",
+    "burletta_iv"
+  ],
+  "matching_blueprint": [
+    "burletta_blueprint"
+  ],
   "compatible_with": [],
   "sources": [],
   "item_data": {
@@ -33,5 +40,6 @@
   "salvages_into": {
     "simple_gun_parts": 2
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026",
+  "durability": 100
 }

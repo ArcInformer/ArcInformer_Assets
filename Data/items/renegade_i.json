@@ -7,9 +7,14 @@
   "value": 7000,
   "weight": 10,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/renegade.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/renegade_i.png",
-  "variants": ["renegade_ii", "renegade_iii", "renegade_iv"],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/renegade_i.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/renegade_i.png",
+  "craft_bench": "bench_gunsmith",
+  "variants": [
+    "renegade_ii",
+    "renegade_iii",
+    "renegade_iv"
+  ],
   "matching_blueprint": [],
   "compatible_with": [],
   "sources": [],
@@ -34,5 +39,5 @@
   "salvages_into": {
     "medium_gun_parts": 2
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

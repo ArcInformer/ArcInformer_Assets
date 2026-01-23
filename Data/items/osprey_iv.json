@@ -7,8 +7,16 @@
   "value": 17000,
   "weight": 7,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/osprey.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/osprey_iv.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/osprey_iv.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/osprey_iv.png",
+  "craft_bench": "bench_gunsmith",
+  "variants": [
+    "osprey_i",
+    "osprey_ii",
+    "osprey_iii"
+  ],
+  "matching_blueprint": [],
+  "compatible_with": [],
   "sources": [],
   "item_data": {
     "Ammo Type": "Medium Ammo",
@@ -20,9 +28,6 @@
     "Reduced Reload Time": "37.5%",
     "Special Trait": "Scoped"
   },
-  "variants": ["osprey_i", "osprey_ii", "osprey_iii"],
-  "compatible_with": [],
-  "matching_blueprint": [],
   "crafting_requirements": {},
   "bench_requirements": {},
   "repair_cost": {},
@@ -33,5 +38,11 @@
   "salvages_into": {
     "medium_gun_parts": 3
   },
-  "last_updated": "Jan 23, 2026"
+  "last_updated": "Jan 23, 2026",
+  "agility": 45.9,
+  "damage": 45,
+  "fireRate": 17.7,
+  "range": 80.3,
+  "stability": 89.4,
+  "stealth": 12
 }

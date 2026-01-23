@@ -7,9 +7,14 @@
   "value": 17000,
   "weight": 5,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/venator_iv.png",
-  "variants": ["venator_i", "venator_ii", "venator_iii"],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/venator_iv.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/venator_iv.png",
+  "craft_bench": "bench_gunsmith",
+  "variants": [
+    "venator_i",
+    "venator_ii",
+    "venator_iii"
+  ],
   "matching_blueprint": [],
   "compatible_with": [],
   "sources": [],
@@ -33,5 +38,5 @@
   "salvages_into": {
     "medium_gun_parts": 3
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

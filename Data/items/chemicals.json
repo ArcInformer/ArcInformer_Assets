@@ -7,8 +7,8 @@
   "value": 50,
   "weight": 0.15,
   "stack_size": 50,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/chemicals.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/chemicals.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/chemicals.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/chemicals.png",
   "found_in": "Medical, Residential, Mechanical",
   "crafts_into": [
     "heavy_ammo",
@@ -20,5 +20,5 @@
   "workshop_benchs": [],
   "sources": [],
   "recycles_from": {},
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

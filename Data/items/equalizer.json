@@ -7,8 +7,9 @@
   "value": 27500,
   "weight": 14,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/equalizer.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/equalizer.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/equalizer.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/equalizer.png",
+  "craft_bench": "bench_gunsmith",
   "variants": [],
   "matching_blueprint": [],
   "compatible_with": [],
@@ -36,5 +37,11 @@
   "salvages_into": {
     "magnetic_accelerator": 1
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026",
+  "agility": 44.6,
+  "damage": 8,
+  "fireRate": 33.33,
+  "range": null,
+  "stability": 84.6,
+  "stealth": null
 }

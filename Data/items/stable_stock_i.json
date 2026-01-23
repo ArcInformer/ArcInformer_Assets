@@ -7,12 +7,22 @@
   "value": 640,
   "weight": 0.25,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stable_stock_i.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/stable_stock_i.png",
-  "sources": [],
-  "compatible_with": ["Rattler", "Ferro", "Stitcher", "Arpeggio", "Bettina"],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/stable_stock_i.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/stable_stock_i.png",
+  "craft_bench": "bench_gunsmith",
+  "item_data": {
+    "Reduced Dispersion Recovery Time": "20%",
+    "Reduced Recoil Recovery Time": "20%"
+  },
   "matching_blueprint": [],
-
+  "compatible_with": [
+    "Rattler",
+    "Ferro",
+    "Stitcher",
+    "Arpeggio",
+    "Bettina"
+  ],
+  "sources": [],
   "crafting_requirements": {
     "duct_tape": 1,
     "rubber_parts": 6

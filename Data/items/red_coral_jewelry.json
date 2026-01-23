@@ -7,9 +7,10 @@
   "value": 5000,
   "weight": 0.3,
   "stack_size": 3,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/red_coral_jewelry.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/red_coral_jewelry.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/red_coral_jewelry.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/red_coral_jewelry.png",
   "found_in": "Residential, Old World, Commercial",
   "sources": [],
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026",
+  "recycles_into": {}
 }

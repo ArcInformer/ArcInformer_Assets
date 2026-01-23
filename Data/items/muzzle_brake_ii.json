@@ -7,11 +7,21 @@
   "value": 2000,
   "weight": 0.5,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/muzzle_brake_ii.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/muzzle_brake_ii.png",
-
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/muzzle_brake_ii.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/muzzle_brake_ii.png",
+  "craft_bench": "bench_gunsmith",
+  "item_data": {
+    "Reduced Horizontal Recoil": "20%",
+    "Reduced Vertical Recoil": "20%"
+  },
   "matching_blueprint": [],
-  "compatible_with": ["Arpeggio", "Rattler", "Kettle", "Burletta", "Stitcher"],
+  "compatible_with": [
+    "Arpeggio",
+    "Rattler",
+    "Kettle",
+    "Burletta",
+    "Stitcher"
+  ],
   "sources": [],
   "crafting_requirements": {
     "mechanical_components": 2,
@@ -25,5 +35,5 @@
   "salvages_into": {
     "mechanical_components": 1
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

@@ -7,11 +7,15 @@
   "value": 500,
   "weight": 0.3,
   "stack_size": 5,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/voltage_converter.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/voltage_converter.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/voltage_converter.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/voltage_converter.png",
+  "craft_bench": [],
   "found_in": "Electrical",
   "sources": [],
-  "crafts_into": ["heavy_shield", "showstopper"],
+  "crafts_into": [
+    "heavy_shield",
+    "showstopper"
+  ],
   "crafting_requirements": {},
   "bench_requirements": {},
   "recycles_into": {
@@ -22,5 +26,5 @@
   "salvages_into": {
     "rubber_parts": 2
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

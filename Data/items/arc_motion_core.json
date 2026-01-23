@@ -7,8 +7,9 @@
   "value": 1000,
   "weight": 0.3,
   "stack_size": 5,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_motion_core.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_motion_core.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/arc_motion_core.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/arc_motion_core.png",
+  "craft_bench": "bench_refiner",
   "found_in": "ARC",
   "sources": [
     "Scavenging",
@@ -23,7 +24,11 @@
     "Recycling",
     "Crafting"
   ],
-  "crafts_into": ["launcher_ammo", "wolfpack", "magnetic_accelerator"],
+  "crafts_into": [
+    "launcher_ammo",
+    "wolfpack",
+    "magnetic_accelerator"
+  ],
   "crafting_requirements": {
     "arc_alloy": 8
   },
@@ -40,5 +45,5 @@
   "salvages_into": {
     "arc_alloy": 1
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

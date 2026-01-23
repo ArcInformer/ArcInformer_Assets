@@ -7,8 +7,9 @@
   "value": 1800,
   "weight": 0.3,
   "stack_size": 5,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fruit_mix.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/fruit_mix.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/fruit_mix.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/fruit_mix.png",
+  "craft_bench": "in_raid",
   "matching_blueprint": [],
   "sources": [],
   "item_data": {
@@ -24,5 +25,5 @@
   "recycles_into": {},
   "salvages_into": {},
   "repair_cost": {},
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

@@ -7,8 +7,9 @@
   "value": 700,
   "weight": 0.4,
   "stack_size": 5,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/medium_gun_parts.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/medium_gun_parts.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/medium_gun_parts.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/medium_gun_parts.png",
+  "craft_bench": "bench_refiner",
   "found_in": "Raider, Security",
   "sources": [],
   "crafts_into": [
@@ -44,5 +45,5 @@
   "salvages_into": {
     "simple_gun_parts": 1
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

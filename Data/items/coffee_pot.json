@@ -7,9 +7,10 @@
   "value": 1000,
   "weight": 0.3,
   "stack_size": 3,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/coffee_pot.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/coffee_pot.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/coffee_pot.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/coffee_pot.png",
   "found_in": "Residential",
   "sources": [],
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026",
+  "recycles_into": {}
 }

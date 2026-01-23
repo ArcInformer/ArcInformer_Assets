@@ -1,14 +1,15 @@
 {
-  "id": "combat_mk_1",
+  "id": "combat_mk1",
   "name": "Combat Mk. 1",
   "description": "Basic combat augment. Supports stronger shields, but with limited backpack capacity and Quick Use slots.",
   "type": "Augment",
   "rarity": "Uncommon",
   "value": 640,
   "weight": 2,
-  "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk_1.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "stack_size": 1,
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/combat_mk_1.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/combat_mk_1.png",
+  "craft_bench": "bench_equipment",
   "compatible_with": [],
   "sources": [],
   "item_data": {
@@ -28,5 +29,5 @@
   "salvages_into": {
     "plastic_parts": 3
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

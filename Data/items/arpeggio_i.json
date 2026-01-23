@@ -7,9 +7,20 @@
   "value": 5500,
   "weight": 7,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arpeggio.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arpeggio_i.png",
-  "sources": ["Crafting", "Scavenging"],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/arpeggio_i.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/arpeggio_i.png",
+  "craft_bench": "bench_gunsmith",
+  "variants": [
+    "arpeggio_ii",
+    "arpeggio_iii",
+    "arpeggio_iv"
+  ],
+  "matching_blueprint": [],
+  "compatible_with": [],
+  "sources": [
+    "Crafting",
+    "Scavenging"
+  ],
   "item_data": {
     "Ammo Type": "Medium Ammo",
     "ARC Armor Penetration": "Moderate",
@@ -17,9 +28,6 @@
     "Firing Mode": "3-Round Burst",
     "Magazine Size": 24
   },
-  "variants": ["arpeggio_ii", "arpeggio_iii", "arpeggio_iv"],
-  "compatible_with": [],
-  "matching_blueprint": [],
   "crafting_requirements": {
     "mechanical_components": 6,
     "simple_gun_parts": 6

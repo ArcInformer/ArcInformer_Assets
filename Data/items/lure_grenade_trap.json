@@ -7,8 +7,9 @@
   "value": 1000,
   "weight": 0.25,
   "stack_size": 3,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lure_grenade_trap.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/lure_grenade_trap.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/lure_grenade_trap.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/lure_grenade_trap.png",
+  "craft_bench": "bench_work",
   "matching_blueprint": [],
   "sources": [],
   "item_data": {
@@ -22,5 +23,5 @@
   "recycles_into": {},
   "salvages_into": {},
   "repair_cost": {},
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

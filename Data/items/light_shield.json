@@ -7,8 +7,8 @@
   "value": 640,
   "weight": 5,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/light_shield.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/light_shield.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/light_shield.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/light_shield.png",
   "sources": [],
   "item_data": {
     "Charge": 40,
@@ -26,5 +26,13 @@
   "salvages_into": {
     "arc_alloy": 1
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026",
+  "craft_bench": [
+    "workbench",
+    "equipment_bench"
+  ],
+  "damageMitigation": 40,
+  "durability": 100,
+  "movementSpeedModifier": 0,
+  "shieldCharge": 40
 }

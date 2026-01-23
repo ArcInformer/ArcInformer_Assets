@@ -7,9 +7,14 @@
   "value": 7000,
   "weight": 5,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/anvil_ii.png",
-  "variants": ["anvil_i", "anvil_iii", "anvil_iv"],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/anvil_ii.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/anvil_ii.png",
+  "craft_bench": [],
+  "variants": [
+    "anvil_i",
+    "anvil_iii",
+    "anvil_iv"
+  ],
   "matching_blueprint": [],
   "compatible_with": [
     "heavy_ammo",
@@ -54,5 +59,5 @@
   "salvages_into": {
     "simple_gun_parts": 3
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

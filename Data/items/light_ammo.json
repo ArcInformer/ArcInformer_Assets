@@ -7,13 +7,21 @@
   "value": 4,
   "weight": 0.017,
   "stack_size": 100,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/light_ammo.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/light_ammo.png",
-  "compatible_with": ["Kettle", "Burletta", "Hairpin", "Bobcat", "Stitcher"],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/light_ammo.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/light_ammo.png",
+  "compatible_with": [
+    "Kettle",
+    "Burletta",
+    "Hairpin",
+    "Bobcat",
+    "Stitcher"
+  ],
   "sources": [],
   "crafting_requirements": {
     "chemicals": 2,
     "metal_parts": 3
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026",
+  "craftQuantity": 25,
+  "craft_bench": "bench_work"
 }

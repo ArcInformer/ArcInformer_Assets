@@ -7,9 +7,14 @@
   "value": 5000,
   "weight": 5,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stitcher.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/stitcher.png",
-  "variants": ["stitcher_i", "stitcher_ii", "stitcher_iii"],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/stitcher_iv.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/stitcher_iv.png",
+  "craft_bench": [],
+  "variants": [
+    "stitcher_i",
+    "stitcher_ii",
+    "stitcher_iii"
+  ],
   "matching_blueprint": [],
   "compatible_with": [],
   "sources": [],
@@ -32,5 +37,5 @@
   "salvages_into": {
     "simple_gun_parts": 2
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

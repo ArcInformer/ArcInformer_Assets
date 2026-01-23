@@ -7,11 +7,15 @@
   "value": 500,
   "weight": 0.3,
   "stack_size": 5,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rope.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rope.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/rope.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/rope.png",
+  "craft_bench": [],
   "found_in": "Residential, Commercial",
   "sources": [],
-  "crafts_into": ["zipline", "snap_hook"],
+  "crafts_into": [
+    "zipline",
+    "snap_hook"
+  ],
   "crafting_requirements": {},
   "bench_requirements": {},
   "recycles_into": {
@@ -21,5 +25,5 @@
   "salvages_into": {
     "fabric": 2
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

@@ -7,8 +7,9 @@
   "value": 5000,
   "weight": 1,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/photoelectric_cloak.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/photoelectric_cloak.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/photoelectric_cloak.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/photoelectric_cloak.png",
+  "craft_bench": "bench_utility",
   "matching_blueprint": [],
   "sources": [],
   "item_data": {
@@ -26,5 +27,5 @@
     "advanced_electrical_components": 1
   },
   "repair_cost": {},
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

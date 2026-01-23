@@ -7,8 +7,18 @@
   "value": 13000,
   "weight": 7,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/hullcracker_ii.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/hullcracker_ii.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/hullcracker_ii.png",
+  "craft_bench": "bench_gunsmith",
+  "variants": [
+    "hullcracker_i",
+    "hullcracker_iii",
+    "hullcracker_iv"
+  ],
+  "matching_blueprint": [
+    ""
+  ],
+  "compatible_with": [],
   "sources": [],
   "item_data": {
     "Ammo Type": "Launcher Ammo",
@@ -18,8 +28,6 @@
     "Increased Fire Rate": "18%",
     "Magazine Size": 5
   },
-  "variants": ["hullcracker_i", "hullcracker_iii", "hullcracker_iv"],
-  "matching_blueprint": [""],
   "crafting_requirements": {},
   "bench_requirements": {},
   "repair_cost": {},
@@ -30,5 +38,11 @@
   "salvages_into": {
     "heavy_gun_parts": 3
   },
-  "last_updated": "Jan 23, 2026"
+  "last_updated": "Jan 23, 2026",
+  "agility": 67.9,
+  "damage": 100,
+  "fireRate": 20.3,
+  "range": 38.9,
+  "stability": 97.2,
+  "stealth": 1
 }

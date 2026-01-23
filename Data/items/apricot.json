@@ -7,10 +7,15 @@
   "value": 640,
   "weight": 0.2,
   "stack_size": 10,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/apricot.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/apricot.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/apricot.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/apricot.png",
   "found_in": "Nature",
-  "sources": ["Harvesting", "Apricot Trees", "Scavenging", "Wicker Basket"],
+  "sources": [
+    "Harvesting",
+    "Apricot Trees",
+    "Scavenging",
+    "Wicker Basket"
+  ],
   "item_data": {
     "Stamina": 20,
     "Use Time": "1s"
@@ -21,5 +26,5 @@
   "salvages_into": {
     "assorted_seeds": 2
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

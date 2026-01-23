@@ -7,8 +7,9 @@
   "value": 500,
   "weight": 0.3,
   "stack_size": 10,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/moss.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/moss.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/moss.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/moss.png",
+  "craft_bench": [],
   "found_in": "Nature",
   "sources": [],
   "crafts_into": [],
@@ -21,5 +22,10 @@
   "salvages_into": {
     "assorted_seeds": 2
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026",
+  "item_data": {
+    "Duration": "10s",
+    "Healing": "1/s",
+    "Use Time": "1s"
+  }
 }

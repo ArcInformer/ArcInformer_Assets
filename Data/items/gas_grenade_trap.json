@@ -7,8 +7,9 @@
   "value": 300,
   "weight": 0.25,
   "stack_size": 3,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/gas_grenade_trap.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/gas_grenade_trap.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/gas_grenade_trap.png",
+  "craft_bench": "bench_work",
   "matching_blueprint": [],
   "sources": [],
   "item_data": {
@@ -23,5 +24,5 @@
   "recycles_into": {},
   "salvages_into": {},
   "repair_cost": {},
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

@@ -7,8 +7,8 @@
   "value": 640,
   "weight": 0.5,
   "stack_size": 3,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fireball_burner.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/fireball_burner.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/fireball_burner.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/fireball_burner.png",
   "found_in": "ARC",
   "sources": [],
   "recycles_into": {
@@ -18,5 +18,10 @@
   "salvages_into": {
     "arc_alloy": 1
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026",
+  "item_data": {
+    "Damage": "5/s",
+    "Duration": "10s",
+    "Radius": "2m"
+  }
 }

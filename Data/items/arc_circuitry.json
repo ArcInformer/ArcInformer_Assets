@@ -7,8 +7,9 @@
   "value": 1000,
   "weight": 0.3,
   "stack_size": 5,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_circuitry.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arc_circuitry.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/arc_circuitry.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/arc_circuitry.png",
+  "craft_bench": "bench_refiner",
   "found_in": "ARC",
   "sources": [
     "Scavenging",
@@ -22,7 +23,11 @@
     "Crafting",
     "Recycling ARC Parts"
   ],
-  "crafts_into": ["deadline", "medium_shield", "power_rod"],
+  "crafts_into": [
+    "deadline",
+    "medium_shield",
+    "power_rod"
+  ],
   "crafting_requirements": {
     "arc_alloy": 8
   },
@@ -41,5 +46,5 @@
   "salvages_into": {
     "arc_alloy": 1
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

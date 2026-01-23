@@ -7,8 +7,9 @@
   "value": 5000,
   "weight": 1,
   "stack_size": 1,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/wolfpack.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/wolfpack.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/wolfpack.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/wolfpack.png",
+  "craft_bench": "bench_explosives",
   "matching_blueprint": [],
   "sources": [],
   "item_data": {
@@ -27,5 +28,5 @@
     "explosive_compound": 2
   },
   "repair_cost": {},
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

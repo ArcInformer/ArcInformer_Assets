@@ -7,8 +7,12 @@
   "value": 640,
   "weight": 0.25,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_i.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/angled_grip_i.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/angled_grip_i.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/angled_grip_i.png",
+  "craft_bench": "bench_gunsmith",
+  "item_data": {
+    "Reduced Horizontal Recoil": "20%"
+  },
   "matching_blueprint": [],
   "compatible_with": [
     "arpeggio_i",
@@ -40,7 +44,11 @@
     "stitcher_iii",
     "stitcher_iv"
   ],
-  "sources": ["Scavenging", "Crafting", "Sold by Tian Wen"],
+  "sources": [
+    "Scavenging",
+    "Crafting",
+    "Sold by Tian Wen"
+  ],
   "crafting_requirements": {
     "duct_tape": 1,
     "plastic_parts": 6
@@ -52,5 +60,5 @@
   "salvages_into": {
     "plastic_parts": 3
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

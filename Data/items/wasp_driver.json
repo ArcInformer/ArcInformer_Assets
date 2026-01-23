@@ -7,8 +7,8 @@
   "value": 1000,
   "weight": 0.6,
   "stack_size": 3,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/wasp_driver.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/wasp_driver.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/wasp_driver.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/wasp_driver.png",
   "found_in": "ARC",
   "sources": [],
   "recycles_into": {
@@ -18,5 +18,10 @@
   "salvages_into": {
     "electrical_components": 1
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026",
+  "item_data": {
+    "Damage": 80,
+    "Radius": "5m"
+  },
+  "tip": "The Wasp Driver is a rare item is dropped by Wasps that can be recycled into crafting materials."
 }

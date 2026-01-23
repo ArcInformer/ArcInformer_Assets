@@ -7,9 +7,16 @@
   "value": 5000,
   "weight": 0.25,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lightweight_stock.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/lightweight_stock.png",
-
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/lightweight_stock.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/lightweight_stock.png",
+  "craft_bench": "bench_gunsmith",
+  "item_data": {
+    "Increased ADS Speed": "200%",
+    "Increased Recoil Recovery Time": "50%",
+    "Increased Vertical Recoil": "50%",
+    "Reduced Equip Time": "30%",
+    "Reduced Unequip Time": "30%"
+  },
   "matching_blueprint": [],
   "compatible_with": [
     "arpeggio_i",
@@ -46,5 +53,5 @@
   "salvages_into": {
     "mechanical_components": 2
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

@@ -7,8 +7,9 @@
   "value": 1200,
   "weight": 0.2,
   "stack_size": 5,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/surge_shield_recharger.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/surge_shield_recharger.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/surge_shield_recharger.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/surge_shield_recharger.png",
+  "craft_bench": "bench_medical",
   "matching_blueprint": [],
   "sources": [],
   "item_data": {
@@ -26,5 +27,5 @@
     "plastic_parts": 5
   },
   "repair_cost": {},
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

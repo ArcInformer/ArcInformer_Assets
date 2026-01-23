@@ -7,12 +7,17 @@
   "value": 5000,
   "weight": 0,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_iii.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/angled_grip_iii.png",
-  "sources": ["Scavenging", "Crafting"],
-  "recipe_for": ["angled_grip_iii"],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/angled_grip_iii_blueprint.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/angled_grip_iii_blueprint.png",
+  "recipe_for": [
+    "angled_grip_iii"
+  ],
+  "sources": [
+    "Scavenging",
+    "Crafting"
+  ],
+  "last_updated": "Jan 23, 2026",
   "bench_requirements": {
     "bench_gunsmith": 3
-  },
-  "last_updated": "Jan 23, 2026"
+  }
 }

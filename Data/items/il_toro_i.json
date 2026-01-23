@@ -7,10 +7,17 @@
   "value": 5000,
   "weight": 8,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/il_toro.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/il_toro.png",
-  "variants": ["il_toro_ii", "il_toro_iii", "il_toro_iv"],
-  "matching_blueprint": ["il_toro_blueprint"],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/il_toro_i.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/il_toro_i.png",
+  "craft_bench": "bench_gunsmith",
+  "variants": [
+    "il_toro_ii",
+    "il_toro_iii",
+    "il_toro_iv"
+  ],
+  "matching_blueprint": [
+    "il_toro_blueprint"
+  ],
   "compatible_with": [],
   "sources": [],
   "item_data": {
@@ -33,5 +40,5 @@
   "salvages_into": {
     "simple_gun_parts": 2
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

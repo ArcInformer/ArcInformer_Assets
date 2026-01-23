@@ -7,11 +7,17 @@
   "value": 27500,
   "weight": 14,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/aphelion.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/aphelion.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/aphelion.png",
+  "craft_bench": "bench_gunsmith",
   "variants": [],
-  "matching_blueprint": ["aphelion_blueprint"],
-  "sources": ["Crafting"],
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "matching_blueprint": [
+    "aphelion_blueprint"
+  ],
+  "compatible_with": [],
+  "sources": [
+    "Crafting"
+  ],
   "item_data": {
     "Ammo Type": "Energy Clip",
     "ARC Armor Penetration": "Very Strong",
@@ -37,5 +43,5 @@
   "salvages_into": {
     "magnetic_accelerator": 1
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

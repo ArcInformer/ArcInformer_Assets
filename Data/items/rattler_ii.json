@@ -7,9 +7,14 @@
   "value": 3000,
   "weight": 6,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rattler.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/rattler.png",
-  "variants": ["rattler_i", "rattler_iii", "rattler_iv"],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/rattler_ii.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/rattler_ii.png",
+  "craft_bench": "bench_gunsmith",
+  "variants": [
+    "rattler_i",
+    "rattler_iii",
+    "rattler_iv"
+  ],
   "matching_blueprint": [],
   "compatible_with": [],
   "sources": [],
@@ -29,5 +34,11 @@
   "salvages_into": {
     "metal_parts": 8
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026",
+  "agility": 54.8,
+  "damage": 9,
+  "fireRate": 33.3,
+  "range": 56.2,
+  "stability": 72.2,
+  "stealth": 14
 }

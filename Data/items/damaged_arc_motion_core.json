@@ -7,15 +7,15 @@
   "value": 640,
   "weight": 0.25,
   "stack_size": 5,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/damaged_arc_motion_core.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/damaged_arc_motion_core.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/damaged_arc_motion_core.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/damaged_arc_motion_core.png",
   "found_in": "ARC",
   "sources": [],
   "recycles_into": {
-    "arc_alloy": 3
-  },
-  "salvages_into": {
     "arc_alloy": 2
   },
-  "last_updated": "Jan 22, 2026"
+  "salvages_into": {
+    "arc_alloy": 1
+  },
+  "last_updated": "Jan 23, 2026"
 }

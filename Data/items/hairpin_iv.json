@@ -7,8 +7,16 @@
   "value": 2900,
   "weight": 3,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hairpin.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/hairpin_iv.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/hairpin_iv.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/hairpin_iv.png",
+  "craft_bench": "bench_gunsmith",
+  "variants": [
+    "hairpin_i",
+    "hairpin_ii",
+    "hairpin_iii"
+  ],
+  "matching_blueprint": [],
+  "compatible_with": [],
   "sources": [],
   "item_data": {
     "Ammo Type": "Light Ammo",
@@ -20,9 +28,6 @@
     "Reduced Reload Time": "40%",
     "Special Trait": "Integrated Silencer"
   },
-  "variants": ["hairpin_i", "hairpin_ii", "hairpin_iii"],
-  "compatible_with": [],
-  "matching_blueprint": [],
   "crafting_requirements": {},
   "bench_requirements": {},
   "repair_cost": {},
