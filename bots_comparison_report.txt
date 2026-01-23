@@ -1,6 +1,0 @@
-=========================================
-Bot Comparison Report
-Generated: Jan 23, 2026, 04:59:01 PM
-=========================================
-
-No significant differences found!
