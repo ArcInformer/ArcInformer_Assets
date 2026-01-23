@@ -1,5 +1,5 @@
 {
-  "id": "refiner",
+  "id": "bench_refiner",
   "name": "Refiner",
   "max_level": 3,
   "levels": [

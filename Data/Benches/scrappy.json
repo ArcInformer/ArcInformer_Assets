@@ -1,0 +1,68 @@
+{
+  "id": "scrappy",
+  "name": "Scrappy",
+  "max_level": 5,
+  "levels": [
+    {
+      "level": 1,
+      "requirementItemIds": []
+    },
+    {
+      "level": 2,
+      "requirementItemIds": [
+        {
+          "itemId": "dog_collar",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "requirementItemIds": [
+        {
+          "itemId": "lemon",
+          "quantity": 3
+        },
+        {
+          "itemId": "apricot",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "requirementItemIds": [
+        {
+          "itemId": "prickly_pear",
+          "quantity": 6
+        },
+        {
+          "itemId": "olives",
+          "quantity": 6
+        },
+        {
+          "itemId": "cat_bed",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "requirementItemIds": [
+        {
+          "itemId": "mushroom",
+          "quantity": 12
+        },
+        {
+          "itemId": "apricot",
+          "quantity": 12
+        },
+        {
+          "itemId": "very_comfortable_pillow",
+          "quantity": 3
+        }
+      ]
+    }
+  ],
+  "last_updated": "Jan 23, 2026"
+}
