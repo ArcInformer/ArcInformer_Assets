@@ -1,7 +1,55 @@
 {
-    "id": "",
-    "name": "",
-    "max_level": 0,
-    "levels": [],
-    "last_updated": ""
+  "id": "equipment_bench",
+  "name": "Gear Bench",
+  "max_level": 3,
+  "levels": [
+    {
+      "level": 1,
+      "requirementItemIds": [
+        {
+          "itemId": "plastic_parts",
+          "quantity": 25
+        },
+        {
+          "itemId": "fabric",
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "requirementItemIds": [
+        {
+          "itemId": "power_cable",
+          "quantity": 3
+        },
+        {
+          "itemId": "electrical_components",
+          "quantity": 5
+        },
+        {
+          "itemId": "hornet_driver",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "requirementItemIds": [
+        {
+          "itemId": "industrial_battery",
+          "quantity": 3
+        },
+        {
+          "itemId": "advanced_electrical_components",
+          "quantity": 5
+        },
+        {
+          "itemId": "bastion_cell",
+          "quantity": 6
+        }
+      ]
+    }
+  ],
+  "last_updated": "Jan 23, 2026"
 }

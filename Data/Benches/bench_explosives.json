@@ -1,7 +1,55 @@
 {
-    "id": "",
-    "name": "",
-    "max_level": 0,
-    "levels": [],
-    "last_updated": ""
+  "id": "explosives_bench",
+  "name": "Explosives Station",
+  "max_level": 3,
+  "levels": [
+    {
+      "level": 1,
+      "requirementItemIds": [
+        {
+          "itemId": "rubber_parts",
+          "quantity": 50
+        },
+        {
+          "itemId": "arc_alloy",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "requirementItemIds": [
+        {
+          "itemId": "synthesized_fuel",
+          "quantity": 3
+        },
+        {
+          "itemId": "crude_explosives",
+          "quantity": 5
+        },
+        {
+          "itemId": "pop_trigger",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "requirementItemIds": [
+        {
+          "itemId": "laboratory_reagents",
+          "quantity": 3
+        },
+        {
+          "itemId": "explosive_compound",
+          "quantity": 5
+        },
+        {
+          "itemId": "rocketeer_driver",
+          "quantity": 3
+        }
+      ]
+    }
+  ],
+  "last_updated": "Jan 23, 2026"
 }

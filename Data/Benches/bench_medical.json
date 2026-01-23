@@ -1,7 +1,55 @@
 {
-    "id": "",
-    "name": "",
-    "max_level": 0,
-    "levels": [],
-    "last_updated": ""
+  "id": "med_station",
+  "name": "Medical Lab",
+  "max_level": 3,
+  "levels": [
+    {
+      "level": 1,
+      "requirementItemIds": [
+        {
+          "itemId": "fabric",
+          "quantity": 50
+        },
+        {
+          "itemId": "arc_alloy",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "requirementItemIds": [
+        {
+          "itemId": "cracked_bioscanner",
+          "quantity": 2
+        },
+        {
+          "itemId": "durable_cloth",
+          "quantity": 5
+        },
+        {
+          "itemId": "tick_pod",
+          "quantity": 8
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "requirementItemIds": [
+        {
+          "itemId": "rusted_shut_medical_kit",
+          "quantity": 3
+        },
+        {
+          "itemId": "antiseptic",
+          "quantity": 8
+        },
+        {
+          "itemId": "surveyor_vault",
+          "quantity": 5
+        }
+      ]
+    }
+  ],
+  "last_updated": "Jan 23, 2026"
 }

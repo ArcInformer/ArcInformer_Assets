@@ -1,7 +1,55 @@
 {
-    "id": "",
-    "name": "",
-    "max_level": 0,
-    "levels": [],
-    "last_updated": ""
+  "id": "weapon_bench",
+  "name": "Gunsmith",
+  "max_level": 3,
+  "levels": [
+    {
+      "level": 1,
+      "requirementItemIds": [
+        {
+          "itemId": "metal_parts",
+          "quantity": 20
+        },
+        {
+          "itemId": "rubber_parts",
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "requirementItemIds": [
+        {
+          "itemId": "rusted_tools",
+          "quantity": 3
+        },
+        {
+          "itemId": "mechanical_components",
+          "quantity": 5
+        },
+        {
+          "itemId": "wasp_driver",
+          "quantity": 8
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "requirementItemIds": [
+        {
+          "itemId": "rusted_gear",
+          "quantity": 3
+        },
+        {
+          "itemId": "advanced_mechanical_components",
+          "quantity": 5
+        },
+        {
+          "itemId": "sentinel_firing_core",
+          "quantity": 4
+        }
+      ]
+    }
+  ],
+  "last_updated": "Jan 23, 2026"
 }
