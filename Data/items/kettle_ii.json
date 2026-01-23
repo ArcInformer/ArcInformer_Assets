@@ -7,9 +7,14 @@
   "value": 840,
   "weight": 7,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kettle.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/kettle.png",
-  "variants": ["kettle_i", "kettle_iii", "kettle_iv"],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kettle_ii.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/kettle_ii.png",
+  "craft_bench": [],
+  "variants": [
+    "kettle_i",
+    "kettle_iii",
+    "kettle_iv"
+  ],
   "matching_blueprint": [],
   "compatible_with": [],
   "sources": [],
@@ -35,5 +40,5 @@
   "salvages_into": {
     "metal_parts": 6
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

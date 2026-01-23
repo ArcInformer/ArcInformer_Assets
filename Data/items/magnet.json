@@ -9,6 +9,7 @@
   "stack_size": 15,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/magnet.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/magnet.png",
+  "craft_bench": [],
   "found_in": "Exodus",
   "sources": [],
   "crafts_into": [],
@@ -21,5 +22,5 @@
   "salvages_into": {
     "metal_parts": 1
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

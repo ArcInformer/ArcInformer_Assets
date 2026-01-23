@@ -9,20 +9,24 @@
   "stack_size": 1,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/acoustic_guitar.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/acoustic_guitar.png",
-  "sources": ["Music Puzzle Room on Buried City", "Goalie Deck"],
-  "item_data": {},
+  "craft_bench": [],
   "matching_blueprint": [],
+  "sources": [
+    "Music Puzzle Room on Buried City",
+    "Goalie Deck"
+  ],
+  "item_data": {},
   "crafting_requirements": {},
-  "repair_cost": {
-    "wires": 3,
-    "metal_parts": 2
-  },
   "recycles_into": {
     "metal_parts": 4,
     "wires": 6
   },
   "salvages_into": {
     "wires": 3
+  },
+  "repair_cost": {
+    "wires": 3,
+    "metal_parts": 2
   },
   "last_updated": "Jan 23, 2026"
 }

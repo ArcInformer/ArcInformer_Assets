@@ -9,7 +9,14 @@
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil_blueprint.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/anvil_blueprint.png",
-  "recipe_for": ["anvil_i"],
-  "sources": ["Raider Caches", "Weapon Cases", "Ammo Cases", "Grenade Tubes"],
+  "recipe_for": [
+    "anvil_i"
+  ],
+  "sources": [
+    "Raider Caches",
+    "Weapon Cases",
+    "Ammo Cases",
+    "Grenade Tubes"
+  ],
   "last_updated": "Jan 22, 2026"
 }

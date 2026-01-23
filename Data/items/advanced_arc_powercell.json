@@ -9,6 +9,7 @@
   "stack_size": 5,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/advanced_arc_powercell.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/advanced_arc_powercell.png",
+  "craft_bench": [],
   "found_in": "ARC",
   "sources": [
     "Scavenging",
@@ -21,7 +22,10 @@
     "arc_sentinel",
     "arc_surveyor"
   ],
-  "crafts_into": ["energy_clip", "surge_shield_recharger"],
+  "crafts_into": [
+    "energy_clip",
+    "surge_shield_recharger"
+  ],
   "crafting_requirements": {},
   "bench_requirements": {},
   "recycles_into": {
@@ -31,5 +35,5 @@
   "salvages_into": {
     "arc_powercell": 1
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

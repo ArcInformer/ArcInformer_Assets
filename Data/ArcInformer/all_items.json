@@ -11,7 +11,7 @@
     "name": "Adrenaline Shot",
     "type": "Quick Use",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/adrenaline_shot.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/adrenaline_shot.png"
   },
   {
     "id": "advanced_arc_powercell",
@@ -25,21 +25,21 @@
     "name": "Advanced Electrical Components",
     "type": "Refined Material",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/advanced_electrical_components.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/advanced_electrical_components.png"
   },
   {
     "id": "advanced_mechanical_components",
     "name": "Advanced Mechanical Components",
     "type": "Refined Material",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/advanced_mechanical_components.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/advanced_mechanical_components.png"
   },
   {
     "id": "agave",
     "name": "Agave",
     "type": "Nature",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/agave.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/agave.png"
   },
   {
     "id": "air_freshener",
@@ -60,42 +60,42 @@
     "name": "Angled Grip I",
     "type": "Modification",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/angled_grip_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_i.png"
   },
   {
     "id": "angled_grip_ii",
     "name": "Angled Grip II",
     "type": "Modification",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/angled_grip_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_ii.png"
   },
   {
     "id": "angled_grip_ii_blueprint",
     "name": "Angled Grip II Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/angled_grip_ii_blueprint.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_ii_blueprint.png"
   },
   {
     "id": "angled_grip_iii",
     "name": "Angled Grip III",
     "type": "Modification",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/angled_grip_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_iii.png"
   },
   {
     "id": "angled_grip_iii_blueprint",
     "name": "Angled Grip III Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/angled_grip_iii_blueprint.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/angled_grip_iii_blueprint.png"
   },
   {
     "id": "antiseptic",
     "name": "Antiseptic",
     "type": "Refined Material",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/antiseptic.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/antiseptic.png"
   },
   {
     "id": "anvil_blueprint",
@@ -109,70 +109,70 @@
     "name": "Anvil I",
     "type": "Hand Cannon",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/anvil_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil_i.png"
   },
   {
     "id": "anvil_ii",
     "name": "Anvil II",
     "type": "Hand Cannon",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/anvil_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil_ii.png"
   },
   {
     "id": "anvil_iii",
     "name": "Anvil III",
     "type": "Hand Cannon",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/anvil_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil_iii.png"
   },
   {
     "id": "anvil_iv",
     "name": "Anvil IV",
     "type": "Hand Cannon",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/anvil_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil_iv.png"
   },
   {
     "id": "anvil_splitter",
     "name": "Anvil Splitter",
     "type": "Modification",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/anvil_splitter.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil_splitter.png"
   },
   {
     "id": "aphelion",
     "name": "Aphelion",
     "type": "Special",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/aphelion.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/aphelion.png"
   },
   {
     "id": "aphelion_blueprint",
     "name": "Aphelion Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/aphelion.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/aphelion_blueprint.png"
   },
   {
     "id": "apricot",
     "name": "Apricot",
     "type": "Nature",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/apricot.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/apricot.png"
   },
   {
     "id": "arc_alloy",
     "name": "ARC Alloy",
     "type": "Topside Material",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/arc_alloy.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_alloy.png"
   },
   {
     "id": "arc_circuitry",
     "name": "ARC Circuitry",
     "type": "Topside Material",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/arc_circuitry.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_circuitry.png"
   },
   {
     "id": "arc_coolant",
@@ -193,7 +193,7 @@
     "name": "ARC Motion Core",
     "type": "Topside Material",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/arc_motion_core.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_motion_core.png"
   },
   {
     "id": "arc_performance_steel",
@@ -207,7 +207,7 @@
     "name": "ARC Powercell",
     "type": "Topside Material",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/arc_powercell.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arc_powercell.png"
   },
   {
     "id": "arc_synthetic_resin",
@@ -228,28 +228,28 @@
     "name": "Arpeggio I",
     "type": "Assault Rifle",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/arpeggio_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arpeggio_i.png"
   },
   {
     "id": "arpeggio_ii",
     "name": "Arpeggio II",
     "type": "Assault Rifle",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/arpeggio_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arpeggio_ii.png"
   },
   {
     "id": "arpeggio_iii",
     "name": "Arpeggio III",
     "type": "Assault Rifle",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/arpeggio_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arpeggio_iii.png"
   },
   {
     "id": "arpeggio_iv",
     "name": "Arpeggio IV",
     "type": "Assault Rifle",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/arpeggio_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arpeggio_iv.png"
   },
   {
     "id": "assorted_seeds",
@@ -263,7 +263,7 @@
     "name": "Backpack (Black Hiker Color)",
     "type": "Cosmetic",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/backpack_black_hiker_color.png"
   },
   {
     "id": "banana",
@@ -277,21 +277,21 @@
     "name": "Bandage",
     "type": "Quick Use",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/bandage.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bandage.png"
   },
   {
     "id": "barricade_kit",
     "name": "Barricade Kit",
     "type": "Quick Use",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/barricade_kit.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/barricade_kit.png"
   },
   {
     "id": "barricade_kit_blueprint",
     "name": "Barricade Kit Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/barricade_kit.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/barricade_kit_blueprint.png"
   },
   {
     "id": "bastion_cell",
@@ -305,7 +305,7 @@
     "name": "Battery",
     "type": "Topside Material",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/battery.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/battery.png"
   },
   {
     "id": "bettina_blueprint",
@@ -319,28 +319,28 @@
     "name": "Bettina I",
     "type": "Assault Rifle",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/bettina_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina_i.png"
   },
   {
     "id": "bettina_ii",
     "name": "Bettina II",
     "type": "Assault Rifle",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/bettina_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina_ii.png"
   },
   {
     "id": "bettina_iii",
     "name": "Bettina III",
     "type": "Assault Rifle",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/bettina_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina_iii.png"
   },
   {
     "id": "bettina_iv",
     "name": "Bettina IV",
     "type": "Assault Rifle",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/bettina_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina_iv.png"
   },
   {
     "id": "bicycle_pump",
@@ -354,49 +354,49 @@
     "name": "Binoculars",
     "type": "Quick Use",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/binoculars.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/binoculars.png"
   },
   {
     "id": "blaze_grenade",
     "name": "Blaze Grenade",
     "type": "Quick Use",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/blaze_grenade.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/blaze_grenade.png"
   },
   {
     "id": "blaze_grenade_blueprint",
     "name": "Blaze Grenade Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/blaze_grenade.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/blaze_grenade_blueprint.png"
   },
   {
     "id": "blaze_grenade_trap",
     "name": "Blaze Grenade Trap",
     "type": "Quick Use",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/blaze_grenade_trap.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/blaze_grenade_trap.png"
   },
   {
     "id": "bloated_tuna_can",
     "name": "Bloated Tuna Can",
     "type": "Trinket",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/bloated_tuna_can.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bloated_tuna_can.png"
   },
   {
     "id": "blue_gate_cellar_key",
     "name": "Blue Gate Cellar Key",
     "type": "Key",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/blue_gate_cellar_key.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/blue_gate_cellar_key.png"
   },
   {
     "id": "blue_gate_communication_tower_key",
     "name": "Blue Gate Communication Tower Key",
     "type": "Key",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/blue_gate_communication_tower_key.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/blue_gate_communication_tower_key.png"
   },
   {
     "id": "blue_gate_confiscation_room_key",
@@ -410,14 +410,14 @@
     "name": "Blue Gate Village Key",
     "type": "Key",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/blue_gate_village_key.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/blue_gate_village_key.png"
   },
   {
     "id": "blue_light_stick",
     "name": "Blue Light Stick",
     "type": "Quick Use",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/blue_light_stick.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/blue_light_stick.png"
   },
   {
     "id": "blue_light_stick_blueprint",
@@ -438,35 +438,35 @@
     "name": "Bobcat Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bobcat.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bobcat_blueprint.png"
   },
   {
     "id": "bobcat_i",
     "name": "Bobcat I",
     "type": "SMG",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/bobcat_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bobcat_i.png"
   },
   {
     "id": "bobcat_ii",
     "name": "Bobcat II",
     "type": "SMG",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/bobcat_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bobcat_ii.png"
   },
   {
     "id": "bobcat_iii",
     "name": "Bobcat III",
     "type": "SMG",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/bobcat_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bobcat_iii.png"
   },
   {
     "id": "bobcat_iv",
     "name": "Bobcat IV",
     "type": "SMG",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/bobcat_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bobcat_iv.png"
   },
   {
     "id": "bombardier_cell",
@@ -522,63 +522,63 @@
     "name": "Buried City Hospital Key",
     "type": "Key",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/buried_city_hospital_key.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/buried_city_hospital_key.png"
   },
   {
     "id": "buried_city_jkv_employee_access_card",
     "name": "Buried City JKV Employee Access Card",
     "type": "Key",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/buried_city_jkv_employee_access_card.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/buried_city_jkv_employee_access_card.png"
   },
   {
     "id": "buried_city_residential_master_key",
     "name": "Buried City Residential Master Key",
     "type": "Key",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/buried_city_residential_master_key.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/buried_city_residential_master_key.png"
   },
   {
     "id": "buried_city_town_hall_key",
     "name": "Buried City Town Hall Key",
     "type": "Key",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/buried_city_town_hall_key.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/buried_city_town_hall_key.png"
   },
   {
     "id": "burletta_blueprint",
     "name": "Burletta Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burletta.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burletta_blueprint.png"
   },
   {
     "id": "burletta_i",
     "name": "Burletta I",
     "type": "Pistol",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/burletta_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burletta_i.png"
   },
   {
     "id": "burletta_ii",
     "name": "Burletta II",
     "type": "Pistol",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burletta.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burletta_ii.png"
   },
   {
     "id": "burletta_iii",
     "name": "Burletta III",
     "type": "Pistol",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burletta.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burletta_iii.png"
   },
   {
     "id": "burletta_iv",
     "name": "Burletta IV",
     "type": "Pistol",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burletta.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burletta_iv.png"
   },
   {
     "id": "burned_arc_circuitry",
@@ -620,7 +620,7 @@
     "name": "Canister",
     "type": "Topside Material",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/canister.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/canister.png"
   },
   {
     "id": "cans_backpack_attachment",
@@ -634,7 +634,7 @@
     "name": "Cat Bed",
     "type": "Trinket",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/cat_bed.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/cat_bed.png"
   },
   {
     "id": "celeste_journal",
@@ -655,70 +655,70 @@
     "name": "Chemicals",
     "type": "Basic Material",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/chemicals.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/chemicals.png"
   },
   {
     "id": "coffee_pot",
     "name": "Coffee Pot",
     "type": "Trinket",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/coffee_pot.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/coffee_pot.png"
   },
   {
     "id": "combat_mk1",
     "name": "Combat Mk. 1",
     "type": "Augment",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/combat_mk_1.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk_1.png"
   },
   {
     "id": "combat_mk2",
     "name": "Combat Mk. 2",
     "type": "Augment",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/combat_mk_2.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk_2.png"
   },
   {
     "id": "combat_mk3_aggressive",
     "name": "Combat Mk. 3 (Aggressive)",
     "type": "Augment",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/combat_mk3_aggressive.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk3_aggressive.png"
   },
   {
     "id": "combat_mk3_aggressive_blueprint",
     "name": "Combat Mk. 3 (Aggressive) Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk3_aggressive.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk3_aggressive_blueprint.png"
   },
   {
     "id": "combat_mk3_flanking",
     "name": "Combat Mk. 3 (Flanking)",
     "type": "Augment",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/combat_mk3_flanking.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk3_flanking.png"
   },
   {
     "id": "combat_mk3_flanking_blueprint",
     "name": "Combat Mk. 3 (Flanking) Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk3_flanking.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk3_flanking_blueprint.png"
   },
   {
     "id": "compensator_i",
     "name": "Compensator I",
     "type": "Modification",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/compensator_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/compensator_i.png"
   },
   {
     "id": "compensator_ii",
     "name": "Compensator II",
     "type": "Modification",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/compensator_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/compensator_ii.png"
   },
   {
     "id": "compensator_ii_blueprint",
@@ -732,21 +732,21 @@
     "name": "Compensator III",
     "type": "Modification",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/compensator_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/compensator_iii.png"
   },
   {
     "id": "compensator_iii_blueprint",
     "name": "Compensator III Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/compensator_iii_blueprint.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/compensator_iii_blueprint.png"
   },
   {
     "id": "complex_gun_parts",
     "name": "Complex Gun Parts",
     "type": "Topside Material",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/complex_gun_parts.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/complex_gun_parts.png"
   },
   {
     "id": "complex_gun_parts_blueprint",
@@ -788,7 +788,7 @@
     "name": "Crude Explosives",
     "type": "Refined Material",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/crude_explosives.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/crude_explosives.png"
   },
   {
     "id": "crumpled_plastic_bottle",
@@ -809,7 +809,7 @@
     "name": "Dam Staff Room Key",
     "type": "Key",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/dam_staff_room_key.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/dam_staff_room_key.png"
   },
   {
     "id": "dam_surveillance_key",
@@ -830,14 +830,14 @@
     "name": "Dam Utility Key",
     "type": "Key",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/dam_utility_key.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/dam_utility_key.png"
   },
   {
     "id": "damaged_arc_motion_core",
     "name": "Damaged ARC Motion Core",
     "type": "Recyclable",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/damaged_arc_motion_core.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/damaged_arc_motion_core.png"
   },
   {
     "id": "damaged_arc_powercell",
@@ -907,28 +907,28 @@
     "name": "Deadline",
     "type": "Quick Use",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/deadline.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/deadline.png"
   },
   {
     "id": "deadline_blueprint",
     "name": "Deadline Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/deadline.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/deadline_blueprint.png"
   },
   {
     "id": "defibrillator",
     "name": "Defibrillator",
     "type": "Quick Use",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/defibrillator.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/defibrillator.png"
   },
   {
     "id": "defibrillator_blueprint",
     "name": "Defibrillator Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/defibrillator.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/defibrillator_blueprint.png"
   },
   {
     "id": "deflated_football",
@@ -963,7 +963,7 @@
     "name": "Door Blocker",
     "type": "Quick Use",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/door_blocker.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/door_blocker.png"
   },
   {
     "id": "dried_out_arc_resin",
@@ -977,21 +977,21 @@
     "name": "Duct Tape",
     "type": "Topside Material",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/duct_tape.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/duct_tape.png"
   },
   {
     "id": "durable_cloth",
     "name": "Durable Cloth",
     "type": "Refined Material",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/durable_cloth.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/durable_cloth.png"
   },
   {
     "id": "electrical_components",
     "name": "Electrical Components",
     "type": "Refined Material",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/electrical_components.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/electrical_components.png"
   },
   {
     "id": "empty_wine_bottle",
@@ -1005,35 +1005,35 @@
     "name": "Energy Clip",
     "type": "Ammunition",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/energy_clip.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/energy_clip.png"
   },
   {
     "id": "equalizer",
     "name": "Equalizer",
     "type": "LMG",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/equalizer.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/equalizer.png"
   },
   {
     "id": "equalizer_blueprint",
     "name": "Equalizer Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/equalizer.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/equalizer_blueprint.png"
   },
   {
     "id": "esr_analyzer",
     "name": "ESR Analyzer",
     "type": "Trinket",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/esr_analyzer.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/esr_analyzer.png"
   },
   {
     "id": "exodus_modules",
     "name": "Exodus Modules",
     "type": "Topside Material",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/exodus_modules.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/exodus_modules.png"
   },
   {
     "id": "experimental_seed_sample",
@@ -1047,7 +1047,7 @@
     "name": "Expired Pasta",
     "type": "Trinket",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/expired_pasta.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/expired_pasta.png"
   },
   {
     "id": "expired_respirator",
@@ -1061,84 +1061,84 @@
     "name": "Explosive Compound",
     "type": "Refined Material",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/explosive_compound.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/explosive_compound.png"
   },
   {
     "id": "explosive_mine",
     "name": "Explosive Mine",
     "type": "Quick Use",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/explosive_mine.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/explosive_mine.png"
   },
   {
     "id": "explosive_mine_blueprint",
     "name": "Explosive Mine Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/explosive_mine.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/explosive_mine_blueprint.png"
   },
   {
     "id": "extended_barrel",
     "name": "Extended Barrel",
     "type": "Modification",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/extended_barrel.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_barrel.png"
   },
   {
     "id": "extended_barrel_blueprint",
     "name": "Extended Barrel Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/extended_barrel_blueprint.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_barrel_blueprint.png"
   },
   {
     "id": "extended_light_mag_i",
     "name": "Extended Light Mag I",
     "type": "Modification",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/extended_light_mag_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_light_mag_i.png"
   },
   {
     "id": "extended_light_mag_ii",
     "name": "Extended Light Mag II",
     "type": "Modification",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/extended_light_mag_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_light_mag_ii.png"
   },
   {
     "id": "extended_light_mag_ii_blueprint",
     "name": "Extended Light Mag II Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_light_mag_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_light_mag_ii_blueprint.png"
   },
   {
     "id": "extended_light_mag_iii",
     "name": "Extended Light Mag III",
     "type": "Modification",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/extended_light_mag_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_light_mag_iii.png"
   },
   {
     "id": "extended_light_mag_iii_blueprint",
     "name": "Extended Light Mag III Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_light_mag_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_light_mag_iii_blueprint.png"
   },
   {
     "id": "extended_medium_mag_i",
     "name": "Extended Medium Mag I",
     "type": "Modification",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/extended_medium_mag_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_medium_mag_i.png"
   },
   {
     "id": "extended_medium_mag_ii",
     "name": "Extended Medium Mag II",
     "type": "Modification",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/extended_medium_mag_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_medium_mag_ii.png"
   },
   {
     "id": "extended_medium_mag_ii_blueprint",
@@ -1152,91 +1152,91 @@
     "name": "Extended Medium Mag III",
     "type": "Modification",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/extended_medium_mag_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_medium_mag_iii.png"
   },
   {
     "id": "extended_medium_mag_iii_blueprint",
     "name": "Extended Medium Mag III Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/extended_medium_mag_iii_blueprint.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_medium_mag_iii_blueprint.png"
   },
   {
     "id": "extended_shotgun_mag_i",
     "name": " Extended Shotgun Mag I",
     "type": "Modification",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/extended_shotgun_mag_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_shotgun_mag_i.png"
   },
   {
     "id": "extended_shotgun_mag_ii",
     "name": "Extended Shotgun Mag II",
     "type": "Modification",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/extended_shotgun_mag_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_shotgun_mag_ii.png"
   },
   {
     "id": "extended_shotgun_mag_ii_blueprint",
     "name": "Extended Shotgun Mag II Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_shotgun_mag_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_shotgun_mag_ii_blueprint.png"
   },
   {
     "id": "extended_shotgun_mag_iii",
     "name": "Extended Shotgun Mag III",
     "type": "Modification",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/extended_shotgun_mag_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_shotgun_mag_iii.png"
   },
   {
     "id": "extended_shotgun_mag_iii_blueprint",
     "name": "Extended Shotgun Mag III Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_shotgun_mag_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/extended_shotgun_mag_iii_blueprint.png"
   },
   {
     "id": "fabric",
     "name": "Fabric",
     "type": "Basic Material",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/fabric.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fabric.png"
   },
   {
     "id": "faded_photograph",
     "name": "Faded Photograph",
     "type": "Trinket",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/faded_photograph.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/faded_photograph.png"
   },
   {
     "id": "ferro_i",
     "name": "Ferro I",
     "type": "Battle Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/ferro_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ferro_i.png"
   },
   {
     "id": "ferro_ii",
     "name": "Ferro II",
     "type": "Battle Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/ferro_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ferro_ii.png"
   },
   {
     "id": "ferro_iii",
     "name": "Ferro III",
     "type": "Battle Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/ferro_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ferro_iii.png"
   },
   {
     "id": "ferro_iv",
     "name": "Ferro IV",
     "type": "Battle Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/ferro_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ferro_iv.png"
   },
   {
     "id": "fertilizer",
@@ -1250,7 +1250,7 @@
     "name": "Film Reel",
     "type": "Trinket",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/film_reel.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/film_reel.png"
   },
   {
     "id": "fine_wristwatch",
@@ -1264,56 +1264,56 @@
     "name": "Fireball Burner",
     "type": "Recyclable",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/fireball_burner.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fireball_burner.png"
   },
   {
     "id": "firecracker",
     "name": "Firecracker",
     "type": "Quick Use",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/firecracker.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/firecracker.png"
   },
   {
     "id": "fireworks_box",
     "name": "Fireworks Box",
     "type": "Quick Use",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/fireworks_box.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fireworks_box.png"
   },
   {
     "id": "fireworks_box_blueprint",
     "name": "Fireworks Box Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fireworks_box.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fireworks_box_blueprint.png"
   },
   {
     "id": "first_wave_compass",
     "name": "First Wave Compass",
     "type": "Trinket",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/first_wave_compass.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/first_wave_compass.png"
   },
   {
     "id": "first_wave_rations",
     "name": "First Wave Rations",
     "type": "Trinket",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/first_wave_rations.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/first_wave_rations.png"
   },
   {
     "id": "first_wave_tape",
     "name": "First Wave Tape",
     "type": "Trinket",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/first_wave_tape.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/first_wave_tape.png"
   },
   {
     "id": "flame_spray",
     "name": "Flame Spray",
     "type": "Quick Use",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/flame_spray.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/flame_spray.png"
   },
   {
     "id": "flow_controller",
@@ -1341,7 +1341,7 @@
     "name": "Free Loadout Augment",
     "type": "Augment",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/free_loadout_augment.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/free_loadout_augment.png"
   },
   {
     "id": "frequency_modulation_box",
@@ -1362,7 +1362,7 @@
     "name": "Fruit Mix",
     "type": "Quick Use",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/fruit_mix.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fruit_mix.png"
   },
   {
     "id": "frying_pan",
@@ -1383,28 +1383,28 @@
     "name": "Gas Grenade",
     "type": "Quick Use",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/gas_grenade.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/gas_grenade.png"
   },
   {
     "id": "gas_grenade_trap",
     "name": "Gas Grenade Trap",
     "type": "Quick Use",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/gas_grenade_trap.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/gas_grenade_trap.png"
   },
   {
     "id": "gas_mine",
     "name": "Gas Mine",
     "type": "Quick Use",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/gas_mine.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/gas_mine.png"
   },
   {
     "id": "gas_mine_blueprint",
     "name": "Gas Mine Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/gas_mine.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/gas_mine_blueprint.png"
   },
   {
     "id": "geiger_counter",
@@ -1418,14 +1418,14 @@
     "name": "Great Mullein",
     "type": "Topside Material",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/great_mullein.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/great_mullein.png"
   },
   {
     "id": "green_light_stick",
     "name": "Green Light Stick",
     "type": "Quick Use",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/green_light_stick.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/green_light_stick.png"
   },
   {
     "id": "green_light_stick_blueprint",
@@ -1439,28 +1439,28 @@
     "name": "Hairpin I",
     "type": "Pistol",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/hairpin_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hairpin_i.png"
   },
   {
     "id": "hairpin_ii",
     "name": "Hairpin II",
     "type": "Pistol",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/hairpin_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hairpin_ii.png"
   },
   {
     "id": "hairpin_iii",
     "name": "Hairpin III",
     "type": "Pistol",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/hairpin_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hairpin_iii.png"
   },
   {
     "id": "hairpin_iv",
     "name": "Hairpin IV",
     "type": "Pistol",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/hairpin_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hairpin_iv.png"
   },
   {
     "id": "headphones",
@@ -1474,21 +1474,21 @@
     "name": "Heavy Ammo",
     "type": "Ammunition",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/heavy_ammo.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/heavy_ammo.png"
   },
   {
     "id": "heavy_fuze_grenade",
     "name": "Heavy Fuze Grenade",
     "type": "Quick Use",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/heavy_fuze_grenade.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/heavy_fuze_grenade.png"
   },
   {
     "id": "heavy_gun_parts",
     "name": "Heavy Gun Parts",
     "type": "Topside Material",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/heavy_gun_parts.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/heavy_gun_parts.png"
   },
   {
     "id": "heavy_gun_parts_blueprint",
@@ -1502,35 +1502,35 @@
     "name": "Heavy Shield",
     "type": "Shield",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/heavy_shield.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/heavy_shield.png"
   },
   {
     "id": "herbal_bandage",
     "name": "Herbal Bandage",
     "type": "Quick Use",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/herbal_bandage.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/herbal_bandage.png"
   },
   {
     "id": "horizontal_grip",
     "name": "Horizontal Grip",
     "type": "Modification",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/horizontal_grip.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/horizontal_grip.png"
   },
   {
     "id": "horizontal_grip_blueprint",
     "name": "Horizontal Grip Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/horizontal_grip.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/horizontal_grip_blueprint.png"
   },
   {
     "id": "hornet_driver",
     "name": "Hornet Driver",
     "type": "Recyclable",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/hornet_driver.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hornet_driver.png"
   },
   {
     "id": "household_cleaner",
@@ -1544,35 +1544,35 @@
     "name": "Hullcracker Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker_blueprint.png"
   },
   {
     "id": "hullcracker_i",
     "name": "Hullcracker I",
     "type": "Special",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/hullcracker_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker_i.png"
   },
   {
     "id": "hullcracker_ii",
     "name": "Hullcracker II",
     "type": "Special",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/hullcracker_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker_ii.png"
   },
   {
     "id": "hullcracker_iii",
     "name": "Hullcracker III",
     "type": "Special",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/hullcracker_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker_iii.png"
   },
   {
     "id": "hullcracker_iv",
     "name": "Hullcracker IV",
     "type": "Special",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/hullcracker_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker_iv.png"
   },
   {
     "id": "humidifier",
@@ -1600,28 +1600,28 @@
     "name": "Il Toro I",
     "type": "Shotgun",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/il_toro_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/il_toro_i.png"
   },
   {
     "id": "il_toro_ii",
     "name": "Il Toro II",
     "type": "Shotgun",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/il_toro_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/il_toro_ii.png"
   },
   {
     "id": "il_toro_iii",
     "name": "Il Toro III",
     "type": "Shotgun",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/il_toro_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/il_toro_iii.png"
   },
   {
     "id": "il_toro_iv",
     "name": "Il Toro IV",
     "type": "Shotgun",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/il_toro_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/il_toro_iv.png"
   },
   {
     "id": "impure_arc_coolant",
@@ -1663,7 +1663,7 @@
     "name": "Jolt Mine",
     "type": "Quick Use",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/jolt_mine.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/jolt_mine.png"
   },
   {
     "id": "jolt_mine_blueprint",
@@ -1677,63 +1677,63 @@
     "name": "Junior Outfit",
     "type": "Cosmetic",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/junior_outfit.png"
   },
   {
     "id": "jupiter",
     "name": "Jupiter",
     "type": "Sniper Rifle",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/jupiter.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/jupiter.png"
   },
   {
     "id": "jupiter_blueprint",
     "name": "Jupiter Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/jupiter.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/jupiter_blueprint.png"
   },
   {
     "id": "kettle_i",
     "name": "Kettle I",
     "type": "Assault Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/kettle_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kettle_i.png"
   },
   {
     "id": "kettle_ii",
     "name": "Kettle II",
     "type": "Assault Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kettle.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kettle_ii.png"
   },
   {
     "id": "kettle_iii",
     "name": "Kettle III",
     "type": "Assault Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/kettle_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kettle_iii.png"
   },
   {
     "id": "kettle_iv",
     "name": "Kettle IV",
     "type": "Assault Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/kettle_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kettle_iv.png"
   },
   {
     "id": "kinetic_converter",
     "name": "Kinetic Converter",
     "type": "Modification",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/kinetic_converter.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kinetic_converter.png"
   },
   {
     "id": "kinetic_converter_blueprint",
     "name": "Kinetic Converter Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kinetic_converter.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kinetic_converter_blueprint.png"
   },
   {
     "id": "laboratory_reagents",
@@ -1754,21 +1754,21 @@
     "name": "Launcher Ammo",
     "type": "Ammunition",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/launcher_ammo.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/launcher_ammo.png"
   },
   {
     "id": "leaper_pulse_unit",
     "name": "Leaper Pulse Unit",
     "type": "Recyclable",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/leaper_pulse_unit.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/leaper_pulse_unit.png"
   },
   {
     "id": "lemon",
     "name": "Lemon",
     "type": "Nature",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/lemon.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lemon.png"
   },
   {
     "id": "lidar_scanner",
@@ -1782,7 +1782,7 @@
     "name": "Light Ammo",
     "type": "Ammunition",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/light_ammo.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/light_ammo.png"
   },
   {
     "id": "light_bulb",
@@ -1796,7 +1796,7 @@
     "name": "Light Gun Parts",
     "type": "Topside Material",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/light_gun_parts.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/light_gun_parts.png"
   },
   {
     "id": "light_gun_parts_blueprint",
@@ -1810,21 +1810,21 @@
     "name": "Light Impact Grenade",
     "type": "Quick Use",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/light_impact_grenade.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/light_impact_grenade.png"
   },
   {
     "id": "light_shield",
     "name": "Light Shield",
     "type": "Shield",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/light_shield.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/light_shield.png"
   },
   {
     "id": "lightweight_stock",
     "name": "Lightweight Stock",
     "type": "Modification",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/lightweight_stock.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lightweight_stock.png"
   },
   {
     "id": "lightweight_stock_blueprint",
@@ -1838,35 +1838,35 @@
     "name": "Li'l Smoke Grenade",
     "type": "Quick Use",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/lil_smoke_grenade.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lil_smoke_grenade.png"
   },
   {
     "id": "looting_mk1",
     "name": "Looting Mk. 1",
     "type": "Augment",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/looting_mk1.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/looting_mk1.png"
   },
   {
     "id": "looting_mk2",
     "name": "Looting Mk. 2",
     "type": "Augment",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/looting_mk2.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/looting_mk2.png"
   },
   {
     "id": "looting_mk3_cautious",
     "name": "Looting Mk. 3 (Cautious)",
     "type": "Augment",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/looting_mk3_cautious.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/looting_mk3_cautious.png"
   },
   {
     "id": "looting_mk3_survivor",
     "name": "Looting Mk. 3 (Survivor)",
     "type": "Augment",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/looting_mk3_survivor.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/looting_mk3_survivor.png"
   },
   {
     "id": "looting_mk3_survivor_blueprint",
@@ -1880,7 +1880,7 @@
     "name": "Lure Grenade",
     "type": "Quick Use",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/lure_grenade.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lure_grenade.png"
   },
   {
     "id": "lure_grenade_blueprint",
@@ -1894,7 +1894,7 @@
     "name": "Lure Grenade Trap",
     "type": "Quick Use",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/lure_grenade_trap.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/lure_grenade_trap.png"
   },
   {
     "id": "magnet",
@@ -1908,7 +1908,7 @@
     "name": "Magnetic Accelerator",
     "type": "Refined Material",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/magnetic_accelerator.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/magnetic_accelerator.png"
   },
   {
     "id": "magnetron",
@@ -1922,7 +1922,7 @@
     "name": "Major Aiva's Patch",
     "type": "Trinket",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/major_aivas_patch.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/major_aivas_patch.png"
   },
   {
     "id": "matriarch_reactor",
@@ -1936,21 +1936,21 @@
     "name": "Mechanical Components",
     "type": "Refined Material",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/mechanical_components.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/mechanical_components.png"
   },
   {
     "id": "medium_ammo",
     "name": "Medium Ammo",
     "type": "Ammunition",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/medium_ammo.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/medium_ammo.png"
   },
   {
     "id": "medium_gun_parts",
     "name": "Medium Gun Parts",
     "type": "Topside Material",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/medium_gun_parts.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/medium_gun_parts.png"
   },
   {
     "id": "medium_gun_parts_blueprint",
@@ -1964,7 +1964,7 @@
     "name": "Medium Shield",
     "type": "Shield",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/medium_shield.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/medium_shield.png"
   },
   {
     "id": "metal_brackets",
@@ -1978,7 +1978,7 @@
     "name": "Metal Parts",
     "type": "Basic Material",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/metal_parts.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/metal_parts.png"
   },
   {
     "id": "microscope",
@@ -1999,14 +1999,14 @@
     "name": "Mod Components",
     "type": "Refined Material",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/mod_components.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/mod_components.png"
   },
   {
     "id": "moss",
     "name": "Moss",
     "type": "Topside Material",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/moss.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/moss.png"
   },
   {
     "id": "motor",
@@ -2020,63 +2020,63 @@
     "name": "Mushroom",
     "type": "Nature",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/mushroom.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/mushroom.png"
   },
   {
     "id": "music_album",
     "name": "Music Album",
     "type": "Trinket",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/music_album.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/music_album.png"
   },
   {
     "id": "music_box",
     "name": "Music Box",
     "type": "Trinket",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/music_box.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/music_box.png"
   },
   {
     "id": "muzzle_brake_i",
     "name": "Muzzle Brake I",
     "type": "Modification",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/muzzle_brake_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/muzzle_brake_i.png"
   },
   {
     "id": "muzzle_brake_ii",
     "name": "Muzzle Brake II",
     "type": "Modification",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/muzzle_brake_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/muzzle_brake_ii.png"
   },
   {
     "id": "muzzle_brake_ii_blueprint",
     "name": "Muzzle Brake II Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/muzzle_brake_ii_blueprint.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/muzzle_brake_ii_blueprint.png"
   },
   {
     "id": "muzzle_brake_iii",
     "name": "Muzzle Brake III",
     "type": "Modification",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/muzzle_brake_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/muzzle_brake_iii.png"
   },
   {
     "id": "muzzle_brake_iii_blueprint",
     "name": "Muzzle Brake III Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/muzzle_brake_iii_blueprint.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/muzzle_brake_iii_blueprint.png"
   },
   {
     "id": "noisemaker",
     "name": "Noisemaker",
     "type": "Quick Use",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/noisemaker.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/noisemaker.png"
   },
   {
     "id": "number_plate",
@@ -2090,14 +2090,14 @@
     "name": "Oil",
     "type": "Topside Material",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/oil.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/oil.png"
   },
   {
     "id": "olives",
     "name": "Olives",
     "type": "Nature",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/olives.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/olives.png"
   },
   {
     "id": "osprey_blueprint",
@@ -2111,77 +2111,77 @@
     "name": "Osprey I",
     "type": "Sniper Rifle",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/osprey_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/osprey_i.png"
   },
   {
     "id": "osprey_ii",
     "name": "Osprey II",
     "type": "Sniper Rifle",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/osprey_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/osprey_ii.png"
   },
   {
     "id": "osprey_iii",
     "name": "Osprey III",
     "type": "Sniper Rifle",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/osprey_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/osprey_iii.png"
   },
   {
     "id": "osprey_iv",
     "name": "Osprey IV",
     "type": "Sniper Rifle",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/osprey_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/osprey_iv.png"
   },
   {
     "id": "padded_stock",
     "name": "Padded Stock",
     "type": "Modification",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/padded_stock.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/padded_stock.png"
   },
   {
     "id": "padded_stock_blueprint",
     "name": "Padded Stock Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/padded_stock_blueprint.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/padded_stock_blueprint.png"
   },
   {
     "id": "painted_box",
     "name": "Painted Box",
     "type": "Trinket",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/painted_box.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/painted_box.png"
   },
   {
     "id": "patrol_car_key",
     "name": "Patrol Car Key",
     "type": "Key",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/patrol_car_key.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/patrol_car_key.png"
   },
   {
     "id": "photoelectric_cloak",
     "name": "Photoelectric Cloak",
     "type": "Quick Use",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/photoelectric_cloak.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/photoelectric_cloak.png"
   },
   {
     "id": "plastic_parts",
     "name": "Plastic Parts",
     "type": "Basic Material",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/plastic_parts.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/plastic_parts.png"
   },
   {
     "id": "playing_cards",
     "name": "Playing Cards",
     "type": "Trinket",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/playing_cards.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/playing_cards.png"
   },
   {
     "id": "polluted_air_filter",
@@ -2216,7 +2216,7 @@
     "name": "Pottery",
     "type": "Trinket",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/pottery.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/pottery.png"
   },
   {
     "id": "power_bank",
@@ -2237,7 +2237,7 @@
     "name": "Power Rod",
     "type": "Refined Material",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/power_rod.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/power_rod.png"
   },
   {
     "id": "prickly_pear",
@@ -2251,7 +2251,7 @@
     "name": "Processor",
     "type": "Topside Material",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/processor.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/processor.png"
   },
   {
     "id": "projector",
@@ -2265,21 +2265,21 @@
     "name": "Pulse Mine",
     "type": "Quick Use",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/pulse_mine.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/pulse_mine.png"
   },
   {
     "id": "pulse_mine_blueprint",
     "name": "Pulse Mine Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/pulse_mine.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/pulse_mine_blueprint.png"
   },
   {
     "id": "queen_reactor",
     "name": "Queen Reactor",
     "type": "Recyclable",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/queen_reactor.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/queen_reactor.png"
   },
   {
     "id": "radio",
@@ -2307,63 +2307,63 @@
     "name": "Raider Hatch Key",
     "type": "Key",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/raider_hatch_key.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/raider_hatch_key.png"
   },
   {
     "id": "rattler_i",
     "name": "Rattler I",
     "type": "Assault Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/rattler_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rattler_i.png"
   },
   {
     "id": "rattler_ii",
     "name": "Rattler II",
     "type": "Assault Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/rattler_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rattler_ii.png"
   },
   {
     "id": "rattler_iii",
     "name": "Rattler III",
     "type": "Assault Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/rattler_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rattler_iii.png"
   },
   {
     "id": "rattler_iv",
     "name": "Rattler IV",
     "type": "Assault Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/rattler_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rattler_iv.png"
   },
   {
     "id": "recorder",
     "name": "Recorder",
     "type": "Quick Use",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/recorder.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/recorder.png"
   },
   {
     "id": "red_coral_jewelry",
     "name": "Red Coral Jewelry",
     "type": "Trinket",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/red_coral_jewelry.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/red_coral_jewelry.png"
   },
   {
     "id": "red_light_stick",
     "name": "Red Light Stick",
     "type": "Quick Use",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/red_light_stick.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/red_light_stick.png"
   },
   {
     "id": "red_light_stick_blueprint",
     "name": "Red Light Stick Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/red_light_stick.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/red_light_stick_blueprint.png"
   },
   {
     "id": "remote_control",
@@ -2377,49 +2377,49 @@
     "name": "Remote Raider Flare",
     "type": "Quick Use",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/remote_raider_flare.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/remote_raider_flare.png"
   },
   {
     "id": "remote_raider_flare_blueprint",
     "name": "Remote Raider Flare Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/remote_raider_flare.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/remote_raider_flare_blueprint.png"
   },
   {
     "id": "renegade_i",
     "name": "Renegade I",
     "type": "Battle Rifle",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/renegade_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/renegade_i.png"
   },
   {
     "id": "renegade_ii",
     "name": "Renegade II",
     "type": "Battle Rifle",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/renegade_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/renegade_ii.png"
   },
   {
     "id": "renegade_iii",
     "name": "Renegade III",
     "type": "Battle Rifle",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/renegade_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/renegade_iii.png"
   },
   {
     "id": "renegade_iv",
     "name": "Renegade IV",
     "type": "Battle Rifle",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/renegade_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/renegade_iv.png"
   },
   {
     "id": "resin",
     "name": "Resin",
     "type": "Nature",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/resin.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/resin.png"
   },
   {
     "id": "ripped_safety_vest",
@@ -2454,7 +2454,7 @@
     "name": "Rope",
     "type": "Topside Material",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/rope.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rope.png"
   },
   {
     "id": "rosary",
@@ -2475,7 +2475,7 @@
     "name": "Rubber Duck",
     "type": "Trinket",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/rubber_duck.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rubber_duck.png"
   },
   {
     "id": "rubber_pad",
@@ -2489,7 +2489,7 @@
     "name": "Rubber Parts",
     "type": "Basic Material",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/rubber_parts.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rubber_parts.png"
   },
   {
     "id": "ruined_accordion",
@@ -2587,21 +2587,21 @@
     "name": "Seeker Grenade",
     "type": "Quick Use",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/seeker_grenade.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/seeker_grenade.png"
   },
   {
     "id": "seeker_grenade_blueprint",
     "name": "Seeker Grenade Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/seeker_grenade.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/seeker_grenade_blueprint.png"
   },
   {
     "id": "sensors",
     "name": "Sensors",
     "type": "Topside Material",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/sensors.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/sensors.png"
   },
   {
     "id": "sentinel_firing_core",
@@ -2615,91 +2615,91 @@
     "name": "Shaker",
     "type": "Quick Use",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/shaker.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shaker.png"
   },
   {
     "id": "shield_recharger",
     "name": "Shield Recharger",
     "type": "Quick Use",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/shield_recharger.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shield_recharger.png"
   },
   {
     "id": "shotgun_ammo",
     "name": "Shotgun Ammo",
     "type": "Ammunition",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/shotgun_ammo.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shotgun_ammo.png"
   },
   {
     "id": "shotgun_choke_i",
     "name": "Shotgun Choke I",
     "type": "Modification",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/shotgun_choke_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shotgun_choke_i.png"
   },
   {
     "id": "shotgun_choke_ii",
     "name": "Shotgun Choke II",
     "type": "Modification",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/shotgun_choke_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shotgun_choke_ii.png"
   },
   {
     "id": "shotgun_choke_ii_blueprint",
     "name": "Shotgun Choke II Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/shotgun_choke_ii_blueprint.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shotgun_choke_ii_blueprint.png"
   },
   {
     "id": "shotgun_choke_iii",
     "name": "Shotgun Choke III",
     "type": "Modification",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/shotgun_choke_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shotgun_choke_iii.png"
   },
   {
     "id": "shotgun_choke_iii_blueprint",
     "name": "Shotgun Choke III Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shotgun_choke_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shotgun_choke_iii_blueprint.png"
   },
   {
     "id": "shotgun_silencer",
     "name": "Shotgun Silencer",
     "type": "Modification",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/shotgun_silencer.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shotgun_silencer.png"
   },
   {
     "id": "shotgun_silencer_blueprint",
     "name": "Shotgun Silencer Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shotgun_silencer.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shotgun_silencer_blueprint.png"
   },
   {
     "id": "showstopper",
     "name": "Showstopper",
     "type": "Quick Use",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/showstopper.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/showstopper.png"
   },
   {
     "id": "showstopper_blueprint",
     "name": "Showstopper Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/showstopper.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/showstopper_blueprint.png"
   },
   {
     "id": "shrapnel_grenade",
     "name": "Shrapnel Grenade",
     "type": "Quick Use",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/shrapnel_grenade.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/shrapnel_grenade.png"
   },
   {
     "id": "shredder_gyro",
@@ -2720,98 +2720,98 @@
     "name": "Silencer I",
     "type": "Modification",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/silencer_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/silencer_i.png"
   },
   {
     "id": "silencer_i_blueprint",
     "name": "Silencer I Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/silencer_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/silencer_i_blueprint.png"
   },
   {
     "id": "silencer_ii",
     "name": "Silencer II",
     "type": "Modification",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/silencer_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/silencer_ii.png"
   },
   {
     "id": "silencer_ii_blueprint",
     "name": "Silencer II Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/silencer_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/silencer_ii_blueprint.png"
   },
   {
     "id": "silencer_iii",
     "name": "Silencer III",
     "type": "Modification",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/silencer_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/silencer_iii.png"
   },
   {
     "id": "silencer_iii_blueprint",
     "name": "Silencer III Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/silencer_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/silencer_iii_blueprint.png"
   },
   {
     "id": "silver_teaspoon_set",
     "name": "Silver Teaspoon Set",
     "type": "Trinket",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/silver_teaspoon_set.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/silver_teaspoon_set.png"
   },
   {
     "id": "simple_gun_parts",
     "name": "Simple Gun Parts",
     "type": "Topside Material",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/simple_gun_parts.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/simple_gun_parts.png"
   },
   {
     "id": "smoke_grenade",
     "name": "Smoke Grenade",
     "type": "Quick Use",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/smoke_grenade.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/smoke_grenade.png"
   },
   {
     "id": "smoke_grenade_blueprint",
     "name": "Smoke Grenade Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/smoke_grenade.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/smoke_grenade_blueprint.png"
   },
   {
     "id": "smoke_grenade_trap",
     "name": "Smoke Grenade Trap",
     "type": "Quick Use",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/smoke_grenade_trap.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/smoke_grenade_trap.png"
   },
   {
     "id": "snap_blast_grenade",
     "name": "Snap Blast Grenade",
     "type": "Quick Use",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/snap_blast_grenade.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/snap_blast_grenade.png"
   },
   {
     "id": "snap_hook",
     "name": "Snap Hook",
     "type": "Quick Use",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/snap_hook.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/snap_hook.png"
   },
   {
     "id": "snap_hook_blueprint",
     "name": "Snap Hook Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/snap_hook.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/snap_hook_blueprint.png"
   },
   {
     "id": "snitch_scanner",
@@ -2825,14 +2825,14 @@
     "name": "Snowball",
     "type": "Quick Use",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/snowball.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/snowball.png"
   },
   {
     "id": "spaceport_container_storage_key",
     "name": "Spaceport Container Storage Key",
     "type": "Key",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/spaceport_container_storage_key.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/spaceport_container_storage_key.png"
   },
   {
     "id": "spaceport_control_tower_key",
@@ -2853,14 +2853,14 @@
     "name": "Spaceport Warehouse Key",
     "type": "Key",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/spaceport_warehouse_key.png"
   },
   {
     "id": "speaker_component",
     "name": "Speaker Component",
     "type": "Topside Material",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/speaker_component.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/speaker_component.png"
   },
   {
     "id": "spectrometer",
@@ -2895,56 +2895,56 @@
     "name": "Stable Stock I",
     "type": "Modification",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/stable_stock_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stable_stock_i.png"
   },
   {
     "id": "stable_stock_ii",
     "name": "Stable Stock II",
     "type": "Modification",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/stable_stock_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stable_stock_ii.png"
   },
   {
     "id": "stable_stock_ii_blueprint",
     "name": "Stable Stock II Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stable_stock_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stable_stock_ii_blueprint.png"
   },
   {
     "id": "stable_stock_iii",
     "name": "Stable Stock III",
     "type": "Modification",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/stable_stock_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stable_stock_iii.png"
   },
   {
     "id": "stable_stock_iii_blueprint",
     "name": "Stable Stock III Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stable_stock_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stable_stock_iii_blueprint.png"
   },
   {
     "id": "statuette",
     "name": "Statuette",
     "type": "Trinket",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/statuette.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/statuette.png"
   },
   {
     "id": "steel_spring",
     "name": "Steel Spring",
     "type": "Topside Material",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/steel_spring.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/steel_spring.png"
   },
   {
     "id": "stella_montis_archives_key",
     "name": "Stella Montis Archives Key",
     "type": "Key",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/stella_montis_archives_key.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stella_montis_archives_key.png"
   },
   {
     "id": "stella_montis_assembly_admin_key",
@@ -2958,7 +2958,7 @@
     "name": "Stella Montis Medical Storage Key",
     "type": "Key",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/stella_montis_medical_storage_key.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stella_montis_medical_storage_key.png"
   },
   {
     "id": "stella_montis_security_checkpoint_key",
@@ -2972,42 +2972,42 @@
     "name": "Sterilized Bandage",
     "type": "Quick Use",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/sterilized_bandage.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/sterilized_bandage.png"
   },
   {
     "id": "stitcher_i",
     "name": "Stitcher I",
     "type": "SMG",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/stitcher_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stitcher_i.png"
   },
   {
     "id": "stitcher_ii",
     "name": "Stitcher II",
     "type": "SMG",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/stitcher_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stitcher_ii.png"
   },
   {
     "id": "stitcher_iii",
     "name": "Stitcher III",
     "type": "SMG",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/stitcher_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stitcher_iii.png"
   },
   {
     "id": "stitcher_iv",
     "name": "Stitcher IV",
     "type": "SMG",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/stitcher_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stitcher_iv.png"
   },
   {
     "id": "surge_shield_recharger",
     "name": "Surge Shield Recharger",
     "type": "Quick Use",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/surge_shield_recharger.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/surge_shield_recharger.png"
   },
   {
     "id": "surveyor_vault",
@@ -3028,42 +3028,42 @@
     "name": "Syringe",
     "type": "Topside Material",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/syringe.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/syringe.png"
   },
   {
     "id": "tactical_mk1",
     "name": "Tactical Mk. 1",
     "type": "Augment",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/tactical_mk_1.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk_1.png"
   },
   {
     "id": "tactical_mk2",
     "name": "Tactical Mk. 2",
     "type": "Augment",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/tactical_mk_2.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk_2.png"
   },
   {
     "id": "tactical_mk3_defensive",
     "name": "Tactical Mk. 3 (Defensive)",
     "type": "Augment",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/tactical_mk3_defensive.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk3_defensive.png"
   },
   {
     "id": "tactical_mk3_defensive_blueprint",
     "name": "Tactical Mk. 3 (Defensive) Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk3_defensive.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk3_defensive_blueprint.png"
   },
   {
     "id": "tactical_mk3_healing",
     "name": "Tactical Mk. 3 (Healing)",
     "type": "Augment",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/tactical_mk3_healing.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk3_healing.png"
   },
   {
     "id": "tactical_mk3_healing_blueprint",
@@ -3077,14 +3077,14 @@
     "name": "Tagging Grenade",
     "type": "Quick Use",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/tagging_grenade.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tagging_grenade.png"
   },
   {
     "id": "tagging_grenade_blueprint",
     "name": "Tagging Grenade Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tagging_grenade.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tagging_grenade_blueprint.png"
   },
   {
     "id": "tattered_arc_lining",
@@ -3112,35 +3112,35 @@
     "name": "Tempest Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tempest.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tempest_blueprint.png"
   },
   {
     "id": "tempest_i",
     "name": "Tempest I",
     "type": "Assault Rifle",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/tempest_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tempest_i.png"
   },
   {
     "id": "tempest_ii",
     "name": "Tempest II",
     "type": "Assault Rifle",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/tempest_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tempest_ii.png"
   },
   {
     "id": "tempest_iii",
     "name": "Tempest III",
     "type": "Assault Rifle",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/tempest_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tempest_iii.png"
   },
   {
     "id": "tempest_iv",
     "name": "Tempest IV",
     "type": "Assault Rifle",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/tempest_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tempest_iv.png"
   },
   {
     "id": "thermostat",
@@ -3175,7 +3175,7 @@
     "name": "Torn Book",
     "type": "Trinket",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/torn_book.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/torn_book.png"
   },
   {
     "id": "torrente_blueprint",
@@ -3189,49 +3189,49 @@
     "name": "Torrente I",
     "type": "LMG",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/torrente_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/torrente_i.png"
   },
   {
     "id": "torrente_ii",
     "name": "Torrente II",
     "type": "LMG",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/torrente_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/torrente_ii.png"
   },
   {
     "id": "torrente_iii",
     "name": "Torrente III",
     "type": "LMG",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/torrente_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/torrente_iii.png"
   },
   {
     "id": "torrente_iv",
     "name": "Torrente IV",
     "type": "LMG",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/torrente_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/torrente_iv.png"
   },
   {
     "id": "trailblazer",
     "name": "Trailblazer",
     "type": "Quick Use",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/trailblazer.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/trailblazer.png"
   },
   {
     "id": "trailblazer_blueprint",
     "name": "Trailblazer Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/trailblazer.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/trailblazer_blueprint.png"
   },
   {
     "id": "trigger_nade",
     "name": "Trigger 'Nade",
     "type": "Quick Use",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/trigger_nade.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/trigger_nade.png"
   },
   {
     "id": "trigger_nade_blueprint",
@@ -3259,70 +3259,70 @@
     "name": "Vase",
     "type": "Trinket",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/vase.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vase.png"
   },
   {
     "id": "venator_blueprint",
     "name": "Venator Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator_blueprint.png"
   },
   {
     "id": "venator_i",
     "name": "Venator I",
     "type": "Pistol",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/venator_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator_i.png"
   },
   {
     "id": "venator_ii",
     "name": "Venator II",
     "type": "Pistol",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/venator_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator_ii.png"
   },
   {
     "id": "venator_iii",
     "name": "Venator III",
     "type": "Pistol",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/venator_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator_iii.png"
   },
   {
     "id": "venator_iv",
     "name": "Venator IV",
     "type": "Pistol",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/venator_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator_iv.png"
   },
   {
     "id": "vertical_grip_i",
     "name": "Vertical Grip I",
     "type": "Modification",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/vertical_grip_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vertical_grip_i.png"
   },
   {
     "id": "vertical_grip_ii",
     "name": "Vertical Grip II",
     "type": "Modification",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/vertical_grip_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vertical_grip_ii.png"
   },
   {
     "id": "vertical_grip_ii_blueprint",
     "name": "Vertical Grip II Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/vertical_grip_ii_blueprint.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vertical_grip_ii_blueprint.png"
   },
   {
     "id": "vertical_grip_iii",
     "name": "Vertical Grip III",
     "type": "Modification",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/vertical_grip_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vertical_grip_iii.png"
   },
   {
     "id": "vertical_grip_iii_blueprint",
@@ -3343,84 +3343,84 @@
     "name": "Vita Shot",
     "type": "Quick Use",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/vita_shot.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vita_shot.png"
   },
   {
     "id": "vita_shot_blueprint",
     "name": "Vita Shot Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vita_shot.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vita_shot_blueprint.png"
   },
   {
     "id": "vita_spray",
     "name": "Vita Spray",
     "type": "Quick Use",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/vita_spray.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vita_spray.png"
   },
   {
     "id": "vita_spray_blueprint",
     "name": "Vita Spray Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vita_spray.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vita_spray_blueprint.png"
   },
   {
     "id": "volcanic_rock",
     "name": "Volcanic Rock",
     "type": "Misc",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/volcanic_rock.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/volcanic_rock.png"
   },
   {
     "id": "voltage_converter",
     "name": "Voltage Converter",
     "type": "Topside Material",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/voltage_converter.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/voltage_converter.png"
   },
   {
     "id": "vulcano_blueprint",
     "name": "Vulcano Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano_blueprint.png"
   },
   {
     "id": "vulcano_i",
     "name": "Vulcano I",
     "type": "Shotgun",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/vulcano_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano_i.png"
   },
   {
     "id": "vulcano_ii",
     "name": "Vulcano II",
     "type": "Shotgun",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/vulcano_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano_ii.png"
   },
   {
     "id": "vulcano_iii",
     "name": "Vulcano III",
     "type": "Shotgun",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/vulcano_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano_iii.png"
   },
   {
     "id": "vulcano_iv",
     "name": "Vulcano IV",
     "type": "Shotgun",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/vulcano_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano_iv.png"
   },
   {
     "id": "wasp_driver",
     "name": "Wasp Driver",
     "type": "Recyclable",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/wasp_driver.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/wasp_driver.png"
   },
   {
     "id": "water_filter",
@@ -3441,14 +3441,14 @@
     "name": "Wires",
     "type": "Topside Material",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/wires.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/wires.png"
   },
   {
     "id": "wolfpack",
     "name": "Wolfpack",
     "type": "Quick Use",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/wolfpack.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/wolfpack.png"
   },
   {
     "id": "wolfpack_blueprint",
@@ -3462,20 +3462,20 @@
     "name": "Yellow Light Stick",
     "type": "Quick Use",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/yellow_light_stick.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/yellow_light_stick.png"
   },
   {
     "id": "yellow_light_stick_blueprint",
     "name": "Yellow Light Stick Blueprint",
     "type": "Blueprint",
     "rarity": "Legendary",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/yellow_light_stick.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/yellow_light_stick_blueprint.png"
   },
   {
     "id": "zipline",
     "name": "Zipline",
     "type": "Quick Use",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/zipline.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/zipline.png"
   }
 ]

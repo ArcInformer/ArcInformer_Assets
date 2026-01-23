@@ -7,9 +7,14 @@
   "value": 7000,
   "weight": 4,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burletta.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burletta_iii.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/burletta_iii.png",
-  "variants": ["burletta_i", "burletta_ii", "burletta_iv"],
+  "craft_bench": [],
+  "variants": [
+    "burletta_i",
+    "burletta_ii",
+    "burletta_iv"
+  ],
   "matching_blueprint": [],
   "compatible_with": [],
   "sources": [],
@@ -35,5 +40,5 @@
   "salvages_into": {
     "simple_gun_parts": 3
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

@@ -9,6 +9,7 @@
   "stack_size": 5,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/synthesized_fuel.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/synthesized_fuel.png",
+  "craft_bench": [],
   "found_in": "Exodus",
   "sources": [],
   "crafts_into": [],
@@ -22,5 +23,5 @@
   "salvages_into": {
     "oil": 1
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

@@ -8,7 +8,7 @@
   "weight": 1,
   "stack_size": 3,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/degraded_arc_rubber.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/degraded_arc_rubber.png",
   "found_in": "ARC",
   "sources": [],
   "recycles_into": {
@@ -17,5 +17,5 @@
   "salvages_into": {
     "rubber_parts": 5
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }
