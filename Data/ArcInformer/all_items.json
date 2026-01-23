@@ -109,28 +109,28 @@
     "name": "Anvil I",
     "type": "Hand Cannon",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil.png"
   },
   {
     "id": "anvil_ii",
     "name": "Anvil II",
     "type": "Hand Cannon",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil.png"
   },
   {
     "id": "anvil_iii",
     "name": "Anvil III",
     "type": "Hand Cannon",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil.png"
   },
   {
     "id": "anvil_iv",
     "name": "Anvil IV",
     "type": "Hand Cannon",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/anvil.png"
   },
   {
     "id": "anvil_splitter",
@@ -228,28 +228,28 @@
     "name": "Arpeggio I",
     "type": "Assault Rifle",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arpeggio_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arpeggio.png"
   },
   {
     "id": "arpeggio_ii",
     "name": "Arpeggio II",
     "type": "Assault Rifle",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arpeggio_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arpeggio.png"
   },
   {
     "id": "arpeggio_iii",
     "name": "Arpeggio III",
     "type": "Assault Rifle",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arpeggio_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arpeggio.png"
   },
   {
     "id": "arpeggio_iv",
     "name": "Arpeggio IV",
     "type": "Assault Rifle",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arpeggio_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arpeggio.png"
   },
   {
     "id": "assorted_seeds",
@@ -319,28 +319,28 @@
     "name": "Bettina I",
     "type": "Assault Rifle",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina.png"
   },
   {
     "id": "bettina_ii",
     "name": "Bettina II",
     "type": "Assault Rifle",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina.png"
   },
   {
     "id": "bettina_iii",
     "name": "Bettina III",
     "type": "Assault Rifle",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina.png"
   },
   {
     "id": "bettina_iv",
     "name": "Bettina IV",
     "type": "Assault Rifle",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina.png"
   },
   {
     "id": "bicycle_pump",
@@ -445,28 +445,28 @@
     "name": "Bobcat I",
     "type": "SMG",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bobcat_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bobcat.png"
   },
   {
     "id": "bobcat_ii",
     "name": "Bobcat II",
     "type": "SMG",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bobcat_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bobcat.png"
   },
   {
     "id": "bobcat_iii",
     "name": "Bobcat III",
     "type": "SMG",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bobcat_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bobcat.png"
   },
   {
     "id": "bobcat_iv",
     "name": "Bobcat IV",
     "type": "SMG",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bobcat_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bobcat.png"
   },
   {
     "id": "bombardier_cell",
@@ -557,7 +557,7 @@
     "name": "Burletta I",
     "type": "Pistol",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burletta_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/burletta.png"
   },
   {
     "id": "burletta_ii",
@@ -1215,28 +1215,28 @@
     "name": "Ferro I",
     "type": "Battle Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ferro_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ferro.png"
   },
   {
     "id": "ferro_ii",
     "name": "Ferro II",
     "type": "Battle Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ferro_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ferro.png"
   },
   {
     "id": "ferro_iii",
     "name": "Ferro III",
     "type": "Battle Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ferro_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ferro.png"
   },
   {
     "id": "ferro_iv",
     "name": "Ferro IV",
     "type": "Battle Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ferro_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/ferro.png"
   },
   {
     "id": "fertilizer",
@@ -1439,28 +1439,28 @@
     "name": "Hairpin I",
     "type": "Pistol",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hairpin_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hairpin.png"
   },
   {
     "id": "hairpin_ii",
     "name": "Hairpin II",
     "type": "Pistol",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hairpin_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hairpin.png"
   },
   {
     "id": "hairpin_iii",
     "name": "Hairpin III",
     "type": "Pistol",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hairpin_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hairpin.png"
   },
   {
     "id": "hairpin_iv",
     "name": "Hairpin IV",
     "type": "Pistol",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hairpin_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hairpin.png"
   },
   {
     "id": "headphones",
@@ -1551,28 +1551,28 @@
     "name": "Hullcracker I",
     "type": "Special",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker.png"
   },
   {
     "id": "hullcracker_ii",
     "name": "Hullcracker II",
     "type": "Special",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker.png"
   },
   {
     "id": "hullcracker_iii",
     "name": "Hullcracker III",
     "type": "Special",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker.png"
   },
   {
     "id": "hullcracker_iv",
     "name": "Hullcracker IV",
     "type": "Special",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker.png"
   },
   {
     "id": "humidifier",
@@ -1600,28 +1600,28 @@
     "name": "Il Toro I",
     "type": "Shotgun",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/il_toro_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/il_toro.png"
   },
   {
     "id": "il_toro_ii",
     "name": "Il Toro II",
     "type": "Shotgun",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/il_toro_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/il_toro.png"
   },
   {
     "id": "il_toro_iii",
     "name": "Il Toro III",
     "type": "Shotgun",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/il_toro_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/il_toro.png"
   },
   {
     "id": "il_toro_iv",
     "name": "Il Toro IV",
     "type": "Shotgun",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/il_toro_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/il_toro.png"
   },
   {
     "id": "impure_arc_coolant",
@@ -1698,7 +1698,7 @@
     "name": "Kettle I",
     "type": "Assault Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kettle_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kettle.png"
   },
   {
     "id": "kettle_ii",
@@ -1712,14 +1712,14 @@
     "name": "Kettle III",
     "type": "Assault Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kettle_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kettle.png"
   },
   {
     "id": "kettle_iv",
     "name": "Kettle IV",
     "type": "Assault Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kettle_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/kettle.png"
   },
   {
     "id": "kinetic_converter",
@@ -2111,28 +2111,28 @@
     "name": "Osprey I",
     "type": "Sniper Rifle",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/osprey_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/osprey.png"
   },
   {
     "id": "osprey_ii",
     "name": "Osprey II",
     "type": "Sniper Rifle",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/osprey_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/osprey.png"
   },
   {
     "id": "osprey_iii",
     "name": "Osprey III",
     "type": "Sniper Rifle",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/osprey_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/osprey.png"
   },
   {
     "id": "osprey_iv",
     "name": "Osprey IV",
     "type": "Sniper Rifle",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/osprey_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/osprey.png"
   },
   {
     "id": "padded_stock",
@@ -2321,21 +2321,21 @@
     "name": "Rattler II",
     "type": "Assault Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rattler_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rattler.png"
   },
   {
     "id": "rattler_iii",
     "name": "Rattler III",
     "type": "Assault Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rattler_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rattler.png"
   },
   {
     "id": "rattler_iv",
     "name": "Rattler IV",
     "type": "Assault Rifle",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rattler_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/rattler.png"
   },
   {
     "id": "recorder",
@@ -2391,28 +2391,28 @@
     "name": "Renegade I",
     "type": "Battle Rifle",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/renegade_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/renegade.png"
   },
   {
     "id": "renegade_ii",
     "name": "Renegade II",
     "type": "Battle Rifle",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/renegade_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/renegade.png"
   },
   {
     "id": "renegade_iii",
     "name": "Renegade III",
     "type": "Battle Rifle",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/renegade_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/renegade.png"
   },
   {
     "id": "renegade_iv",
     "name": "Renegade IV",
     "type": "Battle Rifle",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/renegade_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/renegade.png"
   },
   {
     "id": "resin",
@@ -2979,28 +2979,28 @@
     "name": "Stitcher I",
     "type": "SMG",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stitcher_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stitcher.png"
   },
   {
     "id": "stitcher_ii",
     "name": "Stitcher II",
     "type": "SMG",
     "rarity": "Common",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stitcher_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stitcher.png"
   },
   {
     "id": "stitcher_iii",
     "name": "Stitcher III",
     "type": "SMG",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stitcher_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stitcher.png"
   },
   {
     "id": "stitcher_iv",
     "name": "Stitcher IV",
     "type": "SMG",
     "rarity": "Uncommon",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stitcher_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stitcher.png"
   },
   {
     "id": "surge_shield_recharger",
@@ -3119,28 +3119,28 @@
     "name": "Tempest I",
     "type": "Assault Rifle",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tempest_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tempest.png"
   },
   {
     "id": "tempest_ii",
     "name": "Tempest II",
     "type": "Assault Rifle",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tempest_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tempest.png"
   },
   {
     "id": "tempest_iii",
     "name": "Tempest III",
     "type": "Assault Rifle",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tempest_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tempest.png"
   },
   {
     "id": "tempest_iv",
     "name": "Tempest IV",
     "type": "Assault Rifle",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tempest_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tempest.png"
   },
   {
     "id": "thermostat",
@@ -3189,28 +3189,28 @@
     "name": "Torrente I",
     "type": "LMG",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/torrente_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/torrente.png"
   },
   {
     "id": "torrente_ii",
     "name": "Torrente II",
     "type": "LMG",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/torrente_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/torrente.png"
   },
   {
     "id": "torrente_iii",
     "name": "Torrente III",
     "type": "LMG",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/torrente_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/torrente.png"
   },
   {
     "id": "torrente_iv",
     "name": "Torrente IV",
     "type": "LMG",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/torrente_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/torrente.png"
   },
   {
     "id": "trailblazer",
@@ -3273,28 +3273,28 @@
     "name": "Venator I",
     "type": "Pistol",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator.png"
   },
   {
     "id": "venator_ii",
     "name": "Venator II",
     "type": "Pistol",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator.png"
   },
   {
     "id": "venator_iii",
     "name": "Venator III",
     "type": "Pistol",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator.png"
   },
   {
     "id": "venator_iv",
     "name": "Venator IV",
     "type": "Pistol",
     "rarity": "Rare",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/venator.png"
   },
   {
     "id": "vertical_grip_i",
@@ -3392,28 +3392,28 @@
     "name": "Vulcano I",
     "type": "Shotgun",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano_i.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano.png"
   },
   {
     "id": "vulcano_ii",
     "name": "Vulcano II",
     "type": "Shotgun",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano_ii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano.png"
   },
   {
     "id": "vulcano_iii",
     "name": "Vulcano III",
     "type": "Shotgun",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano_iii.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano.png"
   },
   {
     "id": "vulcano_iv",
     "name": "Vulcano IV",
     "type": "Shotgun",
     "rarity": "Epic",
-    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano_iv.png"
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/vulcano.png"
   },
   {
     "id": "wasp_driver",
