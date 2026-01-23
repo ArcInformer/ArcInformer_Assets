@@ -8,7 +8,7 @@
     "weight":"",
     "stack_size":"",
     "image_location":"",
-    "craft_bench":"",
+    "craft_bench":[],
     "variants":[],
     "matching_blueprint":[],
     "sources":[],

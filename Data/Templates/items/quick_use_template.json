@@ -9,7 +9,7 @@
     "stack_size":"",
     "image_location":"",
     "ingame_image":"",
-    "craft_bench":"",
+    "craft_bench":[],
     "matching_blueprint":[],
     "sources":[],
     "item_data":{},

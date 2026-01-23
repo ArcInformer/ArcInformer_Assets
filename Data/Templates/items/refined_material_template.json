@@ -9,7 +9,7 @@
     "stack_size":"",
     "image_location":"",
     "ingame_image":"",
-    "craft_bench":"",
+    "craft_bench":[],
     "found_in":[],
     "crafts_into":[],
     "sources":[],
