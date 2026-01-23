@@ -12,6 +12,7 @@
     "craft_bench":[],
     "variants":[],
     "matching_blueprint":[],
+    "compatible_with":[],
     "sources":[],
     "item_data":{
         "Ammo Type":"",
