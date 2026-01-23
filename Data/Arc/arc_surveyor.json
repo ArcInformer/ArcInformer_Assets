@@ -1,14 +1,25 @@
 {
-    "id": "",
-    "name": "",
-    "description": "",
-    "type": "",
-    "threat_level": "",
-    "weakness": "",
-    "maps_found": [],
-    "loot_xp": 0,
-    "destroy_xp": 0,
-    "drops_items": [],
-    "image_location": "",
-    "last_updated": ""
+  "id": "arc_surveyor",
+  "name": "SURVEYOR",
+  "description": "The largest of the rolling ARC. It stops periodically to transmit signals. Rarely attacks, usually runs away from Raiders. Breaks into many pieces as damage is taken.",
+  "type": "Reconnaissance",
+  "threat_level": "Low",
+  "weakness": "Exposes his energy core when shooting his blue beam into the sky.",
+  "maps_found": [
+    "dam_battlegrounds",
+    "the_spaceport",
+    "the_blue_gate",
+    "buried_city"
+  ],
+  "loot_xp": 300,
+  "destroy_xp": 200,
+  "drops_items": [
+    "arc_alloy",
+    "arc_powercell",
+    "arc_motion_core",
+    "arc_circuitry",
+    "surveyor_vault"
+  ],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/ARC/arc_surveyor.png",
+  "last_updated": "Jan 23, 2026"
 }

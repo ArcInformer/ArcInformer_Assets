@@ -1,14 +1,25 @@
 {
-    "id": "",
-    "name": "",
-    "description": "",
-    "type": "",
-    "threat_level": "",
-    "weakness": "",
-    "maps_found": [],
-    "loot_xp": 0,
-    "destroy_xp": 0,
-    "drops_items": [],
-    "image_location": "",
-    "last_updated": ""
+  "id": "arc_matriarch",
+  "name": "MATRIARCH",
+  "description": "The Matriarch is an imposing ARC machine that makes the Queen look friendly and can be found during a specific map condition.",
+  "type": "Boss",
+  "threat_level": "Extreme",
+  "weakness": "Central glowing core, which becomes exposed when it attacks. Leg joints are vulnerable too, as well as the red areas on the crown.",
+  "maps_found": [
+    "dam_battlegrounds"
+  ],
+  "loot_xp": 500,
+  "destroy_xp": 1000,
+  "drops_items": [
+    "arc_alloy",
+    "arc_circuitry",
+    "arc_performance_steel",
+    "advanced_arc_powercell",
+    "arc_flex_rubber",
+    "arc_synthetic_resin",
+    "magnetic_accelerator",
+    "matriarch_reactor"
+  ],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/ARC/arc_matriarch.png",
+  "last_updated": "Jan 23, 2026"
 }

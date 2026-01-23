@@ -1,14 +1,24 @@
 {
-    "id": "",
-    "name": "",
-    "description": "",
-    "type": "",
-    "threat_level": "",
-    "weakness": "",
-    "maps_found": [],
-    "loot_xp": 0,
-    "destroy_xp": 0,
-    "drops_items": [],
-    "image_location": "",
-    "last_updated": ""
+  "id": "arc_bombardier",
+  "name": "BOMBARDIER",
+  "description": "A massive artillery unit designed for long-range bombardment. Equipped with devastating explosive capabilities and heavy armor, it can rain destruction from great distances.",
+  "type": "Heavy Artillery",
+  "threat_level": "Critical",
+  "weakness": "Shooting at the yellow rear canister deals direct damage to it's core.",
+  "maps_found": [
+    "dam_battlegrounds",
+    "the_spaceport",
+    "the_blue_gate",
+    "buried_city"
+  ],
+  "loot_xp": 300,
+  "destroy_xp": 500,
+  "drops_items": [
+    "arc_alloy",
+    "advanced_arc_powercell",
+    "bombardier_cell",
+    "launcher_ammo"
+  ],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/ARC/arc_bombardier.png",
+  "last_updated": "Jan 23, 2026"
 }

@@ -1,14 +1,25 @@
 {
-    "id": "",
-    "name": "",
-    "description": "",
-    "type": "",
-    "threat_level": "",
-    "weakness": "",
-    "maps_found": [],
-    "loot_xp": 0,
-    "destroy_xp": 0,
-    "drops_items": [],
-    "image_location": "",
-    "last_updated": ""
+  "id": "arc_turret",
+  "name": "TURRET",
+  "description": "Small, unarmored turret providing close-quarters defense. Mounted on interior walls, it scans for movement and unleashes rapid fire when it spots Raiders.",
+  "type": "Defense System",
+  "threat_level": "Moderate",
+  "weakness": "Unarmored. Shooting it is enough.",
+  "maps_found": [
+    "dam_battlegrounds",
+    "the_spaceport",
+    "the_blue_gate",
+    "buried_city",
+    "stella_montis_lower",
+    "stella_montis_upper"
+  ],
+  "loot_xp": 200,
+  "destroy_xp": 100,
+  "drops_items": [
+    "arc_alloy",
+    "light_ammo",
+    "simple_gun_parts"
+  ],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/ARC/arc_turret.png",
+  "last_updated": "Jan 23, 2026"
 }

@@ -1,14 +1,24 @@
 {
-    "id": "",
-    "name": "",
-    "description": "",
-    "type": "",
-    "threat_level": "",
-    "weakness": "",
-    "maps_found": [],
-    "loot_xp": 0,
-    "destroy_xp": 0,
-    "drops_items": [],
-    "image_location": "",
-    "last_updated": ""
+  "id": "arc_wasp",
+  "name": "WASP",
+  "description": "Flying, drone-like robots equipped with powerful machine guns. They operate in swarms, are fast, agile, and relentless. Their buzzing and screeching audio cues are your first warning.",
+  "type": "Flying Drone",
+  "threat_level": "Moderate",
+  "weakness": "Unarmored thrusters.",
+  "maps_found": [
+    "dam_battlegrounds",
+    "the_spaceport",
+    "the_blue_gate",
+    "buried_city"
+  ],
+  "loot_xp": 200,
+  "destroy_xp": 100,
+  "drops_items": [
+    "arc_alloy",
+    "arc_powercell",
+    "wasp_driver",
+    "light_ammo"
+  ],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/ARC/arc_wasp.png",
+  "last_updated": "Jan 23, 2026"
 }

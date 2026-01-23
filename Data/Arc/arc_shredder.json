@@ -1,14 +1,22 @@
 {
-    "id": "",
-    "name": "",
-    "description": "",
-    "type": "",
-    "threat_level": "",
-    "weakness": "",
-    "maps_found": [],
-    "loot_xp": 0,
-    "destroy_xp": 0,
-    "drops_items": [],
-    "image_location": "",
-    "last_updated": ""
+  "id": "arc_shredder",
+  "name": "SHREDDER",
+  "description": "The Shredder appears in Stella Montis, challenging Raiders to stay sharp in close-quarter encounters.",
+  "type": "Area Denial",
+  "threat_level": "High",
+  "weakness": "Primary weakness is the 'eye-bar' at it's head. You may see the orange core between it's armour plates, which you can shoot too.",
+  "maps_found": [
+    "stella_montis_lower",
+    "stella_montis_upper"
+  ],
+  "loot_xp": 250,
+  "destroy_xp": 200,
+  "drops_items": [
+    "arc_alloy",
+    "arc_powercell",
+    "shredder_gyro",
+    "shotgun_ammo"
+  ],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/ARC/arc_shredder.png",
+  "last_updated": "Jan 23, 2026"
 }

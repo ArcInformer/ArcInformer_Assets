@@ -1,14 +1,24 @@
 {
-    "id": "",
-    "name": "",
-    "description": "",
-    "type": "",
-    "threat_level": "",
-    "weakness": "",
-    "maps_found": [],
-    "loot_xp": 0,
-    "destroy_xp": 0,
-    "drops_items": [],
-    "image_location": "",
-    "last_updated": ""
+  "id": "arc_spotter",
+  "name": "SPOTTER",
+  "description": "Spotters are flying support drones for the Bombardier. They will point a laser at any Raider in line-of-sight so the Bombardier can accurately target them. If both Spotters are destroyed a new pair will respawn. When the Bombardier is destroyed the Spotters will fly away.",
+  "type": "Scout Drone",
+  "threat_level": "High",
+  "weakness": "Unarmored thrusters",
+  "maps_found": [
+    "dam_battlegrounds",
+    "the_spaceport",
+    "the_blue_gate",
+    "buried_city"
+  ],
+  "loot_xp": 200,
+  "destroy_xp": 100,
+  "drops_items": [
+    "spotter_relay",
+    "arc_alloy",
+    "arc_powercell",
+    "sensors"
+  ],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/ARC/arc_spotter.png",
+  "last_updated": "Jan 23, 2026"
 }

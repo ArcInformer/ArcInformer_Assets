@@ -1,14 +1,28 @@
 {
-    "id": "",
-    "name": "",
-    "description": "",
-    "type": "",
-    "threat_level": "",
-    "weakness": "",
-    "maps_found": [],
-    "loot_xp": 0,
-    "destroy_xp": 0,
-    "drops_items": [],
-    "image_location": "",
-    "last_updated": ""
+  "id": "arc_sentinel",
+  "name": "SENTINEL",
+  "description": "Stationary but deadly turrets that perch on high vantage points. They scan for targets with long-range precision and lock onto players from a distance.",
+  "type": "Sniper Turret",
+  "threat_level": "High",
+  "weakness": "The yellow unarmored canister will be your main target.",
+  "maps_found": [
+    "dam_battlegrounds",
+    "the_spaceport",
+    "the_blue_gate",
+    "buried_city"
+  ],
+  "loot_xp": 300,
+  "destroy_xp": 200,
+  "drops_items": [
+    "arc_alloy",
+    "arc_powercell",
+    "arc_coolant",
+    "arc_synthetic_resin",
+    "arc_thermo_lining",
+    "arc_motion_core",
+    "sentinel_firing_core",
+    "heavy_ammo"
+  ],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/ARC/arc_sentinel.png",
+  "last_updated": "Jan 23, 2026"
 }

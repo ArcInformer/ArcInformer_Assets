@@ -1,14 +1,25 @@
 {
-    "id": "",
-    "name": "",
-    "description": "",
-    "type": "",
-    "threat_level": "",
-    "weakness": "",
-    "maps_found": [],
-    "loot_xp": 0,
-    "destroy_xp": 0,
-    "drops_items": [],
-    "image_location": "",
-    "last_updated": ""
+  "id": "arc_hornet",
+  "name": "HORNET",
+  "description": "Medium-class drone with armored rotors. It fires focused, high-speed projectiles with a brief red laser warning. Designed to shred shields and light armor.",
+  "type": "Medium Drone",
+  "threat_level": "High",
+  "weakness": "Unarmored rear thrusters.",
+  "maps_found": [
+    "dam_battlegrounds",
+    "the_spaceport",
+    "the_blue_gate",
+    "buried_city"
+  ],
+  "loot_xp": 250,
+  "destroy_xp": 150,
+  "drops_items": [
+    "arc_alloy",
+    "arc_powercell",
+    "hornet_driver",
+    "simple_gun_parts",
+    "medium_ammo"
+  ],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/ARC/arc_hornet.png",
+  "last_updated": "Jan 23, 2026"
 }

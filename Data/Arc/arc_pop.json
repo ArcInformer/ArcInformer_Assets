@@ -1,14 +1,27 @@
 {
-    "id": "",
-    "name": "",
-    "description": "",
-    "type": "",
-    "threat_level": "",
-    "weakness": "",
-    "maps_found": [],
-    "loot_xp": 0,
-    "destroy_xp": 0,
-    "drops_items": [],
-    "image_location": "",
-    "last_updated": ""
+  "id": "arc_pop",
+  "name": "POP",
+  "description": "Small explosive ARC that detonates when approached. Quick elimination required to prevent area damage.",
+  "type": "Explosive",
+  "threat_level": "Moderate",
+  "weakness": "Just shoot it.",
+  "maps_found": [
+    "dam_battlegrounds",
+    "the_spaceport",
+    "the_blue_gate",
+    "buried_city",
+    "stella_montis_lower",
+    "stella_montis_upper"
+  ],
+  "loot_xp": 100,
+  "destroy_xp": 50,
+  "drops_items": [
+    "arc_alloy",
+    "arc_powercell",
+    "arc_thermo_lining",
+    "crude_explosives",
+    "pop_trigger"
+  ],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/ARC/arc_pop.png",
+  "last_updated": "Jan 23, 2026"
 }

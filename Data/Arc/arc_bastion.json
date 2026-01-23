@@ -1,14 +1,27 @@
 {
-    "id": "",
-    "name": "",
-    "description": "",
-    "type": "",
-    "threat_level": "",
-    "weakness": "",
-    "maps_found": [],
-    "loot_xp": 0,
-    "destroy_xp": 0,
-    "drops_items": [],
-    "image_location": "",
-    "last_updated": ""
+  "id": "arc_bastion",
+  "name": "BASTION",
+  "description": "Massive, crab-like machines that are slow but devastating. They're capable of shredding shields and dealing massive damage with heavy attacks.",
+  "type": "Heavy Assault",
+  "threat_level": "Critical",
+  "weakness": "Destroy the canister on his rear, to expose it's weakpoint.",
+  "maps_found": [
+    "dam_battlegrounds",
+    "the_spaceport",
+    "the_blue_gate",
+    "buried_city",
+    "stella_montis_lower",
+    "stella_montis_upper"
+  ],
+  "loot_xp": 250,
+  "destroy_xp": 500,
+  "drops_items": [
+    "arc_alloy",
+    "arc_powercell",
+    "arc_motion_core",
+    "arc_circuitry",
+    "bastion_cell"
+  ],
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/ARC/arc_bastion.png",
+  "last_updated": "Jan 23, 2026"
 }
