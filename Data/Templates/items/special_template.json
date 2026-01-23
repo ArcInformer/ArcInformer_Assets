@@ -8,11 +8,11 @@
     "weight":"",
     "stack_size":"",
     "image_location":"",
+    "ingame_image":"",
     "craft_bench":[],
     "variants":[],
     "matching_blueprint":[],
     "sources":[],
-    "ingame_image":"",
     "item_data":{
         "Ammo Type":"",
         "Magazine Size":"",
