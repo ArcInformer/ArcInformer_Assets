@@ -7,8 +7,8 @@
   "value": 640,
   "weight": 0.5,
   "stack_size": 10,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/mechanical_components.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/mechanical_components.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/mechanical_components.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/mechanical_components.png",
   "craft_bench": "bench_refiner",
   "found_in": "Mechanical",
   "crafts_into": [

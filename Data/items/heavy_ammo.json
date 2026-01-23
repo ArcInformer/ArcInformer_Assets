@@ -7,8 +7,8 @@
   "value": 12,
   "weight": 0.05,
   "stack_size": 40,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/heavy_ammo.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/heavy_ammo.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/heavy_ammo.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/heavy_ammo.png",
   "compatible_with": [
     "Anvil",
     "Ferro",

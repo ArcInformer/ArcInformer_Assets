@@ -7,8 +7,8 @@
   "value": 5000,
   "weight": 0.75,
   "stack_size": 0,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/muzzle_brake_iii.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/muzzle_brake_iii.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/muzzle_brake_iii.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/muzzle_brake_iii.png",
   "craft_bench": "bench_gunsmith",
   "item_data": {
     "Increased Durability Burn Rate": "20%",

@@ -7,8 +7,8 @@
   "value": 1000,
   "weight": 1,
   "stack_size": 5,
-  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems/antiseptic.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20AssetsItems_Ingame/antiseptic.png",
+  "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/antiseptic.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/antiseptic.png",
   "craft_bench": "bench_refiner",
   "found_in": "Medical",
   "crafts_into": [
