@@ -8,14 +8,7 @@
   "weight": 7,
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/arpeggio.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arpeggio.png",
-  "variants": [
-    "arpeggio_i",
-    "arpeggio_ii",
-    "arpeggio_iv"
-  ],
-  "matching_blueprint": [],
-  "compatible_with": [],
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/arpeggio_iii.png",
   "sources": [
     "Crafting",
     "Scavenging"
@@ -29,6 +22,13 @@
     "Magazine Size": 24,
     "Reduced Reload Time": "25%"
   },
+  "variants": [
+    "arpeggio_i",
+    "arpeggio_ii",
+    "arpeggio_iv"
+  ],
+  "compatible_with": [],
+  "matching_blueprint": [],
   "crafting_requirements": {
     "arpeggio_ii": 1,
     "mechanical_components": 5,
@@ -48,5 +48,5 @@
   "salvages_into": {
     "simple_gun_parts": 4
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

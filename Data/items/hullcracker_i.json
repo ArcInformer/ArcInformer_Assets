@@ -8,6 +8,15 @@
   "weight": 7,
   "stack_size": 1,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/hullcracker.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/hullcracker_i.png",
+  "sources": [],
+  "item_data": {
+    "Ammo Type": "Launcher Ammo",
+    "ARC Armor Penetration": "Very Strong",
+    "Durability": "100/100",
+    "Firing Mode": "Pump-Action",
+    "Magazine Size": 5
+  },
   "variants": [
     "hullcracker_ii",
     "hullcracker_iii",
@@ -16,15 +25,6 @@
   "matching_blueprint": [
     "hullcracker_blueprint"
   ],
-  "sources": [],
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/hullcracker.png",
-  "item_data": {
-    "Ammo Type": "Launcher Ammo",
-    "ARC Armor Penetration": "Very Strong",
-    "Durability": "100/100",
-    "Firing Mode": "Pump-Action",
-    "Magazine Size": 5
-  },
   "crafting_requirements": {
     "exodus_modules": 1,
     "heavy_gun_parts": 3,
@@ -39,5 +39,5 @@
   "salvages_into": {
     "heavy_gun_parts": 2
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

@@ -8,20 +8,20 @@
   "weight": 0.5,
   "stack_size": 1,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/fireworks_box.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "matching_blueprint": [],
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/fireworks_box.png",
   "sources": [],
   "item_data": {},
+  "matching_blueprint": [],
   "crafting_requirements": {
     "explosive_compound": 1,
     "pop_trigger": 3
   },
+  "repair_cost": {},
   "recycles_into": {
     "explosive_compound": 1
   },
   "salvages_into": {
     "explosive_compound": 1
   },
-  "repair_cost": {},
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

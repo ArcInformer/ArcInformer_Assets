@@ -8,9 +8,8 @@
   "weight": 0.25,
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/stable_stock_i.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "mod_effects": [],
-  "matching_blueprint": [],
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/stable_stock_i.png",
+  "sources": [],
   "compatible_with": [
     "Rattler",
     "Ferro",
@@ -18,7 +17,8 @@
     "Arpeggio",
     "Bettina"
   ],
-  "sources": [],
+  "matching_blueprint": [],
+  "mod_effects": [],
   "crafting_requirements": {
     "duct_tape": 1,
     "rubber_parts": 6
@@ -30,5 +30,5 @@
   "salvages_into": {
     "rubber_parts": 3
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

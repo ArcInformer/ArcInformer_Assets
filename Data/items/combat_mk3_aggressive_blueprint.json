@@ -8,8 +8,8 @@
   "weight": 0,
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk3_aggressive.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "recipe_for": [],
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/combat_mk3_aggressive_blueprint.png",
   "sources": [],
-  "last_updated": "Jan 22, 2026"
+  "recipe_for": [],
+  "last_updated": "Jan 23, 2026"
 }

@@ -8,8 +8,7 @@
   "weight": 5,
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk3_aggressive.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
-  "compatible_with": [],
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/combat_mk3_aggressive.png",
   "sources": [],
   "item_data": {
     "Backpack Slots": 18,
@@ -21,6 +20,7 @@
     "Weapon Slots": 2,
     "Weight Limit": 65
   },
+  "compatible_with": [],
   "crafting_requirements": {
     "advanced_electrical_components": 2,
     "processor": 3
@@ -36,5 +36,5 @@
   "salvages_into": {
     "electrical_components": 2
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

@@ -8,14 +8,7 @@
   "weight": 11,
   "stack_size": 0,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/bettina.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bettina.png",
-  "variants": [
-    "bettina_i",
-    "bettina_iii",
-    "bettina_iv"
-  ],
-  "matching_blueprint": [],
-  "compatible_with": [],
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/bettina_ii.png",
   "sources": [],
   "item_data": {
     "Ammo Type": "Heavy Ammo",
@@ -26,6 +19,13 @@
     "Magazine Size": 20,
     "Reduced Reload Time": "11.1%"
   },
+  "variants": [
+    "bettina_i",
+    "bettina_iii",
+    "bettina_iv"
+  ],
+  "compatible_with": [],
+  "matching_blueprint": [],
   "crafting_requirements": {},
   "bench_requirements": {},
   "repair_cost": {},
@@ -36,5 +36,5 @@
   "salvages_into": {
     "advanced_mechanical_components": 2
   },
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }

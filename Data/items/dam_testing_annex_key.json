@@ -7,9 +7,9 @@
   "value": 100,
   "weight": 0.25,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/dam_testing_annex_key.png",
-  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
+  "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/dam_testing_annex_key.png",
   "found_in": [],
   "sources": [],
   "crafting_requirements": {},
-  "last_updated": "Jan 22, 2026"
+  "last_updated": "Jan 23, 2026"
 }
