@@ -11,5 +11,6 @@
     "ingame_image":"",
     "found_in":[],
     "sources":[],
+    "recycles_into":{},
     "last_updated":""
 }
