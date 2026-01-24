@@ -10,6 +10,7 @@
     "image_location":"",
     "ingame_image":"",
     "sources":[],
+    "craft_bench":[],
     "item_data":{},
     "crafting_requirements":{},
     "repair_cost":{},
