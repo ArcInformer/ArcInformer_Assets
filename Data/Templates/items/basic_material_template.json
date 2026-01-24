@@ -13,6 +13,7 @@
     "crafts_into":[],
     "workshop_benchs":[],
     "sources":[],
+    "recycles_into":{},
     "recycles_from":{},
     "last_updated":""
 }
