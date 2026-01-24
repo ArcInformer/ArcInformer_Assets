@@ -13,6 +13,7 @@
     "found_in":[],
     "sources":[],
     "crafts_into":[],
+    "item_data":{},
     "crafting_requirements":{},
     "bench_requirements":{},
     "recycles_into":{},
