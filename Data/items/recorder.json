@@ -12,6 +12,7 @@
   "craft_bench": [],
   "matching_blueprint": [],
   "sources": [],
+  "found_in": "Residential",
   "item_data": {
     "Durability": "100/100"
   },
@@ -23,6 +24,5 @@
     "plastic_parts": 4
   },
   "repair_cost": {},
-  "last_updated": "Jan 23, 2026",
-  "found_in": "Residential"
+  "last_updated": "Jan 24, 2026"
 }

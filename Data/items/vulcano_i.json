@@ -43,14 +43,5 @@
   "salvages_into": {
     "heavy_gun_parts": 2
   },
-  "last_updated": "Jan 23, 2026",
-  "agility": 70.7,
-  "damage": 58.5,
-  "fireRate": 8.3,
-  "increasedFireRate": 10,
-  "range": 22.1,
-  "reducedDurabilityBurnRate": 23,
-  "reducedReloadTime": 13,
-  "stability": 70.3,
-  "stealth": 15
+  "last_updated": "Jan 24, 2026"
 }

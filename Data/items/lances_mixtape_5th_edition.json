@@ -11,5 +11,7 @@
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "found_in": "Residential, Commercial",
   "sources": [],
-  "last_updated": "Jan 23, 2026"
+  "item_data": {},
+  "recycles_into": {},
+  "last_updated": "Jan 24, 2026"
 }

@@ -40,11 +40,5 @@
   "salvages_into": {
     "advanced_mechanical_components": 3
   },
-  "last_updated": "Jan 23, 2026",
-  "agility": 39.2,
-  "damage": 60,
-  "fireRate": 7.67,
-  "range": 71.7,
-  "stability": 73.5,
-  "stealth": 5
+  "last_updated": "Jan 24, 2026"
 }

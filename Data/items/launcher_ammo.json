@@ -13,13 +13,13 @@
     "Hullcracker"
   ],
   "sources": [],
+  "craft_bench": [
+    "bench_work"
+  ],
   "crafting_requirements": {
     "arc_motion_core": 1,
     "crude_explosives": 2
   },
-  "last_updated": "Jan 23, 2026",
-  "craftQuantity": 6,
-  "craft_bench": [
-    "bench_work"
-  ]
+  "craft_quantity": 6,
+  "last_updated": "Jan 24, 2026"
 }

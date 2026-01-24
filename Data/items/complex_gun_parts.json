@@ -18,6 +18,7 @@
     "equalizer",
     "jupiter"
   ],
+  "item_data": {},
   "crafting_requirements": {
     "heavy_gun_parts": 2,
     "light_gun_parts": 2,
@@ -31,5 +32,5 @@
   "salvages_into": {
     "simple_gun_parts": 2
   },
-  "last_updated": "Jan 23, 2026"
+  "last_updated": "Jan 24, 2026"
 }

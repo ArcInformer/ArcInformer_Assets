@@ -17,13 +17,13 @@
     "Stitcher"
   ],
   "sources": [],
+  "craft_bench": [
+    "bench_work"
+  ],
   "crafting_requirements": {
     "chemicals": 2,
     "metal_parts": 3
   },
-  "last_updated": "Jan 23, 2026",
-  "craftQuantity": 25,
-  "craft_bench": [
-    "bench_work"
-  ]
+  "craft_quantity": 25,
+  "last_updated": "Jan 24, 2026"
 }

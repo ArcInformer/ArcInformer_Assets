@@ -18,10 +18,9 @@
   "salvages_into": {
     "electrical_components": 1
   },
-  "last_updated": "Jan 23, 2026",
   "item_data": {
     "Damage": 80,
     "Radius": "5m"
   },
-  "tip": "The Wasp Driver is a rare item is dropped by Wasps that can be recycled into crafting materials."
+  "last_updated": "Jan 24, 2026"
 }

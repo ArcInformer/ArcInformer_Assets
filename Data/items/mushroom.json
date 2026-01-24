@@ -15,7 +15,8 @@
     "Healing": 15,
     "Use Time": "1s"
   },
+  "recycles_from": {},
   "recycles_into": {},
   "salvages_into": {},
-  "last_updated": "Jan 23, 2026"
+  "last_updated": "Jan 24, 2026"
 }

@@ -11,6 +11,7 @@
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/music_box.png",
   "found_in": "Old World, Residential, Commercial",
   "sources": [],
-  "last_updated": "Jan 23, 2026",
-  "recycles_into": {}
+  "item_data": {},
+  "recycles_into": {},
+  "last_updated": "Jan 24, 2026"
 }

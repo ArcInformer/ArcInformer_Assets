@@ -32,9 +32,5 @@
   "salvages_into": {
     "chemicals": 2
   },
-  "last_updated": "Jan 23, 2026",
-  "item_data": {
-    "Damage": 15,
-    "Radius": "1.5m"
-  }
+  "last_updated": "Jan 24, 2026"
 }

@@ -6,12 +6,14 @@
   "rarity": "Rare",
   "value": 100,
   "weight": 0.25,
+  "stack_size": 1,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/spaceport_container_storage_key.png",
   "found_in": [],
   "sources": [],
+  "craft_bench": [],
+  "item_data": {},
   "crafting_requirements": {},
-  "last_updated": "Jan 23, 2026",
-  "stack_size": 1,
-  "_note": "not_in_serverslam"
+  "recycles_into": {},
+  "last_updated": "Jan 24, 2026"
 }

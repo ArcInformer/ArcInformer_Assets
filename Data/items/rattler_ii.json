@@ -36,11 +36,5 @@
   "salvages_into": {
     "metal_parts": 8
   },
-  "last_updated": "Jan 23, 2026",
-  "agility": 54.8,
-  "damage": 9,
-  "fireRate": 33.3,
-  "range": 56.2,
-  "stability": 72.2,
-  "stealth": 14
+  "last_updated": "Jan 24, 2026"
 }

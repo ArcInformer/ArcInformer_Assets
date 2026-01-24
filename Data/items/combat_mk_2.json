@@ -1,5 +1,5 @@
 {
-  "id": "combat_mk2",
+  "id": "combat_mk_2",
   "name": "Combat Mk. 2",
   "description": "A Combat augment more focused on maneuverability than absorbing damage.",
   "type": "Augment",
@@ -32,5 +32,5 @@
   "salvages_into": {
     "electrical_components": 1
   },
-  "last_updated": "Jan 23, 2026"
+  "last_updated": "Jan 24, 2026"
 }

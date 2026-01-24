@@ -16,6 +16,7 @@
     "heavy_shield",
     "showstopper"
   ],
+  "item_data": {},
   "crafting_requirements": {},
   "bench_requirements": {},
   "recycles_into": {
@@ -26,5 +27,5 @@
   "salvages_into": {
     "rubber_parts": 2
   },
-  "last_updated": "Jan 23, 2026"
+  "last_updated": "Jan 24, 2026"
 }

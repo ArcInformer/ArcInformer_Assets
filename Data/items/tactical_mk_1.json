@@ -1,5 +1,5 @@
 {
-  "id": "tactical_mk1",
+  "id": "tactical_mk_1",
   "name": "Tactical Mk. 1",
   "description": "Basic tactical augment. More Quick Use slots for more tactical choice, but limited survivability and slightly lower looting potential.",
   "type": "Augment",
@@ -31,5 +31,5 @@
   "salvages_into": {
     "plastic_parts": 3
   },
-  "last_updated": "Jan 23, 2026"
+  "last_updated": "Jan 24, 2026"
 }

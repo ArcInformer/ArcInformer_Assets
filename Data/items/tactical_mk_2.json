@@ -1,5 +1,5 @@
 {
-  "id": "tactical_mk2",
+  "id": "tactical_mk_2",
   "name": "Tactical Mk. 2",
   "description": "Adds more backpack space and an extra utility item slot.",
   "type": "Augment",
@@ -31,5 +31,5 @@
   "salvages_into": {
     "electrical_components": 1
   },
-  "last_updated": "Jan 23, 2026"
+  "last_updated": "Jan 24, 2026"
 }

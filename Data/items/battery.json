@@ -17,6 +17,7 @@
     "medium_shield",
     "jolt_mine"
   ],
+  "item_data": {},
   "crafting_requirements": {},
   "bench_requirements": {},
   "recycles_into": {
@@ -26,5 +27,5 @@
   "salvages_into": {
     "metal_parts": 1
   },
-  "last_updated": "Jan 23, 2026"
+  "last_updated": "Jan 24, 2026"
 }

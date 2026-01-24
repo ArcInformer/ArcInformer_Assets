@@ -6,11 +6,14 @@
   "rarity": "Uncommon",
   "value": 100,
   "weight": 0.01,
+  "stack_size": 1,
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/patrol_car_key.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Images/no-image.png",
   "found_in": "Security",
   "sources": [],
+  "craft_bench": [],
+  "item_data": {},
   "crafting_requirements": {},
-  "last_updated": "Jan 23, 2026",
-  "stack_size": 1
+  "recycles_into": {},
+  "last_updated": "Jan 24, 2026"
 }

@@ -15,11 +15,12 @@
     "Stamina": 20,
     "Use Time": "1s"
   },
+  "recycles_from": {},
   "recycles_into": {
     "assorted_seeds": 2
   },
   "salvages_into": {
     "assorted_seeds": 1
   },
-  "last_updated": "Jan 23, 2026"
+  "last_updated": "Jan 24, 2026"
 }

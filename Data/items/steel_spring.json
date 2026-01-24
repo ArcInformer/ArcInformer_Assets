@@ -22,6 +22,7 @@
     "torrente_iv",
     "extended_medium_mag_ii"
   ],
+  "item_data": {},
   "crafting_requirements": {},
   "bench_requirements": {},
   "recycles_into": {
@@ -31,5 +32,5 @@
   "salvages_into": {
     "metal_parts": 1
   },
-  "last_updated": "Jan 23, 2026"
+  "last_updated": "Jan 24, 2026"
 }

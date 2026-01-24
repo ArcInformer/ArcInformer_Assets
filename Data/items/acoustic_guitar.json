@@ -15,6 +15,7 @@
     "Music Puzzle Room on Buried City",
     "Goalie Deck"
   ],
+  "found_in": [],
   "item_data": {},
   "crafting_requirements": {},
   "recycles_into": {
@@ -28,5 +29,5 @@
     "wires": 3,
     "metal_parts": 2
   },
-  "last_updated": "Jan 23, 2026"
+  "last_updated": "Jan 24, 2026"
 }

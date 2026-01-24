@@ -15,6 +15,7 @@
   ],
   "matching_blueprint": [],
   "sources": [],
+  "found_in": [],
   "item_data": {
     "Duration": "10s",
     "Healing": "2/s",
@@ -30,5 +31,5 @@
     "fabric": 1
   },
   "repair_cost": {},
-  "last_updated": "Jan 23, 2026"
+  "last_updated": "Jan 24, 2026"
 }

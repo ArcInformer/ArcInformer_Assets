@@ -31,6 +31,7 @@
     "wolfpack",
     "magnetic_accelerator"
   ],
+  "item_data": {},
   "crafting_requirements": {
     "arc_alloy": 8
   },
@@ -47,5 +48,5 @@
   "salvages_into": {
     "arc_alloy": 1
   },
-  "last_updated": "Jan 23, 2026"
+  "last_updated": "Jan 24, 2026"
 }

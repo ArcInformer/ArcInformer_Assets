@@ -28,12 +28,5 @@
   "salvages_into": {
     "arc_alloy": 4
   },
-  "last_updated": "Jan 23, 2026",
-  "craft_bench": [
-    "bench_equipment"
-  ],
-  "damageMitigation": 65,
-  "durability": 140,
-  "movementSpeedModifier": -15,
-  "shieldCharge": 120
+  "last_updated": "Jan 24, 2026"
 }

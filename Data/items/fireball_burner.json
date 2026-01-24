@@ -18,10 +18,10 @@
   "salvages_into": {
     "arc_alloy": 1
   },
-  "last_updated": "Jan 23, 2026",
   "item_data": {
     "Damage": "5/s",
     "Duration": "10s",
     "Radius": "2m"
-  }
+  },
+  "last_updated": "Jan 24, 2026"
 }

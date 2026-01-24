@@ -25,9 +25,6 @@
     "Stamina": "",
     "Use Time": ""
   },
-  "recycles_into": {},
-  "salvages_into": {},
-  "last_updated": "Jan 23, 2026",
   "recycles_from": {
     "agave": 3,
     "apricot": 3,
@@ -41,5 +38,8 @@
     "prickly_pear": 3,
     "roots": 1,
     "sample_cleaner": 14
-  }
+  },
+  "recycles_into": {},
+  "salvages_into": {},
+  "last_updated": "Jan 24, 2026"
 }

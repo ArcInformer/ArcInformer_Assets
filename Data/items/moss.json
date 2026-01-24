@@ -13,6 +13,11 @@
   "found_in": "Nature",
   "sources": [],
   "crafts_into": [],
+  "item_data": {
+    "Duration": "10s",
+    "Healing": "1/s",
+    "Use Time": "1s"
+  },
   "crafting_requirements": {},
   "bench_requirements": {},
   "recycles_into": {
@@ -22,10 +27,5 @@
   "salvages_into": {
     "assorted_seeds": 2
   },
-  "last_updated": "Jan 23, 2026",
-  "item_data": {
-    "Duration": "10s",
-    "Healing": "1/s",
-    "Use Time": "1s"
-  }
+  "last_updated": "Jan 24, 2026"
 }

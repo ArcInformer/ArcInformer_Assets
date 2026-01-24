@@ -17,6 +17,11 @@
   "crafts_into": [
     "shield_recharger"
   ],
+  "item_data": {
+    "Duration": "10s",
+    "Recharge": "2/s",
+    "Use Time": "3s"
+  },
   "crafting_requirements": {},
   "bench_requirements": {},
   "recycles_into": {},
@@ -24,10 +29,5 @@
     "advanced_powercell": 1
   },
   "salvages_into": {},
-  "last_updated": "Jan 23, 2026",
-  "item_data": {
-    "Duration": "10s",
-    "Recharge": "2/s",
-    "Use Time": "3s"
-  }
+  "last_updated": "Jan 24, 2026"
 }

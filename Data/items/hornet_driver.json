@@ -18,11 +18,10 @@
   "salvages_into": {
     "electrical_components": 2
   },
-  "last_updated": "Jan 23, 2026",
   "item_data": {
     "ARC Stun Duration": "10s",
     "Radius": "6m",
     "Raider Stun Duration": "0.5s"
   },
-  "tip": "The Hornet Driver is a rare item is dropped by Hornets that can be recycled into crafting materials."
+  "last_updated": "Jan 24, 2026"
 }

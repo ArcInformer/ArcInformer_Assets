@@ -19,6 +19,7 @@
     "gas_grenade_trap",
     "muzzle_brake_i"
   ],
+  "item_data": {},
   "crafting_requirements": {},
   "bench_requirements": {},
   "recycles_into": {
@@ -28,6 +29,5 @@
   "salvages_into": {
     "rubber_parts": 1
   },
-  "last_updated": "Jan 23, 2026",
-  "tip": "Wires are an uncommon item used to craft weapon mods that can be recycled into crafting materials."
+  "last_updated": "Jan 24, 2026"
 }

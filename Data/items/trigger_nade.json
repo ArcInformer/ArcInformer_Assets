@@ -14,6 +14,7 @@
   ],
   "matching_blueprint": [],
   "sources": [],
+  "found_in": [],
   "item_data": {
     "Damage": 90,
     "Radius": "7.5m"
@@ -30,5 +31,5 @@
     "processor": 1
   },
   "repair_cost": {},
-  "last_updated": "Jan 23, 2026"
+  "last_updated": "Jan 24, 2026"
 }

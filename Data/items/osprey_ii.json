@@ -40,11 +40,5 @@
   "salvages_into": {
     "medium_gun_parts": 2
   },
-  "last_updated": "Jan 23, 2026",
-  "agility": 45.9,
-  "damage": 45,
-  "fireRate": 17.7,
-  "range": 80.3,
-  "stability": 89.4,
-  "stealth": 12
+  "last_updated": "Jan 24, 2026"
 }

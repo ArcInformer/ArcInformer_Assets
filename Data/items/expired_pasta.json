@@ -11,9 +11,10 @@
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/expired_pasta.png",
   "found_in": "Commercial, Residential",
   "sources": [],
-  "last_updated": "Jan 23, 2026",
   "item_data": {
     "Healing": 15,
     "Use Time": "1s"
-  }
+  },
+  "recycles_into": {},
+  "last_updated": "Jan 24, 2026"
 }

@@ -14,13 +14,13 @@
     "Jupiter"
   ],
   "sources": [],
+  "craft_bench": [
+    "bench_work"
+  ],
   "crafting_requirements": {
     "advanced_arc_powercell": 1,
     "battery": 2
   },
-  "last_updated": "Jan 23, 2026",
-  "craftQuantity": 5,
-  "craft_bench": [
-    "bench_work"
-  ]
+  "craft_quantity": 5,
+  "last_updated": "Jan 24, 2026"
 }
