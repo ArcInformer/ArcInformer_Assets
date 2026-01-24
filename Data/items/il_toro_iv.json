@@ -26,7 +26,13 @@
     "Durability": "130/130",
     "Firing Mode": "Pump-Action",
     "Increased Fire Rate": "50%",
-    "Magazine Size": 8
+    "Magazine Size": 8,
+    "Agility": 61.1,
+    "Damage": 67.5,
+    "Fire Rate": 14.3,
+    "Range": 20,
+    "Stability": 80.6,
+    "Stealth": 18
   },
   "crafting_requirements": {},
   "bench_requirements": {},

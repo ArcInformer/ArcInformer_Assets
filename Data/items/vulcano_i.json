@@ -27,7 +27,13 @@
     "ARC Armor Penetration": "Weak",
     "Durability": "100/100",
     "Firing Mode": "Semi-Automatic",
-    "Magazine Size": 6
+    "Magazine Size": 6,
+    "Agility": 70.7,
+    "Damage": 58.5,
+    "Fire Rate": 8.3,
+    "Range": 22.1,
+    "Stability": 70.3,
+    "Stealth": 15
   },
   "crafting_requirements": {
     "exodus_modules": 1,

@@ -10,6 +10,9 @@
   "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/medium_shield.png",
   "ingame_image": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items_Ingame/medium_shield.png",
   "sources": [],
+  "craft_bench": [
+    "bench_equipment"
+  ],
   "item_data": {
     "Charge": 70,
     "Damage Reduction": "42.5%",

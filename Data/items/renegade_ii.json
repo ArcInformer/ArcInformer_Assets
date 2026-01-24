@@ -27,7 +27,13 @@
     "Firing Mode": "Lever-Action",
     "Increased Fire Rate": "25%",
     "Magazine Size": 8,
-    "Reduced Dispersion Recovery Time": "16.6%"
+    "Reduced Dispersion Recovery Time": "16.6%",
+    "Agility": 55.8,
+    "Damage": 35,
+    "Fire Rate": 21,
+    "Range": 68.8,
+    "Stability": 85.7,
+    "Stealth": 16
   },
   "crafting_requirements": {},
   "bench_requirements": {},

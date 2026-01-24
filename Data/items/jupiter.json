@@ -21,7 +21,13 @@
     "ARC Armor Penetration": "Very Strong",
     "Firing Mode": "Bolt-Action",
     "Magazine Size": 5,
-    "Special Trait": "Experimental"
+    "Special Trait": "Experimental",
+    "Agility": 39.2,
+    "Damage": 60,
+    "Fire Rate": 7.67,
+    "Range": 71.7,
+    "Stability": 73.5,
+    "Stealth": 5
   },
   "crafting_requirements": {
     "complex_gun_parts": 3,

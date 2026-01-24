@@ -25,7 +25,13 @@
     "ARC Armor Penetration": "Moderate",
     "Durability": "110/110",
     "Firing Mode": "Fully-Automatic",
-    "Magazine Size": 16
+    "Magazine Size": 16,
+    "Agility": 54.8,
+    "Damage": 9,
+    "Fire Rate": 33.3,
+    "Range": 56.2,
+    "Stability": 72.2,
+    "Stealth": 14
   },
   "crafting_requirements": {},
   "bench_requirements": {},

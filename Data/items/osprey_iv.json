@@ -28,7 +28,13 @@
     "Magazine Size": 8,
     "Reduced Bolt Action Time": "60%",
     "Reduced Reload Time": "37.5%",
-    "Special Trait": "Scoped"
+    "Special Trait": "Scoped",
+    "Agility": 45.9,
+    "Damage": 45,
+    "Fire Rate": 17.7,
+    "Range": 80.3,
+    "Stability": 89.4,
+    "Stealth": 12
   },
   "crafting_requirements": {},
   "bench_requirements": {},

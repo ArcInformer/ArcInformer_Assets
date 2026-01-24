@@ -20,7 +20,13 @@
     "Ammo Type": "Energy Clip",
     "ARC Armor Penetration": "Very Strong",
     "Firing Mode": "Fully-Automatic",
-    "Magazine Size": 50
+    "Magazine Size": 50,
+    "Agility": 44.6,
+    "Damage": 8,
+    "Fire Rate": 33.33,
+    "Range": null,
+    "Stability": 84.6,
+    "Stealth": null
   },
   "crafting_requirements": {
     "complex_gun_parts": 3,

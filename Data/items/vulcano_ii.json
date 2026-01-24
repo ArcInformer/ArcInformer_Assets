@@ -27,7 +27,13 @@
     "Firing Mode": "Semi-Automatic",
     "Increased Fire Rate": "10%",
     "Magazine Size": 6,
-    "Reduced Reload Time": "13%"
+    "Reduced Reload Time": "13%",
+    "Agility": 70.7,
+    "Damage": 58.5,
+    "Fire Rate": 14.3,
+    "Range": 22.1,
+    "Stability": 70.3,
+    "Stealth": 15
   },
   "crafting_requirements": {},
   "bench_requirements": {},
