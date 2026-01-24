@@ -11,7 +11,9 @@
     "ingame_image":"",
     "found_in":[],
     "sources":[],
+    "craft_bench":[],
     "item_data":{},
     "crafting_requirements":{},
+    "recycles_into":{},
     "last_updated":""
 }
