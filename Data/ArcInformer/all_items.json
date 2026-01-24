@@ -665,14 +665,14 @@
     "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/coffee_pot.png"
   },
   {
-    "id": "combat_mk1",
+    "id": "combat_mk_1",
     "name": "Combat Mk. 1",
     "type": "Augment",
     "rarity": "Uncommon",
     "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/combat_mk_1.png"
   },
   {
-    "id": "combat_mk2",
+    "id": "combat_mk_2",
     "name": "Combat Mk. 2",
     "type": "Augment",
     "rarity": "Rare",
@@ -3031,14 +3031,14 @@
     "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/syringe.png"
   },
   {
-    "id": "tactical_mk1",
+    "id": "tactical_mk_1",
     "name": "Tactical Mk. 1",
     "type": "Augment",
     "rarity": "Uncommon",
     "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk_1.png"
   },
   {
-    "id": "tactical_mk2",
+    "id": "tactical_mk_2",
     "name": "Tactical Mk. 2",
     "type": "Augment",
     "rarity": "Rare",

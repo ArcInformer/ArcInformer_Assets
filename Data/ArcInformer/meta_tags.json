@@ -817,14 +817,14 @@
     "combat mk. 3 (flanking) blueprint",
     "legendary"
   ],
-  "combat_mk1": [
+  "combat_mk_1": [
     "arc raiders",
     "arcraiders",
     "augment",
     "combat mk. 1",
     "uncommon"
   ],
-  "combat_mk2": [
+  "combat_mk_2": [
     "arc raiders",
     "arcraiders",
     "augment",
@@ -3183,14 +3183,14 @@
     "legendary",
     "tactical mk. 3 (healing) blueprint"
   ],
-  "tactical_mk1": [
+  "tactical_mk_1": [
     "arc raiders",
     "arcraiders",
     "augment",
     "tactical mk. 1",
     "uncommon"
   ],
-  "tactical_mk2": [
+  "tactical_mk_2": [
     "arc raiders",
     "arcraiders",
     "augment",
