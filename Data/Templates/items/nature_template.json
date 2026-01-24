@@ -12,6 +12,7 @@
     "found_in":[],
     "sources":[],
     "item_data":{},
+    "recycles_from":{},
     "recycles_into":{},
     "salvages_into":{},
     "last_updated":""
