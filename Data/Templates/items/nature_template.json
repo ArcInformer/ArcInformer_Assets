@@ -11,10 +11,7 @@
     "ingame_image":"",
     "found_in":[],
     "sources":[],
-    "item_data":{
-        "Stamina":"",
-        "Use Time":""
-    },
+    "item_data":{},
     "recycles_into":{},
     "salvages_into":{},
     "last_updated":""
