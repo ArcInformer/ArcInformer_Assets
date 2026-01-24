@@ -13,5 +13,6 @@
     "sources":[],
     "craft_bench":[],
     "crafting_requirements":{},
+    "craft_quantity":"",
     "last_updated":""
 }
