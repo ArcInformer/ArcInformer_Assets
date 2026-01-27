@@ -1,0 +1,28 @@
+{
+    "id":"",
+    "name":"",
+    "description":"",
+    "type":"",
+    "rarity":"",
+    "value": 0,
+    "weight": 0,
+    "stack_size": 0,
+    "image_location":"",
+    "ingame_image":"",
+    "craft_bench":[],
+    "compatible_with":[],
+    "sources":[],
+    "item_data":{
+        "Backpack Slots":"",
+        "Weight Limit":"",
+        "Weapon Slots":"",
+        "Quick-Use Slots":"",
+        "Safe Pocket Slots":"",
+        "Utility Slots":""
+    },
+    "crafting_requirements":{},
+    "repair_cost":{},
+    "recycles_into":{},
+    "salvages_into":{},
+    "last_updated":""
+}
