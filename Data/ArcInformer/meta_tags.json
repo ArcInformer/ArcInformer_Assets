@@ -1986,6 +1986,13 @@
     "epic",
     "looting mk. 3 (cautious)"
   ],
+  "looting_mk3_safekeeper": [
+    "arc raiders",
+    "arcraiders",
+    "augment",
+    "epic",
+    "looting mk. 3 (safekeeper)"
+  ],
   "looting_mk3_survivor": [
     "arc raiders",
     "arcraiders",
@@ -3182,6 +3189,13 @@
     "blueprint",
     "legendary",
     "tactical mk. 3 (healing) blueprint"
+  ],
+  "tactical_mk3_revival": [
+    "arc raiders",
+    "arcraiders",
+    "augment",
+    "epic",
+    "tactical mk. 3 (revival)"
   ],
   "tactical_mk_1": [
     "arc raiders",

@@ -1862,6 +1862,13 @@
     "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/looting_mk3_cautious.png"
   },
   {
+    "id": "looting_mk3_safekeeper",
+    "name": "Looting Mk. 3 (Safekeeper)",
+    "type": "Augment",
+    "rarity": "Epic",
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/looting_mk3_safekeeper.png"
+  },
+  {
     "id": "looting_mk3_survivor",
     "name": "Looting Mk. 3 (Survivor)",
     "type": "Augment",
@@ -3071,6 +3078,13 @@
     "type": "Blueprint",
     "rarity": "Legendary",
     "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk3_healing_blueprint.png"
+  },
+  {
+    "id": "tactical_mk3_revival",
+    "name": "Tactical Mk. 3 (Revival)",
+    "type": "Augment",
+    "rarity": "Epic",
+    "image_location": "https://raw.githubusercontent.com/ArcInformer/ArcInformer_Assets/refs/heads/main/Game%20Assets/Items/tactical_mk3_revival.png"
   },
   {
     "id": "tagging_grenade",
